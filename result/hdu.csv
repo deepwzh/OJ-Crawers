@@ -1,0 +1,5063 @@
+OJ,Problem Number,Problem Title,AC Users,Try Users,AC Submission,All Submission
+HDU,1099,Lottery ,1525,,1776,3935
+HDU,1098,Ignatius's puzzle,5974,,7242,10296
+HDU,1088,Write a simple HTML Browser,2319,,3631,12493
+HDU,1097,A hard puzzle,12694,,16522,45024
+HDU,1095,A+B for Input-Output Practice (VII),38241,,49415,74335
+HDU,1096,A+B for Input-Output Practice (VIII),36366,,48951,161813
+HDU,1094,A+B for Input-Output Practice (VI),38823,,50113,74702
+HDU,1093,A+B for Input-Output Practice (V),40492,,53342,79674
+HDU,1092,A+B for Input-Output Practice (IV),42731,,56926,107482
+HDU,1091,A+B for Input-Output Practice (III),46066,,61454,116257
+HDU,1090,A+B for Input-Output Practice (II),48798,,67146,104553
+HDU,1089,A+B for Input-Output Practice (I),52722,,75327,139791
+HDU,1080,Human Gene Functions,1570,,2278,3995
+HDU,1082,Matrix Chain Multiplication,1002,,1246,1937
+HDU,1079,Calendar Game,1817,,2906,4768
+HDU,1083,Courses,2121,,4219,8650
+HDU,1078,FatMouse and Cheese,2369,,4746,11191
+HDU,1086,You can Solve a Geometry Problem too,3313,,5544,11227
+HDU,1084,What Is Your Grade?,2838,,3849,12004
+HDU,1077,Catching Fish,548,,882,2349
+HDU,1085,Holding Bin-Laden Captive!,5864,,10328,23186
+HDU,1081,To The Max,4006,,6453,13523
+HDU,1087,Super Jumping! Jumping! Jumping!,9646,,19103,41235
+HDU,1074,Doing Homework,2317,,4814,10048
+HDU,1075,What Are You Talking About,3874,,8282,24626
+HDU,1073,Online Judge,2146,,3203,8809
+HDU,1072,Nightmare,3286,,6021,12344
+HDU,1076,An Easy Task,11553,,15475,24053
+HDU,1071,The area,5986,,7905,11177
+HDU,1069,Monkey and Banana,4453,,8723,16386
+HDU,1067,Gap,393,,717,1344
+HDU,1068,Girls and Boys,3086,,5801,12296
+HDU,1070,Milk,4418,,6171,22858
+HDU,1066,Last non-zero Digit in N!,1580,,2072,8336
+HDU,1063,Exponentiation,2187,,2901,9983
+HDU,1065,I Think I Need a Houseboat,2974,,3873,13615
+HDU,1064,Financial Management,7393,,8418,13898
+HDU,1062,Text Reverse,8400,,12700,32061
+HDU,1060,Leftmost Digit,5250,,7317,18563
+HDU,1061,Rightmost Digit,13201,,22006,58064
+HDU,1059,Dividing,3745,,7832,27285
+HDU,1057,A New Growth Industry,709,,905,2170
+HDU,1055,Color a Tree,550,,888,2402
+HDU,1058,Humble Numbers,7401,,11969,27195
+HDU,1054,Strategic Game,2177,,4108,8526
+HDU,1053,Entropy,1821,,2814,6616
+HDU,1056,HangOver,4917,,6391,14456
+HDU,1052,Tian Ji -- The Horse Racing,5274,,9510,31236
+HDU,1050,Moving Tables,7059,,12178,37023
+HDU,1051,Wooden Sticks,5179,,9147,22646
+HDU,1047,Integer Inquiry,3788,,5552,20934
+HDU,1046,Gridland,2471,,2914,6264
+HDU,1049,Climbing Worm,10173,,13728,20074
+HDU,1044,Collect More Jewels,942,,1884,7877
+HDU,1048,The Hardest Problem Ever,9344,,12877,27423
+HDU,1045,Fire Net,4202,,7652,12640
+HDU,1043,Eight,2038,,6755,25380
+HDU,1041,Computer Transformation,2371,,3164,8418
+HDU,1038,Biker's Trip Odometer,3644,,4196,6171
+HDU,1036,Average is not Fast Enough!,2045,,2727,6471
+HDU,1035,Robot Motion,3671,,5346,11295
+HDU,1042,N!,14497,,24738,83902
+HDU,1039,Easier Done Than Said?,5158,,6819,14066
+HDU,1033,Edge,1976,,2420,3897
+HDU,1037,Keep on Truckin',8703,,10410,15122
+HDU,1040,As Easy As A+B,19173,,27541,63924
+HDU,1031,Design T-Shirt,3347,,4901,10258
+HDU,1032,The 3n + 1 problem,10502,,14742,40316
+HDU,1030,Delta-wave ,2655,,3789,9483
+HDU,1029,Ignatius and the Princess IV,8029,,15099,34618
+HDU,1027,Ignatius and the Princess II,3712,,5122,8705
+HDU,1028,Ignatius and the Princess III,9518,,15804,22628
+HDU,1026,Ignatius and the Princess I,3746,,6444,19787
+HDU,1025,Constructing Roads In JGShining's Kingdom,4134,,7527,26459
+HDU,1024,Max Sum Plus Plus,4913,,11120,31418
+HDU,1023,Train Problem II,3974,,5313,9919
+HDU,1022,Train Problem I,8422,,14748,39197
+HDU,1011,Starship Troopers,2742,,5362,20147
+HDU,1015,Safecracker,5343,,7979,15129
+HDU,1019,Least Common Multiple,12693,,20759,54433
+HDU,1017,A Mathematical Curiosity,10391,,13936,43281
+HDU,1020,Encoding,15024,,21040,47340
+HDU,1018,Big Number,14022,,18833,38785
+HDU,1014,Uniform Generator,8934,,11990,30056
+HDU,1016,Prime Ring Problem,12274,,23855,53910
+HDU,1021,Fibonacci Again,19995,,29257,62639
+HDU,1006,Tick and Tick,4129,,5160,19750
+HDU,1010,Tempter of the Bone,12866,,34878,129100
+HDU,1007,Quoit Design,6245,,14543,55081
+HDU,1013,Digital Roots,17874,,25249,80701
+HDU,1012,u Calculate e,17670,,21861,47525
+HDU,1009,FatMouse' Trade,15971,,27943,80763
+HDU,1008,Elevator,28886,,41066,74477
+HDU,1005,Number Sequence,27666,,44386,178578
+HDU,1004,Let the Balloon Rise,33205,,49907,126222
+HDU,1003,Max Sum,34556,,60630,255163
+HDU,1002,A + B Problem II,46974,,72415,371503
+HDU,1001,Sum Problem,88755,,123654,486948
+HDU,1000,A + B Problem,120589,,212121,681908
+HDU,1034,Candy Sharing Game,3197,,4151,6810
+HDU,1199,Color the Ball,785,,1503,6010
+HDU,1198,Farm Irrigation,2508,,4593,10451
+HDU,1183,"Not magic,but logic.",3,,3,246
+HDU,1195,Open the Lock,1703,,3112,6915
+HDU,1197,Specialized Four-Digit Numbers,4465,,5533,7517
+HDU,1182,Chessmen,67,,94,574
+HDU,1194,Beat the Spread!,3327,,3879,7334
+HDU,1196,Lowest Bit,7143,,9169,12549
+HDU,1181,变形课,4630,,9450,25865
+HDU,1180,诡异的楼梯,2195,,4081,15614
+HDU,1178,Heritage from father,1974,,2541,6823
+HDU,1179,Ollivanders: Makers of Fine Wands since 382 BC.,685,,1087,1900
+HDU,1177,"""Accepted today?""",1155,,1421,3086
+HDU,1173,采矿,1364,,2167,4489
+HDU,1174,爆头,885,,1232,2636
+HDU,1175,连连看,3516,,9274,37482
+HDU,1176,免费馅饼,7955,,18526,52808
+HDU,1172,猜数字,1994,,3245,5521
+HDU,1165,Eddy's research II,1376,,1844,4986
+HDU,1171,Big Event in HDU,6225,,15127,43959
+HDU,1170,Balloon Comes!,8286,,11768,31156
+HDU,1163,Eddy's digital Roots,3078,,3918,7126
+HDU,1164,Eddy's research I,4603,,6465,10454
+HDU,1162,Eddy's picture,3492,,5450,10787
+HDU,1160,FatMouse's Speed,3907,,7642,17257
+HDU,1161,Eddy's mistakes,5059,,6691,11778
+HDU,1166,敌兵布阵,12870,,41941,99006
+HDU,1156,Brownie Points II,102,,137,576
+HDU,1158,Employment Planning,1562,,2428,5595
+HDU,1157,Who's in the Middle,5294,,8585,19477
+HDU,1155,Bungee Jumping,386,,641,1435
+HDU,1159,Common Subsequence,9246,,19036,41216
+HDU,1154,Cutting a Polygon,185,,267,819
+HDU,1153,Magic Bitstrings ,230,,266,507
+HDU,1152,Brownie Points I,407,,480,753
+HDU,1149,Structural Equivalence,8,,8,249
+HDU,1150,Machine Schedule,2661,,4768,9478
+HDU,1151,Air Raid,2266,,3742,5558
+HDU,1148,Rock-Paper-Scissors Tournament,549,,760,2322
+HDU,1146,Ferry Loading III,110,,135,545
+HDU,1147,Pick-up sticks,792,,1282,3431
+HDU,1145,So you want to be a 2n-aire?,292,,336,477
+HDU,1144,Prerequisites?,623,,764,1360
+HDU,1143,Tri Tiling,1463,,2307,3985
+HDU,1142,A Walk Through the Forest,1856,,3324,9012
+HDU,1141,Factstone Benchmark,1052,,1300,2313
+HDU,1140,War on Weather,302,,386,660
+HDU,1133,Buy the Ticket,1889,,3030,7214
+HDU,1134,Game of Connections,1887,,2840,4895
+HDU,1131,Count the Trees  ,1040,,1469,2319
+HDU,1130,How Many Trees?,1609,,2257,3984
+HDU,1123,Complicated Expressions,76,,134,606
+HDU,1128,Self Numbers,2519,,3654,8342
+HDU,1129,Do the Untwist,751,,872,1393
+HDU,1124,Factorial,1999,,2796,4227
+HDU,1122,Direct Visibility,8,,10,441
+HDU,1120,The Bulk,3,,5,372
+HDU,1121,Complete the Sequence,352,,472,741
+HDU,1117,Booklet Printing,372,,431,1049
+HDU,1119,Simple Algorithmetics,127,,176,1192
+HDU,1116,Play on Words,1731,,2990,8727
+HDU,1115,Lifting the Stone,2073,,3646,8572
+HDU,1113,Word Amalgamation,1494,,2225,4417
+HDU,1114,Piggy-Bank,6127,,13827,27346
+HDU,1111,Secret Code,225,,359,1351
+HDU,1112,The Proper Key,141,,192,599
+HDU,1110,Equipment Box,419,,709,2772
+HDU,1109,Run Away,255,,553,1314
+HDU,1107,武林,711,,1016,3652
+HDU,1105,The Wolves and the Sheep,20,,42,658
+HDU,1104,Remainder,664,,1087,4291
+HDU,1103,Flo's Restaurant,485,,639,2042
+HDU,1102,Constructing Roads,4929,,9401,24388
+HDU,1101,The Parallel Challenge Ballgame,26,,40,671
+HDU,1106,排序,11641,,18380,61921
+HDU,1100,Trees Made to Order,608,,838,1473
+HDU,1108,最小公倍数,23023,,32328,58137
+HDU,1298,T9,680,,1221,3209
+HDU,1299,Diophantus of Alexandria,776,,1409,3497
+HDU,1296,Polynomial Problem,341,,498,1225
+HDU,1295,Move Move Look,563,,669,1060
+HDU,1297,Children’s Queue,3066,,5119,15311
+HDU,1294,Rooted Trees Problem,230,,331,810
+HDU,1293,The Number of Paths,245,,322,802
+HDU,1292,"""下沙野骆驼""ACM夏令营",601,,727,1345
+HDU,1291,Closing Ceremony of Sunny Cup,45,,54,281
+HDU,1288,Hat's Tea,320,,437,1932
+HDU,1290,献给杭电五十周年校庆的礼物,4809,,6687,11816
+HDU,1289,Hat’s IEEE,203,,274,676
+HDU,1287,破译密码,2003,,2536,5438
+HDU,1286,找新朋友,3984,,7372,13809
+HDU,1283,最简单的计算机,3400,,4559,8100
+HDU,1282,回文数猜想,3558,,4588,7474
+HDU,1285,确定比赛名次,4893,,11522,28918
+HDU,1284,钱币兑换问题,3926,,6672,10978
+HDU,1281,棋盘游戏,1596,,3137,5305
+HDU,1278,漂亮面料的设计,168,,211,560
+HDU,1277,全文检索,390,,663,1889
+HDU,1279,验证角谷猜想,4193,,5255,10371
+HDU,1280,前m大的数,3605,,6728,19667
+HDU,1276,士兵队列训练问题,2181,,4114,9342
+HDU,1275,两车追及或相遇问题,368,,486,1495
+HDU,1273,漫步森林,1500,,1958,2926
+HDU,1274,展开字符串,832,,1365,2817
+HDU,1271,整数对,924,,1295,3550
+HDU,1272,小希的迷宫,6830,,17188,54688
+HDU,1270,小希的数表,327,,481,1476
+HDU,1268,积木堆砌的城堡,91,,126,598
+HDU,1267,下沙的沙子有几粒？,1697,,2412,4561
+HDU,1269,迷宫城堡,3027,,7753,17701
+HDU,1264,Counting Squares,749,,1084,2170
+HDU,1265,Floating Point Presentation,245,,324,687
+HDU,1266,Reverse Number,3028,,4578,10260
+HDU,1263,水果,1616,,3184,7908
+HDU,1262,寻找素数对,4512,,7152,14164
+HDU,1260,Tickets,1033,,2588,4954
+HDU,1261,字串数,936,,1275,4794
+HDU,1258,Sum It Up,1873,,3588,6826
+HDU,1259,ZJUTACM,1787,,2244,3965
+HDU,1255,覆盖的面积,1272,,3116,6182
+HDU,1254,推箱子,1375,,2593,8864
+HDU,1256,画8,2020,,2876,6511
+HDU,1257,最少拦截系统,7838,,17990,45657
+HDU,1253,胜利大逃亡,3942,,13743,39148
+HDU,1252,Hike on a Graph,234,,302,726
+HDU,1249,三角形,3946,,5368,8012
+HDU,1246,自共轭Ferrers图,428,,585,1231
+HDU,1250,Hat's Fibonacci,2451,,4005,11964
+HDU,1251,统计难题,6637,,15897,44338
+HDU,1245,Saving James Bond,392,,760,3566
+HDU,1243,反恐训练营,661,,1247,5019
+HDU,1247,Hat’s Words,2528,,5791,16232
+HDU,1248,寒冰王座,6095,,9478,18197
+HDU,1244,Max Sum Plus Plus Plus,613,,960,1910
+HDU,1242,Rescue,4877,,11361,32486
+HDU,1240,Asteroids!,2042,,3534,5554
+HDU,1239,Calling Extraterrestrial Intelligence Again,2033,,3136,5927
+HDU,1241,Oil Deposits,7292,,19590,33698
+HDU,1237,简单计算器,4217,,8130,22490
+HDU,1238,Substrings,2837,,5181,10821
+HDU,1236,排名,5563,,9005,24522
+HDU,1234,开门人和关门人,5930,,8717,16912
+HDU,1235,统计同成绩学生人数,9174,,12313,21734
+HDU,1230,火星A+B,2960,,4464,12998
+HDU,1227,Fast Food,895,,1365,3129
+HDU,1231,最大连续子序列,7886,,15665,34527
+HDU,1226,超级密码,763,,1452,4472
+HDU,1225,Football Score,757,,1114,3829
+HDU,1233,还是畅通工程,8788,,22484,49250
+HDU,1223,Order Count,304,,364,918
+HDU,1224,Free DIY Tour,1325,,2347,7162
+HDU,1228,A + B,7213,,10372,17248
+HDU,1229,还是A+B,8243,,10381,21372
+HDU,1232,畅通工程,13151,,30743,57457
+HDU,1221,Rectangle and Circle,637,,851,3242
+HDU,1220,Cube,1463,,1815,2256
+HDU,1222,Wolf and Rabbit,3020,,4574,8987
+HDU,1219,AC Me,5845,,8116,19226
+HDU,1218,Blurred Vision,471,,565,755
+HDU,1217,Arbitrage,2074,,3978,8626
+HDU,1216,Assistance Required,837,,1472,2735
+HDU,1215,七夕节,8392,,15233,47409
+HDU,1214,圆桌会议,2733,,3773,5386
+HDU,1211,RSA,1161,,1724,2428
+HDU,1212,Big Number,4272,,5828,8443
+HDU,1213,How Many Tables,7166,,16953,33889
+HDU,1210,Eddy's 洗牌问题,2670,,3226,4817
+HDU,1209,Clock,1351,,1952,6112
+HDU,1208,Pascal's Travels ,864,,1224,2579
+HDU,1207,汉诺塔II,2844,,4351,8766
+HDU,1206,劲乐团,3,,4,360
+HDU,1205,吃糖果,6666,,11958,41432
+HDU,1204,糖果大战,790,,1190,3362
+HDU,1203,I NEED A OFFER!,6083,,12235,29990
+HDU,1202,The calculation of GPA,5208,,7101,29809
+HDU,1200,To and Fro,3750,,4795,6970
+HDU,1201,18岁生日,7580,,10961,33725
+HDU,1397,Goldbach's Conjecture,1876,,2713,6942
+HDU,1399,Starship Hakodate-maru,355,,563,827
+HDU,1398,Square Coins,5151,,8873,12914
+HDU,1396,Counting Triangles,1136,,1528,3160
+HDU,1393,Weird Clock,1215,,1510,4052
+HDU,1395,2^x mod n = 1,3703,,5580,17822
+HDU,1394,Minimum Inversion Number,5107,,12826,21408
+HDU,1392,Surround the Trees,2252,,4615,11885
+HDU,1389,Markov Trains,1,,1,124
+HDU,1391,Number Steps,2724,,3477,5671
+HDU,1390,Binary Numbers,2700,,3536,5788
+HDU,1387,Team Queue,509,,1008,2907
+HDU,1388,Input,48,,65,194
+HDU,1386,Elevator Simulation,3,,3,194
+HDU,1384,Intervals,820,,1672,4414
+HDU,1385,Minimum Transport Cost,1579,,3188,11405
+HDU,1382,Ball Toss,42,,47,158
+HDU,1383,Company,1,,1,384
+HDU,1380,Nonstop Travel,36,,63,236
+HDU,1381,Crazy Search,629,,1083,2755
+HDU,1379,DNA Sorting,1151,,1658,3431
+HDU,1377,A Well-Formed Problem,17,,21,227
+HDU,1375,Chemical Reactions,15,,18,159
+HDU,1378,Formatting Text,25,,37,154
+HDU,1373,Channel Allocation,226,,407,940
+HDU,1376,Octal Fractions,198,,391,841
+HDU,1374,The Circumference of the Circle,590,,750,1006
+HDU,1369,Erdos Numbers,19,,21,192
+HDU,1370,Biorhythms,917,,1756,4465
+HDU,1372,Knight Moves,3740,,7068,12051
+HDU,1371,Clock,41,,45,270
+HDU,1368,University Entrance Examination,24,,33,295
+HDU,1366,The Willy Memorial Program,27,,41,175
+HDU,1367,Parallel Expectations,10,,13,210
+HDU,1365,Puzzle Out,16,,18,188
+HDU,1364,Illusive Chase,111,,158,350
+HDU,1363,Deformed Wheel,2,,2,211
+HDU,1362,The Bermuda Triangle,64,,85,210
+HDU,1361,Parencodings,449,,606,1007
+HDU,1360,Spell checker,80,,88,414
+HDU,1359,As the Crow Flies,5,,5,175
+HDU,1358,Period,1995,,4387,9169
+HDU,1357,Cave Exploration,2,,2,121
+HDU,1356,The Balance,130,,166,353
+HDU,1354,Choose Your Own Adventure,45,,53,232
+HDU,1355,The Peanuts,390,,498,824
+HDU,1353,Exact Change Only,115,,159,401
+HDU,1351,Leaky Cryptography,20,,21,157
+HDU,1352,I Conduit!,46,,56,468
+HDU,1350,Taxi Cab Scheme,402,,651,1268
+HDU,1349,Fold-up Patterns,1,,1,178
+HDU,1348,Wall,1087,,2083,7221
+HDU,1345,Doing Windows,21,,23,226
+HDU,1346,"Coconuts, Revisited",225,,286,699
+HDU,1347,Grandpa is Famous,315,,391,1035
+HDU,1343,Modular multiplication of polynomials,65,,95,347
+HDU,1344,Nonst,39,,40,280
+HDU,1342,Lotto,934,,1627,3408
+HDU,1341,Simple Computers,119,,214,487
+HDU,1339,A Simple Task,2595,,3003,5440
+HDU,1340,Cog-Wheels,0,,0,261
+HDU,1338,Game Prediction,523,,926,1631
+HDU,1337,The Drunk Jailer,1217,,1572,1995
+HDU,1334,Perfect Cubes,1348,,1722,3675
+HDU,1333,Smith Numbers,441,,713,2036
+HDU,1335,Basically Speaking,1134,,1463,3582
+HDU,1336,Word Index,210,,271,618
+HDU,1332,LC-Display,517,,650,1630
+HDU,1331,Function Run Fun,1487,,2253,4700
+HDU,1330,Deck,1053,,1280,2188
+HDU,1329,Hanoi Tower Troubles Again!,376,,663,1004
+HDU,1328,IBM Minus One,2861,,3378,6811
+HDU,1327,Definite Values,521,,654,1616
+HDU,1326,Box of Bricks,2714,,3508,8000
+HDU,1325,Is It A Tree?,2854,,5982,26173
+HDU,1324,Pseudo-Random Numbers,294,,373,840
+HDU,1322,Floppies,275,,316,607
+HDU,1323,Perfection,1602,,1911,3123
+HDU,1320,Inversion,321,,380,635
+HDU,1319,Prime Cuts,807,,1121,2528
+HDU,1321,Reverse Text,3207,,4414,8124
+HDU,1318,Palindromes,354,,476,1180
+HDU,1317,XYZZY,765,,1748,6048
+HDU,1316,How Many Fibs?,1765,,2648,6684
+HDU,1315,Basic,66,,104,546
+HDU,1314,Numerically Speaking,165,,194,804
+HDU,1313,Round and Round We Go,427,,516,1029
+HDU,1310,Team Rankings,78,,95,335
+HDU,1309,Loansome Car Buyer,77,,83,283
+HDU,1312,Red and Black,5727,,13120,21531
+HDU,1311,Relative Relatives,165,,258,607
+HDU,1308,What Day Is It?,374,,583,1363
+HDU,1307,N-Credible Mazes,207,,343,661
+HDU,1306,String Matching,501,,640,1203
+HDU,1303,Doubles,3105,,3818,5558
+HDU,1305,Immediate Decodability,1126,,1893,3627
+HDU,1304,A Contesting Decision,539,,594,845
+HDU,1302,The Snail,1655,,2204,3053
+HDU,1301,Jungle Roads,3229,,6124,8317
+HDU,1300,Pearls,843,,1398,2792
+HDU,1498,"50 years, 50 colors",927,,1541,2688
+HDU,1496,Equations,1676,,3617,8704
+HDU,1497,Simple Library Management System,354,,517,1806
+HDU,1495,非常可乐,2288,,6805,16814
+HDU,1493,QQpet exploratory park,299,,407,780
+HDU,1494,跑跑卡丁车,734,,1374,3797
+HDU,1492,The number of divisors(约数) about Humble Numbers,1393,,2112,4275
+HDU,1489,Wine trading in Gergovia,95,,144,341
+HDU,1490,Homogeneous squares,47,,94,234
+HDU,1491,Octorber 21st,2311,,3006,4894
+HDU,1488,Flavius Josephus Reloaded,48,,75,202
+HDU,1486,Dihedral groups,19,,20,151
+HDU,1487,Economic phone calls,25,,35,154
+HDU,1484,Basic wall maze,125,,175,458
+HDU,1485,Construct the wall maze,6,,8,129
+HDU,1483,Automatic Correction of Misspellings,55,,69,235
+HDU,1482,Counterfeit Dollar,252,,320,794
+HDU,1478,Parallel Deadlock,1,,1,88
+HDU,1480,钥匙计数之二,605,,708,1279
+HDU,1477,Metal Cutting,0,,0,117
+HDU,1479,Numbers That Count,100,,125,284
+HDU,1476,Scheduling Lectures,57,,75,248
+HDU,1472,There's Treasure Everywhere!,46,,52,157
+HDU,1474,Always On the Run,75,,90,189
+HDU,1470,Island of Logic,23,,24,125
+HDU,1469,Video Surveillance,86,,94,218
+HDU,1471,MBone,2,,2,92
+HDU,1475,Keeps Going and Going and ...,1,,1,83
+HDU,1468,Instant Complexity,58,,64,170
+HDU,1467,Triangles,113,,149,436
+HDU,1466,计算直线的交点数,3357,,4747,10360
+HDU,1464,Telephone Numbers,0,,0,148
+HDU,1465,不容易系列之一,6796,,9751,22428
+HDU,1463,Anniversaries,5,,5,203
+HDU,1460,Beggar My Neighbour,2,,2,149
+HDU,1462,Word Crosses,114,,131,414
+HDU,1461,Rotations and Reflections,89,,110,235
+HDU,1457,Counting Out,47,,62,200
+HDU,1458,Tax Avoidance,2,,6,319
+HDU,1456,Transportation,90,,131,354
+HDU,1459,Calendar,0,,0,163
+HDU,1455,Sticks,1299,,3372,11067
+HDU,1454,Pipe,102,,123,330
+HDU,1452,Happy 2004,881,,1404,1914
+HDU,1453,City hall,170,,197,370
+HDU,1450,Pollution,25,,33,200
+HDU,1449,Spiderman,40,,80,288
+HDU,1451,Area in Triangle,49,,66,238
+HDU,1448,The Treasure,15,,29,210
+HDU,1446,Paper Cut,1,,1,169
+HDU,1447,Fourier's Lines,49,,52,205
+HDU,1445,Ride to School,241,,377,791
+HDU,1444,Maya Calendar,251,,308,724
+HDU,1443,Joseph,1241,,1760,2965
+HDU,1442,Soundex Indexing,23,,25,161
+HDU,1441,A Logical Problem,2,,2,115
+HDU,1440,Department,2,,2,183
+HDU,1438,钥匙计数之一,600,,834,1837
+HDU,1439,Cipher,211,,318,679
+HDU,1435,Stable Match,217,,402,837
+HDU,1437,天气情况,306,,378,832
+HDU,1436,排列组合（二）,123,,207,1085
+HDU,1434,幸福列车,550,,904,2711
+HDU,1432,Lining Up,259,,481,1560
+HDU,1433,Simply Syntax ,182,,302,625
+HDU,1430,魔板,465,,826,3545
+HDU,1429,胜利大逃亡(续),1443,,3340,9226
+HDU,1427,速算24点,777,,1405,5427
+HDU,1428,漫步校园,779,,1431,4522
+HDU,1426,Sudoku Killer,1254,,2553,8326
+HDU,1425,sort,6767,,14440,51029
+HDU,1424,Increasing Sequences,55,,67,428
+HDU,1431,素数回文,2680,,4783,20141
+HDU,1422,重温世界杯,1469,,2485,7054
+HDU,1423,Greatest Common Increasing Subsequence,1370,,2668,8253
+HDU,1421,搬寝室,4557,,10092,29428
+HDU,1419,Dart-a-Mania,3,,3,238
+HDU,1420,Prepared for New Acmer,2534,,4194,10937
+HDU,1417,Gleaming the Cubes,84,,210,425
+HDU,1418,抱歉,1927,,2467,5407
+HDU,1415,Jugs,277,,393,1196
+HDU,1416,Gizilch ,57,,72,279
+HDU,1414,银河跳舞机大赛,2,,4,362
+HDU,1411,校庆神秘建筑,671,,861,2418
+HDU,1413,文件系统,252,,474,847
+HDU,1412,{A} + {B},5505,,9181,22226
+HDU,1409,Is It a Number,360,,423,1287
+HDU,1410,PK武林盟主,289,,421,1571
+HDU,1408,盐水的故事,3890,,5143,20176
+HDU,1407,测试你是否和LTC水平一样高,4727,,6450,19144
+HDU,1405,The Last Practice,1893,,2545,11157
+HDU,1406,完数,7856,,11265,29698
+HDU,1403,Longest Common Substring,877,,2426,6859
+HDU,1404,Digital Deletions,641,,1104,3036
+HDU,1401,Solitaire,663,,1424,4726
+HDU,1402,A * B Problem Plus,1887,,5490,22040
+HDU,1400,Mondriaan's Dream,437,,798,1255
+HDU,1599,find the mincost route,956,,2315,5767
+HDU,1598,find the most comfortable road,1485,,3348,7966
+HDU,1597,find the nth digit,2533,,4206,13679
+HDU,1595,find the longest of the shortest,652,,1365,3675
+HDU,1596,find the safest road,2125,,5071,14441
+HDU,1594,find the max,362,,457,883
+HDU,1590,Searching,64,,84,477
+HDU,1592,Half of and a Half,482,,570,1229
+HDU,1591,Encoded Love-letter,512,,672,1833
+HDU,1593,find a way to escape,712,,847,2164
+HDU,1589,Stars Couple,128,,217,1015
+HDU,1586,Sending,6,,6,136
+HDU,1584,蜘蛛牌,837,,1922,4471
+HDU,1588,Gauss Fibonacci,837,,1542,3555
+HDU,1587,Flowers,2379,,2897,4400
+HDU,1582,AC Again,145,,184,483
+HDU,1579,Function Run Fun,1127,,1596,3099
+HDU,1580,Always On the Run,65,,83,130
+HDU,1585,Auto Love-letter Maker,3,,4,82
+HDU,1577,WisKey的眼神,669,,1248,4269
+HDU,1578,Martian Mining,39,,60,154
+HDU,1576,A/B,2238,,5232,6601
+HDU,1574,RP问题,340,,475,1208
+HDU,1575,Tr A,2189,,4223,5619
+HDU,1573,X问题,1288,,2402,6878
+HDU,1572,下沙小面的(2),528,,1057,2410
+HDU,1571,下沙小面的(1),463,,563,1369
+HDU,1570,A C,3101,,3576,5502
+HDU,1569,方格取数(2),1080,,2152,6704
+HDU,1567,2006,150,,225,776
+HDU,1568,Fibonacci,1829,,2654,5597
+HDU,1566,奇怪的公式,105,,127,474
+HDU,1565,方格取数(1),1565,,3600,9484
+HDU,1562,Guess the number,2772,,3387,4567
+HDU,1564,Play a game,1550,,2515,3088
+HDU,1561,"The more, The Better",2006,,4976,8513
+HDU,1560,DNA sequence,500,,1449,2977
+HDU,1559,最大子矩阵,1547,,2728,5157
+HDU,1558,Segment set,1080,,1968,5106
+HDU,1557,权利指数,501,,920,1322
+HDU,1556,Color the ball,4405,,11339,23314
+HDU,1554,Pairs of integers,38,,44,207
+HDU,1555,How many days?,3751,,4965,8271
+HDU,1551,Cable master,840,,1923,5146
+HDU,1553,Library,0,,0,124
+HDU,1548,A strange lift,4148,,9862,27453
+HDU,1545,01-K Code,164,,219,750
+HDU,1544,Palindromes,597,,823,1679
+HDU,1546,Idiomatic Phrases Game,582,,1313,3858
+HDU,1543,Paint the Wall,241,,405,1167
+HDU,1541,Stars,2109,,4222,10566
+HDU,1542,Atlantis,2254,,5831,14112
+HDU,1547,Bubble Shooter,302,,509,1151
+HDU,1540,Tunnel Warfare,1396,,3836,9806
+HDU,1539,Shredding Company,162,,256,744
+HDU,1538,A Puzzle for Pirates,230,,430,1144
+HDU,1537,Rubik's Cube,71,,86,232
+HDU,1536,S-Nim,1767,,3517,8381
+HDU,1535,Invitation Cards,880,,2049,4504
+HDU,1534,Schedule Problem,474,,910,2007
+HDU,1532,Drainage Ditches,3354,,9098,19078
+HDU,1533,Going Home,1361,,3058,5775
+HDU,1531,King,489,,875,1879
+HDU,1530,Maximum Clique,702,,2439,4665
+HDU,1529,Cashier Employment,314,,591,1300
+HDU,1528,Card Game Cheater,725,,1126,2044
+HDU,1527,取石子游戏,2399,,4371,7828
+HDU,1526,A Plug for UNIX,196,,285,1086
+HDU,1525,Euclid's Game,993,,1817,3810
+HDU,1524,A Chess Game,619,,1039,2299
+HDU,1523,Decoding Morse Sequences,75,,108,263
+HDU,1522,Marriage is Stable,387,,672,1272
+HDU,1521,排列组合,1101,,1894,4421
+HDU,1519,Think Positive,59,,95,295
+HDU,1520,Anniversary party,2306,,5041,12448
+HDU,1518,Square,1879,,5154,16316
+HDU,1516,String Distance and Transform Process,166,,220,445
+HDU,1515,Anagrams by Stack,516,,1058,2268
+HDU,1517,A Multiplication Game,2141,,3544,6222
+HDU,1513,Palindrome,1082,,2122,6425
+HDU,1514,Free Candies,128,,227,355
+HDU,1512,Monkey King,1099,,2745,6399
+HDU,1509,Windows Message Queue,1454,,2977,7330
+HDU,1510,White Rectangles,424,,570,1167
+HDU,1508,Alphacode,310,,457,1367
+HDU,1507,Uncle Tom's Inherited Land*,801,,1577,3678
+HDU,1511,Increasing Sequences,105,,123,323
+HDU,1504,Disk Tree,132,,173,546
+HDU,1505,City Game,1767,,3280,7568
+HDU,1503,Advanced Fruits,1047,,1968,3773
+HDU,1506,Largest Rectangle in a Histogram,2788,,5848,19360
+HDU,1502,Regular Words,569,,903,2280
+HDU,1501,Zipper,1984,,3790,10536
+HDU,1500,Chopsticks,667,,1027,2145
+HDU,1583,DNA Assembly,99,,116,269
+HDU,1581,Number Game,30,,32,206
+HDU,1563,Find your present!,2348,,2856,4321
+HDU,1699,The comment in cpp,39,,44,368
+HDU,1697,Iron Chain,84,,105,336
+HDU,1694,Final Challenge,0,,0,66
+HDU,1696,Help the People Been Trapped,4,,31,146
+HDU,1693,Eat the Trees,1053,,2224,4402
+HDU,1695,GCD,1745,,4808,12681
+HDU,1698,Just a Hook,6363,,17160,35130
+HDU,1692,Destroy the Well of Life,306,,476,1159
+HDU,1691,Chinese Chess,121,,229,911
+HDU,1687,Lucky Light,111,,147,426
+HDU,1689,Alien’s Necklace,283,,522,1818
+HDU,1690,Bus System,1227,,2455,9029
+HDU,1688,Sightseeing,316,,562,1260
+HDU,1685,Booksort,135,,273,493
+HDU,1686,Oulipo,2319,,6200,15680
+HDU,1683,Colour sequence,174,,282,495
+HDU,1684,Projects,85,,106,260
+HDU,1680,Cheesy Chess,89,,129,372
+HDU,1681,Frobenius,140,,175,293
+HDU,1682,Mineshaft,2,,4,55
+HDU,1679,Moogle,60,,98,380
+HDU,1677,Nested Dolls,634,,1218,3907
+HDU,1676,Full Tank?,111,,150,358
+HDU,1678,Shopaholic,1335,,1790,3282
+HDU,1675,Circle of Debt,9,,12,81
+HDU,1674,Copying DNA,26,,40,170
+HDU,1672,Cuckoo Hashing,96,,139,248
+HDU,1673,Optimal Parking,1991,,2331,2783
+HDU,1671,Phone List,3311,,7338,21628
+HDU,1669,Jamie's Contact Groups ,165,,252,659
+HDU,1668,Islands and Bridges ,68,,95,315
+HDU,1667,The Rotation Game,323,,727,1744
+HDU,1666,The Floor Bricks,16,,18,99
+HDU,1664,Different Digits,243,,484,1649
+HDU,1665,That Nice Euler Circuit,91,,120,225
+HDU,1663,The Counting Problem,163,,219,545
+HDU,1662,Link and Pop -- the Block Game,20,,23,120
+HDU,1660,Peter's Calculator,0,,0,85
+HDU,1661,Amphiphilic Carbon Molecules ,65,,94,265
+HDU,1658,Triangle  ,0,,0,105
+HDU,1659,Spreadsheet,33,,44,119
+HDU,1656,Synchronous Design ,4,,4,79
+HDU,1651,Hearts  ,3,,4,109
+HDU,1650,Eeny Meeny,30,,45,110
+HDU,1649,City Navigation,4,,4,139
+HDU,1648,Keywords ,7,,8,107
+HDU,1647,Strategy,4,,4,64
+HDU,1646,Network Wars,1,,1,78
+HDU,1643,Xenosemantics,1,,1,62
+HDU,1644,Car Trialling,2,,2,81
+HDU,1642,The Sultan's Successors,10,,11,240
+HDU,1645,Calculator Language,6,,7,119
+HDU,1641,Stamps,15,,16,167
+HDU,1639,City Directions ,1,,1,91
+HDU,1640,String Computer,1,,1,112
+HDU,1638,Beggar My Neighbour  ,23,,33,123
+HDU,1637,Calendar,4,,4,144
+HDU,1636,Route Finding,4,,10,117
+HDU,1634,Forests,0,,0,89
+HDU,1635,Double Time ,36,,49,126
+HDU,1633,Orchard Trees,54,,101,434
+HDU,1630,Bumpy Objects,5,,5,133
+HDU,1632,Polygons,98,,191,486
+HDU,1631,Loglan-A Logical Language,21,,24,164
+HDU,1629,The Psychic Poker Player,34,,38,189
+HDU,1624,The Errant Physicist ,3,,3,93
+HDU,1628,Roman Roulette,130,,183,423
+HDU,1626,Software CRC,37,,39,166
+HDU,1627,Krypton Factor,140,,186,420
+HDU,1623,Searching Quickly,33,,44,217
+HDU,1622,Trees on the level,290,,507,1329
+HDU,1625,Numbering Paths,94,,113,298
+HDU,1621,Pipe Fitters,49,,57,155
+HDU,1620,Mutant Flatworld Explorers,31,,38,156
+HDU,1619,Unidirectional TSP,202,,338,654
+HDU,1617,Meta-Loopless Sorts,26,,29,237
+HDU,1615,Fermat vs. Pythagoras,61,,75,184
+HDU,1618,Climbing Trees,2,,3,152
+HDU,1613,Ecological Bin Packing ,65,,72,151
+HDU,1614,Stacking Boxes,51,,72,377
+HDU,1612,The Blocks Problem,53,,69,1055
+HDU,1611,I-Keyboard,33,,39,175
+HDU,1610,Hotline,5,,5,129
+HDU,1609,The Game of Master-Mind,20,,21,119
+HDU,1608,Centipede Collisions,17,,17,118
+HDU,1605,Gears on a Board,1,,1,96
+HDU,1607,Station Balance,19,,25,209
+HDU,1603,A Puzzling Problem,91,,158,425
+HDU,1606,"Excuses, Excuses!",156,,211,445
+HDU,1604,Letter Sequence Analysis,12,,14,86
+HDU,1616,SCUD Busters,64,,75,255
+HDU,1602,Mark-up,10,,11,171
+HDU,1600,DNA Translation,17,,18,212
+HDU,1601,Galactic Import,32,,41,183
+HDU,1799,循环多少次？,1403,,2050,5269
+HDU,1797,Match the string,211,,273,749
+HDU,1798,Tell me the area,617,,1016,3125
+HDU,1796,How many integers can you find,1138,,2730,9090
+HDU,1792,A New Change Problem,606,,955,1511
+HDU,1794,方格填数,170,,251,754
+HDU,1793,Minimal search cost,77,,167,403
+HDU,1790,10_1006 Problem F,0,,0,139
+HDU,1791,Where is the little Jgshining?,89,,115,262
+HDU,1789,Doing Homework again,3957,,8757,14993
+HDU,1787,GCD Again,1006,,1669,3762
+HDU,1788,Chinese remainder theorem again,840,,1378,3192
+HDU,1786,Tempter of the Bone again,118,,203,562
+HDU,1761,Spring-outing Decision(2),75,,86,311
+HDU,1760,A New Tetris Game,462,,792,1600
+HDU,1785,You Are All Excellent,1342,,2005,5874
+HDU,1759,Matrix Revolution,61,,77,343
+HDU,1758,Two Brothers,31,,52,595
+HDU,1795,The least one,186,,327,801
+HDU,1755,A Number Puzzle,316,,489,1465
+HDU,1756,Cupid's Arrow,433,,851,2357
+HDU,1757,A Simple Math Problem,1606,,3209,5276
+HDU,1753,大明A+B,3328,,4882,13315
+HDU,1736,美观化文字,710,,978,4454
+HDU,1754,I Hate It,9675,,31883,82958
+HDU,1735,字数统计,419,,683,2452
+HDU,1733,Escape,211,,447,1491
+HDU,1734,Power Word,1,,1,129
+HDU,1730,Northcott Game,1192,,1813,4016
+HDU,1732,Push Box,325,,574,1467
+HDU,1726,God’s cutter,134,,169,322
+HDU,1728,逃离迷宫,3047,,7202,29251
+HDU,1731,Bob and Alice’s Meet,10,,20,215
+HDU,1729,Stone Game,717,,1152,3551
+HDU,1727,Hastiness,548,,666,1682
+HDU,1725,Find minimal sum,502,,577,831
+HDU,1724,Ellipse,565,,963,2219
+HDU,1723,Distribute Message,705,,1062,2126
+HDU,1721,Bother,417,,481,605
+HDU,1722,Cake,1656,,2541,5063
+HDU,1719,Friend,1078,,1453,2798
+HDU,1718,Rank,1896,,2297,5762
+HDU,1720,A+B Coming,5190,,6351,9712
+HDU,1717,小数化分数2,1457,,2191,5380
+HDU,1716,排列2,2059,,3343,9017
+HDU,1714,RedField,268,,421,1133
+HDU,1713,相遇周期,1232,,1925,3756
+HDU,1707,Spring-outing Decision,201,,314,892
+HDU,1711,Number Sequence,4742,,12656,30001
+HDU,1712,ACboy needs your help,2034,,4186,7568
+HDU,1704,Rank,451,,687,1745
+HDU,1710,Binary Tree Traversals,1726,,3910,8665
+HDU,1706,The diameter of graph,49,,93,396
+HDU,1702,ACboy needs your help again!,2050,,4355,8663
+HDU,1703,PBD,352,,416,1080
+HDU,1705,Count the grid,146,,184,471
+HDU,1701,ACMer,1849,,2451,5145
+HDU,1700,Points on Cycle ,602,,956,2474
+HDU,1715,大菲波数,4408,,6887,20411
+HDU,1709,The Balance,1878,,3497,8332
+HDU,1708,Fibonacci String,1489,,2254,6540
+HDU,1899,Sum the K-th's,31,,52,241
+HDU,1897,SnowWolf's Wine Shop,100,,154,429
+HDU,1898,Sempr == The Best Problem Solver?,1192,,1350,2055
+HDU,1896,Stones,945,,2021,3103
+HDU,1894,String Compare,523,,858,3418
+HDU,1891,Tough Water Level,3,,3,80
+HDU,1892,See you~,850,,1872,5906
+HDU,1893,Sibonacci Numbers,246,,340,986
+HDU,1895,Sum Zero,152,,310,1043
+HDU,1890,Robotic Sort,758,,2011,4458
+HDU,1888,Rectangular Polygons,69,,108,268
+HDU,1889,Reaux! Sham! Beaux! ,123,,162,548
+HDU,1887,Weird Numbers,123,,165,519
+HDU,1886,Gates of Logic,25,,52,393
+HDU,1885,Key Task,516,,1027,2324
+HDU,1884,Hexagonal Parcels,36,,53,154
+HDU,1882,Strange Billboard,228,,407,945
+HDU,1883,Phone Cell,105,,236,688
+HDU,1881,毕业bg,1066,,2195,5833
+HDU,1880,魔咒词典,1694,,3505,14595
+HDU,1878,欧拉回路,3097,,5972,15622
+HDU,1876,机器人系列2,211,,291,1251
+HDU,1879,继续畅通工程,4868,,11098,26213
+HDU,1877,又一版 A+B,5012,,6809,17330
+HDU,1875,畅通工程再续,4159,,10169,31093
+HDU,1873,看病要排队,2206,,4534,10748
+HDU,1872,稳定排序,1484,,2380,6445
+HDU,1874,畅通工程续,7593,,21571,57435
+HDU,1869,六度分离,1817,,4175,10362
+HDU,1871,无题,1333,,1813,4245
+HDU,1868,Consecutive sum,586,,745,1605
+HDU,1865,1sting,1508,,2424,6245
+HDU,1867,A + B for you again,990,,2012,7992
+HDU,1866,A + B forever!,234,,316,1254
+HDU,1864,最大报销额,3939,,8292,27018
+HDU,1863,畅通工程,6137,,14236,32247
+HDU,1862,EXCEL排序,3280,,7492,20499
+HDU,1861,游船出租,2031,,3038,8812
+HDU,1858,Max Partial Value I,273,,387,981
+HDU,1860,统计字符,5451,,7279,11653
+HDU,1870,愚人节的礼物,3633,,6464,10861
+HDU,1857,Word Puzzle,125,,217,850
+HDU,1859,最小长方形,4202,,5544,10275
+HDU,1855,Expressions,13,,16,148
+HDU,1856,More is better,4099,,10548,29681
+HDU,1853,Cyclic Tour,721,,1489,2881
+HDU,1852,Beijing 2008,232,,400,923
+HDU,1854,Q-Sequence,263,,335,678
+HDU,1851,A Simple Game,746,,1009,1591
+HDU,1849,Rabbit and Grass,1896,,3209,4226
+HDU,1850,Being a Good Boy in Spring Festival,2797,,4833,7879
+HDU,1848,Fibonacci again and again,2058,,3984,9484
+HDU,1845,Jimmy’s Assignment,367,,765,1821
+HDU,1847,Good Luck in CET-4 Everybody!,3700,,7011,10787
+HDU,1844,Intermediate Rounds for Multicasting,8,,11,110
+HDU,1846,Brave Game,4828,,8497,12520
+HDU,1842,Gorilla.bas,20,,32,360
+HDU,1843,Horizontal and Vertical Rays,74,,110,331
+HDU,1840,Equations,531,,772,1639
+HDU,1841,Find the Shortest Common Superstring,341,,646,2349
+HDU,1839,Delay Constrained Maximum Capacity Path,325,,681,2004
+HDU,1837,Breweries,6,,14,261
+HDU,1838,Chessboard,157,,254,752
+HDU,1829,A Bug's Life ,2233,,5411,16911
+HDU,1836,Another Convex Polygon Problem,39,,54,368
+HDU,1827,Summer Holiday,915,,1800,4006
+HDU,1828,Picture ,1191,,2513,5248
+HDU,1826,Happy Birthday,33,,60,291
+HDU,1825,"Work, work",12,,33,319
+HDU,1822,Earn more money,57,,91,251
+HDU,1823,Luck and Love,806,,1824,7073
+HDU,1824,Let's go home,485,,903,2103
+HDU,1820,Little Bishops,66,,141,350
+HDU,1819,Bishops,21,,22,121
+HDU,1821,Get The Treasure,4,,5,90
+HDU,1818,"It's not a Bug, It's a Feature!",99,,150,262
+HDU,1815,Building roads,240,,492,1574
+HDU,1817,Necklace of Beads,188,,249,658
+HDU,1816,Get Luffy Out *,231,,426,978
+HDU,1814,Peaceful Commission,642,,1407,4215
+HDU,1813,Escape from Tetris,210,,388,1354
+HDU,1810,Rating of Tetris,122,,165,651
+HDU,1812,Count the Tetris,394,,756,2686
+HDU,1808,Halloween treats,202,,377,955
+HDU,1811,Rank of Tetris,1333,,2965,10363
+HDU,1807,Grocery store,10,,10,337
+HDU,1809,A New Tetris Game(2),242,,397,1076
+HDU,1806,Frequent values,392,,688,1807
+HDU,1804,Deli Deli,971,,1224,2239
+HDU,1805,Expressions,168,,225,553
+HDU,1803,Cylinder,173,,234,558
+HDU,1802,Black and white painting,285,,319,513
+HDU,1801,Annoying painting tool,269,,355,503
+HDU,1800,Flying to the Mars,3102,,6845,21207
+HDU,1999,不可摸数,2300,,3694,13906
+HDU,1997,汉诺塔VII,878,,1184,1796
+HDU,1998,奇数阶魔方,1821,,2662,4690
+HDU,1996,汉诺塔VI,1728,,2202,2983
+HDU,1995,汉诺塔V,2390,,3250,5264
+HDU,1992,Tiling a Grid With Dominoes,425,,544,702
+HDU,1993,Spatial Concepts Test,29,,43,149
+HDU,1994,利息计算,3311,,4445,6461
+HDU,1991,Model Rocket Height,17,,28,147
+HDU,1990,Monkey Vines,223,,254,498
+HDU,1988,Flipping Burned Pancakes,148,,191,566
+HDU,1986,Encoding,375,,483,1379
+HDU,1987,Decoding,235,,270,860
+HDU,1981,A Special Text Editor,209,,299,997
+HDU,1983,Kaitou Kid - The Phantom Thief (2),315,,558,1475
+HDU,1985,Conversions,1208,,1371,2369
+HDU,1982,Kaitou Kid - The Phantom Thief (1),1100,,1430,3201
+HDU,1984,Mispelling4,1491,,1694,2531
+HDU,1980,Game！just a game!,0,,0,99
+HDU,1978,How many ways,1631,,3397,5744
+HDU,1979,Fill the blanks,129,,176,422
+HDU,1977,Consecutive sum II,1323,,1590,3181
+HDU,1976,Software Version,2176,,2621,3795
+HDU,1974,Lineland's Airport,2,,2,48
+HDU,1975,Leonardo’s Notebook,76,,92,180
+HDU,1973,Prime Path,337,,487,780
+HDU,1972,Printer Queue,157,,192,410
+HDU,1971,The Bookcase,25,,33,116
+HDU,1970,Ticket to Ride,32,,36,125
+HDU,1968,The SetStack Computer,27,,45,281
+HDU,1969,Pie,1554,,4838,13556
+HDU,1967,Sudoku,24,,73,275
+HDU,1966,Minimax Triangulation,45,,47,84
+HDU,1964,Pipes,247,,478,961
+HDU,1965,SETI,31,,45,164
+HDU,1963,Investment,319,,586,1400
+HDU,1960,Taxi Cab Scheme,177,,217,349
+HDU,1962,Card Game Cheater,191,,226,342
+HDU,1959,Watchdog,35,,49,125
+HDU,1961,Pseudo-random Numbers,13,,14,153
+HDU,1958,Word Encoding,5,,5,61
+HDU,1957,A number game,19,,29,118
+HDU,1956,Sightseeing tour,140,,214,462
+HDU,1955,Prison rearrangement,40,,61,134
+HDU,1953,Who’s the boss?,17,,19,96
+HDU,1952,Gladiators,8,,8,62
+HDU,1951,Vase collection,51,,91,209
+HDU,1954,Subway tree systems,78,,116,304
+HDU,1949,Tourist,40,,61,171
+HDU,1950,Bridging signals,887,,1888,2998
+HDU,1946,Who owns the Amiga?,4,,4,92
+HDU,1947,Lazy Evaluation,2,,2,120
+HDU,1944,S-Nim,478,,649,1000
+HDU,1943,Ball bearings,62,,92,213
+HDU,1945,Sylvester construction,26,,27,102
+HDU,1942,Pizza delivery,23,,30,108
+HDU,1941,Justice League,68,,120,337
+HDU,1939,He is offside!,257,,402,659
+HDU,1940,ICPC Scoreboard,67,,104,443
+HDU,1938,Galou is back!,19,,25,163
+HDU,1937,Finding Seats,112,,205,685
+HDU,1935,Drop the Triples,12,,17,152
+HDU,1936,Emoticons :-),77,,109,324
+HDU,1934,Car Plates Competition,68,,105,461
+HDU,1932,Ambiguous Codes,9,,9,129
+HDU,1933,Ballroom Lights,2,,2,43
+HDU,1930,"And Now, a Remainder from Our Sponsor",272,,460,1032
+HDU,1931,Target Practice,8,,8,70
+HDU,1927,"Lemmings, Lemmings Everywhere. But Not For Long.",5,,6,54
+HDU,1929,A Puzzling Problem,9,,13,93
+HDU,1928,Once Around the Lock,13,,14,137
+HDU,1924,CIVIC DILL MIX,140,,174,329
+HDU,1925,A Foldy but a Goody,41,,51,123
+HDU,1926,Give Me an E,56,,77,200
+HDU,1923,Exploding CPU,41,,68,175
+HDU,1922,Subway planning,64,,95,174
+HDU,1919,Gallup,8,,9,98
+HDU,1918,Frogger,7,,8,98
+HDU,1920,Jackpot,83,,96,181
+HDU,1916,Hardware,44,,59,173
+HDU,1915,Arne Saknussemm,145,,179,653
+HDU,1912,Highway,85,,116,288
+HDU,1913,Computers,208,,293,715
+HDU,1914,The Stable Marriage Problem,319,,486,994
+HDU,1910,Loan Scheduling,64,,79,141
+HDU,1909,‘JBC’,24,,29,287
+HDU,1911,Showstopper,38,,57,174
+HDU,1908,Double Queue,373,,617,1253
+HDU,1907,John,1884,,2953,5116
+HDU,1906,Carpool(粗体部分为修正过的地方),4,,6,98
+HDU,1905,Pseudoprime numbers,683,,1434,3181
+HDU,1903,Exchange Rates,104,,163,381
+HDU,1904,Conformity,123,,200,486
+HDU,1902,The Dragon of Loowater,458,,636,1414
+HDU,1900,Gangs,9,,9,151
+HDU,1901,Smeech,92,,113,487
+HDU,2098,分拆素数和,12008,,17802,40490
+HDU,2099,整除的尾数,13850,,17872,41634
+HDU,2094,产生冠军,5122,,8289,18064
+HDU,2097,Sky数,11287,,14078,24745
+HDU,2095,find your present (2),7367,,9865,24848
+HDU,2096,小明A+B,17164,,21241,44799
+HDU,2093,考试排名,3714,,5472,15555
+HDU,2088,Box of Bricks,4972,,5901,18008
+HDU,2086,A1 = ?,4515,,5370,8697
+HDU,2087,剪花布条,8036,,13822,22110
+HDU,2089,不要62,8821,,17299,45880
+HDU,2091,空心三角形,9318,,12941,47346
+HDU,2092,整数解,9646,,12933,36688
+HDU,2082,找单词,3796,,5728,8163
+HDU,2085,核反应堆,6524,,8142,18047
+HDU,2090,算菜价,10709,,13356,26092
+HDU,2079,"选课时间(题目已修改,注意读题)",3130,,3993,5216
+HDU,2080,夹角有多大II,5267,,6265,11977
+HDU,2083,简易版之最短距离,7034,,9111,20115
+HDU,2078,复习时间,5454,,6552,8880
+HDU,2077,汉诺塔IV,4409,,5611,7857
+HDU,2084,数塔,14091,,27871,46947
+HDU,2081,手机短号,15017,,19366,31453
+HDU,2076,"夹角有多大(题目已修改,注意读题)",5442,,6835,17195
+HDU,2074,叠筐,4239,,5669,21569
+HDU,2073,无限的路,4518,,5442,10175
+HDU,2075,A|B?,13691,,16134,21285
+HDU,2072,单词数,8630,,13829,55313
+HDU,2069,Coin Change,4821,,7195,20439
+HDU,2068,RPG的错排,4049,,5620,13718
+HDU,2071,Max Num,12340,,14841,25842
+HDU,2067,小兔的棋盘,4217,,5660,11192
+HDU,2065,"""红色病毒""问题",2394,,3092,7464
+HDU,2066,一个人的旅行,5855,,13769,40565
+HDU,2070,Fibbonacci Number,9536,,11884,25766
+HDU,2063,过山车,5359,,10484,24056
+HDU,2062,Subset sequence,2255,,3025,6429
+HDU,2060,Snooker,4392,,5327,12430
+HDU,2061,"Treasure the new start, freshmen!",4549,,5713,18747
+HDU,2064,汉诺塔III,6332,,8823,18644
+HDU,2059,龟兔赛跑,4849,,7330,19852
+HDU,2058,The sum problem,6419,,8067,26841
+HDU,2056,Rectangles,6582,,8285,25414
+HDU,2057,A + B Again,9477,,12050,29590
+HDU,2054,A == B ?,12119,,17423,108992
+HDU,2053,Switch Game,9967,,11674,19024
+HDU,2055,An easy problem,14241,,16865,25671
+HDU,2052,Picture,13427,,15454,30884
+HDU,2051,Bitset,15000,,17999,24181
+HDU,2049,不容易系列之(4)——考新郎,11282,,14606,39557
+HDU,2048,神、上帝以及老天爷,13025,,17316,42139
+HDU,2050,折线分割平面,15116,,21572,31870
+HDU,2047,阿牛的EOF牛肉串,14006,,17800,37697
+HDU,2045,不容易系列之(3)—— LELE的RPG难题,15886,,22078,54750
+HDU,2046,骨牌铺方格,18012,,26458,54523
+HDU,2043,密码,18261,,23491,57827
+HDU,2044,一只小蜜蜂...,18416,,27968,77666
+HDU,2042,不容易系列之二,19942,,24202,30230
+HDU,2041,超级楼梯,20941,,31546,61492
+HDU,2040,亲和数,19877,,25063,41291
+HDU,2036,改革春风吹满地,14324,,18926,36609
+HDU,2037,今年暑假不AC,18268,,32840,60756
+HDU,2039,三角形,23662,,30357,91276
+HDU,2034,人见人爱A-B,17779,,23705,84555
+HDU,2035,人见人爱A^B,21200,,29886,44083
+HDU,2032,杨辉三角,22331,,29074,70131
+HDU,2031,进制转换,20323,,28293,51366
+HDU,2030,汉字统计,20432,,25855,47530
+HDU,2033,人见人爱A+B,25656,,31090,46874
+HDU,2029,Palindromes _easy version,20725,,25953,42599
+HDU,2028,Lowest Common Multiple Plus,19535,,26078,62541
+HDU,2027,统计元音,23549,,29253,73695
+HDU,2024,C语言合法标识符,21873,,28879,74351
+HDU,2026,首字母变大写,26252,,34068,61939
+HDU,2025,查找最大元素,24379,,31639,58901
+HDU,2023,求平均成绩,21878,,29741,129444
+HDU,2022,海选女主角,23404,,28565,64668
+HDU,2021,发工资咯：）,27402,,34436,63691
+HDU,2020,绝对值排序 ,29946,,39506,82863
+HDU,2019,数列有序!,29661,,38510,91385
+HDU,2018,母牛的故事,30556,,42758,85837
+HDU,2015,偶数求和,30681,,38282,90763
+HDU,2017,字符串统计,34906,,46105,83784
+HDU,2016,数据的交换输出,31563,,40079,106890
+HDU,2014,青年歌手大奖赛_评委会打分,35049,,44609,89373
+HDU,2013,蟠桃记,37167,,49283,66142
+HDU,2012,素数判定,35972,,50332,141924
+HDU,2011,多项式求和,36477,,46297,80669
+HDU,2010,水仙花数,41403,,56355,196404
+HDU,2009,求数列的和,40850,,51610,84746
+HDU,2008,数值统计,41319,,52880,108813
+HDU,2007,平方和与立方和,42124,,55552,174585
+HDU,2006,求奇数的乘积,45311,,59297,96494
+HDU,2005,第几天？,40463,,54874,152646
+HDU,2004,成绩转换,48926,,64680,147225
+HDU,2003,求绝对值,52142,,66293,134796
+HDU,2002,计算球体积,50952,,65181,162243
+HDU,2000,ASCII码排序,49572,,69936,172969
+HDU,2001,计算两点间的距离,54989,,75572,215509
+HDU,2198,How many elements you must throw out?,163,,193,535
+HDU,2199,Can you solve this equation?,3480,,9295,21146
+HDU,2195,Monotone SE Min,94,,123,323
+HDU,2197,本原串,310,,514,1492
+HDU,2196,Computer,1736,,3792,30752
+HDU,2194,Help the vendor and get some M ^_^,148,,165,384
+HDU,2193,AVL Tree,237,,299,618
+HDU,2192,MagicBuilding,843,,1144,2512
+HDU,2189,悼念512汶川大地震遇难同胞——来生一起走,1497,,1909,3765
+HDU,2190,悼念512汶川大地震遇难同胞——重建希望小学 ,3401,,5086,7616
+HDU,2191,悼念512汶川大地震遇难同胞——珍惜现在，感恩生活,5903,,13271,31607
+HDU,2188,悼念512汶川大地震遇难同胞——选拔志愿者,4597,,6557,10274
+HDU,2187,悼念512汶川大地震遇难同胞——老人是真饿了,4194,,6368,15023
+HDU,2184,汉诺塔VIII,242,,315,510
+HDU,2186,悼念512汶川大地震遇难同胞——一定要记住我爱你,6286,,7235,11843
+HDU,2185,Chess,131,,166,440
+HDU,2181,哈密顿绕行世界问题,1114,,3090,5131
+HDU,2183,奇数阶魔方(II),416,,466,721
+HDU,2180,时钟,355,,631,2192
+HDU,2182,Frog,299,,522,1106
+HDU,2179,pi,393,,466,937
+HDU,2178,猜数字,3497,,4754,6985
+HDU,2176,取(m堆)石子游戏,1196,,2170,3628
+HDU,2177,取(2堆)石子游戏,855,,1743,2855
+HDU,2175,汉诺塔IX,766,,1034,1676
+HDU,2174,Bridged Marble Rings,44,,108,317
+HDU,2172,Games R Us,15,,17,102
+HDU,2171," “Bubble Gum, Bubble Gum, in the dish, how many pieces do you wish?”",163,,178,470
+HDU,2173,Cover Up,28,,45,154
+HDU,2170,Frogger,22,,28,167
+HDU,2169, Geek Challenge [SKRZAT] (Base Minus Two),162,,178,423
+HDU,2168,Rubik's Cube,30,,35,149
+HDU,2167,Pebbles,515,,1069,1879
+HDU,2166,Palindromic Primes Category in Jeopardy!,17,,40,297
+HDU,2165,Missile Command,2,,2,148
+HDU,2164," Rock, Paper, or Scissors?",1648,,1920,2993
+HDU,2163,Palindromes,2143,,2466,4223
+HDU,2162,Add ‘em,2781,,3030,4228
+HDU,2161,Primes,3591,,5542,13381
+HDU,2159,FATE,3512,,7301,15473
+HDU,2158,最短区间版大家来找碴,267,,490,1267
+HDU,2160,母猪的故事,5372,,7205,11680
+HDU,2157,How many ways??,777,,1703,4331
+HDU,2156,分数矩阵,3582,,4547,7854
+HDU,2155,小黑的镇魂曲,170,,293,1434
+HDU,2154,跳舞毯,2116,,2779,6023
+HDU,2153,仙人球的残影,3065,,3936,8256
+HDU,2152,Fruit,1920,,3002,5168
+HDU,2150,Pipe,549,,904,2232
+HDU,2151,Worm,1943,,2818,4429
+HDU,2149,Public Sale,3201,,5238,8782
+HDU,2148,Score,3758,,4411,6877
+HDU,2146,The most binary substring,173,,306,1373
+HDU,2147,kiki's game,4177,,6933,11432
+HDU,2145,zz's Mysterious Present,252,,476,2059
+HDU,2144,Evolution,150,,266,892
+HDU,2143,box,1685,,2130,9627
+HDU,2142,disney,202,,302,1062
+HDU,2140,Michael Scofield's letter,2088,,2499,4421
+HDU,2141,Can you find it?,2817,,8012,32141
+HDU,2137,circumgyrate the string,1183,,1597,6329
+HDU,2139,Calculate the formula,2311,,3050,9593
+HDU,2138,How many prime numbers,4147,,6811,19838
+HDU,2135,Rolling table,1185,,1462,2996
+HDU,2136,Largest prime factor,2693,,4904,13882
+HDU,2134,Cuts the cake,2120,,2452,3845
+HDU,2133,What day is it,1251,,1823,6002
+HDU,2131,Probability,3057,,3844,7886
+HDU,2132,An easy problem,2653,,3913,14149
+HDU,2129,Give the rank,59,,78,467
+HDU,2130,Count the cuboids,176,,201,450
+HDU,2128,Tempter of the Bone II,290,,661,2403
+HDU,2127,Polish notation,52,,92,485
+HDU,2125,Local area network,184,,239,724
+HDU,2124,Repair the Wall,1421,,2372,4849
+HDU,2126,Buy the souvenirs,442,,963,2486
+HDU,2122,Ice_cream’s world III,453,,832,2348
+HDU,2123,An easy problem,4966,,5735,8299
+HDU,2121,Ice_cream’s world II,590,,1430,5628
+HDU,2120,Ice_cream's world I,681,,1043,1801
+HDU,2118,Mouse,155,,222,838
+HDU,2119,Matrix,821,,1430,3101
+HDU,2117,Just a Numble,1383,,1805,3590
+HDU,2116,Has the sum exceeded,762,,1082,4841
+HDU,2115,I Love This Game,2184,,2839,8225
+HDU,2113,Secret Number,4164,,4951,11617
+HDU,2112,HDU Today,2995,,7734,31780
+HDU,2111,Saving HDU,3455,,5975,13210
+HDU,2108,Shape of HDU,2490,,4104,8949
+HDU,2109,Fighting for HDU,4675,,6504,12738
+HDU,2106,decimal system,2501,,2969,5134
+HDU,2105,The Center of Gravity,3193,,3664,6309
+HDU,2107,Founding of HDU,6284,,7024,10440
+HDU,2104,hide handkerchief,2044,,2640,5633
+HDU,2102,A计划,2541,,6097,24303
+HDU,2103,Family planning,2327,,2994,11365
+HDU,2100,Lovekey,2202,,2872,8759
+HDU,2114,Calculate S(n),3247,,4339,12081
+HDU,2101,A + B Problem Too,11289,,13409,18053
+HDU,2110,Crisis of HDU,1158,,1781,5848
+HDU,2299,Largest Triangle,123,,162,297
+HDU,2298,Toxophily ,599,,1298,2354
+HDU,2296,Ring ,544,,1283,3876
+HDU,2297,Run ,190,,345,1099
+HDU,2294,Pendant ,313,,492,956
+HDU,2292,Minimum Heap ,108,,127,220
+HDU,2293,Name PK ,194,,276,552
+HDU,2295,Radar ,532,,1565,4075
+HDU,2291,"Five in a Row, Again ",119,,156,220
+HDU,2290,Find the Path,135,,232,707
+HDU,2284,"Solve the puzzle, Save the world!",150,,174,256
+HDU,2283,SLUMDOG MILLIONAIRE,25,,29,258
+HDU,2285,Switches,70,,101,535
+HDU,2287,Ghosts In The Robots,15,,15,134
+HDU,2288,Who will be the HDU-START tonight?,150,,186,620
+HDU,2289,Cup,1168,,2882,9311
+HDU,2286,God and Devil ,1,,1,158
+HDU,2282,Chocolate,254,,416,841
+HDU,2281,Square Number,128,,169,460
+HDU,2279,File Search Tool,75,,93,252
+HDU,2280,Tetris Comes Back,87,,130,338
+HDU,2278,Tidy up the idioms,4,,4,278
+HDU,2276,Kiki & Little Kiki 2,692,,1453,2748
+HDU,2277,Change the ball,223,,304,749
+HDU,2275,Kiki & Little Kiki 1,306,,451,1219
+HDU,2274,Magic WisKey,232,,347,617
+HDU,2271,The Biggest Convex Hall,24,,35,213
+HDU,2272,Minimize The Difference,412,,466,784
+HDU,2273,The buses,322,,366,711
+HDU,2270,How Many Friends Will Be Together With You,204,,249,484
+HDU,2269,Cross The River,95,,160,589
+HDU,2267,How Many People Can Survive,170,,221,408
+HDU,2268,How To Use The Car,272,,350,650
+HDU,2266,How Many Equations Can You Find,447,,804,1209
+HDU,2265,Encoding The Diary,872,,1031,1757
+HDU,2263,Balance,3,,3,115
+HDU,2264,The best riding route,6,,12,135
+HDU,2262,Where is the canteen,270,,626,1893
+HDU,2261,To go or not to go,13,,20,100
+HDU,2260,Difficulty control,9,,24,187
+HDU,2259,Continuous Same Game (2),59,,107,474
+HDU,2258,Continuous Same Game (1),154,,263,593
+HDU,2257,Bob's trouble,2,,3,50
+HDU,2254,奥运,397,,846,3288
+HDU,2255,奔小康赚大钱,1656,,4680,10543
+HDU,2256,Problem of Precision,624,,984,1602
+HDU,2252,The dress rehearsal of opening ceremony,0,,0,52
+HDU,2251,ShaDan’  Problem,2,,2,95
+HDU,2253,Longest Common Subsequence Again,41,,46,659
+HDU,2250,贪心的孩子,18,,28,317
+HDU,2249,最小费用狗,17,,25,143
+HDU,2247,考研路茫茫——劳逸结合,4,,5,1418
+HDU,2248,纷菲幻剑录 之 十年一剑,64,,355,698
+HDU,2245,考研路茫茫——复习进度,13,,23,246
+HDU,2246,考研路茫茫——考试大纲,99,,119,558
+HDU,2243,考研路茫茫——单词情结,784,,2004,5930
+HDU,2242,考研路茫茫——空调教室,440,,1084,3542
+HDU,2244,考研路茫茫——辅导班,25,,42,158
+HDU,2241,考研路茫茫——早起看书,145,,249,902
+HDU,2239,机器人的项链,64,,90,415
+HDU,2240,考研路茫茫——人到大四,23,,30,667
+HDU,2235,机器人的容器,46,,73,377
+HDU,2234,无题I,301,,718,1820
+HDU,2236,无题II,382,,833,1831
+HDU,2237,无题III,17,,22,152
+HDU,2233,机器人的旅行,111,,139,261
+HDU,2232,机器人的舞蹈,162,,217,422
+HDU,2231,I can do it better,0,,0,62
+HDU,2230,"This time, two, not one",0,,0,95
+HDU,2228,Same or not,34,,39,109
+HDU,2229,Water channels,27,,43,262
+HDU,2227,Find the nondecreasing subsequences,436,,800,2111
+HDU,2225,The nearest fraction,64,,148,719
+HDU,2226,Stars,1,,3,152
+HDU,2223,Visit relatives,9,,11,148
+HDU,2224,The shortest path,367,,776,1512
+HDU,2221,Weak Number Recognition,3,,9,96
+HDU,2220,Encode the tree,58,,63,167
+HDU,2219,God's Birthday,65,,82,358
+HDU,2222,Keywords Search,6261,,22670,67372
+HDU,2238,机器人的舞蹈II,56,,79,227
+HDU,2218,Don't be angry,259,,301,578
+HDU,2216,Game III,346,,566,1871
+HDU,2217,Visit,225,,384,1199
+HDU,2215,Maple trees,387,,666,2152
+HDU,2214,函数图像,79,,93,424
+HDU,2213,Save XX,115,,154,664
+HDU,2211,杀人游戏,663,,1375,4012
+HDU,2210,化学方程式,5,,5,301
+HDU,2212,DFS,3665,,5560,9094
+HDU,2209,翻纸牌游戏,747,,1429,3795
+HDU,2208,唉，可爱的小朋友,291,,431,1457
+HDU,2207,IP的计算（二）,306,,394,952
+HDU,2206,IP的计算,2002,,2912,13559
+HDU,2205,又见回文,162,,231,498
+HDU,2204,Eddy's爱好,508,,1250,2655
+HDU,2202,最大三角形,876,,1606,4395
+HDU,2203,亲和串,3984,,6841,15494
+HDU,2201,熊猫阿波的故事,4692,,5571,7358
+HDU,2200,Eddy's AC难题,2279,,2850,5982
+HDU,2399,GPA,1943,,2678,4572
+HDU,2397,Unique Words,65,,84,539
+HDU,2398,Savings Account,799,,918,1282
+HDU,2396,Dominoes,75,,109,464
+HDU,2395,Alarm Clock,197,,256,504
+HDU,2394,Johnny and the Quadratic Equation,38,,75,199
+HDU,2392,Robotic Invasion,21,,45,315
+HDU,2391,Filthy Rich,896,,1588,3575
+HDU,2393,Higher Math,1602,,1967,3721
+HDU,2390,Olympic Games,317,,429,927
+HDU,2389,Rain on your Parade,628,,1558,4742
+HDU,2387,Online Shopping,66,,72,231
+HDU,2388,Playground Hideout,118,,169,447
+HDU,2385,Stock,99,,167,363
+HDU,2383,Hiking,23,,30,118
+HDU,2381,Splitting the Loot,26,,42,211
+HDU,2386,Dart Challenge,165,,212,434
+HDU,2384,Ranking,79,,98,270
+HDU,2382,Pachinko,61,,87,195
+HDU,2379,Dice Password Security,58,,89,253
+HDU,2378,Cutting Banknotes,65,,89,192
+HDU,2377,Bus Pass,297,,474,1119
+HDU,2376,Average distance,195,,387,1074
+HDU,2375,Help Bob,94,,164,390
+HDU,2373,Forest,17,,26,130
+HDU,2374,A Game with Marbles,545,,680,1211
+HDU,2371,Decode the Strings,250,,326,971
+HDU,2372,El Dorado,225,,299,595
+HDU,2369,Broken Keyboard,279,,362,925
+HDU,2370,Convert Kilometers to Miles,363,,473,717
+HDU,2367,Herbert,37,,45,163
+HDU,2368,Alfredo's Pizza Restaurant,1059,,1571,2692
+HDU,2366,Space,23,,33,269
+HDU,2365,Settling Salesman Problem,6,,14,129
+HDU,2364,Escape,285,,490,1161
+HDU,2363,Cycling,264,,519,1522
+HDU,2361,Bonus Word,4,,7,59
+HDU,2362,Contest,34,,44,201
+HDU,2359,The Final Countdown,39,,42,172
+HDU,2358,Another Version of the Truth,25,,48,212
+HDU,2360,Word Ladder,46,,71,364
+HDU,2356,Rout 66,120,,137,478
+HDU,2357,Schottkey 7th Path,15,,16,111
+HDU,2355,The Sidewinder Sleeps Tonite,34,,38,161
+HDU,2354,Another Brick in the Wall,136,,172,417
+HDU,2353,The Screen Behind the Mirror,12,,18,89
+HDU,2352,Verdis Quo,723,,1018,1385
+HDU,2342,Walk,11,,11,132
+HDU,2351,One is an Interesting Number,105,,129,521
+HDU,2340,Obfuscation,65,,103,433
+HDU,2341,Tower Parking,51,,66,175
+HDU,2339,Summits,30,,96,201
+HDU,2337,Escape from Enemy Territory,96,,165,366
+HDU,2335,Containers,56,,65,174
+HDU,2333,Assemble,194,,312,835
+HDU,2332,Hypertheseus,9,,9,67
+HDU,2334,March of the Penguins,60,,75,174
+HDU,2331,Soccer Tournament,2,,2,153
+HDU,2327,Geometric Shapes,36,,42,82
+HDU,2329,"Money Money Money, Must Be Funny",6,,6,50
+HDU,2328,Corporate Identity,250,,730,1910
+HDU,2324,Catch the Bus!,5,,5,84
+HDU,2326,Roman Expressions,12,,12,89
+HDU,2323,Honeycomb Walk,102,,156,329
+HDU,2322,Random Walking,0,,0,129
+HDU,2320,Traveling Salesman,9,,12,87
+HDU,2321,Whac-a-Mole,21,,22,118
+HDU,2319,Card Trick,121,,173,346
+HDU,2318,Jezzball,5,,5,51
+HDU,2315,Shoot-out,6,,7,84
+HDU,2314,Dr. Podboq or: How We Became Asymmetric,3,,3,95
+HDU,2317,Nasty Hacks,2608,,3069,3968
+HDU,2316,Tour Guide,4,,4,53
+HDU,2312,Cliff Climbing,66,,105,228
+HDU,2311,Cut the Cake,18,,18,189
+HDU,2310,Analyzing Login/Logout Records,41,,49,195
+HDU,2309,ICPC Score Totalizer Software,1415,,1615,2344
+HDU,2307,Necklace Decomposition,28,,29,155
+HDU,2306,Kingdom,14,,30,189
+HDU,2308,Playground,94,,128,367
+HDU,2305,WorstWeather Ever,52,,130,344
+HDU,2304,Electrical Outlets,2351,,2764,3151
+HDU,2301,Funny Games,10,,13,212
+HDU,2300,Crashing Robots,213,,250,668
+HDU,2303,The Embarrassed Cryptographer,203,,347,1013
+HDU,2499,Rotate to root,34,,66,155
+HDU,2497,Pick up sticks,54,,89,340
+HDU,2498,Digits,126,,144,340
+HDU,2496,Moveable maze,4,,6,49
+HDU,2494,Elevator,54,,72,454
+HDU,2495,MC part deux,14,,20,64
+HDU,2493,Timer,91,,154,538
+HDU,2491,Priest John's Busiest Day,336,,579,1948
+HDU,2492,Ping pong,978,,2045,5479
+HDU,2490,Parade,231,,530,1148
+HDU,2489, Minimal Ratio Tree,710,,1461,4603
+HDU,2488,Tornado,40,,73,357
+HDU,2487,Ugly Windows,411,,708,1705
+HDU,2485,Destroying the bus stations,503,,1050,3153
+HDU,2484,Build the Tower,17,,41,115
+HDU,2486,A simple stone game,237,,400,676
+HDU,2483,Counting square,350,,549,1032
+HDU,2482,Transit search,218,,334,892
+HDU,2479,Kingdoms,3,,4,75
+HDU,2481,Toy,168,,377,710
+HDU,2478,Slides,248,,392,1103
+HDU,2480,Steal the Treasure,168,,249,843
+HDU,2474,Process scheduling,341,,564,1644
+HDU,2475,Box,355,,1045,3519
+HDU,2477,Crop circles,58,,87,470
+HDU,2476,String painter,849,,2239,4753
+HDU,2473,Junk-Mail Filter,1296,,3060,9657
+HDU,2472,Image Processing,2,,2,74
+HDU,2471,History of Languages,149,,228,708
+HDU,2469,Fire-Control System,210,,410,2269
+HDU,2470,Get-Together at Stockholm,252,,358,749
+HDU,2468,Experiment on a … “Cable”,45,,85,282
+HDU,2467,Déjà vu,81,,216,1135
+HDU,2465,Binary Integer,24,,40,139
+HDU,2464,A Pair of Graphs,330,,475,856
+HDU,2466,Cryptography Reloaded,120,,273,807
+HDU,2463,USTC campus network,158,,280,734
+HDU,2462,The Luckiest number,211,,524,1626
+HDU,2460,Network,250,,574,2051
+HDU,2461,Rectangles,357,,924,1756
+HDU,2459,Maximum repetition substring,192,,382,1428
+HDU,2457,DNA repair,681,,1463,2734
+HDU,2458,Kindergarten,445,,703,1321
+HDU,2455,Dividing Sea Area to Navigation-Triangle,0,,0,49
+HDU,2456,Constellations,92,,208,941
+HDU,2454,Degree Sequence of Graph G,630,,1164,2713
+HDU,2453,Carrying Out A Task,102,,153,637
+HDU,2452,Navy maneuvers,247,,370,931
+HDU,2450,Searching Treasure in Deep Sea,0,,0,47
+HDU,2451,Simple Addition Expression,460,,706,1767
+HDU,2449,Gauss Elimination,184,,367,1369
+HDU,2446,Shell Pyramid,698,,1451,4187
+HDU,2448,Mining Station on the Sea,524,,1021,3303
+HDU,2447,K-dimension number,151,,365,1523
+HDU,2445,Little White's Explore,0,,0,34
+HDU,2444,The Accomodation of Students,1337,,3185,7129
+HDU,2442,Bricks,129,,226,526
+HDU,2441,ACM(Array Complicated Manipulation),102,,147,610
+HDU,2439,The Mussels,171,,253,539
+HDU,2443,Counter Strike,171,,242,787
+HDU,2440,Watch out the Animal,143,,250,481
+HDU,2438,Turn the corner,731,,1439,3458
+HDU,2437,Jerboas,279,,524,1925
+HDU,2436,Collision Detection,259,,408,1312
+HDU,2435,There is a war,199,,367,1190
+HDU,2434,Let's play UNO,27,,33,218
+HDU,2432,Farey Sequence Again,109,,139,508
+HDU,2433,Travel,517,,1118,3258
+HDU,2430,Beans,219,,435,1446
+HDU,2431,Counting Problem,232,,304,559
+HDU,2428,Stars,408,,617,1788
+HDU,2429,Word Game,199,,296,1100
+HDU,2424,Gary's Calculator,209,,292,1201
+HDU,2425,Hiking Trip,509,,798,1732
+HDU,2426,Interesting Housing Problem,578,,1235,3471
+HDU,2427,Judges's Final Problem,3,,4,91
+HDU,2423,Find A Way,3,,34,254
+HDU,2422,Essay Scoring System,1,,1,75
+HDU,2421,Deciphering Password,345,,606,2174
+HDU,2420,Cube and Caterpillar,4,,5,127
+HDU,2418,Another Easy Problem,100,,150,847
+HDU,2417,Kadj Squares,54,,67,268
+HDU,2419,Boring Game,122,,270,1144
+HDU,2416,Treasure of the Chimp Island,159,,235,507
+HDU,2415,Bribing FIPA,176,,272,744
+HDU,2414,Chessboard Dance,108,,125,292
+HDU,2413,Against Mammoths,106,,200,598
+HDU,2412,Party at Hali-Bula,525,,933,2585
+HDU,2411,Calculating Taxi Fare,16,,22,191
+HDU,2410,Barbara Bennett's Wild Numbers,171,,241,523
+HDU,2408, String Equations,9,,31,200
+HDU,2407,Knots,203,,250,364
+HDU,2406,Doors and Penguins,32,,48,171
+HDU,2409,Team Arrangement,114,,155,419
+HDU,2404,Permutation Recovery,326,,395,601
+HDU,2405,Marbles in Three Baskets,62,,77,260
+HDU,2403,Human Knot,10,,15,71
+HDU,2401,Baskets of Gold Coins,1259,,1535,2535
+HDU,2402,Toothpick Arithmetic,82,,111,363
+HDU,2400,Bridge Bidding,21,,34,143
+HDU,2599,The Dreadful Seven,135,,181,446
+HDU,2598,Manipulating the Power Square,94,,110,276
+HDU,2596,Collecting Forest Wildlife,5,,7,94
+HDU,2597,Sorted Trail Map,67,,95,402
+HDU,2593,Pirates’ Code,89,,103,192
+HDU,2595,Crowded Forest Wildlife,3,,3,73
+HDU,2591,Distance,3,,6,80
+HDU,2594,Simpsons’ Hidden Talents,1405,,3501,10092
+HDU,2592,Candidate superkey,1,,1,91
+HDU,2590,Building roads,24,,24,155
+HDU,2589,正方形划分,163,,265,484
+HDU,2588,GCD,697,,1252,2436
+HDU,2586,How far away ？,2405,,6878,17744
+HDU,2587,很O_O的汉诺塔,85,,129,734
+HDU,2585,Hotel,203,,336,634
+HDU,2583,permutation,160,,184,313
+HDU,2582,f(n),261,,383,631
+HDU,2581,Bomb the Bridge,47,,59,212
+HDU,2584,Unversity Rankings,62,,87,230
+HDU,2580,a simple stone game,189,,254,358
+HDU,2579,Dating with girls(2),559,,1183,4003
+HDU,2578,Dating with girls(1),647,,1570,4895
+HDU,2576,Another Sum Problem,392,,624,2179
+HDU,2577,How to Type,1771,,3281,7237
+HDU,2574,Hdu Girls' Day,313,,621,1983
+HDU,2575,Count Problem,383,,517,882
+HDU,2573,Typing,535,,745,1211
+HDU,2571,命运,3437,,7110,20407
+HDU,2572,终曲,548,,707,2152
+HDU,2569,彼岸,2231,,2710,4645
+HDU,2568,前进,4658,,5905,7649
+HDU,2570,迷瘴,1781,,2958,8614
+HDU,2567,寻梦,4951,,6678,8931
+HDU,2565,放大的X,3557,,4658,14471
+HDU,2566,统计硬币,3817,,5593,8183
+HDU,2564,词组缩写,3754,,4949,15296
+HDU,2559,Garbage collecting station,0,,0,143
+HDU,2563,统计问题,3378,,5350,9034
+HDU,2560,Buildings,2666,,3276,3927
+HDU,2562,奇偶位互换,4950,,6036,8009
+HDU,2561,第二小整数,5271,,7181,11647
+HDU,2558,Cutting trees,0,,0,85
+HDU,2556,Simple Desk Calculator,34,,47,170
+HDU,2557,Jumping the Queue ,35,,46,218
+HDU,2555,人人都能参加第30届校田径运动会了,968,,1207,3384
+HDU,2554,N对数的排列问题,1143,,1431,1933
+HDU,2552,三足鼎立,1805,,2468,4294
+HDU,2551,竹青遍野,3042,,3746,6734
+HDU,2553,N皇后问题,4526,,11490,25849
+HDU,2550,百步穿杨,3253,,4153,11148
+HDU,2549,壮志难酬,3453,,4426,13281
+HDU,2548,两军交锋,3490,,4508,6827
+HDU,2547,无剑无我,3044,,3582,5653
+HDU,2543,飞镖,9,,13,211
+HDU,2545,树上战争,401,,675,1187
+HDU,2542,补兵,104,,142,575
+HDU,2546,饭卡,4862,,11432,33060
+HDU,2541,棒球防守,8,,9,101
+HDU,2540,遮挡判断,320,,441,1321
+HDU,2544,最短路,8932,,30809,70474
+HDU,2539,点球大战,1158,,1376,3405
+HDU,2538,确定排名,33,,35,202
+HDU,2536,Winner and loser,2,,2,65
+HDU,2537,8球胜负,2722,,3377,5728
+HDU,2535,Vote,2685,,3351,6332
+HDU,2533,Mine,19,,34,315
+HDU,2534,Score,524,,627,1352
+HDU,2531,Catch him,313,,499,1112
+HDU,2532,Engine,97,,181,814
+HDU,2530,Bitland,10,,14,92
+HDU,2529,Shot,683,,870,1471
+HDU,2528,Area,117,,181,540
+HDU,2527,Safe Or Unsafe,649,,1157,2826
+HDU,2523,SORT AGAIN,1581,,2021,6390
+HDU,2526,浪漫手机,499,,655,1475
+HDU,2525,Clone Wars,113,,145,565
+HDU,2522,A simple problem,1203,,1865,4958
+HDU,2521,反素数,3197,,4131,6892
+HDU,2524,矩形A + B,4536,,6046,7965
+HDU,2519,新生晚会,4177,,5121,14859
+HDU,2518,Dominoes,86,,103,206
+HDU,2517,棋盘分割,234,,314,637
+HDU,2516,取石子游戏,2202,,3594,5940
+HDU,2513,Cake slicing,107,,157,318
+HDU,2512,一卡通大冒险,1174,,1692,2496
+HDU,2514,Another Eight Puzzle,416,,699,1092
+HDU,2515,Yanghee 的算术,502,,648,927
+HDU,2511,汉诺塔 X,409,,673,1072
+HDU,2510,符号三角形,703,,1113,2204
+HDU,2509,Be the Winner,1442,,2199,3945
+HDU,2504,又见GCD,5827,,8468,20201
+HDU,2503,a/b + c/d,6198,,7970,15242
+HDU,2500,做一个正气的杭电人,8588,,10028,12682
+HDU,2501,Tiling_easy version,4973,,6638,8619
+HDU,2502,月之数,5206,,6388,10858
+HDU,2520,我是菜鸟，我怕谁,5310,,6588,11405
+HDU,2699,Five in a Row,131,,171,379
+HDU,2697,WOJ,79,,92,210
+HDU,2698,URL,115,,149,519
+HDU,2693,3D Camera ,8,,13,141
+HDU,2694,Cipher ,20,,21,65
+HDU,2695,Molecular Weight Calculator ,15,,20,161
+HDU,2696,Battle of Submarines,17,,21,118
+HDU,2692,Ball ,2,,2,61
+HDU,2690,Boys and girls,240,,315,1081
+HDU,2689,Sort it,2121,,3400,4884
+HDU,2691,2-Dimensional Rubik's Cube,66,,124,416
+HDU,2688,Rotate,339,,805,4366
+HDU,2685,I won't tell you this is about number theory,174,,214,610
+HDU,2687,Matrix Rotation,182,,248,528
+HDU,2686,Matrix,690,,1402,2639
+HDU,2684,Astar,8,,14,47
+HDU,2682,Tree,524,,939,3035
+HDU,2683,TCE-frep number system,61,,84,407
+HDU,2680,Choose the best route,2113,,4994,15428
+HDU,2681,MM Programming Club,86,,113,431
+HDU,2679,Bloxorz,81,,103,383
+HDU,2676,Circle,1,,1,144
+HDU,2677,Dota all stars,213,,326,1121
+HDU,2678,TimeLimit,39,,85,326
+HDU,2675,Equation Again,247,,595,1815
+HDU,2673,shǎ崽 OrOrOrOrz,2758,,4297,9045
+HDU,2674,N！Again,2069,,3020,5706
+HDU,2672,god is a girl,574,,710,1516
+HDU,2671,Can't be easier,299,,375,820
+HDU,2670,Girl Love Value,355,,520,901
+HDU,2669,Romantic,1455,,3131,7406
+HDU,2668,Daydream,374,,598,1939
+HDU,2666,Language,2,,2,102
+HDU,2667,SpaceStation,3,,7,58
+HDU,2665,Kth number,1571,,3782,12427
+HDU,2663,Tetrahedroid,24,,30,117
+HDU,2664,Harry Potter and His Magic Scroll,3,,3,99
+HDU,2662,Coin,467,,616,1191
+HDU,2661,BrokenLED,130,,205,514
+HDU,2659,Cheat,18,,19,119
+HDU,2660,Accepted Necklace,847,,1568,3937
+HDU,2658,Firebirds' Logic Nation,3,,4,53
+HDU,2657,Word Game,13,,14,65
+HDU,2656,Counting Game,63,,91,208
+HDU,2655,Counting Triangles,9,,11,191
+HDU,2654,Become A Hero,54,,68,256
+HDU,2652,Warching TV,118,,184,455
+HDU,2651,Spring festival couplets,95,,150,284
+HDU,2653,Waiting ten thousand years for Love,212,,370,1145
+HDU,2650,A math problem,87,,123,258
+HDU,2649, A symmetrical sequence,9,,17,82
+HDU,2648,Shopping,567,,1246,3363
+HDU,2647,  Reward,1425,,3161,9899
+HDU,2643,Rank,187,,313,618
+HDU,2646,Expression,48,,71,263
+HDU,2644,Escape,3,,3,68
+HDU,2645,find the nearest station ,179,,256,428
+HDU,2642,Stars,576,,858,2012
+HDU,2640,Toy bricks,113,,191,509
+HDU,2641,Level up,12,,12,108
+HDU,2639,Bone Collector II,1289,,2704,5125
+HDU,2638,Greed is good,51,,54,110
+HDU,2637,Easy Derivative ,406,,433,764
+HDU,2636,Installing Software,198,,206,413
+HDU,2634,Doing Physics Experiment,518,,563,1059
+HDU,2635,Linux Kernel Version,129,,135,375
+HDU,2630,Watch Channel[V],299,,327,582
+HDU,2633,Getting Driving License,66,,78,347
+HDU,2632,Samuel's NOKIA N73,260,,297,507
+HDU,2631,Lead A Healthy Life,198,,207,340
+HDU,2628,Samuel's Hope,288,,301,825
+HDU,2629,Identity Card,1227,,1643,4293
+HDU,2627,Life,357,,412,655
+HDU,2626,Samuel's Schedule,295,,375,907
+HDU,2625,Say love to you once again,31,,49,1020
+HDU,2624,Thanks for your love,7,,7,104
+HDU,2623,Tears of lonely star,9,,10,86
+HDU,2621,Cry，men，not crime,121,,163,922
+HDU,2622,Everyone is No.1,30,,33,85
+HDU,2619,Love you Ten thousand years,53,,58,147
+HDU,2620,Ice Rain,82,,113,254
+HDU,2618,If You are my legend,25,,34,107
+HDU,2615,Division,31,,75,233
+HDU,2616,Kill the monster,662,,1122,1644
+HDU,2613, Hero,3,,4,334
+HDU,2614,Beat,609,,1100,1845
+HDU,2612,Find a way,1792,,5489,17052
+HDU,2617,Happy 2009,789,,1098,3333
+HDU,2611,Sequence two,181,,292,780
+HDU,2610,Sequence one,217,,323,782
+HDU,2609,How many,574,,1360,3124
+HDU,2608,0 or 1,769,,1119,3895
+HDU,2607,Let the Balloon Rise II,69,,102,286
+HDU,2606,Renovation Problem,190,,227,692
+HDU,2605,Snake,14,,45,232
+HDU,2604,Queuing,1351,,2669,6128
+HDU,2603,Wiskey's Power,315,,408,872
+HDU,2600,War,738,,1167,3243
+HDU,2602,Bone Collector,10853,,27819,66651
+HDU,2601,An easy problem,1470,,2548,10091
+HDU,2798,Cai In,23,,36,244
+HDU,2796,Coin Piles,50,,75,177
+HDU,2799,Chess,5,,6,59
+HDU,2797,Doors And Preguins,10,,16,123
+HDU,2793,Sum of Tribonacci Numbers ,86,,127,341
+HDU,2794,Match,16,,27,141
+HDU,2792,Tree Insertions,29,,64,215
+HDU,2791,Government Help,68,,83,189
+HDU,2790,Safe Gambling,11,,15,75
+HDU,2795,Billboard,3992,,10070,24506
+HDU,2789,Wooden Fence,25,,31,144
+HDU,2788,Stock Exchange,83,,102,274
+HDU,2787,Careful Declaration,12,,14,164
+HDU,2784,Alea iacta est,4,,6,43
+HDU,2786,International Collegiate Programming Contest,9,,14,91
+HDU,2785,On-Line Banking,67,,97,379
+HDU,2783,You’ll be Working on the Railroad,44,,76,314
+HDU,2782,The Worm Turns,215,,419,1111
+HDU,2780,Su-Su-Sudoku,257,,338,737
+HDU,2781,Tanks a Lot,29,,50,230
+HDU,2779,Party Party Party,184,,256,702
+HDU,2778,LCR,59,,72,438
+HDU,2776,Bordering on Madness,3,,3,45
+HDU,2773,White Water Rafting,116,,196,402
+HDU,2775,Videopoker,32,,57,189
+HDU,2774,Shuffle,68,,113,329
+HDU,2771,Sculpture,58,,79,262
+HDU,2772,Matchsticks,223,,345,898
+HDU,2770,Easy Climb,76,,145,396
+HDU,2769,Disgruntled Judge,148,,225,467
+HDU,2768,Cat vs. Dog,545,,889,2288
+HDU,2767,Proving Equivalences,1195,,2625,7555
+HDU,2766,Equilibrium Mobile,118,,198,743
+HDU,2765,Recursively Palindromic Partitions,103,,114,217
+HDU,2764,Joe’s Triangular Gardens,4,,4,50
+HDU,2763,The Two Note Rag,37,,39,122
+HDU,2762,Area of Polycubes,68,,79,184
+HDU,2761,Extended Normal Order Sort,20,,23,183
+HDU,2759,Zerg Rush!!!,8,,8,90
+HDU,2760,Scrolling Sign,64,,73,160
+HDU,2757,Ocean Currents,311,,663,1883
+HDU,2758,Colliding Traffic,10,,12,116
+HDU,2755,Logo 2,43,,55,224
+HDU,2756,Unique Snowflakes,107,,187,448
+HDU,2753,Exact Change,116,,198,612
+HDU,2740,Root of the Problem,554,,616,1119
+HDU,2751,Cranes,50,,68,306
+HDU,2739,Go Go Gorelians,38,,59,135
+HDU,2752,WiFi,79,,121,370
+HDU,2738,Frugal Search,40,,43,121
+HDU,2737,Falling Ice,7,,9,52
+HDU,2736,Surprising Strings,301,,351,514
+HDU,2735,Linear Pachinko,73,,84,168
+HDU,2732,Leapin' Lizards,533,,1251,3050
+HDU,2733,Netiquette,72,,86,235
+HDU,2734,Quicksum,2393,,3036,4184
+HDU,2754,Dominos 2,71,,88,293
+HDU,2731,Consecutive Digits,81,,82,135
+HDU,2730,Painter,59,,71,129
+HDU,2729,Time to Graduate,24,,36,99
+HDU,2728,Copier Reduction,241,,262,495
+HDU,2726,Overflowing Bookshelf,72,,91,193
+HDU,2725,Rock Skipping,84,,90,198
+HDU,2727,Connect,38,,44,132
+HDU,2724,Guard,4,,4,108
+HDU,2723,Electronic Document Security,114,,131,249
+HDU,2722,Here We Go(relians) Again,378,,620,1254
+HDU,2721,Persistent Bits,159,,197,335
+HDU,2719,The Seven Percent Solution,1531,,1825,2534
+HDU,2716,Message Decowding,512,,639,1324
+HDU,2718,Typesetting,11,,14,99
+HDU,2715,Herd Sums,344,,460,908
+HDU,2717,Catch That Cow,2388,,4880,16299
+HDU,2714,ISBN,413,,488,1531
+HDU,2712,The Cow Lineup,77,,106,231
+HDU,2713,Jumping Cows,258,,348,777
+HDU,2711,Lost Cows,276,,374,758
+HDU,2710,Max Factor,1750,,3087,9363
+HDU,2708,Vertical Histogram,677,,1277,5213
+HDU,2709,Sumsets,874,,1242,3123
+HDU,2707,Steganography,189,,240,691
+HDU,2706,Line & Circle Maze,8,,10,94
+HDU,2705,Serial Numbers,28,,33,177
+HDU,2704,Bulletin Board,68,,78,173
+HDU,2702,Hex Tile Equations,42,,45,130
+HDU,2703,The Bridges of San Mochti,50,,56,138
+HDU,2701,Lampyridae Teleportae,116,,142,291
+HDU,2700,Parity,2837,,3827,5101
+HDU,2777,Jack of All Trades,12,,16,193
+HDU,2898,旋转,175,,271,391
+HDU,2899,Strange fuction,2348,,5543,8063
+HDU,2895,Edit distance ,200,,320,744
+HDU,2896,病毒侵袭,2576,,6765,29410
+HDU,2897,邂逅明下,1219,,2277,4862
+HDU,2894,DeBruijin,337,,525,904
+HDU,2893,cube,38,,83,412
+HDU,2891,addHP,87,,143,501
+HDU,2892,area,190,,368,930
+HDU,2890,Longest Repeated subsequence,116,,204,1008
+HDU,2889,Without Zero,168,,210,493
+HDU,2888,Check Corners,539,,1149,3185
+HDU,2887,Watering Hole,89,,149,648
+HDU,2885,Drr1 Numbers,37,,49,116
+HDU,2886,Lou 1 Zhuang,125,,155,366
+HDU,2884,Orefield Design,29,,43,214
+HDU,2883,kebab,435,,881,1990
+HDU,2882,The k-th String sequence,14,,41,100
+HDU,2880,Ingredient,17,,25,205
+HDU,2881,Jack's struggle,269,,524,1497
+HDU,2878,Great World of Goo,36,,64,186
+HDU,2879,HeHe,232,,439,1308
+HDU,2877,Florid Banner,53,,87,541
+HDU,2875,DNA Sequence,12,,16,81
+HDU,2876,"Ellipse, again and again",215,,276,672
+HDU,2873,Bomb Game,219,,349,693
+HDU,2874,Connections between cities,1049,,2818,12114
+HDU,2872,Another Snake,78,,122,434
+HDU,2871,Memory Control,643,,1600,6702
+HDU,2870,Largest Submatrix,747,,1279,2607
+HDU,2869,Paper Cutting Game,112,,157,278
+HDU,2868,Neighbor Friend,87,,132,338
+HDU,2865,Birthday Toy,202,,416,798
+HDU,2864, “Base B”,111,,153,294
+HDU,2866,Special Prime,191,,284,534
+HDU,2867,Continuous Digit,17,,19,104
+HDU,2863,Top Shooter,136,,192,558
+HDU,2862,The Crazy O2jamer,15,,18,68
+HDU,2861,Stools,196,,287,708
+HDU,2860,Regroup,206,,339,1221
+HDU,2859,Phalanx,358,,1022,2078
+HDU,2858,Oil on the Mars,31,,62,356
+HDU,2857,Mirror and Light ,393,,534,1227
+HDU,2856, Find Its Place,53,,90,1035
+HDU,2855,Fibonacci Check-up,582,,871,1519
+HDU,2852,KiKi's K-Number,852,,1910,4220
+HDU,2854,Central Meridian Number,300,,400,646
+HDU,2850,Load Balancing,279,,445,1124
+HDU,2853,Assignment,446,,777,1482
+HDU,2851,Lode Runner,280,,452,891
+HDU,2849,For Kisses,15,,26,277
+HDU,2848,Number Cutting Game,106,,190,533
+HDU,2847,Binary String,163,,285,860
+HDU,2846,Repository,911,,1909,5755
+HDU,2845,Beans,1265,,2422,5204
+HDU,2843,I Will Win,188,,260,438
+HDU,2842,Chinese Rings,435,,641,1102
+HDU,2844,Coins,2616,,6489,16346
+HDU,2840, Self-Replicating Numbers,63,,68,193
+HDU,2841, Visible Trees,612,,1525,3456
+HDU,2839,Game,3,,3,54
+HDU,2838,Cow Sorting,734,,1342,3822
+HDU,2836,Traversal,216,,391,982
+HDU,2835,Operating system,147,,271,816
+HDU,2837,Calculation,281,,670,2768
+HDU,2834,Girl Friend II,37,,49,151
+HDU,2833,WuKong,350,,731,1935
+HDU,2832,Snail’s trouble,335,,488,953
+HDU,2830,Matrix Swapping II,799,,1402,2105
+HDU,2831,Plants VS Zombies,229,,316,723
+HDU,2827,The Evaluation of Determinant,171,,336,1156
+HDU,2828,Lamp,222,,429,1291
+HDU,2826,The troubles of lmy,167,,248,703
+HDU,2829,Lawrence,823,,2052,4491
+HDU,2825,Wireless Password,839,,2283,6872
+HDU,2824,The Euler function,1527,,3308,7933
+HDU,2822,Dogs,593,,1149,3020
+HDU,2821,Pusher,332,,603,1580
+HDU,2823,The widest road,115,,304,1522
+HDU,2820,Permutaion,57,,70,192
+HDU,2819,Swap,635,,1418,3851
+HDU,2817,A sequence of numbers,965,,1946,6051
+HDU,2818,Building Block,881,,1844,5945
+HDU,2814,Interesting Fibonacci,155,,298,1208
+HDU,2815,Mod Tree,602,,1663,6717
+HDU,2813,One fihgt one,429,,914,2806
+HDU,2812,74LS00,278,,363,826
+HDU,2816,I Love You Too,854,,1252,2119
+HDU,2810,Hyperspace,37,,62,499
+HDU,2811,Deputy General,113,,140,418
+HDU,2809,God of War,274,,529,1416
+HDU,2808,Islands,11,,21,229
+HDU,2807,The Shortest Path,495,,1137,3405
+HDU,2805,Aligning Two Shapes,0,,0,50
+HDU,2806,Selecting Problems,84,,143,819
+HDU,2804,Queens,167,,216,667
+HDU,2803,The MAX,723,,1160,2603
+HDU,2801,Clocks,0,,0,173
+HDU,2802,F(N),1159,,1831,5114
+HDU,2800,Adding Edges,445,,589,916
+HDU,2998,Binary Search Tree,0,,0,58
+HDU,2999,"Stone Game, Why are you always there?",162,,307,832
+HDU,2997,Chromatron,3,,3,83
+HDU,2995,Another Panda's Birthday Present,0,,0,96
+HDU,2996,Pagination,7,,12,96
+HDU,2993,MAX Average Problem,626,,1765,9616
+HDU,2990,Food portion size ,41,,44,170
+HDU,2994,Ant on the graph,33,,41,151
+HDU,2992,Hotel booking ,112,,226,647
+HDU,2991,Generate random numbers ,132,,173,337
+HDU,2988,Dark roads,282,,510,1141
+HDU,2989,Elias gamma coding ,44,,69,133
+HDU,2987,Cyclic antimonotonic permutations  ,10,,10,198
+HDU,2986,Ballot evaluation,142,,183,572
+HDU,2985,Another lottery ,113,,154,376
+HDU,2984,Jewel Trading,64,,133,481
+HDU,2981,Shoot Your Gun!,3,,5,52
+HDU,2982,Help Little Laura,38,,78,208
+HDU,2983,Integer Transmission,36,,47,145
+HDU,2980,Rotating a Frame,39,,41,113
+HDU,2979,Expensive Drink,33,,60,215
+HDU,2977,Color Squares,106,,208,551
+HDU,2978,Difficult Melody,57,,71,204
+HDU,2976,Bricks,15,,23,160
+HDU,2975,Find a Minor,2,,2,138
+HDU,2974,Counting heaps,78,,133,636
+HDU,2973,YAPTCHA,253,,503,949
+HDU,2972,Two professors,53,,77,410
+HDU,2970,Suffix reconstruction,111,,205,376
+HDU,2971,Tower,297,,707,2904
+HDU,2968,Museum,0,,0,48
+HDU,2969,Skyscrapers,130,,283,932
+HDU,2967,Morphing is fun,30,,47,149
+HDU,2966,In case of failure,335,,943,2265
+HDU,2965,Business Cards,140,,293,1125
+HDU,2964,Prime Bases,378,,575,1086
+HDU,2963,When,2,,2,77
+HDU,2961,Dance,89,,99,270
+HDU,2962,Trucking,479,,969,10923
+HDU,2959,Close Enough Computations,173,,200,423
+HDU,2957,Combination Lock,137,,147,290
+HDU,2960,Walk in the Park,38,,50,232
+HDU,2956,Robot Encryption,22,,34,162
+HDU,2955,Robberies,4464,,9502,25758
+HDU,2953,Rubiks Cube,43,,57,275
+HDU,2954,Marble Madness,322,,385,583
+HDU,2952,Counting Sheep ,1258,,2305,3424
+HDU,2951,Train Tickets,7,,11,57
+HDU,2950,Communication Channels ,235,,293,407
+HDU,2948,Geometry Darts,180,,258,921
+HDU,2949,Box Betting,83,,122,412
+HDU,2947,Bicycle Puzzle,70,,81,257
+HDU,2944,Find the Perimeter,3,,5,63
+HDU,2946,Letter Cookies,295,,390,1028
+HDU,2945,Wires,6,,30,147
+HDU,2942,Pairs,257,,330,672
+HDU,2943,Special Robot,15,,29,106
+HDU,2941,Motif Finding,5,,10,78
+HDU,2940,Hex Factorial,148,,255,653
+HDU,2938,A poor officer,8,,11,154
+HDU,2936,Iceman,16,,19,105
+HDU,2939,Campus Recruit,34,,48,193
+HDU,2937,Overlapping Squares,43,,48,131
+HDU,2935,Hidden Music Score,43,,64,167
+HDU,2934,Gargoyle,6,,25,283
+HDU,2933,Fairies' Defence,3,,4,143
+HDU,2931,Digit Puzzle,42,,55,158
+HDU,2932,Extraordinarily Tired Students,127,,191,288
+HDU,2929,Bigger is Better,154,,299,1162
+HDU,2930,Collapse!!,0,,0,71
+HDU,2928,A Rod in a Path,0,,0,38
+HDU,2927,A Day at the Races,60,,104,570
+HDU,2925,Musical Chairs,618,,886,1538
+HDU,2926,I Speak Whales,95,,144,586
+HDU,2924,Think I’ll Buy Me a Football Team,220,,282,448
+HDU,2923,Einbahnstrasse,579,,1195,3749
+HDU,2922,Relax! It’s just a game,411,,515,1011
+HDU,2921,Adding up Triangles,68,,95,323
+HDU,2920,Match Maker,61,,84,325
+HDU,2919,Adding Sevens,258,,328,804
+HDU,2916,Common Polynomial,21,,21,73
+HDU,2915,Top Spinning,11,,12,85
+HDU,2914,Search of Concatenated Strings,29,,57,284
+HDU,2917,Zigzag,19,,21,86
+HDU,2918,Tobo or not Tobo,279,,539,1339
+HDU,2913,Traveling Cube,68,,109,192
+HDU,2911,Digits on the Floor,8,,18,110
+HDU,2910,Stopped Watches,40,,66,137
+HDU,2909,Expected Allowance,79,,128,239
+HDU,2906,Robintron,36,,52,112
+HDU,2908,Grey Area,141,,222,400
+HDU,2907,Diamond Dealer,204,,288,867
+HDU,2905,Blackjack,47,,63,225
+HDU,2904,Warfare,100,,120,252
+HDU,2902,The skatepark's new ramps,6,,7,74
+HDU,2903,Road,3,,3,69
+HDU,2900,Song contest,8,,16,97
+HDU,2912,Spherical Mirrors,62,,99,199
+HDU,2901,Message,66,,137,444
+HDU,3098,Round Table Banquet,4,,7,113
+HDU,3099,Defense of the Ancients,0,,0,50
+HDU,3095,Eleven puzzle,84,,182,664
+HDU,3097,The Partition of A Graph,74,,99,218
+HDU,3094,A tree game,293,,455,825
+HDU,3096,Life Game,30,,37,140
+HDU,3091,Necklace,161,,319,903
+HDU,3092,Least common multiple,180,,362,851
+HDU,3090,Go Home,164,,243,554
+HDU,3093,Parliament Seat,1,,1,73
+HDU,3089,Josephus again,129,,182,653
+HDU,3088,WORM,126,,178,293
+HDU,3087,Aqua Splash,72,,83,382
+HDU,3085,Nightmare Ⅱ,278,,772,2775
+HDU,3086,Need for Speed,204,,282,894
+HDU,3083,The Mystery of Triangle ,50,,68,183
+HDU,3084,Tnine,8,,12,101
+HDU,3082,Simplify The Circuit,374,,535,1177
+HDU,3081,Marriage Match II,569,,1406,4248
+HDU,3080,The plan of city rebuild,181,,288,824
+HDU,3079,Vowel Counting,1275,,1764,2444
+HDU,3078,Network,294,,642,1413
+HDU,3077,Recursive Ants,3,,9,58
+HDU,3076,ssworld VS DDD,265,,535,2662
+HDU,3074,Multiply game,505,,979,2770
+HDU,3075,Mystery ET,13,,40,193
+HDU,3073,Mars Life Tree,5,,8,81
+HDU,3072,Intelligence System,634,,1281,2966
+HDU,3070,Counting spanning trees,56,,71,221
+HDU,3071,Gcd & Lcm game,86,,235,1075
+HDU,3069,Arrest,103,,155,427
+HDU,3068,最长回文,3284,,8777,23974
+HDU,3066,火拼双扣,9,,10,74
+HDU,3067,小t的游戏,190,,256,439
+HDU,3064,twoNumber,150,,235,1111
+HDU,3065,病毒侵袭持续中,2144,,5089,14876
+HDU,3061,Battle,392,,662,1408
+HDU,3062,Party,1008,,2210,6724
+HDU,3063,Play game,143,,192,444
+HDU,3060,Area2,202,,411,1496
+HDU,3059,Count Cross,26,,42,182
+HDU,3057,Core,7,,13,66
+HDU,3058,Generator,69,,144,616
+HDU,3056,Stock,52,,81,253
+HDU,3055,Mine,9,,12,121
+HDU,3054,Fibonacci,100,,126,367
+HDU,3053,Group Travel,112,,246,650
+HDU,3052,Vim,24,,72,395
+HDU,3051,Peaceful Negotiation,13,,21,87
+HDU,3050,Cat Jim,18,,36,177
+HDU,3048,XX’s puzzle,10,,12,74
+HDU,3049,Data Processing,263,,465,1392
+HDU,3047,Zjnu Stadium,724,,1587,4156
+HDU,3046,Pleasant sheep and big big wolf,615,,1265,3082
+HDU,3045,Picnic Cows,430,,1062,3307
+HDU,3044, Dog and dog,94,,114,381
+HDU,3043, Number game,23,,35,199
+HDU,3042,Josephus Again,33,,47,200
+HDU,3041,Bee,18,,23,200
+HDU,3040,Happy Girls,188,,306,1783
+HDU,3039,A high-dimensional problem,45,,81,357
+HDU,3037,Saving Beans,1037,,2441,6076
+HDU,3034,Board Game,68,,146,582
+HDU,3036, Escape,110,,178,734
+HDU,3035,War,181,,430,1453
+HDU,3033,I love sneakers!,1070,,2351,5729
+HDU,3031,To Be Or Not To Be,144,,249,595
+HDU,3029,Scales,143,,286,628
+HDU,3028,Robot,48,,70,220
+HDU,3027,Network,2,,2,79
+HDU,3030, Increasing Speed Limits,226,,378,711
+HDU,3026, Chinese Chess,45,,118,734
+HDU,3025, Two Mirrors,0,,0,51
+HDU,3024,Repairman,58,,81,241
+HDU,3022,Sum of Digits,117,,207,763
+HDU,3023,Dirt,106,,222,962
+HDU,3021,Tree Fence,11,,14,124
+HDU,3038,How Many Answers Are Wrong,1268,,3628,9960
+HDU,3020, FunnyXEN,16,,17,126
+HDU,3019,Tracing Fairy,4,,6,89
+HDU,3017,Treasure Division,76,,122,596
+HDU,3018,Ant Trip,682,,1328,3343
+HDU,3016,Man Down,479,,895,2438
+HDU,3015,Disharmony Trees,324,,526,1038
+HDU,3014,Counting Problem,25,,47,361
+HDU,3011,Cut Pyramid,117,,145,338
+HDU,3013,Tetris,50,,63,290
+HDU,3012,Travel around the world,14,,18,182
+HDU,3010,N Knight,99,,143,445
+HDU,3008,Warcraft,565,,958,1775
+HDU,3009,Go Fishing,24,,38,187
+HDU,3007,Buried memory,904,,1913,3553
+HDU,3003,Pupu,496,,820,2008
+HDU,3006,The Number of set,586,,941,1502
+HDU,3004,The Chess,118,,159,642
+HDU,3005,The Different World,38,,45,217
+HDU,3000,A Simple Language,82,,118,739
+HDU,3002,King of Destruction,323,,553,1319
+HDU,3032,Nim or not Nim?,645,,1240,2381
+HDU,3001,Travelling,981,,2667,8183
+HDU,3199,Hamming Problem,431,,660,1510
+HDU,3198,Play on Words,72,,79,312
+HDU,3196,Let’s Ship,2,,2,111
+HDU,3197,Game,132,,214,573
+HDU,3195,Interesting Numbers,69,,81,166
+HDU,3194,Median,52,,79,396
+HDU,3193,Find the hotel,141,,255,747
+HDU,3191,How Many Paths Are There,302,,620,1723
+HDU,3190,Marriage Match,17,,27,138
+HDU,3189,Just Do It,676,,931,1373
+HDU,3187,HP Problem,68,,100,210
+HDU,3188,Just A Triangle,1549,,2065,2909
+HDU,3185,Dead Or Alive,4,,5,60
+HDU,3184,All Can Do,216,,258,635
+HDU,3186,Find A Job,3,,3,101
+HDU,3183,A Magic Lamp,857,,1910,4632
+HDU,3181,Greatest Naruto Army,131,,596,1039
+HDU,3182,Hamburger Magi,193,,329,903
+HDU,3180,Furion's Sprout,39,,41,139
+HDU,3179,Effective Government Spokesman,30,,36,110
+HDU,3178,Different Division,99,,128,363
+HDU,3177,Crixalis's Equipment,1222,,1894,4645
+HDU,3176,Broken Pixel,218,,262,598
+HDU,3175,Awesome DJMAX,78,,97,277
+HDU,3173,Dominos,15,,30,509
+HDU,3174,Logo,88,,133,415
+HDU,3172,Virtual Friends,1102,,2793,9579
+HDU,3170,Laurel Creek,1,,1,66
+HDU,3171,Rocket Stages,27,,57,233
+HDU,3168,Snakes and Ladders,50,,126,596
+HDU,3167,Hot Spot,10,,46,312
+HDU,3169,Balance,19,,33,196
+HDU,3166,Classified,0,,0,107
+HDU,3165,Trainsorting,69,,148,485
+HDU,3163,Meltdown,32,,56,147
+HDU,3164,sqrt log sin,136,,205,504
+HDU,3162,Cantor,100,,153,488
+HDU,3160,Rooks,100,,204,494
+HDU,3161,Pipes,20,,27,110
+HDU,3157,Crazy Circuits,263,,487,948
+HDU,3158,PropBot,74,,112,261
+HDU,3159,"""Ancient"" Calculator",41,,65,177
+HDU,3154,Optimal Strategy for the ICPC,38,,54,124
+HDU,3156,Repair Depots,98,,185,685
+HDU,3155,Symbolic Logic Mechanization,32,,36,93
+HDU,3153,Pencils from the 19th Century,69,,91,161
+HDU,3152,Obstacle Course,151,,270,416
+HDU,3151,Cave Crisis,22,,26,110
+HDU,3150,Robot Roll Call – Cambot…Servo…Gypsy…Croooow,78,,106,228
+HDU,3149,Tetrahedral Stacks of Cannonballs,7,,9,356
+HDU,3148,Code Permutations,8,,15,101
+HDU,3147,Playfair Cipher,76,,97,275
+HDU,3146,Beacons,50,,81,443
+HDU,3143,Speedy Escape,100,,182,566
+HDU,3145,Flight Planning,43,,64,227
+HDU,3144,Gokigen Naname,24,,31,150
+HDU,3142,Rain Fall,51,,58,306
+HDU,3141,Allergy Test,43,,67,267
+HDU,3140,Money Matters,81,,132,385
+HDU,3137,No Left Turns,98,,121,243
+HDU,3139,Soda Surpler,313,,417,653
+HDU,3138,Coconuts,75,,117,242
+HDU,3134,Nested Shrubbery Boxes,61,,87,176
+HDU,3136,Taunt Generation Simulator,0,,0,53
+HDU,3135,And Now For Something Completely Different!,2,,3,96
+HDU,3133,Ye Holy Hand Grenades!,6,,6,97
+HDU,3132,Taunt Exposure Estimation,64,,76,121
+HDU,3131,One…Two…Five!,64,,91,227
+HDU,3130,Sir Bedavere’s Bogus Division Solutions,87,,108,205
+HDU,3129,The Brave Sir Robin’s cAsE  cOrReCtOr,82,,102,269
+HDU,3128,What is the air speed velocity…,72,,83,140
+HDU,3127,WHUgirls,702,,1113,2921
+HDU,3126,Nova,134,,266,1396
+HDU,3125,Slash,425,,557,967
+HDU,3122,FreeRadiant,18,,46,206
+HDU,3120,Dolphin,106,,211,745
+HDU,3124,Moonmist,285,,736,2117
+HDU,3123,GCC,950,,1725,5164
+HDU,3121,FreeOpen,71,,122,507
+HDU,3118,Arbiter,404,,667,1337
+HDU,3116,Bus Schedules,9,,10,104
+HDU,3117,Fibonacci Numbers,691,,1143,2723
+HDU,3119,ChaeYeon,64,,128,421
+HDU,3115,Cover the Square,27,,27,329
+HDU,3114,Bold ASCII Lines,52,,54,139
+HDU,3112,Planet Alignment,19,,22,120
+HDU,3111,Sudoku,267,,358,564
+HDU,3109,Worms ,64,,91,188
+HDU,3110,Crystal Ball Factory,40,,60,189
+HDU,3113,Sum of Cubes,197,,310,1234
+HDU,3108,Teleport Out! ,25,,29,131
+HDU,3106,A No-Win Situation,49,,69,239
+HDU,3107,A Walk in the Park ,43,,69,255
+HDU,3105,Fred's Lotto Tickets,455,,602,899
+HDU,3104,Combination Lock ,145,,170,274
+HDU,3103,Shoring Up the Levees,117,,158,420
+HDU,3100,Series / Parallel Resistor Circuits,31,,37,132
+HDU,3102,Lawrence of Arabia,137,,221,493
+HDU,3101,The Heart of the Country,74,,94,282
+HDU,3299,Distant Galaxy,90,,121,214
+HDU,3298,Contestants,91,,125,271
+HDU,3297,Balancing the Scale,38,,49,150
+HDU,3296,Acm Team Section,116,,152,325
+HDU,3295,An interesting mobile game,149,,263,543
+HDU,3292,"No more tricks, Mr Nanguo",224,,297,449
+HDU,3294,Girls' research,463,,1141,2986
+HDU,3291,The gold miners,35,,50,155
+HDU,3293,sort,360,,532,1204
+HDU,3290,The magic apple tree,172,,333,1405
+HDU,3289,Magic tree ,58,,78,218
+HDU,3288,Resource Allocation,158,,199,611
+HDU,3287,Theta Puzzle,84,,126,353
+HDU,3286,Interior Points of Lattice Polygons,74,,106,172
+HDU,3285,Convex Hull of Lattice Points,159,,233,381
+HDU,3283,The Next Permutation,525,,741,1087
+HDU,3284,Adjacent Bit Counts,263,,388,462
+HDU,3282,Running Median,280,,421,1148
+HDU,3280,Equal Sum Partitions,375,,519,737
+HDU,3281,Balls,167,,256,458
+HDU,3279,Nth Largest Value,902,,1187,1593
+HDU,3278,Puzzle,111,,219,607
+HDU,3275,Light,181,,321,969
+HDU,3276,Star,107,,201,492
+HDU,3277,Marriage Match III,303,,682,2274
+HDU,3274,City Planning,173,,243,503
+HDU,3273,Lottery,2,,4,141
+HDU,3271,SNIBB,177,,432,1480
+HDU,3270,The Diophantine Equation,247,,368,1284
+HDU,3272,Mission Impossible,137,,219,499
+HDU,3269,P2P File Sharing System,181,,269,492
+HDU,3268,Columbus’s bargain,325,,574,2113
+HDU,3267,Graph Game,118,,184,782
+HDU,3266,Hamlet’s gambling,54,,75,361
+HDU,3263,Ancient vending machine,145,,276,835
+HDU,3265,Posters,586,,1553,6431
+HDU,3264,Open-air shopping malls,507,,1034,2727
+HDU,3262,Seat taking up is tough,292,,507,1331
+HDU,3261,Zombies VS Plants,24,,46,275
+HDU,3260,Facer is learning to swim,106,,195,857
+HDU,3259,Just Another String Matching Problem,45,,59,260
+HDU,3258,Intricate to death?,4,,6,85
+HDU,3257,Hello World!,217,,298,737
+HDU,3254,Extraordinary Tug of War,1,,1,164
+HDU,3256,Grid Point Counting,63,,96,613
+HDU,3250,Automatic Tetris Player,36,,46,134
+HDU,3252,Code Merging,26,,38,186
+HDU,3251,Being a Hero,265,,535,1619
+HDU,3255,Farming,273,,582,1891
+HDU,3253,Diamonds,39,,53,168
+HDU,3249,Selecting Frames,69,,164,272
+HDU,3247,Resource Archiver,371,,927,2874
+HDU,3248,Strange Clock,220,,406,811
+HDU,3246,Special Flow,4,,4,67
+HDU,3245,Treeland Exhibition,71,,102,342
+HDU,3243,Windows,9,,26,208
+HDU,3244,Inviting Friends,86,,145,330
+HDU,3242,List Operations,109,,149,532
+HDU,3241,Guess the Pattern,6,,26,157
+HDU,3240,Counting Binary Trees,190,,311,855
+HDU,3238,In A Crazy City,14,,20,141
+HDU,3239,Jiajia's Robot,89,,185,573
+HDU,3237,Help Bubu,231,,448,1548
+HDU,3236,Gift Hunting,285,,628,1879
+HDU,3234,Exclusive-OR,462,,996,3583
+HDU,3235,Final Combat,9,,9,96
+HDU,3233,Download Manager,262,,525,974
+HDU,3231,Box Relations,337,,584,1433
+HDU,3232,Crossing Rivers,318,,617,1178
+HDU,3230,Assembling Services,28,,47,234
+HDU,3229,Jinyuetuan Puzzle,124,,244,841
+HDU,3228,Island Explorer,97,,201,1147
+HDU,3227,Heroes Arrangement,6,,14,162
+HDU,3226,Game Simulator,3,,3,52
+HDU,3224,Exciting Time,14,,27,196
+HDU,3225,Flowers Placement,130,,209,676
+HDU,3222,Compressed String,29,,47,191
+HDU,3221,Brute-force Algorithm,370,,801,2920
+HDU,3219,Jammed Traffic,98,,146,320
+HDU,3218,Inverse,1,,2,72
+HDU,3217,Health,114,,213,675
+HDU,3216,Graph of Black and White,11,,14,83
+HDU,3214,Eclipse,8,,9,156
+HDU,3215,The first place of 2^n,248,,360,861
+HDU,3213,Dual Processing Task,40,,49,145
+HDU,3212,Card Collection,65,,94,436
+HDU,3211,Baking the Shaobing,12,,17,185
+HDU,3209,Jumping Hands,69,,89,181
+HDU,3210,Another Door Repairing Problem,4,,22,199
+HDU,3208,Integer’s Power,209,,515,2285
+HDU,3206,Gem Squares,51,,72,221
+HDU,3223,Decrypt Messages,75,,140,579
+HDU,3207,Highway,60,,87,584
+HDU,3204,Expression Counting,11,,13,66
+HDU,3205,Factorization,39,,61,179
+HDU,3203,Door Repairing,108,,170,480
+HDU,3202,Circle and Triangle,36,,76,411
+HDU,3201,Build a Fence,952,,1303,1703
+HDU,3200,Arborescence Counting,97,,125,418
+HDU,3220,Alice’s Cube,300,,710,2078
+HDU,3398,String,340,,785,2647
+HDU,3399,Roba's dream,44,,82,399
+HDU,3396,Triangles,15,,21,74
+HDU,3394,Railway,432,,980,2863
+HDU,3397,Sequence operation,912,,2538,8411
+HDU,3395,Special Fish,436,,940,2493
+HDU,3393,Precious,6,,17,94
+HDU,3392,Pie,190,,294,1051
+HDU,3391,Mahjong,62,,99,285
+HDU,3390,Hotel,53,,77,145
+HDU,3387,Calculator,40,,49,235
+HDU,3388,Coprime,188,,401,1250
+HDU,3389,Game,363,,608,845
+HDU,3386,Hauling Ore,35,,39,183
+HDU,3385,Mining Maps,112,,138,311
+HDU,3384,Locate Mining Center,1,,1,47
+HDU,3382,Aim It Right!,1,,1,31
+HDU,3383,Navi Navigation,5,,5,72
+HDU,3381,Floating Mountain Stability,32,,34,145
+HDU,3380,Circle of Friends,6,,6,58
+HDU,3378,San Guo Sha,163,,249,1007
+HDU,3377,Plan,222,,536,1488
+HDU,3376,Matrix Again,502,,1280,4400
+HDU,3372,Build Fences,22,,26,192
+HDU,3373,Point,137,,295,1012
+HDU,3374,String Problem,623,,1398,3390
+HDU,3375,XieGang and FanXieGang,91,,130,392
+HDU,3371,Connect the Cities,1960,,5052,21221
+HDU,3370,Guard,10,,11,103
+HDU,3368,Reversi,400,,645,1602
+HDU,3369,Robot,141,,218,527
+HDU,3367,Pseudoforest,654,,1193,3014
+HDU,3366,Passage,163,,269,538
+HDU,3365,New Ground,153,,226,526
+HDU,3364,Lanterns,404,,833,2116
+HDU,3362,Fix,234,,380,1114
+HDU,3363,Ice-sugar Gourd,251,,502,1544
+HDU,3361,ASCII,1783,,2519,4672
+HDU,3379,Life Connections,48,,64,227
+HDU,3358,Land Division,56,,71,206
+HDU,3360,National Treasures,307,,501,1359
+HDU,3359,Kind of a Blur,336,,798,2965
+HDU,3356,Air Strike,159,,256,879
+HDU,3357,Stock Chase,376,,689,2014
+HDU,3355,Hop — Don’t Walk!,192,,363,1104
+HDU,3353,Not So Flat After All,217,,358,826
+HDU,3352,"Tiles of Tetris, NOT!",279,,410,1018
+HDU,3351,Seinfeld,626,,976,2028
+HDU,3350,#define is unsafe,211,,375,588
+HDU,3349,lazy gege,314,,570,1349
+HDU,3348,coins,287,,645,2001
+HDU,3347,Calculate the expression,390,,728,1483
+HDU,3346,Lucky Number,997,,1715,3360
+HDU,3345,War Chess,325,,752,2978
+HDU,3344,Kakuro Extension Extension,247,,390,884
+HDU,3343,An ant's story,607,,1033,2076
+HDU,3342,Legal or Not,2054,,4250,9159
+HDU,3341,Lost's revenge,476,,1221,4381
+HDU,3339,In Action,1034,,2199,6497
+HDU,3336,Count the string,2211,,5232,11231
+HDU,3337,Guess the number,269,,1704,8790
+HDU,3338,Kakuro Extension,341,,799,2280
+HDU,3335,Divisibility,453,,824,2045
+HDU,3334,Matrix Puzzle,14,,42,254
+HDU,3333,Turing Tree,943,,2032,5688
+HDU,3332,Windows,225,,344,534
+HDU,3331,Trip the Lights Fantastic,43,,70,261
+HDU,3327,Decompressing in a GIF,76,,159,588
+HDU,3330,Here’s a Product Which Will Make You Tensor,37,,97,355
+HDU,3328,Flipper,320,,590,950
+HDU,3329,The Flood,220,,377,981
+HDU,3326,Cover Up,27,,41,124
+HDU,3324,The Beijing-Hangzhou Grand Canal,1,,1,79
+HDU,3322,The Flowers Floating On The YueYa Lake,63,,93,230
+HDU,3321,Rose Shop,5,,5,97
+HDU,3323,Security Center,92,,113,332
+HDU,3320,openGL,63,,102,273
+HDU,3317,Hot girl with cool car,115,,145,311
+HDU,3316,Mine sweeping,281,,345,877
+HDU,3313,Key Vertex,208,,389,1559
+HDU,3315,My Brute,279,,608,1589
+HDU,3312,Seashells,5,,16,198
+HDU,3311,Dig The Wells,253,,613,1365
+HDU,3325,Arithmetically Challenged,152,,310,749
+HDU,3308,LCIS,1402,,3378,7944
+HDU,3309,Roll The Cube,176,,303,727
+HDU,3319,Catch The Heart,5,,6,101
+HDU,3307,Description has only two Sentences,226,,412,1357
+HDU,3306,Another kind of Fibonacci,577,,1154,2887
+HDU,3318,Assignment Tools,75,,91,215
+HDU,3305,John's  Canonical Difference Bound Matrices,0,,0,98
+HDU,3303,Harmony Forever,224,,533,1768
+HDU,3302,Guarding Zion,0,,0,42
+HDU,3304,Interesting Yang Yui Triangle,180,,261,451
+HDU,3301,False Perceptions,3,,3,84
+HDU,3300,Escape Plan,5,,7,70
+HDU,3354,Probability One,390,,477,637
+HDU,3340,Rain in ACStar,135,,317,978
+HDU,3314,Trouble with Election!,131,,176,482
+HDU,3310,Volume of a cylinder,76,,253,735
+HDU,3498,whosyourdaddy,337,,900,1775
+HDU,3499,Flight,297,,677,3222
+HDU,3497,Star Gazer,148,,190,379
+HDU,3496,Watch The Movie,1364,,2535,7912
+HDU,3494,Dangerous Situation,18,,39,181
+HDU,3495,A Game In The Darkness,11,,13,80
+HDU,3492,Segment,165,,301,1098
+HDU,3493,The Little Architect,122,,155,290
+HDU,3491,Thieves,451,,762,1658
+HDU,3490,Manhattan Distance,74,,98,257
+HDU,3489,Necklace,127,,226,618
+HDU,3485,Count 101,540,,839,1618
+HDU,3488,Tour,828,,1728,3621
+HDU,3484,Matrix Game,269,,405,842
+HDU,3486,Interviewe,680,,1788,7502
+HDU,3487,Play with Chain,915,,2754,6957
+HDU,3483,A Very Simple Problem,299,,564,1149
+HDU,3480,Division,738,,2033,5151
+HDU,3481,Bad Serial Inc.,67,,88,355
+HDU,3482,Good Serial Inc.,254,,347,857
+HDU,3479,Code,6,,6,85
+HDU,3478,Catch,522,,994,2039
+HDU,3477,Temperature,195,,276,789
+HDU,3476,Sudoku,118,,187,529
+HDU,3475,Street Lamp,28,,40,144
+HDU,3474,Necklace,349,,591,2014
+HDU,3471,England vs Germany,105,,212,771
+HDU,3473,Minimum Sum,514,,1000,4418
+HDU,3472,HS BDC,266,,522,1221
+HDU,3470,Chinese Paper Folding,38,,53,207
+HDU,3469,Catching the Thief,314,,451,797
+HDU,3467,Song of the Siren,109,,261,723
+HDU,3468,Treasure Hunting,294,,561,2044
+HDU,3465,Life is a Line,293,,505,2014
+HDU,3466,Proud Merchants,1434,,2919,6990
+HDU,3464,Integers’ Weight,63,,86,244
+HDU,3463,Goldbach Division,344,,534,1571
+HDU,3461,Code Lock,446,,839,2172
+HDU,3462,Date,38,,62,299
+HDU,3460,Ancient Printer,630,,1042,2082
+HDU,3458,Rectangles Too!,184,,293,824
+HDU,3459,Rubik 2×2×2,114,,295,754
+HDU,3456,Universal Oracle,232,,304,739
+HDU,3454,Number Game,121,,145,408
+HDU,3453,Fruit Bowl,5,,5,68
+HDU,3457,Rectangles,201,,333,800
+HDU,3455,Leap Frog,178,,272,755
+HDU,3452,Bonsai,355,,538,1079
+HDU,3450,Counting Sequences,449,,930,2634
+HDU,3451,Beat drop,63,,76,224
+HDU,3447,Count The Keyword,33,,44,172
+HDU,3449,Consumer,569,,1221,2294
+HDU,3446,daizhenyang's chess,163,,277,616
+HDU,3448,Bag Problem,258,,529,1909
+HDU,3444,The Volume of Simple Polyhedron,38,,45,109
+HDU,3445,The Diary of Math Teacher,22,,30,92
+HDU,3443,Shift Number,305,,451,1014
+HDU,3442,Three Kingdoms,266,,474,1192
+HDU,3441,Rotation,122,,227,745
+HDU,3439,Sequence,128,,323,848
+HDU,3440,House Man,506,,1215,2892
+HDU,3437,Garden,61,,127,562
+HDU,3438,ACM Training,16,,24,147
+HDU,3436,Queue-jumpers ,410,,1170,4269
+HDU,3435,A new Graph Game,529,,1207,3047
+HDU,3434,Sequence Adjustment,234,,399,1207
+HDU,3431,Papa,7,,9,100
+HDU,3429,Resistors,80,,149,360
+HDU,3428,Balance,31,,42,125
+HDU,3432,Wax,137,,260,630
+HDU,3433,A Task Process,416,,805,1615
+HDU,3426,XML,44,,69,257
+HDU,3430,Shuffling,113,,190,419
+HDU,3427,Clickomania,177,,328,650
+HDU,3425,Coverage,89,,143,625
+HDU,3424,Range,179,,263,507
+HDU,3422,Triangle,317,,439,776
+HDU,3423,Subway upgrade,96,,149,454
+HDU,3421,Max Sum II,414,,613,1989
+HDU,3420,Bus Fair,387,,588,1119
+HDU,3419,The Three Groups,245,,363,770
+HDU,3418,Beautiful Dream,211,,288,770
+HDU,3416,Marriage Match  IV,543,,1331,4450
+HDU,3415,Max Sum of Max-K-sub-sequence,1431,,3107,8454
+HDU,3414,Tour Route,99,,174,805
+HDU,3413,"Single CPU, multi-tasking",194,,322,893
+HDU,3412,An Odd Award Rule,192,,337,940
+HDU,3410,Passing the Message,247,,546,827
+HDU,3411,Snail Alice,137,,286,1010
+HDU,3409,Chase,66,,92,227
+HDU,3408,Elune’s Arrow,97,,163,802
+HDU,3406,Baseball of Planet Pandora,103,,165,372
+HDU,3405,World Islands,312,,598,1499
+HDU,3407,String-Matching Automata,101,,187,338
+HDU,3404,Switch lights,189,,317,539
+HDU,3402,Ants run!,299,,418,1203
+HDU,3417,The lastest Math theory problem,56,,108,334
+HDU,3403,Palindrome day,58,,109,428
+HDU,3401,Trade,734,,1782,5195
+HDU,3400,Line belt ,810,,1801,4657
+HDU,3598,A secret of 《The Tai Chi Master》,9,,10,235
+HDU,3597,BOMB,10,,18,175
+HDU,3599,War,208,,404,1715
+HDU,3596,Lazy,214,,326,908
+HDU,3595,GG and MM,212,,349,772
+HDU,3593,The most powerful force,158,,381,1351
+HDU,3594,Cactus,478,,1012,2159
+HDU,3592,World Exhibition,526,,888,1756
+HDU,3591,The trouble of Xiaoqian,411,,841,2391
+HDU,3590,PP and QQ,189,,284,557
+HDU,3588,Pair,37,,74,344
+HDU,3589,Jacobi symbol,178,,279,658
+HDU,3587,NUDOTA,108,,160,721
+HDU,3586, Information Disturbing,491,,1107,3083
+HDU,3584,Cube,648,,1195,2333
+HDU,3585,maximum shortest distance,312,,723,2166
+HDU,3582,A Puzzle Game,108,,160,585
+HDU,3581,Judge Segments,131,,209,537
+HDU,3583,CodeMaker,68,,85,291
+HDU,3580,Isosceles Right Triangles,101,,135,236
+HDU,3579,Hello Kiki,858,,1630,4234
+HDU,3573,Buy Sticks,315,,451,969
+HDU,3575,Digit Size ,147,,194,502
+HDU,3578,Greedy Tino,271,,447,1307
+HDU,3576,Elevators in Jiayuan Students' Apartment,125,,208,530
+HDU,3577,Fast Arrangement,473,,972,3383
+HDU,3572,Task Schedule,1034,,2966,9590
+HDU,3574,Cube Min Surface Carving,25,,38,158
+HDU,3571,N-dimensional Sphere,148,,322,817
+HDU,3570,More happiness,64,,94,230
+HDU,3567,Eight II,246,,731,3376
+HDU,3569,Imaginary Date,196,,339,563
+HDU,3566,Counting Heads,20,,25,113
+HDU,3565,Bi-peak Number,165,,369,1203
+HDU,3563,Jesus of Suburbia,45,,86,379
+HDU,3564,Another LIS,292,,577,1560
+HDU,3559,Frost Chain,161,,304,684
+HDU,3562,Interesting Tour,112,,151,385
+HDU,3557,Divide Game,44,,56,250
+HDU,3555,Bomb,2658,,7352,19792
+HDU,3554,Another Contest,181,,254,660
+HDU,3568,Help Johnny,168,,256,498
+HDU,3552,I can do it!,326,,617,1283
+HDU,3551,Hard Problem,135,,234,1277
+HDU,3549,Flow Problem,2592,,8108,17260
+HDU,3548,Enumerate the Triangles,227,,487,1322
+HDU,3561,How many times,157,,293,931
+HDU,3547,DIY Cube,221,,393,789
+HDU,3560,Graph’s Cycle Component,352,,914,2431
+HDU,3543,Roba number ,158,,268,497
+HDU,3546,Calculator,264,,486,2127
+HDU,3556,Continued Fraction,81,,140,466
+HDU,3558,Easy Geometry,59,,84,254
+HDU,3542,ZaakDov is doing his math problem! ,50,,181,740
+HDU,3544,Alice's Game,240,,426,911
+HDU,3541,The Team of ACM/ICPC,25,,38,250
+HDU,3553,Just a String,120,,217,1104
+HDU,3540,EditingOperation,62,,126,331
+HDU,3537,Daizhenyang's Coin,250,,404,819
+HDU,3539,Daizhenyang's Letter,54,,89,376
+HDU,3538,A sample Hamilton path,93,,218,538
+HDU,3535,AreYouBusy,754,,1828,4512
+HDU,3536, PAINTING,125,,228,540
+HDU,3534,Tree,260,,514,1579
+HDU,3530,Subsequence,1064,,2466,7275
+HDU,3545,Board Coloring,75,,126,319
+HDU,3532,Max Angle,178,,345,884
+HDU,3531,Match,161,,356,1294
+HDU,3533,Escape,164,,520,1769
+HDU,3529,Bomberman - Just Search!,211,,421,743
+HDU,3528,The Simple Programming Language,85,,136,491
+HDU,3527,SPY,213,,332,656
+HDU,3526,Computer Assembling,176,,352,850
+HDU,3525,Orienteering,150,,270,1004
+HDU,3524,Perfect Squares,249,,354,657
+HDU,3522,Minimum Integer sequence ,79,,133,998
+HDU,3521,An easy Problem,210,,391,1120
+HDU,3523,Image copy detection ,176,,277,394
+HDU,3520,Draw,71,,162,544
+HDU,3518,Boring counting,653,,1390,3360
+HDU,3517,Adopt or not,78,,121,410
+HDU,3514,Queen’s Case,70,,117,298
+HDU,3515,How high is the Building,53,,78,340
+HDU,3519,Lucky Coins Sequence,366,,544,1022
+HDU,3516,Tree Construction,428,,895,1592
+HDU,3512,Perfect matching,111,,179,672
+HDU,3513,King’s Case,7,,9,57
+HDU,3511,Prison Break,237,,678,2139
+HDU,3509,Buge's Fibonacci Number Problem,187,,265,836
+HDU,3506,Monkey Party,406,,795,1765
+HDU,3510,Simple Scheduling Problem,83,,111,290
+HDU,3508,Product of coprimes,197,,322,927
+HDU,3507,Print Article,1707,,4243,13737
+HDU,3505,Writing Robot,51,,82,228
+HDU,3504,Best String,107,,147,364
+HDU,3503,Perfect Sequence,38,,46,146
+HDU,3502,Huson's Adventure Island,122,,260,1032
+HDU,3501,Calculation 2,1017,,1905,4600
+HDU,3500,Fling,158,,241,584
+HDU,3550,Graph Generation,20,,28,133
+HDU,3698,Let the light guide us,235,,494,1284
+HDU,3699,A hard Aoshu Problem,344,,832,1588
+HDU,3697,Selecting courses,398,,938,3308
+HDU,3696,Farm Game,189,,405,1025
+HDU,3695,Computer Virus on Planet Pandora,464,,1184,4509
+HDU,3693,Math teacher's homework,115,,212,567
+HDU,3692,Shade of Hallelujah Mountain,119,,256,1156
+HDU,3694,Fermat Point in Quadrangle,281,,580,2794
+HDU,3691,Nubulsa Expo,312,,651,1372
+HDU,3689,Infinite monkey theorem,461,,958,1843
+HDU,3690,Knight's Problem,49,,98,1077
+HDU,3688,Searchlights,124,,217,861
+HDU,3687,National Day Parade,540,,1131,2538
+HDU,3686,Traffic Real Time Query System,194,,584,2989
+HDU,3684,Gunshots,109,,212,961
+HDU,3685,Rotational Painting,430,,938,3173
+HDU,3683,Gomoku,213,,464,1746
+HDU,3682,To Be an Dream Architect,488,,1140,3706
+HDU,3681,Prison Break,540,,1430,5181
+HDU,3680,Naughty fairies,118,,240,1671
+HDU,3678,Integer Game,26,,38,309
+HDU,3679,Jubilation,135,,292,473
+HDU,3676,Go to Class,9,,26,258
+HDU,3677,Hard Rode,124,,276,493
+HDU,3675,Flight Control,45,,81,306
+HDU,3674,Evaluating Functions,33,,53,170
+HDU,3673,David Shopping,140,,308,800
+HDU,3672,Caves,97,,251,544
+HDU,3669,Cross the Wall,348,,993,5057
+HDU,3670,A Sequence of Numbers,104,,253,1030
+HDU,3671,Boonie and Clyde,113,,304,943
+HDU,3667,Transportation,584,,1308,3019
+HDU,3668,Volume,259,,397,1224
+HDU,3666,THE MATRIX PROBLEM,690,,2231,8642
+HDU,3664,Permutation Counting,592,,963,1810
+HDU,3663,Power Stations,329,,689,2324
+HDU,3665,Seaside,719,,1333,1828
+HDU,3662,3D Convex Hull,406,,806,1512
+HDU,3661,Assignments,631,,981,1984
+HDU,3660,Alice and Bob's Trip,368,,808,4216
+HDU,3658,How many words,174,,331,503
+HDU,3655,Ensure No Absence,87,,147,491
+HDU,3659,Identify the number,76,,139,401
+HDU,3657,Game,349,,613,1424
+HDU,3654,Draw Regular Polygon,31,,64,308
+HDU,3653,Celestial Being,12,,39,192
+HDU,3656,Fire station,200,,579,1723
+HDU,3652,B-number,1548,,4073,6967
+HDU,3651,A Simple Problem,184,,325,738
+HDU,3650,Hot Expo,431,,781,1605
+HDU,3649,New Game,118,,198,740
+HDU,3647,Tetris,81,,177,445
+HDU,3646,Fate Stay Night,214,,382,1302
+HDU,3648,Median Filter,201,,395,1464
+HDU,3644,A Chocolate Manufacturer's Problem,149,,465,2405
+HDU,3643,Boolean String Expression,0,,0,83
+HDU,3645,Code Management System,100,,168,967
+HDU,3640,"I, zombie",64,,119,571
+HDU,3642,Get The Treasury,357,,929,2868
+HDU,3641,Treasure Hunting,341,,755,2416
+HDU,3639,Hawk-and-Chicken,525,,1059,3376
+HDU,3638,"Go , SuSu",49,,81,458
+HDU,3636,Escape from Zirong forest,38,,75,383
+HDU,3637,Find a Fraction,56,,88,335
+HDU,3635,Dragon Balls,1186,,2500,6691
+HDU,3634,City Planning,162,,258,565
+HDU,3633,Black and white,53,,81,264
+HDU,3632,A Captivating Match,136,,216,458
+HDU,3631, Shortest Path,735,,1410,5746
+HDU,3625,Examining the Rooms,713,,1180,1916
+HDU,3629,Convex,311,,671,2118
+HDU,3630,Crystal mine,74,,136,703
+HDU,3628,HeavenHelix,107,,193,610
+HDU,3627,Giant For,288,,622,2608
+HDU,3626,For,345,,529,1167
+HDU,3624,Digital Calculator,57,,119,954
+HDU,3621,Area K,19,,73,478
+HDU,3620,Ice-Skating,64,,97,303
+HDU,3622,Bomb Game,876,,2043,5659
+HDU,3618,Good Plan,60,,91,261
+HDU,3619,Heroes of Might and Magic,92,,138,276
+HDU,3615,Defense of the Ancients,13,,16,141
+HDU,3617,Failure Is a Good Thing,35,,47,202
+HDU,3616,Escape From Huarong Road,57,,92,246
+HDU,3614,Card Game,64,,87,189
+HDU,3613,Best Reward,453,,1151,2816
+HDU,3610,Support Sichuan II,62,,79,208
+HDU,3612,Age of the Great Voyages,62,,91,196
+HDU,3608,TT,12,,39,158
+HDU,3607,Traversal,250,,438,1278
+HDU,3609,Up-up,235,,557,1949
+HDU,3606,The police caught the thief,2,,2,63
+HDU,3605,Escape,899,,2671,11133
+HDU,3604,The  N cubes puzzle,21,,26,132
+HDU,3603,Coach Yehr’s punishment,87,,137,561
+HDU,3600,Simple Puzzle,199,,319,1041
+HDU,3601,A pungent problem,82,,158,452
+HDU,3602,2012,220,,305,771
+HDU,3794,Magic Coupon,283,,463,1741
+HDU,3795,Diff,28,,35,156
+HDU,3793,Is It Symmetric,463,,579,1401
+HDU,3791,二叉搜索树,1353,,2661,5906
+HDU,3792,Twin Prime Conjecture,805,,1342,3618
+HDU,3789,奥运排序问题,609,,970,3695
+HDU,3790,最短路径问题,3404,,8744,29493
+HDU,3786,找出直系亲属,556,,769,1821
+HDU,3788,ZOJ问题,900,,1439,4660
+HDU,3787,A+B,1914,,3105,5478
+HDU,3784,继续xxx定律,705,,1020,3387
+HDU,3785,寻找大富翁,1738,,2775,7481
+HDU,3783,ZOJ,1571,,2235,3362
+HDU,3782,xxx定律,2468,,3586,4908
+HDU,3781,Aronson,49,,63,101
+HDU,3778,Soccer,43,,66,239
+HDU,3779,Railroad,197,,442,1035
+HDU,3777,Page Count,82,,153,490
+HDU,3780,Post Office,51,,96,389
+HDU,3776,Task,36,,56,184
+HDU,3775,Chain Code,67,,112,231
+HDU,3773,Parenthesis,25,,55,332
+HDU,3772,Tunnelling the Earth,34,,43,90
+HDU,3771,HST,19,,35,222
+HDU,3770,Ideas,0,,0,52
+HDU,3774,Ropes,63,,105,145
+HDU,3768,Shopping,165,,340,982
+HDU,3767,Paintball,30,,42,136
+HDU,3769,Stack Machine,3,,3,49
+HDU,3766,Knight's Trip,131,,159,603
+HDU,3765,Celebrity Split,118,,203,418
+HDU,3764,Alaska,142,,160,467
+HDU,3761,Jungle Outpost,142,,339,1323
+HDU,3758,Factorial Simplification,103,,207,627
+HDU,3760,Ideal Path,171,,368,1952
+HDU,3757,Evacuation Plan,113,,223,1182
+HDU,3759,Hands of Poker,43,,70,173
+HDU,3756,Dome of Circus,377,,763,1728
+HDU,3755,Cactus Revolution,0,,0,60
+HDU,3753,Alignment of Code,175,,352,1374
+HDU,3754,Binary Operation,33,,61,239
+HDU,3752,Is the one been second-killed first?,645,,856,1409
+HDU,3751,HDU CakeMan,42,,103,560
+HDU,3749,Financial Crisis,134,,276,877
+HDU,3750,Guess Game,288,,464,807
+HDU,3748,Equivalent mass,51,,75,317
+HDU,3763,CD,215,,453,1025
+HDU,3746,Cyclic Nacklace,1620,,4400,10269
+HDU,3744,A Runing Game,313,,433,952
+HDU,3743,Frosh Week ,530,,1227,3581
+HDU,3740,Buzzwords,13,,22,96
+HDU,3741,Ferry Loading V ,20,,29,127
+HDU,3742,Driving Range ,51,,91,251
+HDU,3739,Anti LIS,77,,149,593
+HDU,3736,Choose The Soldiers,13,,18,144
+HDU,3735,Recursive Sequence,36,,97,239
+HDU,3734,How Many W,31,,51,268
+HDU,3733,Decrypt,49,,64,179
+HDU,3732,Ahui Writes Word,692,,1171,3255
+HDU,3731,God of Number Theory,32,,62,243
+HDU,3729,I'm Telling the Truth,605,,1227,2491
+HDU,3727,Jewel,204,,456,1810
+HDU,3737,Adaboost,4,,4,107
+HDU,3725,Farm,36,,66,245
+HDU,3726,Graph and Queries,287,,995,4202
+HDU,3738,The Sweat Shop,51,,56,159
+HDU,3724,Encoded Barcodes,329,,750,2219
+HDU,3723,Delta Wave,238,,470,1425
+HDU,3722,Card Game,417,,833,1942
+HDU,3721,Building Roads,189,,405,999
+HDU,3720,Arranging Your Team,272,,544,1690
+HDU,3728,Hyperspace Travel,26,,54,640
+HDU,3719,Snooker Referee,41,,44,153
+HDU,3718,Similarity,434,,901,2242
+HDU,3717,Rescue,131,,307,1084
+HDU,3716,Jenga,70,,108,215
+HDU,3715,Go Deeper,460,,1035,3191
+HDU,3745,Block by Block,8,,11,59
+HDU,3713,Double Maze,225,,516,1355
+HDU,3714,Error Curves,727,,2346,6249
+HDU,3712,Detector Placement,79,,147,529
+HDU,3711,Binary Number,623,,1601,2785
+HDU,3709,Balanced Number,1031,,3008,6291
+HDU,3710,Battle over Cities,52,,95,335
+HDU,3707,Sensor,2,,2,45
+HDU,3706,Second My Problem First,357,,782,2059
+HDU,3705,Maple is a good techer,11,,12,277
+HDU,3704,Gem Combining,0,,0,78
+HDU,3701,Country X,4,,7,104
+HDU,3703,Disconnect,1,,1,54
+HDU,3700,Cat,99,,136,527
+HDU,3762,K-Graph Oddity,39,,112,801
+HDU,3747,Download,294,,417,838
+HDU,3730,Chain,191,,288,894
+HDU,3708,Warrior Lady,14,,23,201
+HDU,3702,The Covering Polygon,9,,14,249
+HDU,3898,Indeed Quick Sort,9,,13,142
+HDU,3899,JLUCPC,235,,419,1386
+HDU,3897,Happy Trip,4,,5,82
+HDU,3893,Drawing Pictures,188,,295,659
+HDU,3896,Greatest TC,139,,249,883
+HDU,3894,East and West,53,,75,294
+HDU,3892,Common Roots,85,,129,306
+HDU,3891,Being a Predictor,77,,179,354
+HDU,3888,Hatsune Miku,5,,6,84
+HDU,3889,Statistical Problems,196,,287,683
+HDU,3890,Apparent Magnitude,151,,264,888
+HDU,3887,Counting Offspring,516,,1045,3069
+HDU,3886,Final Kichiku “Lanlanshu”,187,,458,1199
+HDU,3885,Find the Difference,114,,202,471
+HDU,3884,Hinanai Tenshi’s peach garden,93,,164,593
+HDU,3882,Strange Galaxy,30,,31,60
+HDU,3883,CS and Sugar,123,,186,451
+HDU,3880,Lucky Numbers,249,,367,1202
+HDU,3881,Pirates of the Caribbean,49,,83,440
+HDU,3879,Base Station,527,,1172,2725
+HDU,3877,Special sort,289,,439,1498
+HDU,3878,X Property,1,,1,157
+HDU,3876,A pupil’s problem,307,,433,1094
+HDU,3874,Necklace,747,,1754,5162
+HDU,3871,Cubic Maze,36,,61,311
+HDU,3873,Invade the Mars,298,,715,2503
+HDU,3875,Euclidean Algorithm,89,,197,635
+HDU,3869,Color the Simple Cycle,64,,86,331
+HDU,3870,Catch the Theves,298,,580,1768
+HDU,3872,Dragon Ball,102,,161,353
+HDU,3868,The Triangle ransmitter,127,,302,715
+HDU,3867,Light and Shadow,96,,213,765
+HDU,3865,A Hard Journey,87,,107,277
+HDU,3866,Moonfang's Birthday,323,,462,1111
+HDU,3860,Circuit Board,64,,121,434
+HDU,3864,D_num,490,,1214,3919
+HDU,3863,No Gambling,738,,1372,1867
+HDU,3862,The Lost Traveler,181,,252,813
+HDU,3861,The King’s Problem,615,,1148,3244
+HDU,3859,Inverting Cups,201,,306,1130
+HDU,3856,Palindrome,1,,2,522
+HDU,3855,Chocolate Machine,81,,153,473
+HDU,3854,Glorious Array,124,,218,732
+HDU,3853,LOOPS,1105,,2672,6640
+HDU,3847,Trash Removal,174,,373,1119
+HDU,3850,Puzzling Maze,37,,53,166
+HDU,3848,CC On The Tree,317,,699,1974
+HDU,3846,Pyramids,58,,90,376
+HDU,3849,"By Recognizing These Guys, We Find Social Networks Useful",376,,929,3640
+HDU,3845,Mummy Madness,33,,78,272
+HDU,3858,Counting Grids,1,,2,167
+HDU,3843,Magic Sticks,31,,43,140
+HDU,3844,Mining Your Own Business,192,,449,2306
+HDU,3842,Machine Works,123,,263,880
+HDU,3857,Who pat the head of itself?,226,,433,784
+HDU,3840,Chips Challenge,16,,33,102
+HDU,3841,Coffee Central,66,,184,455
+HDU,3839,Ancient Messages,134,,272,909
+HDU,3837,To Add or to Multiply,25,,42,194
+HDU,3838,Affine Mess,27,,27,85
+HDU,3851,Beat It!,140,,325,983
+HDU,3836,Equivalent Sets,889,,1765,4883
+HDU,3835,R(N),837,,1510,2919
+HDU,3834,Where am I,97,,206,1114
+HDU,3833,YY's new problem,764,,1652,5931
+HDU,3831,DICS,170,,306,734
+HDU,3830,Checkers,219,,470,1582
+HDU,3829,Cat VS Dog,743,,1463,4047
+HDU,3828,A + B problem,115,,200,882
+HDU,3826,Squarefree number,420,,850,3344
+HDU,3824,Saving the Princess,62,,106,435
+HDU,3825,Splendid Moment Collector,45,,74,242
+HDU,3827,The Killers of Two Kingdoms,47,,82,252
+HDU,3823,Prime Friend,316,,692,3386
+HDU,3822,Moving the Mouse,1,,1,73
+HDU,3821,Graceful Matrix,74,,128,375
+HDU,3820,Golden Eggs,225,,364,610
+HDU,3819,A and B Problem,202,,296,892
+HDU,3818,A + B Problem,149,,245,658
+HDU,3817,Triangle,721,,916,1450
+HDU,3816,To Be NUMBER ONE,206,,304,564
+HDU,3815,Stones,43,,80,236
+HDU,3813,Seeing the Stars,0,,0,44
+HDU,3814,Signal Coverage,13,,17,182
+HDU,3812,Sea Sky,99,,170,982
+HDU,3811,Permutation,153,,218,458
+HDU,3809,Decrypt coordinate,239,,395,908
+HDU,3810,Magina,118,,273,812
+HDU,3808,Celebration of Stefanie's Wedding,202,,285,624
+HDU,3807,How many people have ipad II,88,,124,304
+HDU,3806,Configuration files,18,,21,92
+HDU,3805,Triangle Conjecture,86,,96,183
+HDU,3804,Query on a tree,173,,307,1253
+HDU,3802,"Ipad,IPhone",131,,171,410
+HDU,3801,How Many HouGong,11,,11,92
+HDU,3803,gxx's Problem,66,,92,362
+HDU,3800,Centeur,5,,6,56
+HDU,3895,Find the Circle,39,,48,179
+HDU,3852,Even For Ever,3,,4,127
+HDU,3832,Earth Hour,466,,804,2014
+HDU,3997,Super macros,6,,6,105
+HDU,3999,The order of  a Tree,581,,1178,2206
+HDU,3998,Sequence,430,,854,2353
+HDU,3996,Gold Mine,322,,668,2941
+HDU,3994,Mission Impossible,92,,127,288
+HDU,3995,Perfect Faceless Void,99,,144,329
+HDU,3993,Horse Racing,133,,194,689
+HDU,3991,Harry Potter and the Present II,212,,463,1867
+HDU,3990,Harry Potter and the Present,14,,21,188
+HDU,3992,Crazy Typewriter,94,,154,516
+HDU,3989,Harry Potter and the Polyjuice Potion,79,,159,649
+HDU,3986,Harry Potter and the Final Battle,469,,1070,3700
+HDU,3988,Harry Potter and the Hide Story,294,,783,3047
+HDU,3987,Harry Potter and the Forbidden Forest,343,,733,2147
+HDU,3984,Harry Potter and the Cyber Stone,7,,10,66
+HDU,3983,Harry Potter and the Binary Kingdom,33,,55,354
+HDU,3985,Harry Potter and the D.A.,33,,97,318
+HDU,3982,Harry Potter and J.K.Rowling,126,,322,955
+HDU,3979,Monster,295,,578,2012
+HDU,3980,Paint Chain,393,,735,2015
+HDU,3981,Sacred Warrior,36,,69,163
+HDU,3978,Evil teacher's Final Problem,75,,120,256
+HDU,3977,Evil teacher,159,,280,588
+HDU,3976,Electric resistance,196,,414,770
+HDU,3975,Easy Fruit Ninja,117,,178,647
+HDU,3973,AC's String,205,,532,2615
+HDU,3974,Assign the task,481,,1489,3596
+HDU,3971,Play With Sequence,103,,279,538
+HDU,3972,1 M possible,186,,354,1547
+HDU,3969,Crazy Basketball Fan,49,,58,144
+HDU,3968,Angry Birds Again,120,,217,643
+HDU,3970,Harmonious Set,58,,80,205
+HDU,3966,Aragorn's Story,1131,,3466,12989
+HDU,3967,Zero's Number,134,,238,554
+HDU,3965,Random Function,25,,49,272
+HDU,3961,Crisis,44,,94,320
+HDU,3962,Microgene,124,,215,367
+HDU,3963,Sisters,19,,30,148
+HDU,3964,Find The Simple Circle,170,,267,529
+HDU,3958,Tower Defence,38,,55,215
+HDU,3959,Board Game Dice,325,,446,960
+HDU,3956,SanguoSHA,8,,10,51
+HDU,3957,Street Fighter,227,,524,1345
+HDU,3953,I'll play a trick on you,584,,813,1592
+HDU,3952,Fruit Ninja,316,,463,968
+HDU,3955,March,91,,163,698
+HDU,3954,Level up,458,,1261,4497
+HDU,3950,Parking Log,86,,139,473
+HDU,3951,Coin Game,719,,1201,2177
+HDU,3949,XOR,543,,1060,3079
+HDU,3948,The Number of Palindromes,305,,912,2644
+HDU,3947,River Problem,160,,256,666
+HDU,3946,Philosophy Girl’s Trail,191,,273,861
+HDU,3945,The irRegularGame of Life,43,,74,226
+HDU,3942,Everyone Has His Wing Broken,19,,41,254
+HDU,3943,K-th Nya Number,408,,1010,3119
+HDU,3944,DP?  ,506,,1112,3493
+HDU,3941,Bear-Baby,63,,100,313
+HDU,3939,Sticks and Right Triangle,131,,296,745
+HDU,3940,The Angry Birds,267,,494,952
+HDU,3938,Portal,508,,869,1769
+HDU,3936,FIB Query,246,,417,939
+HDU,3937,商品检索,97,,182,716
+HDU,3935,Dark Room,218,,416,1201
+HDU,3932,Groundhog Build Home,480,,1310,3282
+HDU,3934,Summer holiday,354,,703,1948
+HDU,3933,Dark Parth,264,,383,719
+HDU,3931,Cross the Fire,138,,212,472
+HDU,3930,Broot,114,,301,1089
+HDU,3929,Big Coefficients,159,,312,757
+HDU,3928,Catch the Thief,89,,130,410
+HDU,3927,Math Geek,330,,515,994
+HDU,3925,Substring,211,,352,1229
+HDU,3926,Hand in Hand,512,,824,2406
+HDU,3923,Invoker,424,,840,1856
+HDU,3921,Clear All of Them II,82,,142,325
+HDU,3924,Extend-Tree,103,,211,846
+HDU,3922,Enchantress,4,,4,168
+HDU,3920,Clear All of Them I,359,,704,2040
+HDU,3919,Little Sheep,39,,72,243
+HDU,3918,Beiju,106,,204,761
+HDU,3917,Road constructions,339,,614,1842
+HDU,3915,Game,255,,425,1002
+HDU,3916,Sequence Decomposition,214,,333,642
+HDU,3914,Super Mario,14,,23,143
+HDU,3912,Turn Right,284,,480,1381
+HDU,3913,SUFFIX,98,,131,303
+HDU,3911,Black And White,654,,1579,5360
+HDU,3909,Sudoku,147,,285,676
+HDU,3905,Sleeping,411,,812,2163
+HDU,3908,Triple,477,,728,1737
+HDU,3906,Girls’ Party,8,,14,58
+HDU,3910,Liang Guo Sha,415,,584,786
+HDU,3907,Replica Placement,87,,111,311
+HDU,3904,Hurry Up,19,,28,215
+HDU,3902,Swordsman,276,,525,1383
+HDU,3903,Trigonometric Function,241,,345,816
+HDU,3900,Unblock Me,99,,216,409
+HDU,3901,Wildcard,222,,416,2257
+HDU,4099,Revenge of Fibonacci,369,,838,3318
+HDU,4097,Triangles and Quadrangle,140,,281,1316
+HDU,4096,Universal Question Answering System,144,,313,1782
+HDU,4095,Very Boring Homework,62,,90,273
+HDU,4092,Yummy Triangular Pizza,72,,92,182
+HDU,4094,Winmine.exe,0,,0,67
+HDU,4093,Xavier is Learning to Count,54,,89,496
+HDU,4091,Zombie’s Treasure Chest,553,,1368,6490
+HDU,4090,GemAnd Prince,203,,484,1345
+HDU,4089,Activation,576,,1389,4147
+HDU,4087,ALetter to Programmers,160,,373,1173
+HDU,4088,Healing,0,,0,89
+HDU,4084,The Voyages of Zheng He,1,,1,38
+HDU,4085,Peach Blossom Spring,399,,1094,2816
+HDU,4086,Harry Potter and the holy banquet,3,,4,70
+HDU,4098,Share the Cakes,4,,4,272
+HDU,4078,Routing,0,,0,62
+HDU,4080,Stammering Aliens,238,,522,1569
+HDU,4079,Happy Telephones,161,,285,430
+HDU,4081,Qin Shi Huang's National Road System,1036,,3079,8687
+HDU,4077,Slalom,64,,123,357
+HDU,4076,Haunted Graveyard,97,,159,578
+HDU,4075,Genetics,0,,0,85
+HDU,4074,Darts,49,,70,183
+HDU,4073,Lights,27,,35,101
+HDU,4072,Working at the Restaurant,66,,102,316
+HDU,4071,Trick or Treat,92,,172,667
+HDU,4070,Phage War,443,,729,1310
+HDU,4069,Squiggly Sudoku,326,,817,1961
+HDU,4068,SanguoSHA,382,,712,1314
+HDU,4065,Catan,43,,88,202
+HDU,4067,Random Maze,300,,633,1574
+HDU,4064,Carcassonne,204,,406,1008
+HDU,4066,Random Sequence,224,,368,557
+HDU,4063,Aircraft,170,,363,1357
+HDU,4062,Abalone,38,,55,197
+HDU,4061,A Card Game,402,,587,804
+HDU,4060,Chess Board,56,,86,380
+HDU,4059,The Boss on Mars,433,,926,2879
+HDU,4058,Advanture of Xiaoxingxing,19,,49,348
+HDU,4057,Rescue the Rabbit,313,,653,2233
+HDU,4056,Draw a Mess,160,,294,1170
+HDU,4055,Number String,489,,1044,2149
+HDU,4054,Hexadecimal View,647,,1137,2841
+HDU,4052,Adding New Machine,192,,378,1620
+HDU,4053,The Last Puzzle,66,,109,1011
+HDU,4049,Tourism Planning,293,,597,1343
+HDU,4051,Compress the String,42,,85,427
+HDU,4050,wolf5x,194,,343,526
+HDU,4048,Zhuge Liang's Stone Sentinel Maze,71,,139,473
+HDU,4045,Machine scheduling,319,,641,1700
+HDU,4047,Raining,18,,29,115
+HDU,4044,GeoDefense,283,,621,1430
+HDU,4043,FXTZ II,203,,358,703
+HDU,4042,Fireworks,40,,74,379
+HDU,4040,Astrolabe,9,,12,114
+HDU,4041,Eliminate Witches!,345,,642,1684
+HDU,4039,The Social Network,507,,929,3142
+HDU,4038,Stone,376,,705,2770
+HDU,4036,Rolling Hongshu,381,,644,2093
+HDU,4037,Development Value,91,,171,742
+HDU,4035,Maze,588,,1185,2788
+HDU,4034,Graph,745,,1265,2476
+HDU,4033,Regular Polygon,568,,1188,3946
+HDU,4031,Attack,425,,867,2642
+HDU,4032,Fight the Landlord,28,,37,191
+HDU,4029,Distinct Sub-matrix,157,,320,1013
+HDU,4030,Tank,82,,134,580
+HDU,4046,Panda,598,,1180,3728
+HDU,4028,The time of a day,357,,615,1343
+HDU,4026,Unlock the Cell Phone,201,,414,828
+HDU,4027,Can you answer these queries?,1472,,4474,18940
+HDU,4023,Game,261,,416,1190
+HDU,4022,Bombing,694,,1631,4361
+HDU,4024,Dwarven Sniper’s hunting,226,,424,843
+HDU,4025,Equation of XOR,162,,285,954
+HDU,4021,24 Puzzle,333,,538,1719
+HDU,4019,Batch System,9,,12,92
+HDU,4016,Magic Bitwise And Operation,282,,665,1637
+HDU,4017,Shortest Path on a Cylinder,1,,6,336
+HDU,4014,Jimmy’s travel plan,45,,109,545
+HDU,4020,Ads Proposal,392,,785,2375
+HDU,4018,Parsing URL,702,,1119,2309
+HDU,4015,Mario and Mushrooms,390,,606,806
+HDU,4012,Paint on a Wall,222,,446,1107
+HDU,4013,Distinct Subtrees,148,,263,520
+HDU,4011,Working in Beijing,484,,824,1905
+HDU,4010,Query on The Trees,559,,2475,6164
+HDU,4007,Dave,721,,1392,4103
+HDU,4009,Transfer water,685,,1939,5349
+HDU,4008,Parent and son,335,,618,2500
+HDU,4006,The kth great number,2081,,4830,12334
+HDU,4003,Find Metal Mineral,810,,1736,3713
+HDU,4004,The Frog's Games,1505,,3682,7817
+HDU,4005,The war,318,,669,2801
+HDU,4002,Find the maximum,603,,936,2230
+HDU,4000,Fruit Ninja,450,,993,2538
+HDU,4001,To Miss Our Children Time,706,,1331,4757
+HDU,4083,Three Kingdom Chess,38,,57,351
+HDU,4082,Hou Yi's secret,428,,1175,5111
+HDU,4199,Find the Treasure,15,,23,110
+HDU,4198,Quick out of the Harbour,377,,795,1896
+HDU,4197,Popping Balloons,99,,195,494
+HDU,4196,Remoteland,250,,528,1286
+HDU,4195,Regular Convex Polygon,173,,395,1238
+HDU,4194,Peer Review,125,,228,596
+HDU,4192,Guess the Numbers,186,,347,897
+HDU,4190,Distributing Ballot Boxes,423,,942,1819
+HDU,4193,Non-negative Partial Sums,419,,1012,2946
+HDU,4191,"Game, Set and Match",63,,84,160
+HDU,4188,Coin Collecting,5,,5,38
+HDU,4186,Numbers Game,26,,69,338
+HDU,4187,Alphabet Soup,64,,133,507
+HDU,4184,Detour Buster,0,,0,78
+HDU,4183,Pahom on Water,269,,549,1178
+HDU,4182,Help-or-else,38,,53,125
+HDU,4179,Difficult Routes,124,,260,1239
+HDU,4175,Class Schedule,116,,222,381
+HDU,4176,Class Statistics,172,,241,356
+HDU,4174,Numbersrebmun,126,,188,392
+HDU,4189,Cybercrime Donut Investigation,90,,147,603
+HDU,4172,Octagons,32,,82,227
+HDU,4171,Paper Route,121,,229,730
+HDU,4169,Wealthy Family,161,,376,983
+HDU,4185,Oil Skimming,429,,1217,2929
+HDU,4170,Supply Mission,91,,150,486
+HDU,4168,Citizenship Application,35,,49,354
+HDU,4166,Robot Navigation,142,,305,1240
+HDU,4167,User Names,191,,358,990
+HDU,4177,Avoiding a disaster,125,,187,372
+HDU,4178,Roll-call in Woop Woop High,150,,209,303
+HDU,4165,Pills,549,,1105,1581
+HDU,4164,Contour Tracing,62,,71,162
+HDU,4163,Stock Prices,289,,488,1164
+HDU,4162,Shape Number,369,,743,1503
+HDU,4161,Iterated Difference,429,,737,1154
+HDU,4159,Indomie,191,,253,556
+HDU,4160,Dolls,511,,833,1700
+HDU,4158,GO,175,,274,503
+HDU,4157,Slalom,34,,55,329
+HDU,4155,The Game of 31,237,,410,858
+HDU,4154,Alaska,292,,406,960
+HDU,4153,Grey Area,229,,325,534
+HDU,4151,The Special Number,405,,759,2523
+HDU,4156,Egypt,655,,805,1127
+HDU,4152,ZZY’s Dilemma,220,,348,764
+HDU,4150,Powerful Incantation,486,,882,1917
+HDU,4147,KFC -Z+W,610,,1060,2104
+HDU,4148,Length of S(n),533,,819,1378
+HDU,4146,Flip Game,392,,699,2069
+HDU,4149,Magic Potion,182,,278,473
+HDU,4145,Cover The Enemy,274,,438,1651
+HDU,4144,Bacon's Cipher,607,,981,1768
+HDU,4142,Triangle,243,,266,451
+HDU,4141,Crank,73,,108,271
+HDU,4143,A Simple Problem,823,,1478,5639
+HDU,4139,Big Division,112,,220,552
+HDU,4140,Calculator,74,,127,297
+HDU,4137,Manhattan Sort,128,,156,268
+HDU,4138,Cipher,36,,53,99
+HDU,4136,Wimbledon,28,,40,112
+HDU,4135,Co-prime,970,,2273,5684
+HDU,4134,Sequence Folding,126,,150,251
+HDU,4133,StrangeStandard,129,,182,339
+HDU,4132,How Far Can Drive At Most,65,,76,209
+HDU,4131,Fraction Tree,54,,84,171
+HDU,4130,Shadow,16,,30,144
+HDU,4128,Running relay,134,,404,1708
+HDU,4129,Porcelain Exhibitions,34,,71,286
+HDU,4127,Flood-it!,208,,526,2075
+HDU,4126,Genghis Khan the Conqueror,371,,876,2857
+HDU,4125,Moles,227,,732,3675
+HDU,4124,My World Cup,17,,25,85
+HDU,4121,Xiangqi,591,,1528,6371
+HDU,4122,Alice's mooncake shop,407,,1126,4307
+HDU,4123,Bob’s Race,380,,1198,3730
+HDU,4120,Ji-Tu Problem,63,,113,683
+HDU,4118,Holiday's Accommodation,423,,998,3108
+HDU,4117,GRE Words,156,,436,4508
+HDU,4119,Isabella's Message,324,,766,2590
+HDU,4116,Fruit Ninja,92,,188,996
+HDU,4114,Disney's FastPass,272,,694,2480
+HDU,4113,Construct the Great Wall,38,,81,181
+HDU,4115,Eliminate the Conflict,462,,1064,2434
+HDU,4112,Break the Chocolate,713,,1666,5064
+HDU,4111,Alice and Bob,383,,821,2191
+HDU,4110,Jumping Robot,5,,6,152
+HDU,4108,Harmony,18,,31,131
+HDU,4109,Instrction Arrangement,371,,822,1956
+HDU,4107,Gangster,285,,779,3197
+HDU,4106,Fruit Ninja,114,,256,753
+HDU,4105,Electric wave,156,,320,990
+HDU,4103,Clock,214,,439,1109
+HDU,4104,Discount,683,,1315,2258
+HDU,4102,Books,28,,33,281
+HDU,4100,Quelling Blade,15,,33,94
+HDU,4101,Ali and Baba,217,,530,2390
+HDU,4181,Insidious Branding,34,,55,286
+HDU,4180,RealPhobia,175,,297,666
+HDU,4173,Party Location,107,,237,701
+HDU,4297,One and One Story,132,,454,1043
+HDU,4296,Buildings,751,,1686,4591
+HDU,4295,4 substrings problem,121,,236,700
+HDU,4294,Multiple,179,,335,1236
+HDU,4293,Groups,391,,712,1814
+HDU,4292,Food,691,,2046,6055
+HDU,4291,A Short problem,499,,999,2864
+HDU,4290,Counting Formations,50,,88,203
+HDU,4289,Control,627,,1508,3587
+HDU,4288,Coder,917,,2254,6083
+HDU,4287,Intelligent IME,1016,,2388,5077
+HDU,4285,circuits,145,,397,1155
+HDU,4282,A very hard mathematic problem,807,,2250,7448
+HDU,4286,Data Handler,315,,804,3229
+HDU,4281,Judges' response,218,,453,790
+HDU,4284,Travel,461,,1228,4536
+HDU,4280,Island Transport,739,,2982,9232
+HDU,4283,You Are the One,854,,2074,4425
+HDU,4278,Faulty Odometer,839,,1451,2097
+HDU,4279,Number,604,,1293,5501
+HDU,4277,USACO ORZ,649,,1836,5536
+HDU,4272,LianLianKan,556,,1221,4038
+HDU,4274,Spy's Work,269,,512,1535
+HDU,4271,Find Black Hand,183,,393,1564
+HDU,4269,Defend Jian Ge,108,,231,1019
+HDU,4267,A Simple Problem with Integers,867,,1933,6019
+HDU,4266,The Worm in the Apple,204,,411,832
+HDU,4265,Science!,109,,180,580
+HDU,4262,Juggler,159,,280,682
+HDU,4264,The Red Gem,61,,91,253
+HDU,4276,The Ghost Blows Light,492,,1118,3512
+HDU,4273,Rescue,228,,383,529
+HDU,4261,Estimation,127,,329,879
+HDU,4260,The End of The World,194,,372,788
+HDU,4258,Covered Walkway,299,,615,1529
+HDU,4275,Color the Tree,92,,218,624
+HDU,4257,CosmoCraft,27,,43,138
+HDU,4256,The Famous Clock,564,,983,1451
+HDU,4270,Dynamic Lover,139,,329,1115
+HDU,4255,A Famous Grid,386,,815,2136
+HDU,4268,Alice and Bob,698,,1575,5004
+HDU,4254,A Famous Game,215,,370,1225
+HDU,4253,Two Famous Companies,168,,353,1167
+HDU,4263,Red/Blue Spanning Tree,269,,467,1130
+HDU,4250,A Famous King’s Trip,30,,58,370
+HDU,4251,The Famous ICPC Team Again,406,,766,1604
+HDU,4246,A Famous Airport Manager,78,,133,617
+HDU,4248,A Famous Stone Collector,281,,567,1462
+HDU,4247,A Famous ICPC Team,416,,752,1319
+HDU,4249,A Famous Equation,155,,248,719
+HDU,4245,A Famous Music Composer,426,,769,1370
+HDU,4244,The Golden Ceiling,23,,28,80
+HDU,4243,Maximum in the Cycle of 1,130,,197,354
+HDU,4238,Programming the EDSAC,44,,57,152
+HDU,4240,Route Redundancy,226,,464,793
+HDU,4239,Decoding EDSAC Data,76,,95,172
+HDU,4241,QR,17,,21,67
+HDU,4242,Rancher's Gift,79,,114,172
+HDU,4237,The Rascal Triangle,203,,284,367
+HDU,4236,Repeating Characters,255,,346,495
+HDU,4234,Moving Points ,60,,105,330
+HDU,4252,A Famous City,479,,1026,2740
+HDU,4235,Vampire Numbers ,199,,303,640
+HDU,4233,Family Fortune ,81,,126,343
+HDU,4231,Folding Game ,28,,29,94
+HDU,4232,Burnout ,3,,3,62
+HDU,4230,Robot Navigation ,104,,149,468
+HDU,4229,Vive la Difference! ,226,,289,436
+HDU,4228,Flooring Tiles,154,,228,474
+HDU,4227,Hexagram,51,,67,156
+HDU,4225,Simulation?,19,,25,193
+HDU,4226,Sunday Drive,87,,103,290
+HDU,4224,Enumeration?,234,,417,887
+HDU,4223, Dynamic Programming?,513,,1043,2267
+HDU,4221,Greedy?,385,,846,2514
+HDU,4219,Randomization?,106,,176,305
+HDU,4222,Graph Theory?,5,,7,56
+HDU,4220,Brute Force?,3,,5,67
+HDU,4218, IMBA?,250,,472,952
+HDU,4217,Data Structure?,509,,1089,3393
+HDU,4216,Computational Geometry?,112,,207,605
+HDU,4215,Number Theory?,222,,334,506
+HDU,4214,Crash and Go(relians),79,,86,160
+HDU,4213,Sokoban,130,,230,536
+HDU,4210,Su-domino-ku,77,,113,203
+HDU,4209,Pizza Pricing,220,,236,321
+HDU,4211,Refrigerator Magnets,182,,237,374
+HDU,4212,Shut the Box,86,,146,346
+HDU,4208,Laser Tag,16,,27,126
+HDU,4207,Grade School Multiplication,153,,213,564
+HDU,4205,Parking Ships,71,,117,307
+HDU,4206,Treasure Map,184,,216,476
+HDU,4204,Walking the Plank,17,,32,107
+HDU,4203,Doubloon Game,238,,399,745
+HDU,4202,Ultimate Finishing Strike,5,,7,34
+HDU,4200,Bad Wiring,170,,316,992
+HDU,4259,Double Dealing,327,,745,2080
+HDU,4398,Template Library Management,155,,283,1023
+HDU,4397,Rubik's Cube,104,,158,446
+HDU,4399,Colorful Points ,37,,63,185
+HDU,4396,More lumber is required,324,,629,1660
+HDU,4394,Digital Square,389,,804,1996
+HDU,4391,Paint The Wall,353,,975,3526
+HDU,4393,Throw nails,347,,642,1942
+HDU,4395,D-mail,186,,349,1501
+HDU,4392,Maximum Number Of Divisors,61,,129,365
+HDU,4390,Number Sequence,309,,589,1385
+HDU,4388,Stone Game II,142,,202,351
+HDU,4389,X mod f(x),621,,1244,3205
+HDU,4386,Quadrilateral,428,,806,1823
+HDU,4387,Stone Game,224,,386,927
+HDU,4385,Moving Bricks,176,,321,807
+HDU,4384,King Kong II,13,,13,102
+HDU,4383,How to paint a tree,88,,154,421
+HDU,4382,Harry Potter and Cyber Sequence Generator,107,,186,519
+HDU,4381,Grid,179,,316,949
+HDU,4379,The More The Better ,415,,916,3532
+HDU,4380,Farmer Greedy,309,,639,2066
+HDU,4378,The battle on X-Star,53,,101,423
+HDU,4377,Sub Sequence,266,,390,835
+HDU,4376,Simple Counting,40,,52,152
+HDU,4373,Mysterious For,163,,330,822
+HDU,4371,Alice and Bob,324,,589,955
+HDU,4370,0 or 1,349,,750,2346
+HDU,4369,Water World II,9,,17,190
+HDU,4372,Count the Buildings,281,,726,2218
+HDU,4375,Programmable Robot,71,,122,397
+HDU,4374,One hundred layer,411,,784,2248
+HDU,4368,Water World I,131,,198,542
+HDU,4367,The war of virtual world,98,,198,747
+HDU,4366,Successor,454,,1153,4604
+HDU,4365,Palindrome graph,284,,606,1914
+HDU,4364,Matrix operation,277,,458,1111
+HDU,4362,Dragon Ball,466,,1029,2758
+HDU,4363,Draw and paint,143,,242,619
+HDU,4361,Dead or alive,58,,77,158
+HDU,4360,As long as Binbin loves Sangsang,347,,790,3605
+HDU,4356,Three Eggache God,80,,134,312
+HDU,4359,Easy Tree DP?,295,,638,1609
+HDU,4358,Boring counting,329,,860,2892
+HDU,4357,String change,392,,657,1463
+HDU,4355,Party All the Time,638,,1792,5672
+HDU,4354,Missile,100,,196,637
+HDU,4353,Finding Mine,186,,409,1360
+HDU,4352,XHXJ's LIS,505,,1318,3135
+HDU,4351,Digital root,264,,645,2014
+HDU,4350,Card,461,,932,1684
+HDU,4349,Xiao Ming's Hope,763,,1652,2402
+HDU,4348,To the moon,481,,1446,6235
+HDU,4347,The Closest M Points,489,,1680,5286
+HDU,4346,The Beautiful Road,136,,222,413
+HDU,4345,Permutation,284,,558,941
+HDU,4344,Mark the Rope,341,,975,2918
+HDU,4343,Interval query,220,,543,1639
+HDU,4342,History repeat itself,438,,868,1808
+HDU,4341,Gold miner,469,,906,2380
+HDU,4340,Capturing a country,296,,539,1317
+HDU,4339,Query,515,,1066,3242
+HDU,4337,King Arthur's Knights,444,,1029,2549
+HDU,4338,Simple Path,119,,258,1231
+HDU,4335,What is N?,230,,491,1722
+HDU,4336,Card Collector,1026,,2330,4608
+HDU,4332,Constructing Chimney,177,,512,1256
+HDU,4333,Revolving Digits,632,,5848,26490
+HDU,4331,Image Recognition,284,,557,1498
+HDU,4329,MAP,176,,290,964
+HDU,4328,Cut the cake,261,,504,1276
+HDU,4327,Shooting,113,,193,455
+HDU,4326,Game,99,,180,390
+HDU,4324,Triangle LOVE,872,,1962,4979
+HDU,4322,Candy,274,,633,2142
+HDU,4321,Arcane Numbers 2,111,,205,383
+HDU,4319,Subsequence Problem,57,,70,202
+HDU,4318,Power transmission,479,,920,2460
+HDU,4316,Mission Impossible,133,,253,487
+HDU,4315,Climbing the Hill,320,,685,1486
+HDU,4317,Unfair Nim,193,,379,920
+HDU,4312,Meeting point-2,425,,762,1326
+HDU,4313,Matrix,588,,1339,3393
+HDU,4311,Meeting point-1,660,,1282,3843
+HDU,4310,Hero,1134,,2665,6244
+HDU,4323,Magic Number,420,,925,2196
+HDU,4334,Trouble,662,,1738,6218
+HDU,4307,Matrix,215,,518,1802
+HDU,4308,Saving Princess claire_,488,,1016,2788
+HDU,4303,Hourai Jeweled,230,,467,1168
+HDU,4306,Mahjong,56,,74,216
+HDU,4304,Let's Hit Our Head!,62,,75,235
+HDU,4305,Lightning,315,,757,2133
+HDU,4302,Holedox Eating,699,,1444,4201
+HDU,4301,Divide Chocolate,547,,1012,2181
+HDU,4300,Clairewd’s message,1062,,2681,7237
+HDU,4330,DUIDUI Bang,51,,76,161
+HDU,4325,Flowers,713,,1663,3365
+HDU,4320,Arcane Numbers 1,510,,1030,3160
+HDU,4314,Save the dwarfs,257,,479,1519
+HDU,4309,Seikimatsu Occult Tonneru,314,,729,2725
+HDU,4499,Cannon ,252,,643,1101
+HDU,4498,Function Curve ,118,,231,555
+HDU,4496,D-City,676,,1677,4769
+HDU,4497,GCD and LCM ,528,,1234,2818
+HDU,4493,Tutor,509,,1150,4412
+HDU,4494,Teamwork ,130,,281,540
+HDU,4495,Rectangle,97,,196,530
+HDU,4492,Mystery,223,,427,803
+HDU,4491,Windmill Animation,83,,183,360
+HDU,4490,Mad Veterinarian,94,,253,563
+HDU,4489,The King’s Ups and Downs,235,,504,704
+HDU,4488,Faulhaber’s Triangle,95,,236,432
+HDU,4487,Maximum Random Walk,147,,341,627
+HDU,4485,B-Casting,205,,481,1025
+HDU,4486,Pen Counts,150,,340,528
+HDU,4483,Lattice triangle,84,,141,219
+HDU,4484,Hailstone HOTPO,268,,546,910
+HDU,4482,Base pairing,10,,16,122
+HDU,4479,Shortest path,77,,165,662
+HDU,4481,Slalom,3,,3,67
+HDU,4480,Rectangles,5,,11,66
+HDU,4478,Where is the King,100,,164,431
+HDU,4477,Cut the rope II,68,,95,257
+HDU,4476,Cut the rope,184,,350,756
+HDU,4475,Downward paths,164,,317,946
+HDU,4474,Yet Another Multiple Problem,600,,1431,6067
+HDU,4470,Blackjack,17,,21,191
+HDU,4473,Exam,314,,703,1561
+HDU,4472,Count,583,,1625,2442
+HDU,4471,Homework,64,,122,592
+HDU,4469,Age of Empires,3,,23,206
+HDU,4468,Spy,162,,362,755
+HDU,4467,Graph,232,,616,3539
+HDU,4466,Triangle,177,,413,837
+HDU,4463,Outlets,730,,1792,3869
+HDU,4465,Candy,457,,1291,2869
+HDU,4464,Browsing History,795,,2186,3933
+HDU,4462,Scaring the Birds,454,,1196,3808
+HDU,4460,Friend Chains,569,,1864,5727
+HDU,4461,The Power of Xiangqi,527,,1392,2641
+HDU,4458,Shoot the Airplane,109,,315,1503
+HDU,4459,Homework,28,,33,140
+HDU,4456,Crowd,222,,625,2615
+HDU,4457,Klotski,17,,20,278
+HDU,4455,Substrings,398,,1027,3324
+HDU,4453,Looploop,241,,699,2091
+HDU,4454,Stealing a Cake,342,,1043,3671
+HDU,4451,Dressing,762,,1885,4258
+HDU,4452,Running Rabbits,558,,1378,1969
+HDU,4450,Draw Something,1245,,3104,3717
+HDU,4447,"Yuanfang, What Do You Think?",124,,242,838
+HDU,4448,Spade 7,2,,2,122
+HDU,4445,Crazy Tank,501,,1489,6654
+HDU,4449,Building Design,161,,434,1419
+HDU,4446,IT Companies,119,,220,633
+HDU,4444,Walk,189,,440,2564
+HDU,4443,Lost,87,,153,291
+HDU,4441, Queue Sequence,208,,493,1768
+HDU,4442,Physical Examination,780,,2484,8163
+HDU,4440,mmm2,4,,5,77
+HDU,4438,Hunters,541,,1253,1668
+HDU,4439, No place to hide,73,,140,696
+HDU,4437,swap,4,,5,176
+HDU,4435,charge-station,345,,758,1429
+HDU,4434,Game,6,,7,174
+HDU,4436,str2int,392,,901,2456
+HDU,4433, locker,397,,918,2019
+HDU,4428,Polaris of Pandora,20,,28,142
+HDU,4432,Sum of divisors,619,,1793,5316
+HDU,4429,Split the Rectangle,124,,214,582
+HDU,4431,Mahjong,419,,1088,5242
+HDU,4430,Yukari's Birthday,540,,1569,6443
+HDU,4426,Palindromic Substring,84,,174,790
+HDU,4425,Fantastic Necklace,9,,15,162
+HDU,4424,Conquer a New Region,373,,772,2166
+HDU,4423,Simple Function,52,,86,440
+HDU,4427,Math Magic,300,,728,2193
+HDU,4422,The Little Girl who Picks Mushrooms,436,,971,2973
+HDU,4420,Alice and Bob,37,,70,727
+HDU,4421,Bit Magic,371,,1013,3577
+HDU,4419,Colourful Rectangle,309,,666,1565
+HDU,4418,Time travel,301,,841,3205
+HDU,4415,Assassin’s Creed,350,,663,2925
+HDU,4416,Good Article Good sentence,382,,1089,3751
+HDU,4417,Super Mario,1164,,3117,7231
+HDU,4414,Finding crosses,538,,1340,2676
+HDU,4413,Logical Expression,39,,69,231
+HDU,4412,Sky Soldiers,165,,284,764
+HDU,4410,Boomerang,41,,66,313
+HDU,4411,Arrest,343,,810,2050
+HDU,4409,Family Name List,241,,429,1304
+HDU,4406,GPA,198,,421,1109
+HDU,4408,Minimum Spanning Tree,286,,703,2080
+HDU,4407,Sum,468,,1063,3680
+HDU,4404,Worms,216,,362,656
+HDU,4405,Aeroplane chess,1295,,2794,4430
+HDU,4403,A very hard Aoshu problem,583,,1155,1675
+HDU,4402,Magic Board,3,,7,58
+HDU,4400,Mines,199,,439,1727
+HDU,4401,Battery,32,,71,271
+HDU,4599,Dice,140,,235,383
+HDU,4597,Play Game,469,,945,1619
+HDU,4596,Yet another end of the world,253,,569,1316
+HDU,4595,Similar Number,79,,118,417
+HDU,4593,Robot,383,,849,1192
+HDU,4591,Math Homework,2,,3,64
+HDU,4592,Boring Game,70,,137,908
+HDU,4594,Script Z,68,,135,619
+HDU,4590,Eloh,4,,10,83
+HDU,4589,Design a Garden Border,0,,0,218
+HDU,4588,Count The Carries,281,,663,1842
+HDU,4586,Play the Dice,453,,1094,3390
+HDU,4587,TWO NODES,306,,775,2331
+HDU,4582,DFS spanning tree,142,,279,783
+HDU,4584,Building bridges,401,,710,1322
+HDU,4583,Coffee shop in Jioufen,73,,121,395
+HDU,4585,Shaolin,594,,1441,3368
+HDU,4581,Microblog Subscription,10,,20,158
+HDU,4578,Transformation,537,,1501,6059
+HDU,4579,Random Walk,97,,182,304
+HDU,4580,Worm,3,,9,221
+HDU,4577,X-Boxes,179,,314,1183
+HDU,4575,Changsha Marathon,17,,20,106
+HDU,4576,Robot,600,,1608,5423
+HDU,4574,Bombs,71,,143,742
+HDU,4573,Throw the Stones,66,,121,361
+HDU,4571,Travel in time,262,,638,2861
+HDU,4572,Bottles Arrangement,299,,594,781
+HDU,4570,Multi-bit Trie,184,,413,935
+HDU,4569,Special equations,206,,377,577
+HDU,4568,Hunter,275,,726,2278
+HDU,4567,Brilliant Programmers Show,59,,75,238
+HDU,4566,Circle Game,29,,54,257
+HDU,4564,御剑术II,5,,12,132
+HDU,4565,So Easy!,685,,1761,5327
+HDU,4563,御剑术I,85,,104,341
+HDU,4561,连续最大积,464,,842,2781
+HDU,4560,我是歌手,114,,179,457
+HDU,4562,守护雅典娜,154,,238,715
+HDU,4559,涂色游戏,111,,149,428
+HDU,4558,剑侠情缘,150,,247,664
+HDU,4557,非诚勿扰,512,,832,2305
+HDU,4556,Stern-Brocot Tree,196,,374,651
+HDU,4555,平面上的整点,7,,11,164
+HDU,4554,叛逆的小明,723,,1030,1536
+HDU,4553,约会安排,190,,533,1931
+HDU,4552,怪盗基德的挑战书,392,,675,1456
+HDU,4551,生日猜猜猜,689,,1015,2433
+HDU,4550,卡片游戏,463,,764,2474
+HDU,4549,M斐波那契数列,620,,1283,4107
+HDU,4548,美素数,1258,,2670,7573
+HDU,4546,比赛难度,254,,370,917
+HDU,4547,CD操作,331,,638,2302
+HDU,4545,魔法串,578,,1037,2825
+HDU,4543,三足鼎立,77,,120,505
+HDU,4544,湫湫系列故事——消灭兔子,557,,999,3021
+HDU,4542,小明系列故事——未知剩余系,306,,605,2039
+HDU,4541,Ten Googol,240,,309,590
+HDU,4540,威威猫系列故事——打地鼠,982,,1869,3838
+HDU,4537,威威猫系列故事——数字分配,1,,1,29
+HDU,4538,VIM-adventures,13,,17,92
+HDU,4539,郑厂长系列故事——排兵布阵,467,,1040,2912
+HDU,4535,吉哥系列故事——礼尚往来,646,,1004,2134
+HDU,4536,XCOM Enemy Unknown,266,,428,1278
+HDU,4534,郑厂长系列故事——新闻净化,138,,253,670
+HDU,4533,威威猫系列故事——晒被子,273,,503,1727
+HDU,4532,湫秋系列故事——安排座位,207,,313,789
+HDU,4531,吉哥系列故事——乾坤大挪移,123,,178,557
+HDU,4530,小Q系列故事——大笨钟,616,,877,1722
+HDU,4529,郑厂长系列故事——N骑士问题,163,,293,597
+HDU,4528,小明系列故事——捉迷藏,268,,545,1820
+HDU,4524,郑厂长系列故事——逃离迷宫,673,,948,2100
+HDU,4527,小明系列故事——玩转十滴水,234,,314,774
+HDU,4526,威威猫系列故事——拼车记,319,,478,1381
+HDU,4523,威威猫系列故事——过生日,317,,412,1419
+HDU,4525,威威猫系列故事——吃鸡腿,434,,690,3249
+HDU,4522,湫湫系列故事——过年回家,229,,330,1381
+HDU,4519,郑厂长系列故事——体检,681,,859,1595
+HDU,4521,小明系列问题——小明序列,498,,1067,3372
+HDU,4518,吉哥系列故事——最终数,89,,156,430
+HDU,4516,威威猫系列故事——因式分解,73,,93,332
+HDU,4517,小小明系列故事——游戏的烦恼,275,,488,1432
+HDU,4515,小Q系列故事——世界上最遥远的距离,673,,912,2483
+HDU,4514,湫湫系列故事——设计风景线,491,,974,5287
+HDU,4513,吉哥系列故事——完美队形II,575,,1345,3392
+HDU,4511,小明系列故事——女友的考验,221,,442,1648
+HDU,4512,吉哥系列故事——完美队形I,651,,1154,3404
+HDU,4510,小Q系列故事——为什么时光不能倒流,1206,,1779,4103
+HDU,4509,湫湫系列故事——减肥记II,978,,1461,3469
+HDU,4505,小Q系列故事——电梯里的爱情,1772,,2619,4155
+HDU,4508,湫湫系列故事——减肥记I,1697,,3016,6048
+HDU,4504,威威猫系列故事——篮球梦,731,,1140,4214
+HDU,4501,小明系列故事——买年货,1016,,1603,3437
+HDU,4500,小Q系列故事——屌丝的逆袭,1875,,2700,7173
+HDU,4502,吉哥系列故事——临时工计划,1031,,1590,3977
+HDU,4507,吉哥系列故事——恨7不成妻,629,,1506,4591
+HDU,4506,小明系列故事——师兄帮帮忙,1013,,1671,5974
+HDU,4503,湫湫系列故事——植树节,740,,897,1443
+HDU,4598,Difference,133,,251,835
+HDU,4520,小Q系列故事——最佳裁判,958,,1441,2942
+HDU,4699,Editor,409,,937,3372
+HDU,4697,Convex hull,74,,158,687
+HDU,4698,Counting,102,,187,667
+HDU,4696,Answers,263,,409,637
+HDU,4695,Jumping Frog,53,,139,513
+HDU,4694,Important Sisters,119,,273,1015
+HDU,4693,Huge String,57,,133,598
+HDU,4692,Great Sequence,20,,44,227
+HDU,4690,EBCDIC,305,,544,1184
+HDU,4691,Front compression,398,,819,2408
+HDU,4689,Derangement,224,,460,1304
+HDU,4686,Arc of Dream,620,,1663,5334
+HDU,4688,Cut the Cake,59,,107,321
+HDU,4685,Prince and Princess,235,,562,1884
+HDU,4687,Boke and Tsukkomi,202,,429,1356
+HDU,4684,The Budget of Traveler,45,,55,293
+HDU,4683,The Sad Triangles,24,,49,191
+HDU,4681,String,399,,676,1850
+HDU,4679,Terrorist’s destroy,264,,548,1629
+HDU,4682,The Happy Triangles,43,,74,284
+HDU,4680,About set,75,,137,491
+HDU,4677,Query on Graph,101,,187,477
+HDU,4678,Mine,287,,474,1618
+HDU,4676,Sum Of Gcd,183,,375,801
+HDU,4674,Trip Advisor,87,,186,743
+HDU,4675,GCD of Sequence,259,,620,1789
+HDU,4671,Backup Plan,260,,462,959
+HDU,4672,"Present Day, Present Time",86,,222,543
+HDU,4673,Pirate's Chest,18,,41,166
+HDU,4670,Cube number on a tree,196,,485,1983
+HDU,4669,Mutiples on a circle ,252,,473,1775
+HDU,4668,Finding string,74,,135,525
+HDU,4667,Building Fence,216,,564,2443
+HDU,4664,Triangulation,208,,341,861
+HDU,4666,Hyperspace,394,,683,1400
+HDU,4665,Unshuffle,298,,514,1344
+HDU,4662,MU Puzzle,462,,978,2628
+HDU,4663,Plane Partition,10,,11,124
+HDU,4661,Message Passing,174,,522,1426
+HDU,4658,Integer Partition,202,,366,751
+HDU,4659,Liveness Analysis,16,,23,201
+HDU,4660,Mathematical Olympiad,40,,71,325
+HDU,4657,Find Permutation,58,,96,274
+HDU,4656,Evaluation,38,,64,211
+HDU,4655,Cut Pieces,306,,520,1163
+HDU,4654,k-edge connected components,73,,120,181
+HDU,4652,Dice,193,,404,569
+HDU,4651,Partition,468,,871,1434
+HDU,4650,Minimum Average Weight Path,120,,195,407
+HDU,4649,Professor Tian,322,,538,966
+HDU,4653,k-th point,54,,70,210
+HDU,4648,Magic Pen 6,517,,895,2489
+HDU,4646,Laser Beam,72,,130,454
+HDU,4645,Query on a tree VII,38,,69,232
+HDU,4647,Another Graph Game,487,,825,2104
+HDU,4644,BWT,129,,234,764
+HDU,4643,GSM,225,,518,1314
+HDU,4642,Fliping game,667,,1387,2063
+HDU,4638,Group,614,,1328,2607
+HDU,4639,Hehe,599,,1019,2227
+HDU,4641,K-string,155,,398,1376
+HDU,4640,Island and study-sister,155,,317,885
+HDU,4637,Rain on your Fat brother,109,,224,842
+HDU,4636,Painting the Football,55,,91,196
+HDU,4635,Strongly connected,535,,1239,3025
+HDU,4634,Swipe Bo,221,,431,1924
+HDU,4632,Palindrome subsequence,698,,1382,3282
+HDU,4633,Who's Aunt Zhang,213,,467,571
+HDU,4630,No Pain No Game,465,,934,2154
+HDU,4631,Sad Love Story,285,,643,1920
+HDU,4629,Burning,116,,246,631
+HDU,4627,The Unsolvable Problem,524,,968,1931
+HDU,4628,Pieces,555,,1164,2196
+HDU,4626,Jinkeloid,49,,85,211
+HDU,4625,JZPTREE,93,,148,356
+HDU,4623,Crime,129,,222,646
+HDU,4624,Endless Spin,54,,74,407
+HDU,4621,Life Game,48,,91,336
+HDU,4620,Fruit Ninja Extreme,190,,389,1318
+HDU,4619,Warm up 2,603,,1090,2354
+HDU,4622,Reincarnation,601,,1528,3892
+HDU,4617,Weapon,260,,411,511
+HDU,4616,Game,329,,759,2300
+HDU,4615,Play with Sequence,14,,18,259
+HDU,4618,Palindrome Sub-Array,385,,699,1487
+HDU,4614,Vases and Flowers,610,,1513,3741
+HDU,4613,Points,53,,124,999
+HDU,4612,Warm up,584,,1615,6992
+HDU,4611,Balls Rearrangement,605,,1173,3031
+HDU,4610,Cards,169,,329,1420
+HDU,4609,3-idiots,718,,2078,5960
+HDU,4607,Park Visit,847,,1707,3824
+HDU,4608, I-number,824,,1552,4372
+HDU,4606,Occupy Cities,206,,471,1399
+HDU,4605,Magic Ball Game,372,,805,2596
+HDU,4603,Color the Tree,72,,99,564
+HDU,4604,Deque,527,,1005,2706
+HDU,4602,Partition,759,,1321,3409
+HDU,4601,Letter Tree,109,,209,1225
+HDU,4600,Harvest Moon,110,,185,768
+HDU,4799,LIKE vs CANDLE,97,,164,527
+HDU,4798,Skycity,127,,272,710
+HDU,4797,Graph Reconstruction,1,,1,456
+HDU,4796,Winter's Coming,37,,41,147
+HDU,4795,Easy Problem Once More,4,,4,33
+HDU,4794,Arnold,98,,154,529
+HDU,4793,Collision,193,,427,1113
+HDU,4792,Bob's new toy,0,,0,37
+HDU,4790,Just Random,385,,959,3125
+HDU,4791,Alice's Print Service,329,,730,2766
+HDU,4789,ICPC Ranking,47,,82,787
+HDU,4788,Hard Disk Drive,647,,1735,3142
+HDU,4787,GRE Words Revenge,199,,641,2606
+HDU,4786,Fibonacci Tree,609,,1701,5457
+HDU,4785,Exhausted Robot,33,,58,269
+HDU,4784,Dinner Coming Soon,217,,524,2788
+HDU,4783,Clumsy Algorithm,37,,64,185
+HDU,4782,Beautiful Soup,210,,507,2395
+HDU,4781,Assignment For Princess,231,,518,1714
+HDU,4780,Candy Factory,135,,284,561
+HDU,4779,Tower Defense,143,,314,1061
+HDU,4778,Gems Fight!,424,,1097,2410
+HDU,4777,Rabbit Kingdom,362,,863,2557
+HDU,4776,Ants,138,,284,1314
+HDU,4775,Infinite Go,143,,313,938
+HDU,4771,Stealing Harry Potter's Precious,694,,1772,4098
+HDU,4774,Random Number Generator,4,,5,108
+HDU,4773,Problem of Apollonius,116,,258,952
+HDU,4772,Zhuge Liang's Password,649,,1641,2560
+HDU,4770,Lights Against Dudely,473,,1050,3363
+HDU,4769,Sword,7,,11,82
+HDU,4768,Flyer,562,,1249,3325
+HDU,4767,Bell,199,,389,870
+HDU,4766,Network,113,,249,901
+HDU,4765,Tsp,34,,45,185
+HDU,4764,Stone,677,,1257,1750
+HDU,4762,Cut the Cake,435,,782,1615
+HDU,4763,Theme Section,732,,1915,4039
+HDU,4761,Sky,12,,17,135
+HDU,4760,Good Firewall,158,,304,968
+HDU,4759,Poker Shuffle,164,,260,843
+HDU,4758,Walk Through Squares,220,,495,1494
+HDU,4755,Heroes of Might and Magic,15,,18,199
+HDU,4756,Install Air Conditioning,199,,484,2057
+HDU,4757,Tree,277,,604,2066
+HDU,4753,Fishhead’s Little Game,198,,373,1222
+HDU,4752,Polygon,113,,340,1413
+HDU,4754,Spacecraft Monitoring,3,,7,83
+HDU,4750,Count The Pairs,363,,672,1546
+HDU,4749,Parade Show,408,,859,2157
+HDU,4751,Divide Groups,503,,931,2653
+HDU,4748,Area,17,,30,225
+HDU,4747,Mex,498,,1098,3292
+HDU,4746,Mophues,313,,824,1987
+HDU,4745,Two Rabbits,510,,932,1795
+HDU,4744,Starloop System,124,,379,1114
+HDU,4743,Sparrow,0,,0,53
+HDU,4741,Save Labman No.004,337,,742,2186
+HDU,4742,Pinball Game 3D,205,,512,1204
+HDU,4740,The Donkey of Gui Zhou,412,,727,2171
+HDU,4739,Zhuge Liang's Mines,432,,901,2374
+HDU,4736,This Is The Job The Bear Finds,22,,27,276
+HDU,4737,A Bit Fun,792,,1609,3219
+HDU,4738,Caocao's Bridges,665,,1650,5234
+HDU,4735,Little Wish~ lyrical step~,138,,282,992
+HDU,4734,F(x),974,,2438,6341
+HDU,4732,Round Table,42,,92,402
+HDU,4733,G(x),110,,175,684
+HDU,4731,Minimum palindrome,425,,678,1597
+HDU,4729,An Easy Problem for Elfness,149,,314,1380
+HDU,4730,We Love MOE Girls,987,,1976,3527
+HDU,4728,A Game in the Hospital,3,,7,166
+HDU,4727,The Number Off of FFF,587,,1407,4232
+HDU,4724,"If You Know This,You Must Have NO GF",43,,58,261
+HDU,4726,Kia's Calculation,371,,846,4159
+HDU,4725,The Shortest Path in Nya Graph,488,,1800,8034
+HDU,4721,Food and Productivity,71,,100,293
+HDU,4720,Naive and Silly Muggles,386,,820,1227
+HDU,4723,How Long Do You Have to Draw,108,,204,451
+HDU,4722,Good Numbers,704,,1677,5288
+HDU,4719,Oh My Holy FFF,159,,333,1170
+HDU,4718,The LCIS on the Tree,158,,366,1256
+HDU,4716,A Computer Graphics Problem,767,,1619,2291
+HDU,4717,The Moving Points,347,,891,2133
+HDU,4715,Difference Between Primes,565,,1180,4104
+HDU,4714,Tree2cycle,326,,621,2593
+HDU,4712,Hamming Distance,385,,927,2249
+HDU,4713,Permutation,84,,138,496
+HDU,4711,Weather,100,,188,657
+HDU,4710,Balls Rearrangement,275,,434,1065
+HDU,4707,Pet,728,,1499,3054
+HDU,4709,Herding,458,,916,3093
+HDU,4708,Rotation Lock Puzzle,415,,721,2229
+HDU,4706,Children's Day,727,,1455,2268
+HDU,4704,Sum,646,,1501,3665
+HDU,4705,Y,392,,782,2727
+HDU,4703,Rectangles,12,,19,175
+HDU,4702,Group,20,,26,855
+HDU,4701,Game,158,,264,545
+HDU,4700,Flow,121,,192,418
+HDU,4898,The Revenge of the Princess’ Knight ,66,,102,265
+HDU,4897,Little Devil I,147,,358,1045
+HDU,4899,Hero meet devil,199,,348,707
+HDU,4896,Minimal Spanning Tree,78,,138,413
+HDU,4894,Mart Master,48,,79,240
+HDU,4895,Paper,27,,60,365
+HDU,4893,Wow! Such Sequence!,531,,1391,4789
+HDU,4892,Defence of the Trees,75,,109,416
+HDU,4890,One to Four,39,,57,168
+HDU,4889,Scary Path Finding Algorithm,165,,264,530
+HDU,4891,The Great Pan,364,,737,2024
+HDU,4888,Redraw Beautiful Drawings,410,,1433,4914
+HDU,4884,TIANKENG’s rice shop,174,,316,1288
+HDU,4886,TIANKENG’s restaurant(Ⅱ),138,,273,782
+HDU,4885,TIANKENG’s travel,125,,210,761
+HDU,4883,TIANKENG’s restaurant,625,,1213,3254
+HDU,4887,Endless Punishment,78,,131,439
+HDU,4881,ZCC loves traffic lights,20,,34,120
+HDU,4882,ZCC Loves Codefires,403,,837,1753
+HDU,4879,ZCC loves march,155,,338,1124
+HDU,4880,ZCC loves ranklist,9,,22,90
+HDU,4877,ZCC loves Minecraft,11,,14,93
+HDU,4878,ZCC loves words,64,,112,369
+HDU,4876,ZCC loves cards,311,,823,3335
+HDU,4875,ZCC loves Army,9,,17,193
+HDU,4874,ZCC Loves RPG,17,,20,105
+HDU,4873,ZCC Loves Intersection,155,,246,502
+HDU,4871,Shortest-path tree,200,,560,1656
+HDU,4872,ZCC Loves COT,68,,117,336
+HDU,4870,Rating,441,,1014,1702
+HDU,4868,Information Extraction,31,,34,78
+HDU,4869,Turn the pokers,434,,849,2358
+HDU,4866,Shooting,212,,578,2529
+HDU,4865,Peter's Hobby,287,,437,978
+HDU,4864,Task,951,,2076,7913
+HDU,4867,Xor,79,,115,253
+HDU,4863,Centroid of a Tree,121,,211,456
+HDU,4862,Jump,368,,661,1515
+HDU,4860,新海岛计划,0,,0,62
+HDU,4856,Tunnels,277,,724,2389
+HDU,4857,逃生,852,,1677,5735
+HDU,4859,海岸线,129,,207,378
+HDU,4855,Goddess,61,,135,787
+HDU,4854,Round-table Conference,9,,18,318
+HDU,4853,Trader Dogy,21,,39,305
+HDU,4852,Wow! Such Tetris!,1,,2,52
+HDU,4850,Wow! Such String!,225,,560,1780
+HDU,4847,Wow! Such Doge!,487,,1479,2402
+HDU,4849,Wow! Such City!,250,,682,1982
+HDU,4851,Wow! Such Precision!,19,,23,101
+HDU,4848,Wow! Such Conquering!,220,,602,2030
+HDU,4846,Big Barn,55,,69,145
+HDU,4845,拯救大兵瑞恩,96,,193,539
+HDU,4844,公路巡逻,28,,38,192
+HDU,4843,古城之谜,6,,9,96
+HDU,4842,过河,35,,55,869
+HDU,4840,ROBOT,6,,6,60
+HDU,4841,圆桌问题,477,,1168,2544
+HDU,4839,The Game of Coins,39,,53,213
+HDU,4835,Find Numbers,54,,145,336
+HDU,4838, The Patterns,14,,22,108
+HDU,4837,Race,3,,3,50
+HDU,4836,The Query on the Tree,122,,191,381
+HDU,4834,JZP Set,132,,232,546
+HDU,4833,Best Financing,110,,235,695
+HDU,4832,Chess,193,,355,872
+HDU,4831,Scenic Popularity,178,,260,840
+HDU,4830,Party,42,,79,613
+HDU,4829,Information,47,,68,408
+HDU,4828,Grids,257,,437,1015
+HDU,4826,Labyrinth,380,,624,1459
+HDU,4827,Cycle Cocycle,18,,33,129
+HDU,4825,Xor Sum,516,,1226,2838
+HDU,4823,Energy Conversion,329,,666,1645
+HDU,4824,Disk Schedule,204,,290,683
+HDU,4822,Tri-war,81,,163,519
+HDU,4821,String,369,,1032,3396
+HDU,4820,Tower,2,,3,62
+HDU,4819,Mosaic,354,,911,2044
+HDU,4818,RP problem,114,,243,816
+HDU,4817,Min-max-multiply,5,,7,61
+HDU,4816,Bathysphere,86,,197,888
+HDU,4815,Little Tiger vs. Deep Monkey,347,,955,2760
+HDU,4814,Golden Radio Base,187,,476,1176
+HDU,4813,Hard Code,574,,1284,1730
+HDU,4812,D Tree,363,,1023,4961
+HDU,4811,Ball,471,,1128,2636
+HDU,4810,Wall Painting,372,,1044,3178
+HDU,4809,Cirno’s Present,79,,140,464
+HDU,4807,Lunch Time,84,,148,695
+HDU,4806,Circular Lamps,13,,13,120
+HDU,4808,Drunk,79,,145,353
+HDU,4803,Poor Warehouse Keeper,408,,1186,4645
+HDU,4805,Shoot,36,,101,618
+HDU,4804,Campus Design,272,,673,1290
+HDU,4802,GPA,822,,1965,3300
+HDU,4800,Josephina and RPG,260,,594,1898
+HDU,4801,Pocket Cube,235,,614,1950
+HDU,4858,项目管理,517,,1211,3192
+HDU,4861,Couple doubi,726,,1298,1858
+HDU,4999,Overt,45,,50,109
+HDU,4998,Rotate,324,,596,1331
+HDU,4996,Revenge of LIS,58,,74,157
+HDU,4997,Biconnected,117,,176,245
+HDU,4995,Revenge of kNN,131,,214,853
+HDU,4994,Revenge of Nim,290,,421,821
+HDU,4991,Ordered Subsequence,163,,321,677
+HDU,4992,Primitive Roots,103,,215,897
+HDU,4993,Revenge of ex-Euclid,376,,527,873
+HDU,4990,Reading comprehension,337,,829,2076
+HDU,4988,Little Pony and Boast Busters,55,,87,197
+HDU,4989,Summary,397,,608,1147
+HDU,4987,Little Pony and Dice,97,,219,768
+HDU,4985,Little Pony and Permutation,282,,447,849
+HDU,4986,Little Pony and Alohomora Part I,194,,303,574
+HDU,4984,Goffi and Graph,61,,115,362
+HDU,4983,Goffi and GCD,252,,493,1450
+HDU,4981,Goffi and Median,380,,569,1078
+HDU,4982,Goffi and Squary Partition,285,,527,1588
+HDU,4979,A simple math problem.,73,,145,429
+HDU,4980,A simple graph problem.,49,,84,274
+HDU,4978,A simple probability problem.,153,,251,470
+HDU,4977,A simple problem from ZOJ.,15,,33,140
+HDU,4976,A simple greedy problem.,120,,207,516
+HDU,4974,A simple water problem,349,,645,1241
+HDU,4975,A simple Gaussian elimination problem.,236,,579,1911
+HDU,4973,A simple simulation problem.,235,,489,1365
+HDU,4972,A simple dynamic programming problem,288,,508,1798
+HDU,4971,A simple brute force problem.,224,,446,836
+HDU,4967,Handling the Past,126,,247,577
+HDU,4969,Just a Joke,250,,409,906
+HDU,4966,GGS-DDU,227,,428,872
+HDU,4970,Killing Monsters,469,,1003,2684
+HDU,4964,Emmet,111,,172,463
+HDU,4968,Improving the GPA,348,,573,803
+HDU,4963,Dividing a String,95,,174,995
+HDU,4961,Boring Sum,381,,693,1476
+HDU,4965,Fast Matrix Calculation,421,,845,1811
+HDU,4962,Closed Paths,72,,108,327
+HDU,4960,Another OCD Patient,311,,653,1903
+HDU,4959,Poor Akagi,59,,124,275
+HDU,4958,Poor Rukaw,43,,70,168
+HDU,4956,Poor Hanamichi,172,,321,712
+HDU,4957,Poor Mitsui,19,,38,751
+HDU,4955,Tree,53,,98,279
+HDU,4954,Permanent,20,,36,132
+HDU,4953,Periodic Binary String,6,,6,52
+HDU,4952,Number Transformation,417,,627,1362
+HDU,4951,Multiplication table,182,,401,1267
+HDU,4948,Kingdom,175,,313,699
+HDU,4950,Monster,437,,795,2504
+HDU,4949,Light,57,,103,306
+HDU,4946,Area of Mushroom,407,,882,3937
+HDU,4945,2048,205,,458,1742
+HDU,4947,GCD Array,182,,425,1430
+HDU,4944,FSF’s game,264,,497,976
+HDU,4942,Game on S♂play,90,,137,663
+HDU,4943,K-th good string,16,,52,255
+HDU,4941,Magical Forest,385,,721,1600
+HDU,4939,Stupid Tower Defense,377,,659,2377
+HDU,4940,Destroy Transportation system,214,,374,698
+HDU,4938,Seeing People,97,,169,551
+HDU,4936,Rainbow Island,25,,35,90
+HDU,4937,Lucky Number,341,,555,1822
+HDU,4935,Prime Tree,45,,75,574
+HDU,4932,Miaomiao's Geometry,346,,595,2435
+HDU,4933,Miaomiao's Function,71,,156,384
+HDU,4934,Protocol Buffers,8,,10,104
+HDU,4930,Fighting the Landlords,318,,528,1438
+HDU,4931,Happy Three Friends,442,,762,1028
+HDU,4928,Series 2,125,,266,845
+HDU,4929,Another Letter Tree,48,,68,330
+HDU,4927,Series 1,358,,623,1920
+HDU,4926,Robbery Plan,20,,23,106
+HDU,4925,Apple Tree,423,,834,1400
+HDU,4924,Football Manager,72,,165,567
+HDU,4921,Map,137,,204,625
+HDU,4922,"Hello, Your Package!",7,,8,133
+HDU,4923,Room and Moor,342,,531,1581
+HDU,4919,Exclusive or,195,,340,873
+HDU,4920,Matrix multiplication,753,,1990,5182
+HDU,4917,Permutation,162,,298,938
+HDU,4918,Query on the subtree,158,,399,1286
+HDU,4916,Count on the path,142,,314,1222
+HDU,4913,Least common multiple,185,,370,1077
+HDU,4914,Linear recursive sequence,65,,157,476
+HDU,4915,Parenthese sequence,372,,635,1589
+HDU,4912,Paths on the tree,281,,562,1610
+HDU,4911,Inversion,728,,1762,5008
+HDU,4910,Problem about GCD,126,,250,1009
+HDU,4909,String,153,,281,960
+HDU,4907,Task schedule,571,,1173,3349
+HDU,4908,BestCoder Sequence,411,,701,2136
+HDU,4906,Our happy ending,259,,459,1309
+HDU,4904,Hero’s assistant,29,,45,212
+HDU,4903,The only survival,85,,104,226
+HDU,4901,The Romantic Hero,415,,838,1949
+HDU,4900,NO ACM NO LIFE,55,,83,283
+HDU,4902,Nice boat,503,,1105,2432
+HDU,5099,Comparison of Android versions,318,,799,1858
+HDU,5098,Smart Software Installer,123,,274,844
+HDU,5097,Page Rank,81,,133,398
+HDU,5096,ACM Rank,59,,86,322
+HDU,5093,Battle ships,267,,576,1524
+HDU,5095,Linearization of the kernel functions in SVM,394,,1051,3872
+HDU,5094,Maze,228,,490,1388
+HDU,5090,Game with Pearls,446,,1045,2789
+HDU,5091,Beam Cannon,188,,444,1142
+HDU,5088,Revenge of Nim II,171,,292,747
+HDU,5092,Seam Carving,279,,637,1617
+HDU,5089,Revenge of iSea,39,,60,184
+HDU,5087,Revenge of LIS II,347,,582,1713
+HDU,5086,Revenge of Segment Tree,375,,637,1712
+HDU,5084,HeHe,113,,203,424
+HDU,5082,Love,400,,623,997
+HDU,5083,Instruction,202,,317,1250
+HDU,5085,Counting problem,57,,130,559
+HDU,5081,Trie,37,,82,504
+HDU,5080,Colorful Toy,121,,244,674
+HDU,5076,Memory,83,,127,452
+HDU,5078,Osu!,530,,1342,2485
+HDU,5077,NAND,96,,185,529
+HDU,5079,Square,108,,182,278
+HDU,5075,Random Inversion Machine,4,,5,45
+HDU,5074,Hatsune Miku,544,,1200,1752
+HDU,5073,Galaxy,484,,1231,5071
+HDU,5072,Coprime,430,,1084,2825
+HDU,5071,Chat,324,,776,3610
+HDU,5070,Twelve Months,16,,42,136
+HDU,5069,Harry And Biological Teacher,61,,101,318
+HDU,5068,Harry And Math Teacher,118,,216,639
+HDU,5066,Harry And Physical Teacher,287,,444,862
+HDU,5067,Harry And Dig Machine,302,,621,1501
+HDU,5065,Oh! My math home work,61,,105,352
+HDU,5064,Find Sequence,110,,177,482
+HDU,5062,Beautiful Palindrome Number,598,,811,1234
+HDU,5061,Not only STL,5,,21,205
+HDU,5059,Help him,341,,693,3244
+HDU,5060,War,92,,131,326
+HDU,5063,Operation the Sequence,223,,376,1113
+HDU,5058,So easy,408,,747,1360
+HDU,5057,Argestes and Sequence,200,,448,1474
+HDU,5056,Boring count,299,,601,1642
+HDU,5055,Bob and math problem,432,,690,1773
+HDU,5054,Alice and Bob,498,,691,907
+HDU,5053,the Sum of Cube,657,,1313,3118
+HDU,5052,Yaoge’s maximum profit,161,,346,1117
+HDU,5051,Fraction,143,,219,629
+HDU,5049,Guess the Money,28,,34,100
+HDU,5050,Divided Land,363,,598,1398
+HDU,5048,Colorful Segment,62,,84,336
+HDU,5047,Sawtooth,433,,919,2491
+HDU,5046,Airport,247,,690,2124
+HDU,5045,Contest,393,,751,1849
+HDU,5044,Tree,340,,735,3875
+HDU,5043,Escape,45,,64,194
+HDU,5042,GCD pair,84,,115,343
+HDU,5041,Just A Challenge,7,,10,132
+HDU,5040,Instrusive,282,,560,1848
+HDU,5039,Hilarity,131,,211,797
+HDU,5038,Grade,504,,1231,3408
+HDU,5037,Frog,464,,1039,4226
+HDU,5035,Delivery,265,,387,580
+HDU,5036,Explosion,258,,479,1298
+HDU,5033,Building,370,,797,2834
+HDU,5034,Cowboy,10,,10,78
+HDU,5032,Always Cook Mushroom ,159,,277,845
+HDU,5030,Rabbit's String,133,,245,769
+HDU,5031,Lines,131,,334,1153
+HDU,5029,Relief grain,305,,759,2642
+HDU,5028,Defense Against Wolves,22,,27,108
+HDU,5026,Equality Test,33,,36,200
+HDU,5027,Help!,55,,109,551
+HDU,5023,A Corrupt Mayor's Performance Art,473,,957,2664
+HDU,5025,Saving Tang Monk,422,,980,2751
+HDU,5024,Wang Xifeng's Little Plot,373,,722,1271
+HDU,5021,Revenge of kNN II,79,,124,362
+HDU,5022,Ene's problem,42,,81,225
+HDU,5020,Revenge of Collinearity,160,,276,783
+HDU,5019,Revenge of GCD,454,,808,2797
+HDU,5018,Revenge of Fibonacci,465,,606,1290
+HDU,5017,Ellipsoid,343,,925,2519
+HDU,5014,Number Sequence,532,,1051,2600
+HDU,5016,Mart Master II,146,,295,814
+HDU,5015,233 Matrix,667,,1478,2530
+HDU,5013,City Tour,81,,115,349
+HDU,5012,Dice,480,,1035,2065
+HDU,5011,Game,607,,970,1480
+HDU,5010,Get the Nut,44,,64,301
+HDU,5008,Boring String Problem,263,,547,1996
+HDU,5007,Post Robot,710,,1456,2043
+HDU,5009,Paint Pearls,482,,1076,3277
+HDU,5005,Compromise,79,,105,413
+HDU,5006,Resistance,131,,313,995
+HDU,5004,KAMI,67,,81,172
+HDU,5003,Osu!,591,,1024,2151
+HDU,5002,Tree,171,,497,1221
+HDU,5001,Walk,420,,796,1239
+HDU,5000,Clone,449,,789,1732
+HDU,5199,Gunner,414,,842,1877
+HDU,5198,Strange Class,447,,632,1221
+HDU,5196,DZY Loves Inversions,83,,136,462
+HDU,5195,DZY Loves Topological Sorting,212,,390,1219
+HDU,5194,DZY Loves Balls,403,,563,994
+HDU,5197,DZY Loves Orzing,29,,35,109
+HDU,5193,Go to movies Ⅱ,64,,142,390
+HDU,5189,zhx's tree,10,,16,179
+HDU,5192,Building Blocks Ⅱ,85,,114,490
+HDU,5191,Building Blocks,345,,567,2328
+HDU,5190,Go to movies,435,,630,1167
+HDU,5188,zhx and contest,186,,354,935
+HDU,5184,Brackets ,147,,215,778
+HDU,5187,zhx's contest,442,,993,3083
+HDU,5182,PM2.5,463,,734,1497
+HDU,5186,zhx's submissions,403,,711,2445
+HDU,5185,Equation,146,,235,662
+HDU,5183,Negative and Positive (NP),328,,1000,3696
+HDU,5181,numbers,21,,28,100
+HDU,5180,chess,41,,52,158
+HDU,5179,beautiful number,326,,545,843
+HDU,5178,pairs,610,,1182,3340
+HDU,5177,Box,19,,37,90
+HDU,5176,The Experience of Love,138,,246,691
+HDU,5175,Misaki's Kiss again,265,,480,1804
+HDU,5173,GTY's game II,7,,9,53
+HDU,5174,Ferries Wheel,334,,555,1785
+HDU,5172,GTY's gay friends,213,,470,1822
+HDU,5171,GTY's birthday gift,349,,663,1709
+HDU,5169,Flipping coins,8,,11,80
+HDU,5170,GTY's math problem,543,,917,2361
+HDU,5168,Legal path,90,,148,541
+HDU,5165,Funny Game,34,,223,377
+HDU,5167,Fibonacci,374,,831,3161
+HDU,5166,Missing number,386,,608,1178
+HDU,5163,Taking Bus,297,,492,1417
+HDU,5164,Matching on Array,85,,171,613
+HDU,5162,Jump and Jump...,603,,1061,2004
+HDU,5160,Apple,61,,85,210
+HDU,5161,Mathematics problem ,7,,24,76
+HDU,5158,Have meal,329,,638,962
+HDU,5159,Card,241,,430,994
+HDU,5157,Harry and magic string,104,,185,364
+HDU,5156,Harry and Christmas tree,62,,114,562
+HDU,5155,Harry And Magic Box,218,,390,821
+HDU,5154,Harry and Magical Computer,471,,1046,2747
+HDU,5153,A card problem,21,,27,171
+HDU,5152,A Strange Problem,73,,126,511
+HDU,5149,Sequence III,11,,12,67
+HDU,5151,Sit sit sit,149,,250,494
+HDU,5150,Sum Sum Sum,415,,821,1362
+HDU,5148,Cities,154,,324,947
+HDU,5147,Sequence II,289,,525,1285
+HDU,5145,NPY and girls,212,,488,1424
+HDU,5144,NPY and shot,268,,498,1195
+HDU,5143,NPY and arithmetic progression,243,,484,1555
+HDU,5142,NPY and FFT,444,,708,1083
+HDU,5140,Hun Gui Wei Company,59,,132,506
+HDU,5138,CET-6 test,390,,551,757
+HDU,5136,Yue Fei's Battle,153,,310,880
+HDU,5135,Little Zu Chongzhi's Triangles,394,,1147,1990
+HDU,5139,Formula,307,,505,1465
+HDU,5137,How Many Maos Does the Guanxi Worth,387,,1132,2952
+HDU,5134,Highway,64,,117,313
+HDU,5133,Squared Frequency,9,,27,376
+HDU,5132,Train Scheduling,9,,16,124
+HDU,5130,Signal Interference,191,,1114,2103
+HDU,5129,Yong Zheng's Death,35,,68,305
+HDU,5131,Song Jiang's rank list,364,,995,1764
+HDU,5128,The E-pang Palace,297,,2144,3710
+HDU,5125,magic balls,162,,365,1116
+HDU,5127,Dogs' Candies,184,,555,2222
+HDU,5124,lines,405,,818,1898
+HDU,5126,stars,129,,330,1008
+HDU,5123,who is the best?,429,,698,1156
+HDU,5121,Just A Mistake,16,,35,124
+HDU,5122,K.Bro Sorting,585,,1521,3385
+HDU,5120,Intersection,425,,1228,3246
+HDU,5119,Happy Matt Friends,514,,1604,4218
+HDU,5118,GRE Words Once More!,24,,60,310
+HDU,5117,Fluorescent,164,,373,764
+HDU,5113,Black And White,414,,1233,4506
+HDU,5116,Everlasting L,65,,135,347
+HDU,5114,Collision,123,,299,1172
+HDU,5115,Dire Wolf,574,,1531,2610
+HDU,5112,A Curious Matt,595,,1482,2678
+HDU,5111,Alexandra and Two Trees,57,,100,361
+HDU,5110,Alexandra and COS,105,,219,659
+HDU,5109,Alexandra and A*B Problem,176,,291,984
+HDU,5106,Bits Problem,159,,245,847
+HDU,5108,Alexandra and Prime Numbers,450,,755,2291
+HDU,5107,K-short Problem,91,,193,618
+HDU,5105,Math Problem,414,,767,3155
+HDU,5104,Primes Problem,825,,1576,3491
+HDU,5103,RootedTree,60,,106,209
+HDU,5102,The K-th Distance,183,,298,988
+HDU,5101,Select,329,,595,2119
+HDU,5100,Chessboard,399,,558,1342
+HDU,5146,Sequence,349,,583,1031
+HDU,5141,LIS again,126,,244,600
+HDU,5299,Circles Game,269,,607,1872
+HDU,5298,Solid Geometry Homework,76,,120,238
+HDU,5297,Y sequence,218,,534,2152
+HDU,5294,Tricks Device,496,,1096,3880
+HDU,5296,Annoying problem,292,,591,1814
+HDU,5292,Pocket Cube,137,,207,408
+HDU,5295,Unstable,79,,144,631
+HDU,5293,Tree chain problem,282,,582,1791
+HDU,5291,Candy Distribution,137,,288,801
+HDU,5290,Bombing plan,150,,282,975
+HDU,5289,Assignment,872,,2038,4409
+HDU,5288,OO’s  Sequence,779,,1504,4066
+HDU,5284,wyh2000 and a string problem,368,,524,1135
+HDU,5287,Fast wyh2000 Transform,8,,14,75
+HDU,5283,Senior's Fish,44,,71,332
+HDU,5286,wyh2000 and sequence,75,,176,666
+HDU,5285,wyh2000 and pupil,318,,569,1733
+HDU,5281,Senior's Gun,434,,825,2418
+HDU,5282,Senior's String,169,,308,706
+HDU,5279,YJC plays Minecraft,27,,41,102
+HDU,5280,Senior's Array,432,,661,1861
+HDU,5278,YJC plays automaton,37,,49,118
+HDU,5277,YJC counts stars,162,,266,701
+HDU,5276,YJC tricks time,298,,440,933
+HDU,5275,Dylans loves polynomial,50,,75,270
+HDU,5272,Dylans loves numbers,370,,523,926
+HDU,5274,Dylans loves tree,246,,452,1813
+HDU,5273,Dylans loves sequence,341,,555,1196
+HDU,5271,ZYB loves product,7,,8,32
+HDU,5270,ZYB loves Xor II,71,,132,347
+HDU,5268,ZYB loves Score,332,,431,679
+HDU,5269,ZYB loves Xor I,302,,507,1143
+HDU,5266,pog loves szh III,207,,376,1495
+HDU,5267,pog loves szh IV,40,,51,170
+HDU,5265,pog loves szh II,455,,847,2985
+HDU,5264,pog loves szh I,408,,566,905
+HDU,5262,最强密码,96,,130,270
+HDU,5260,行路难,49,,76,491
+HDU,5261,蜀道难,111,,212,549
+HDU,5263,平衡大师,16,,25,99
+HDU,5258,数长方形,131,,140,252
+HDU,5259,弹吉他,73,,75,146
+HDU,5257,翻转游戏,24,,38,178
+HDU,5256,序列变换,436,,726,2135
+HDU,5254,棋盘占领,276,,351,629
+HDU,5255,魔法因子,153,,199,709
+HDU,5253,连接的管道,513,,1335,4248
+HDU,5252,追星族,42,,55,176
+HDU,5250,三阶魔方,50,,69,140
+HDU,5251,矩形面积,197,,276,471
+HDU,5248,序列变换,397,,682,1610
+HDU,5249,KPI,329,,635,1544
+HDU,5245,Joyful,273,,626,1419
+HDU,5246,超级赛亚ACMer,486,,833,3057
+HDU,5244,inverse,72,,108,214
+HDU,5247,找连续数,365,,635,1679
+HDU,5242,Game,223,,507,1536
+HDU,5243,Homework,32,,50,424
+HDU,5241,Friends,279,,696,1456
+HDU,5240,Exam,359,,1052,2157
+HDU,5238,Calculator,118,,195,577
+HDU,5239,Doom,174,,423,1538
+HDU,5237,Base64,241,,609,1345
+HDU,5236,Article,181,,364,982
+HDU,5235,Door game,6,,26,112
+HDU,5234,Happy birthday,283,,452,955
+HDU,5231,ZCC loves math,3,,5,39
+HDU,5232,Shaking hands,360,,521,614
+HDU,5233,Gunner II,381,,803,2210
+HDU,5229,ZCC loves strings,262,,398,1003
+HDU,5230,ZCC loves hacking,158,,265,671
+HDU,5228,ZCC loves straight flush,385,,628,1469
+HDU,5226,Tom and matrix,164,,272,853
+HDU,5227,Tom and game,28,,33,126
+HDU,5224,Tom and paper,489,,842,1403
+HDU,5225,Tom and permutation,182,,290,620
+HDU,5222,Exploration,230,,499,1685
+HDU,5223,GCD,260,,415,990
+HDU,5221,Occupation,146,,230,547
+HDU,5219,Repeating,36,,56,134
+HDU,5218,Game,132,,178,319
+HDU,5215,Cycle,141,,271,936
+HDU,5217,Brackets,85,,125,340
+HDU,5216,Segment,88,,111,254
+HDU,5214,Movie,296,,540,2579
+HDU,5213,Lucky,210,,434,1195
+HDU,5212,Code,245,,442,1080
+HDU,5211,Mutiple,368,,618,1025
+HDU,5210,Delete,440,,807,1730
+HDU,5209,Magic Toy Brick,64,,90,171
+HDU,5205,Rikka with graph,8,,16,109
+HDU,5206,Four Inages Strategy,378,,604,1818
+HDU,5208,Where is Bob,104,,149,325
+HDU,5207,Greatest Greatest Common Divisor,406,,668,1565
+HDU,5204,Rikka with sequence,134,,219,962
+HDU,5203,Rikka with wood sticks,254,,377,1190
+HDU,5220,GAL,27,,47,248
+HDU,5202,Rikka with string,418,,579,1562
+HDU,5201,The Monkey King,115,,205,584
+HDU,5200,Trees,281,,498,1453
+HDU,5399,Too Simple,340,,599,1818
+HDU,5398,GCD Tree,102,,231,521
+HDU,5395,Piano in Tina Town,4,,4,57
+HDU,5397,Hack it!,14,,18,144
+HDU,5396,Expression,321,,597,991
+HDU,5394,Trie in Tina Town,34,,127,750
+HDU,5393,Falsyta in Tina Town,53,,118,683
+HDU,5392,Infoplane in Tina Town,204,,587,2176
+HDU,5391,Zball in Tina Town,532,,1131,2332
+HDU,5390,tree,68,,125,417
+HDU,5389,Zero Escape,429,,849,1660
+HDU,5388,Geometer's Sketchpad,30,,64,297
+HDU,5387,Clock,412,,743,1359
+HDU,5386,Cover,372,,669,1872
+HDU,5383,Yu-Gi-Oh!,127,,237,821
+HDU,5385,The path,211,,410,976
+HDU,5379,Mahjong tree,338,,617,1853
+HDU,5382,GCD?LCM!,111,,214,335
+HDU,5380,Travel with candy,113,,186,383
+HDU,5381,The sum of gcd,237,,580,1322
+HDU,5384,Danganronpa,346,,749,1397
+HDU,5378,Leader in Tree Land,196,,344,719
+HDU,5376,Convex Polygon,28,,57,194
+HDU,5377,Root,76,,198,678
+HDU,5374,Tetris,116,,218,407
+HDU,5375,Gray code,430,,713,1322
+HDU,5373,The shortest problem,490,,976,2429
+HDU,5371,Hotaru's problem,499,,1271,3878
+HDU,5372,Segment Game,325,,633,2085
+HDU,5368,Bribery,2,,4,57
+HDU,5367,digger,84,,172,615
+HDU,5370,Tree Maker,85,,123,317
+HDU,5369,Game On the Tree,21,,60,279
+HDU,5366,The mook jong,466,,693,1056
+HDU,5364,Distribution money,394,,549,1100
+HDU,5365,Run,416,,615,1413
+HDU,5361,In Touch,276,,688,2591
+HDU,5363,Key Set,557,,1183,2260
+HDU,5362,Just A String,91,,257,890
+HDU,5360,Hiking,456,,826,1581
+HDU,5358,First One,339,,773,2720
+HDU,5359,Group,12,,12,73
+HDU,5356,Deal,20,,37,119
+HDU,5357,Easy Sequence,132,,301,1108
+HDU,5355,Cake,328,,646,3018
+HDU,5354,Bipartite Graph,106,,263,748
+HDU,5353,Average,397,,825,3478
+HDU,5351,MZL's Border,311,,484,1449
+HDU,5352,MZL's City,194,,437,1187
+HDU,5350,MZL's munhaff function,121,,230,367
+HDU,5347,MZL's chemistry,362,,622,895
+HDU,5349,MZL's simple problem,591,,1117,2983
+HDU,5346,MZL's game,90,,134,217
+HDU,5348,MZL's endless loop,287,,699,2955
+HDU,5344,MZL's xor,522,,859,1393
+HDU,5345,MZL's combat,8,,11,57
+HDU,5341,Gcd and Lcm,41,,51,138
+HDU,5339,Untitled,524,,907,1555
+HDU,5342,Dynamic Cactus,1,,1,22
+HDU,5343,MZL's Circle Zhou,103,,164,404
+HDU,5340,Three Palindromes,256,,636,1802
+HDU,5338,ZZX and Permutations,195,,353,1116
+HDU,5337,Yet Another XYZ Problem,20,,24,140
+HDU,5335,Walk Out,473,,928,4577
+HDU,5334,Virtual Participation,225,,403,1261
+HDU,5336,XYZ and Drops,383,,718,2069
+HDU,5332,Test for Rikka,68,,117,218
+HDU,5333,Undirected Graph,87,,193,619
+HDU,5330,Route Statistics,65,,90,162
+HDU,5331,Simple Problem,17,,21,106
+HDU,5329,Question for the Leader,108,,211,753
+HDU,5326,Work ,679,,1338,2259
+HDU,5328,Problem Killer,532,,1011,2907
+HDU,5325,Crazy Bobo,365,,739,2072
+HDU,5327,Olympiad,647,,1232,1967
+HDU,5324,Boring Class,234,,551,1743
+HDU,5322,Hope,152,,278,501
+HDU,5323,Solve this interesting problem,483,,1016,3182
+HDU,5321,Beautiful Set,117,,208,458
+HDU,5320,Fan Li,62,,97,354
+HDU,5319,Painter,523,,913,2309
+HDU,5318,The Goddess Of The Moon,301,,690,1596
+HDU,5317,RGCDQ ,623,,1284,3380
+HDU,5316,Magician,419,,954,3630
+HDU,5314,Happy King,134,,249,1017
+HDU,5315,Triangle,10,,16,90
+HDU,5313,Bipartite Graph,251,,551,1539
+HDU,5312,Sequence,282,,475,1530
+HDU,5311,Hidden String,488,,767,2023
+HDU,5310,Souvenir,636,,921,1822
+HDU,5308,I Wanna Become A 24-Point Master,312,,679,1588
+HDU,5309,JRY is Fighting,65,,90,271
+HDU,5306,Gorgeous Sequence,288,,889,3319
+HDU,5307,He is Flying,149,,331,1252
+HDU,5305,Friends,600,,1251,2588
+HDU,5304,Eastest Magical Day Seep Group's Summer,113,,222,732
+HDU,5303,Delicious Apples,399,,820,2643
+HDU,5302,Connect the Graph,129,,224,632
+HDU,5300,Angry Trees,2,,3,100
+HDU,5301,Buildings,556,,998,3563
+HDU,5499,SDOI,307,,473,1184
+HDU,5498,Tree,46,,78,135
+HDU,5496,Beauty of Sequence,237,,437,942
+HDU,5497,Inversion,189,,381,1246
+HDU,5495,LCS,347,,509,913
+HDU,5491,The Next,444,,838,2299
+HDU,5492,Find a path,439,,810,1868
+HDU,5494,Card Game,401,,616,965
+HDU,5490,Simple Matrix,108,,180,524
+HDU,5493,Queue,395,,689,1363
+HDU,5489,Removed Interval,325,,619,1891
+HDU,5488,Shape,6,,6,69
+HDU,5487,Difference of Languages,127,,203,744
+HDU,5486,Difference of Clustering,163,,239,648
+HDU,5485,The Relationship in Club,47,,67,165
+HDU,5482,Numquam vincar,59,,76,165
+HDU,5484,Monitor the Alpacas,32,,82,511
+HDU,5483,Nux Walpurgis,66,,94,245
+HDU,5481,Desiderium,170,,270,645
+HDU,5480,Conturbatio,352,,575,1237
+HDU,5479,Scaena Felix,333,,465,1069
+HDU,5477,A Sweet Journey,388,,632,1288
+HDU,5478,Can you find it,378,,783,1845
+HDU,5475,An easy problem,482,,924,2273
+HDU,5476,Explore Track of Point,201,,287,625
+HDU,5473,There was a kingdom,61,,157,680
+HDU,5474,A simple graph problem,32,,41,117
+HDU,5472,Code Formatting,15,,40,269
+HDU,5471,Count the Grid,116,,185,621
+HDU,5470,Typewriter,65,,92,283
+HDU,5468,Puzzled Elena,243,,446,1416
+HDU,5469,Antonidas,207,,439,1564
+HDU,5467,Clarke and hunger games,27,,37,204
+HDU,5466,Clarke and expression,17,,22,139
+HDU,5464,Clarke and problem,331,,511,1257
+HDU,5465,Clarke and puzzle,195,,340,939
+HDU,5463,Clarke and minecraft,351,,608,1231
+HDU,5462,Manors,70,,112,204
+HDU,5461,Largest Point,503,,927,2553
+HDU,5460,Poker,39,,64,254
+HDU,5459,Jesus Is Here,326,,502,686
+HDU,5458,Stability,167,,371,1524
+HDU,5457,Hold Your Hand,63,,113,357
+HDU,5454,Excited Database,87,,121,420
+HDU,5456,Matches Puzzle Game,166,,282,439
+HDU,5455,Fang Fang,496,,825,2208
+HDU,5452,Minimum Cut,379,,824,1763
+HDU,5453,Dividing This Product,47,,81,427
+HDU,5450,Traversal,62,,97,222
+HDU,5451,Best Solver,313,,575,1011
+HDU,5448,Marisa’s Cake,126,,168,291
+HDU,5447,Good Numbers,99,,238,1316
+HDU,5449,Robot Dog,81,,105,349
+HDU,5446,Unknown Treasure,494,,1056,2897
+HDU,5445,Food Problem,242,,449,1507
+HDU,5444,Elven Postman,670,,1239,2125
+HDU,5442,Favorite Donut,428,,888,3528
+HDU,5441,Travel,676,,1358,4066
+HDU,5443,The Water Problem,890,,1757,2248
+HDU,5440,Clock Adjusting,25,,34,360
+HDU,5439,Aggregated Counting,247,,383,834
+HDU,5438,Ponds,675,,1325,4602
+HDU,5436,Transmigration tree,27,,61,300
+HDU,5437,Alisha’s Party,791,,1533,6334
+HDU,5433,Xiao Ming climbing,232,,473,1555
+HDU,5431,AB String,61,,93,234
+HDU,5434,Peace small elephant,89,,125,211
+HDU,5435,A serious math problem,82,,130,387
+HDU,5432,Pyramid Split,291,,460,1071
+HDU,5430, Reflect,284,,351,563
+HDU,5429,Geometric Progression,262,,344,1185
+HDU,5427,A problem of sorting,495,,782,2252
+HDU,5426,Rikka with Game,27,,43,207
+HDU,5428,The Factor,542,,886,2866
+HDU,5425,Rikka with Tree II,72,,127,419
+HDU,5421,Victor and String,95,,155,568
+HDU,5423,Rikka with Tree,319,,446,949
+HDU,5424,Rikka with Graph II,254,,391,1552
+HDU,5422,Rikka with Graph,356,,501,979
+HDU,5419,Victor and Toys,214,,332,954
+HDU,5420,Victor and Proposition,59,,93,328
+HDU,5418,Victor and World,387,,743,1579
+HDU,5416,CRB and Tree,317,,679,2229
+HDU,5417,Victor and Machine,414,,709,1300
+HDU,5415,CRB and Substrings,12,,20,137
+HDU,5413,CRB and Roads,101,,192,406
+HDU,5412,CRB and Queries,311,,940,3657
+HDU,5414,CRB and String,408,,808,2709
+HDU,5411,CRB and Puzzle,217,,497,1251
+HDU,5408,CRB and Farm,27,,55,304
+HDU,5404,Random Inversion Machine,6,,9,54
+HDU,5410,CRB and His Birthday,533,,1103,2351
+HDU,5406,CRB and Apple,165,,374,1182
+HDU,5407,CRB and Candies,286,,562,1167
+HDU,5409,CRB and Graph,129,,272,702
+HDU,5405,Sometimes Naive,73,,124,327
+HDU,5403,Goldbach's Conjecture,9,,11,147
+HDU,5402,Travelling Salesman Problem,329,,621,1757
+HDU,5401,Persistent Link/cut Tree,99,,168,564
+HDU,5400,Arithmetic Sequence,440,,785,1808
+HDU,5599,GTW likes tree,24,,34,150
+HDU,5598,GTW likes czf,58,,79,205
+HDU,5593,ZYB's Tree,161,,240,698
+HDU,5594,ZYB's Prime,36,,45,216
+HDU,5596,GTW likes gt,322,,504,1306
+HDU,5597,GTW likes function,198,,290,527
+HDU,5592,ZYB's Premutation,374,,563,1076
+HDU,5595,GTW likes math,428,,605,1360
+HDU,5591,ZYB's Game,465,,662,846
+HDU,5590,ZYB's Biology,528,,834,1109
+HDU,5589,Tree,91,,143,385
+HDU,5588,Strings,14,,19,74
+HDU,5587,Array,281,,387,788
+HDU,5585,Numbers,510,,798,2085
+HDU,5586,Sum,517,,888,1741
+HDU,5584,LCM Walk,343,,911,1746
+HDU,5582,Journey of Taku,17,,24,328
+HDU,5583,Kingdom of Black and White,364,,1019,3379
+HDU,5581,Infinity Point Sets,28,,39,237
+HDU,5580,Happiness of Frog,5,,7,126
+HDU,5579,Game of Arrays,50,,88,319
+HDU,5578,Friendship of Frog,451,,1459,2517
+HDU,5574,Colorful Tree,45,,98,454
+HDU,5576,Expection of String,67,,125,316
+HDU,5575,Discover Water Tank,120,,293,919
+HDU,5573,Binary Tree,318,,747,1275
+HDU,5572,An Easy Physics Problem,158,,509,2521
+HDU,5571,tree,46,,68,245
+HDU,5568,sequence2,218,,320,844
+HDU,5570,balls,120,,177,263
+HDU,5569,matrix,344,,488,847
+HDU,5567,sequence1,389,,534,764
+HDU,5566,Clarke and room,35,,59,173
+HDU,5565,Clarke and baton,90,,160,615
+HDU,5564,Clarke and digits,104,,154,245
+HDU,5563,Clarke and five-pointed star,348,,518,964
+HDU,5561,Kingdom of Tree,12,,15,78
+HDU,5562,Clarke and food,451,,818,1612
+HDU,5560,The Shields,43,,91,299
+HDU,5559,Frog and String,97,,188,720
+HDU,5558,Alice's Classified Message,130,,297,772
+HDU,5555,Immortality of Frog,70,,109,298
+HDU,5554,Autopilot System,18,,48,268
+HDU,5557,Matching Compressed String,18,,30,174
+HDU,5556,Land of Farms,129,,249,800
+HDU,5553,Advanced Calculator,3,,3,146
+HDU,5552,Bus Routes,49,,96,253
+HDU,5549,Walk Around The Campsite,17,,48,314
+HDU,5550,Game Rooms,124,,237,766
+HDU,5551,Huatuo's Medicine,389,,788,1055
+HDU,5547,Sudoku,339,,880,2586
+HDU,5548,Mahjong,41,,57,125
+HDU,5545,The Battle of Guandu,86,,181,398
+HDU,5544,Ba Gua Zhen,83,,224,767
+HDU,5543,Pick The Sticks,271,,733,2274
+HDU,5546,Ancient Go,316,,811,2585
+HDU,5542,The Battle of Chibi,264,,671,1907
+HDU,5541,Build Towers,7,,13,164
+HDU,5540,Secrete Master Plan,350,,799,1347
+HDU,5538,House Building,480,,1111,1769
+HDU,5539,Security Corporation,9,,14,85
+HDU,5537,Maximum Spanning Forest,16,,19,89
+HDU,5536,Chip Factory,519,,1449,3331
+HDU,5535,Chess Puzzle,12,,16,93
+HDU,5534,Partial Tree,339,,728,1459
+HDU,5533,Dancing Stars on Me,474,,1059,1818
+HDU,5528,Count a * b,123,,295,785
+HDU,5530,Pipes selection,9,,32,81
+HDU,5532,Almost Sorted Array,526,,1339,5680
+HDU,5531,Rebuild,185,,561,2545
+HDU,5529,Play a game,11,,18,81
+HDU,5527,Too Rich,181,,331,1325
+HDU,5526,Lie,28,,57,109
+HDU,5525,Product,147,,281,1183
+HDU,5524,Subtrees,225,,324,676
+HDU,5523,Game,461,,667,2034
+HDU,5522,Numbers,464,,947,1713
+HDU,5520,Number Link,41,,78,203
+HDU,5521,Meeting,408,,1068,3343
+HDU,5518,John's Fences,3,,3,28
+HDU,5515,Game of Flying Circus,107,,297,1416
+HDU,5519,Kykneion asma,64,,162,282
+HDU,5517,Triple,129,,296,811
+HDU,5516,Chessboard,12,,30,118
+HDU,5513,Efficient Tree,44,,100,203
+HDU,5514,Frogs,312,,848,2578
+HDU,5512,Pagodas,531,,1299,1896
+HDU,5510,Bazinga,558,,1453,4560
+HDU,5507,GT and strings,49,,116,417
+HDU,5511,Minimum Cut-Cut,8,,9,94
+HDU,5509,Pattern String,6,,8,64
+HDU,5506,GT and set,129,,184,531
+HDU,5508,GT and trees,13,,38,134
+HDU,5505,GT and numbers,385,,580,2221
+HDU,5504,GT and sequence,561,,828,3434
+HDU,5502,Candy Game,72,,97,181
+HDU,5503,EarthCup,45,,73,214
+HDU,5500,Reorder the Books,562,,820,1600
+HDU,5501,The Highest Mark,338,,498,1159
+HDU,5698,瞬间移动,424,,692,1436
+HDU,5699,货物运输,129,,224,509
+HDU,5697,刷题计划,73,,117,355
+HDU,5696,区间的价值,291,,597,1331
+HDU,5695,Gym Class,446,,733,1884
+HDU,5694,BD String,306,,435,952
+HDU,5693,D Game,142,,259,705
+HDU,5691,Sitting in Line,310,,569,1192
+HDU,5690,All X,549,,1002,2410
+HDU,5692,Snacks,336,,818,3527
+HDU,5688,Problem D,353,,573,933
+HDU,5689,Problem E,64,,76,174
+HDU,5687,Problem C,273,,494,1716
+HDU,5684,zxa and lcm,18,,36,150
+HDU,5686,Problem B,346,,524,1244
+HDU,5685,Problem A,364,,648,1455
+HDU,5682,zxa and leaf,116,,178,449
+HDU,5683,zxa and xor,103,,178,421
+HDU,5681,zxa and wifi,85,,145,475
+HDU,5680,zxa and set,371,,586,768
+HDU,5679,ztr loves chess,18,,36,101
+HDU,5677,ztr loves substring,135,,223,400
+HDU,5675,ztr loves math,423,,652,1657
+HDU,5678,ztr loves trees,73,,131,609
+HDU,5674,Function,56,,74,150
+HDU,5676,ztr loves lucky numbers,405,,764,1970
+HDU,5672,String,425,,647,1991
+HDU,5673,Robot,185,,306,603
+HDU,5669,Road,70,,166,430
+HDU,5670,Machine,436,,720,1602
+HDU,5671,Matrix,445,,659,1702
+HDU,5668,Circle,128,,193,569
+HDU,5666,Segment,446,,786,2112
+HDU,5665,Lucky,427,,669,1228
+HDU,5667,Sequence,361,,751,2305
+HDU,5663,Hillan and the girl,126,,213,452
+HDU,5664,Lady CA and the graph,38,,56,175
+HDU,5662,YJQQQAQ and the function,81,,109,273
+HDU,5661,Claris and XOR,225,,390,853
+HDU,5660,jrMz and angles,352,,665,1300
+HDU,5659,CA Loves Substring,20,,31,146
+HDU,5658,CA Loves Palindromic,85,,207,471
+HDU,5657,CA Loves Math,30,,64,320
+HDU,5656,CA Loves GCD,341,,747,2246
+HDU,5654,xiaoxin and his watermelon candy,86,,136,504
+HDU,5655,CA Loves Stick,475,,814,2921
+HDU,5653,Bomber Man wants to bomb an Array.,176,,258,684
+HDU,5652,India and China Origins,336,,686,1993
+HDU,5650,so easy,448,,632,1036
+HDU,5651,xiaoxin juju needs help,434,,711,2216
+HDU,5647,DZY Loves Connecting,179,,250,670
+HDU,5649,DZY Loves Sorting,119,,165,550
+HDU,5648,DZY Loves Math,89,,133,241
+HDU,5645,DZY Loves Balls,459,,708,1275
+HDU,5646,DZY Loves Partition,387,,614,1546
+HDU,5644,King's Pilots,89,,149,354
+HDU,5643,King's Game,306,,446,810
+HDU,5638,Toposort,138,,187,454
+HDU,5641,King's Phone,530,,772,3321
+HDU,5640,King's Cake,634,,1080,1595
+HDU,5642,King's Order,382,,594,1184
+HDU,5639,Deletion,57,,74,146
+HDU,5637,Transform,201,,315,841
+HDU,5636,Shortest Path,349,,576,1759
+HDU,5633,Rikka with Sequence,5,,12,103
+HDU,5635,LCP Array,344,,544,1717
+HDU,5634,Rikka with Phi,113,,211,652
+HDU,5631,Rikka with Graph,398,,639,1233
+HDU,5632,Rikka with Array,70,,129,332
+HDU,5630,Rikka with Chess,494,,793,938
+HDU,5629,Clarke and tree,44,,53,111
+HDU,5628,Clarke and math,99,,148,299
+HDU,5627,Clarke and MST,201,,304,532
+HDU,5626,Clarke and points,259,,328,466
+HDU,5625,Clarke and chemistry,285,,370,660
+HDU,5624,KK's Reconstruction,92,,155,372
+HDU,5623,KK's Number,180,,276,558
+HDU,5622,KK's Chemical,69,,80,226
+HDU,5621,KK's Point,331,,505,1508
+HDU,5617,Jam's maze,158,,240,560
+HDU,5619,Jam's store,65,,125,276
+HDU,5620,KK's Steel,366,,579,1194
+HDU,5618,Jam's problem again,195,,476,1336
+HDU,5616,Jam's balance,397,,852,2074
+HDU,5615,Jam's math problem,411,,744,1650
+HDU,5614,Baby Ming and Matrix tree,42,,53,126
+HDU,5613,Baby Ming and Binary image,100,,140,388
+HDU,5612,Baby Ming and Matrix games,212,,467,1647
+HDU,5611,Baby Ming and phone number,369,,584,2120
+HDU,5610,Baby Ming and Weight lifting,429,,696,1831
+HDU,5609,The classic problem,9,,10,47
+HDU,5607,graph,142,,223,599
+HDU,5608,function,130,,216,595
+HDU,5605,geometry,374,,569,755
+HDU,5606,tree,389,,710,1607
+HDU,5604,merge,36,,45,113
+HDU,5602,Black Jack,104,,174,566
+HDU,5603,the soldier of love,70,,90,205
+HDU,5601,N*M bulbs,260,,326,556
+HDU,5600,N bulbs,365,,518,958
+HDU,5799,This world need more Zhu,76,,271,1023
+HDU,5796,Magic Number,14,,19,67
+HDU,5798,Stabilization,106,,208,485
+HDU,5795,A Simple Nim,458,,788,1456
+HDU,5797,Master Zhu,15,,18,103
+HDU,5794,A Simple Chess,366,,764,2905
+HDU,5792,World is Exploding,388,,669,1438
+HDU,5793,A Boring Question,385,,591,961
+HDU,5791,Two,592,,1043,2426
+HDU,5788,Level Up,70,,125,325
+HDU,5787,K-wolf Number,308,,624,1649
+HDU,5790,Prefix,143,,272,908
+HDU,5789,Permutation,25,,30,100
+HDU,5786,Interval,22,,36,101
+HDU,5784,How Many Triangles,217,,448,1304
+HDU,5785,Interesting,210,,397,1186
+HDU,5783,Divide the Sequence,468,,801,1699
+HDU,5781,ATM Mechine,417,,762,1514
+HDU,5782,Cycle,124,,231,647
+HDU,5780,gcd,120,,173,496
+HDU,5779,Tower Defence,80,,109,180
+HDU,5778,abs,402,,869,2664
+HDU,5776,sum,631,,1204,3284
+HDU,5777,domino,401,,558,1158
+HDU,5773,The All-purpose Zero,589,,1100,2427
+HDU,5775,Bubble Sort,484,,829,1568
+HDU,5774,Where Amazing Happens,369,,644,1093
+HDU,5772,String problem,174,,316,672
+HDU,5770,Treasure ,72,,128,434
+HDU,5771,Turn Game,12,,22,94
+HDU,5769,Substring,311,,592,1508
+HDU,5766,Filling,19,,24,54
+HDU,5764,After a Sleepless Night,84,,122,471
+HDU,5768,Lucky7,366,,715,1916
+HDU,5765,Bonds,132,,280,606
+HDU,5762,Teacher Bo,491,,996,1877
+HDU,5763,Another Meaning,472,,872,1815
+HDU,5761,Rower Bo,435,,675,1712
+HDU,5760,Palindrome Bo,98,,163,437
+HDU,5759,Gardener Bo,44,,72,190
+HDU,5757,Product Bo,15,,24,88
+HDU,5758,Explorer Bo,160,,322,944
+HDU,5755,Gambler Bo,271,,560,1339
+HDU,5756,Boss Bo,71,,142,742
+HDU,5754,Life Winner Bo,481,,1011,2749
+HDU,5753,Permutation Bo,455,,745,1289
+HDU,5752,Sqrt Bo,495,,937,2380
+HDU,5751,Eades,57,,103,195
+HDU,5748,Bellovin,423,,741,1873
+HDU,5750,Dertouzos,343,,721,2334
+HDU,5749,Colmerauer,115,,170,370
+HDU,5747,Aaronson,401,,565,1065
+HDU,5746,Memento Mori,35,,63,228
+HDU,5745,La Vie en rose,458,,888,3187
+HDU,5743,Join The Future,49,,75,212
+HDU,5742,It's All In The Mind,502,,958,2226
+HDU,5744,Keep On Movin,491,,945,1390
+HDU,5740,Glorious Brilliance,65,,128,645
+HDU,5741, Helter Skelter,122,,259,829
+HDU,5739,Fantasia,201,,502,1885
+HDU,5738,Eureka,442,,973,3451
+HDU,5737,Differencia,118,,218,752
+HDU,5731,Solid Dominoes Tilings,100,,181,294
+HDU,5735,Born Slippy,204,,396,1336
+HDU,5733,tetrahedron,283,,518,1216
+HDU,5730,Shell Necklace,238,,564,1326
+HDU,5734,Acperience,505,,831,1745
+HDU,5736,Call It What You Want,22,,34,128
+HDU,5732,Subway,75,,167,1038
+HDU,5729,Rigid Frameworks,214,,347,422
+HDU,5728,PowMod,211,,459,1299
+HDU,5727,Necklace,392,,1029,3343
+HDU,5726,GCD,712,,1521,4285
+HDU,5725,Game,122,,202,820
+HDU,5724,Chess,614,,1222,2993
+HDU,5723,Abandoned country,742,,1589,6494
+HDU,5721,Palace,130,,354,1122
+HDU,5722,Jewelry,77,,119,298
+HDU,5719,Arrange,284,,386,1124
+HDU,5720,Wool,234,,317,1038
+HDU,5718,Oracle,344,,521,1186
+HDU,5716,带可选字符的多字符串匹配,74,,146,654
+HDU,5717,矩阵方程的解,16,,25,106
+HDU,5715,XOR 游戏,101,,206,545
+HDU,5713,K个联通块,117,,229,639
+HDU,5714,拍照,160,,220,565
+HDU,5712,D++游戏,27,,40,111
+HDU,5711,Ingress,88,,150,335
+HDU,5710,Digit-Sum ,88,,166,565
+HDU,5709,Claris Loves Painting,46,,98,336
+HDU,5705,Clock,160,,369,1042
+HDU,5707,Combine String,249,,638,2253
+HDU,5708,Alice and Bob,87,,179,437
+HDU,5706,GirlCat,232,,659,1053
+HDU,5703,Desert,363,,895,1264
+HDU,5704,Luck Competition,247,,662,1079
+HDU,5702,Solving Order,369,,1118,1803
+HDU,5701,中位数计数,474,,662,1846
+HDU,5700,区间交,300,,485,1254
+HDU,5899,oasis in desert,26,,43,160
+HDU,5898,odd-even number ,375,,621,1151
+HDU,5897,The Game,21,,25,88
+HDU,5895,Mathematician QSC,196,,303,575
+HDU,5892,Resident Evil,125,,203,767
+HDU,5896,Running King,63,,121,311
+HDU,5894,hannnnah_j’s Biological Test,294,,556,1626
+HDU,5893,List wants to travel,175,,331,1209
+HDU,5890,Eighty seven,183,,416,1244
+HDU,5891,String,13,,18,141
+HDU,5889,Barricade,287,,534,1832
+HDU,5887,Herbs Gathering,158,,344,1393
+HDU,5885,XM Reserves,64,,120,281
+HDU,5886,Tower Defence,131,,183,525
+HDU,5883,The Best Path,349,,669,1598
+HDU,5884,Sort,370,,775,3103
+HDU,5882,Balanced Game,396,,612,777
+HDU,5880,Family View,180,,416,2023
+HDU,5881,Tea,331,,513,1700
+HDU,5879,Cure,453,,802,3004
+HDU,5878,I Count Two Three,480,,861,1901
+HDU,5875,Function,472,,1012,3050
+HDU,5874,Friends and Enemies,384,,559,1121
+HDU,5877,Weak Pair,455,,1142,3791
+HDU,5876,Sparse Graph,459,,818,2327
+HDU,5872,Seats,91,,121,357
+HDU,5873,Football Games,494,,837,2284
+HDU,5871,Number of Connected Subgraph,3,,4,36
+HDU,5870,Alice's Adventure in Wonderland,14,,33,151
+HDU,5869,Different GCD Subarray Query,322,,548,1420
+HDU,5868,Different Circle Permutation,131,,179,370
+HDU,5866,Lucky E,37,,64,156
+HDU,5867,Water problem,260,,476,1145
+HDU,5865, Stone game,23,,27,79
+HDU,5864,Cube again,30,,55,207
+HDU,5863,cjj's string game,123,,215,334
+HDU,5861,Road,218,,363,1287
+HDU,5860,Death Sequence,203,,368,848
+HDU,5862,Counting Intersections,227,,441,1400
+HDU,5859,Captain is coding,34,,39,104
+HDU,5858,Hard problem,263,,454,705
+HDU,5857,Median,242,,417,1563
+HDU,5856,Math is Fun,8,,9,36
+HDU,5854,K-th value,23,,30,113
+HDU,5855,"Less Time, More profit",211,,414,1187
+HDU,5853,Jong Hyok and String,100,,186,647
+HDU,5852,Intersection is not allowed!,79,,118,359
+HDU,5851,Honey Tour,3,,4,22
+HDU,5849,Flight,21,,27,220
+HDU,5850,Generator,11,,18,84
+HDU,5847,Different Sums,57,,77,180
+HDU,5848,Easy Homework,2,,3,37
+HDU,5846,Convex Hull,19,,29,162
+HDU,5844,A Poor King,5,,5,34
+HDU,5845,Best Division,114,,251,860
+HDU,5842,Lweb and String,441,,740,1476
+HDU,5841,Alice and Bob,31,,37,243
+HDU,5840,This world need more Zhu,40,,94,481
+HDU,5839,Special Tetrahedron,205,,356,863
+HDU,5838,Mountain,88,,105,374
+HDU,5837,Robots,15,,17,81
+HDU,5836,Rubik's Cube,24,,30,50
+HDU,5835,Danganronpa,448,,760,1144
+HDU,5834,Magic boy Bi Luo with his excited tree,203,,383,1289
+HDU,5832,A water problem,619,,1249,3448
+HDU,5831,Rikka with Parenthesis II,420,,758,1743
+HDU,5833,Zhu and 772002,391,,808,2247
+HDU,5829,Rikka with Subset,135,,349,1099
+HDU,5828,Rikka with Sequence,253,,573,3147
+HDU,5830,Rikka with Subset II,6,,10,114
+HDU,5827,Rikka with Parenthesis,11,,13,37
+HDU,5824,graph,15,,15,68
+HDU,5826,physics,334,,478,867
+HDU,5825,permu,9,,14,37
+HDU,5823,color II,241,,505,1112
+HDU,5821,Ball,488,,726,1262
+HDU,5822,color,12,,13,100
+HDU,5819,Knights,140,,240,735
+HDU,5820,Lights,133,,267,1038
+HDU,5818,Joint Stacks,495,,895,2097
+HDU,5816,Hearthstone,310,,598,1230
+HDU,5817,Ice Walls,16,,22,77
+HDU,5815,Golden Week,54,,87,265
+HDU,5814,Find the Period,14,,32,170
+HDU,5812,Distance,168,,325,882
+HDU,5813,Elegant Construction,343,,559,1074
+HDU,5811,Colosseo,106,,208,1062
+HDU,5810,Balls and Boxes,350,,549,856
+HDU,5808,Price List Strike Back,88,,159,471
+HDU,5809,Ants,49,,100,383
+HDU,5806,NanoApe Loves Sequence Ⅱ,509,,788,1838
+HDU,5807,Keep In Touch,176,,236,561
+HDU,5805,NanoApe Loves Sequence,452,,564,1470
+HDU,5804,Price List,506,,651,1384
+HDU,5801,"Up Sky,Mr.Zhu",42,,72,166
+HDU,5802,Windows 10,405,,696,2309
+HDU,5803,Zhu’s Math Problem,80,,131,323
+HDU,5800,To My Girlfriend,311,,541,1390
+HDU,5998,jvjhfhg loves Magic Tower,6,,7,35
+HDU,5999,The Third Cup is Free,145,,425,806
+HDU,5997,rausen loves cakes,94,,153,588
+HDU,5996,dingyeye loves stone,166,,222,385
+HDU,5995,Kblack loves flag,202,,283,425
+HDU,5994,Generator and Monitor,16,,22,147
+HDU,5993,Tower Attack,20,,34,244
+HDU,5990,Travel Brochure,26,,34,163
+HDU,5988,Coding Contest,137,,419,1897
+HDU,5991,Cliques,17,,20,73
+HDU,5989,Pattern,20,,27,143
+HDU,5986, Fibonacci,8,,10,57
+HDU,5987,Lambda Calculus,21,,32,433
+HDU,5985,Lucky Coins,66,,150,396
+HDU,5983,Pocket Cube,120,,308,804
+HDU,5984,Pocky,187,,386,703
+HDU,5982,Relic Discovery,258,,571,718
+HDU,5981,Guess the number,47,,117,283
+HDU,5980,Find Small A,264,,769,1548
+HDU,5979,Convex,212,,643,994
+HDU,5976,Detachment,180,,444,1608
+HDU,5978,To begin or not to begin,256,,732,1137
+HDU,5977,Garden of Eden,99,,257,812
+HDU,5974,A Simple Math Problem,268,,816,2635
+HDU,5975,Aninteresting game,60,,143,354
+HDU,5972,Regular Number,97,,307,1226
+HDU,5973,Game of Taking Stones,114,,284,812
+HDU,5971,Wrestling Match,228,,592,1603
+HDU,5970,最大公约数,77,,146,371
+HDU,5969,最大的位或,323,,829,2178
+HDU,5968,异或密码,228,,533,1632
+HDU,5966,跳蚤国王的游戏,5,,6,31
+HDU,5967,小R与手机,58,,113,477
+HDU,5963,朋友,159,,339,582
+HDU,5964,平行四边形,49,,100,336
+HDU,5961,传递 ,229,,570,1280
+HDU,5962,凯旋三兵 ,4,,6,46
+HDU,5959,A Random Turn Connection Game,14,,25,66
+HDU,5958,New Signal Decomposition,17,,43,357
+HDU,5956,The Elder,89,,203,776
+HDU,5960,Subsequence,12,,17,75
+HDU,5957,Query on a graph,55,,82,371
+HDU,5954,Do not pour out,81,,172,843
+HDU,5952,Counting Cliques,290,,807,2038
+HDU,5953,Similar Rotations,10,,15,118
+HDU,5955,Guessing the Dice Roll,113,,230,862
+HDU,5951,Winning an Auction,34,,61,185
+HDU,5949,Relative atomic mass,278,,688,814
+HDU,5950,Recursive sequence,307,,772,1693
+HDU,5948,Thickest Burger,284,,743,1029
+HDU,5947,Fxx and factory,0,,0,37
+HDU,5945,Fxx and game,326,,562,2084
+HDU,5946,Fxx and tree,17,,31,423
+HDU,5944,Fxx and string,397,,619,1436
+HDU,5941,Inequality,12,,13,127
+HDU,5942,Just a Math Problem,74,,140,451
+HDU,5965,扫雷 ,242,,587,2156
+HDU,5943,Kingdom of Obsession,186,,417,1392
+HDU,5940,Hazy String,0,,0,15
+HDU,5939,Game of Eliminate,12,,19,223
+HDU,5937,Equation,85,,169,572
+HDU,5938,Four Operations,228,,516,1780
+HDU,5935,Car,243,,496,1745
+HDU,5936,Difference,120,,259,933
+HDU,5934,Bomb,218,,494,1509
+HDU,5933,ArcSoft's Office Rearrangement,281,,581,1652
+HDU,5932,Backpack on Tree,24,,45,149
+HDU,5931,Mission Possible,31,,52,265
+HDU,5929,Basic Data Structure,233,,518,2382
+HDU,5928,Birthday Gift,33,,51,233
+HDU,5930,GCD,51,,94,373
+HDU,5927,Auxiliary Set,229,,511,1728
+HDU,5925,Coconuts,161,,359,1181
+HDU,5926,Mr. Frog’s Game,259,,655,1332
+HDU,5922,Minimum’s Revenge,305,,792,1474
+HDU,5924,Mr. Frog’s Problem,303,,790,1384
+HDU,5923,Prediction,98,,231,925
+HDU,5921,Binary Indexed Tree,87,,166,809
+HDU,5919,Sequence II,234,,570,2196
+HDU,5920,Ugly Problem,252,,448,1301
+HDU,5918,Sequence I,350,,872,2325
+HDU,5917,Instability,90,,177,475
+HDU,5916,Harmonic Value Description,278,,538,920
+HDU,5915,The Fastest Runner Ms. Zhang,41,,62,314
+HDU,5912,Fraction,361,,645,1243
+HDU,5913,Rotate String,2,,4,50
+HDU,5914,Triangle,399,,826,1392
+HDU,5911,Hanzo vs. Genji,1,,1,23
+HDU,5910,Advanced Traffic System,9,,10,34
+HDU,5909,Tree Cutting,144,,254,638
+HDU,5908,Abelian Period,308,,427,1059
+HDU,5907,Find Q,499,,711,1617
+HDU,5906,Square Revolution,18,,26,103
+HDU,5905,Black White Tree,37,,54,107
+HDU,5903,Square Distance,151,,198,614
+HDU,5902,GCD is Funny,138,,257,963
+HDU,5900,QSC and Master,408,,739,1988
+HDU,5904,LCIS,328,,504,1131
+HDU,5901,Count primes,553,,1127,2111
+HDU,5992,Finding Hotels,79,,240,844
+HDU,6099,Similarity,28,,51,219
+HDU,6097,Mindis,328,,669,3251
+HDU,6098,Inversion,358,,582,907
+HDU,6095,Rikka with Competition,357,,525,661
+HDU,6096,String,154,,352,1084
+HDU,6094,Rikka with K-Match,18,,29,81
+HDU,6092,Rikka with Subset,503,,882,1791
+HDU,6093,Rikka with Number,96,,180,611
+HDU,6090,Rikka with Graph,377,,560,963
+HDU,6091,Rikka with Match,49,,101,264
+HDU,6088,Rikka with Rock-paper-scissors,40,,99,330
+HDU,6089,Rikka with Terrorist,15,,22,49
+HDU,6086,Rikka with String,102,,200,579
+HDU,6087,Rikka with Sequence,24,,48,232
+HDU,6085,Rikka with Candies,342,,817,1967
+HDU,6084,寻找母串,61,,77,141
+HDU,6080,度度熊保护村庄,63,,109,272
+HDU,6083,度度熊的午饭时光,121,,157,421
+HDU,6081,度度熊的王国战略,151,,239,568
+HDU,6082,度度熊与邪恶大魔王,240,,357,824
+HDU,6079,Yuno And Claris,18,,27,153
+HDU,6078,Wavel Sequence,216,,381,736
+HDU,6076,Security Check,92,,186,472
+HDU,6077,Time To Get Up,359,,592,764
+HDU,6074,Phone Call,91,,166,407
+HDU,6075,Questionnaire,369,,591,849
+HDU,6073,Matching In Multiplication,245,,552,1832
+HDU,6071,Lazy Running,280,,565,1317
+HDU,6072,Logical Chain,54,,90,260
+HDU,6069,Counting Divisors,642,,1265,3379
+HDU,6070,Dirt Ratio,450,,1001,2175
+HDU,6068,Classic Quotation,100,,207,627
+HDU,6066,RXD's date,393,,680,874
+HDU,6067,Big Integer,26,,40,221
+HDU,6062,RXD and logic gates,22,,42,134
+HDU,6065,"RXD, tree and sequence",98,,187,448
+HDU,6064,RXD and numbers,55,,86,231
+HDU,6063,RXD and math,441,,720,1312
+HDU,6061,RXD and functions,141,,338,827
+HDU,6060,RXD and dividing,462,,794,1865
+HDU,6059,Kanade's trio,202,,406,1091
+HDU,6056,simple counting problem,15,,15,45
+HDU,6058,Kanade's sum,558,,1190,2872
+HDU,6057,Kanade's convolution,51,,97,257
+HDU,6055,Regular polygon,569,,1108,2773
+HDU,6054,String and String,22,,26,121
+HDU,6053,TrickGCD,530,,1237,3339
+HDU,6051,If the starlight never fade,74,,123,219
+HDU,6052,To my boyfriend,223,,543,1217
+HDU,6050,Funny Function,371,,710,1384
+HDU,6045,Is Derek lying?,507,,889,1776
+HDU,6046,hash,80,,192,605
+HDU,6048,Puzzle,148,,281,514
+HDU,6047,Maximum Sequence,507,,1033,2193
+HDU,6044,Limited Permutation,234,,575,2223
+HDU,6049,Sdjpx Is Happy,122,,259,609
+HDU,6042,Journey with Knapsack,43,,83,203
+HDU,6040,Hints of sd0061,356,,807,2619
+HDU,6043,KazaQ's Socks,536,,914,1537
+HDU,6041,I Curse Myself,140,,502,2039
+HDU,6039,Gear Up,54,,112,342
+HDU,6038,Function,510,,872,1861
+HDU,6036,Division Game,38,,75,177
+HDU,6037,Expectation Division,19,,28,112
+HDU,6035,Colorful Tree,505,,1052,2457
+HDU,6034,Balala Power!,703,,1567,6145
+HDU,6033,Add More Zero,637,,1143,1790
+HDU,6032,Judicious Strategy,24,,37,108
+HDU,6031,Innumerable Ancestors,129,,307,998
+HDU,6030,Happy Necklace,169,,336,763
+HDU,6029,Graph Theory,199,,345,715
+HDU,6026,Deleting Edges,162,,285,809
+HDU,6028,Forgiveness,2,,2,59
+HDU,6027,Easy Summation,269,,614,1489
+HDU,6025,Coprime Sequence,278,,583,1175
+HDU,6022,MG loves set,29,,47,187
+HDU,6024,Building Shops,258,,525,1409
+HDU,6021,MG loves string,55,,70,181
+HDU,6020,MG loves apple,124,,179,908
+HDU,6023,Automatic Judge,267,,611,1607
+HDU,6018,Game Arrangement,28,,40,143
+HDU,6019,MG loves gold,380,,600,1429
+HDU,6017,Girls Love 233,179,,287,821
+HDU,6016,Count the Sheep,368,,647,1396
+HDU,6015,Skip the Class,466,,737,1290
+HDU,6014,Lotus and Islands,2,,2,47
+HDU,6013,Lotus and Thermodynamics,0,,0,135
+HDU,6009, Lazors,1,,1,18
+HDU,6012,Lotus and Horticulture,237,,409,1291
+HDU,6011,Lotus and Characters,395,,674,1997
+HDU,6010,Daylight Saving Time,42,,130,262
+HDU,6008,Worried School,29,,112,339
+HDU,6006,Engineer Assignment,29,,129,376
+HDU,6007,Mr. Panda and Crystal,35,,124,376
+HDU,6005, Pandaland,29,,121,622
+HDU,6004,Periodical Cicadas,15,,44,214
+HDU,6003, Problem Buyer,22,,50,164
+HDU,6002,Game Leader,7,,12,39
+HDU,6001, Mr.Panda and Survey,1,,1,17
+HDU,6000,Wash,92,,206,801
+HDU,6193,Yuno And Irotoridori no Sekai,1,,1,1
+HDU,6192,Removing Mountains,8,,11,46
+HDU,6191,Query on A Tree,91,,174,449
+HDU,6190,Matching in a Tree,9,,18,120
+HDU,6188,Duizi and Shunzi,159,,238,477
+HDU,6189,Law of Commutation,24,,29,73
+HDU,6187,Destroy Walls,46,,68,188
+HDU,6186,CS Course,166,,237,485
+HDU,6185,Covering,143,,193,378
+HDU,6184,Counting Stars,44,,73,294
+HDU,6183,Color it,69,,145,554
+HDU,6182, A Math Problem,199,,295,713
+HDU,6179,Rotating Line,9,,10,37
+HDU,6178,Monkeys,220,,380,1169
+HDU,6180,Schedule,255,,442,1093
+HDU,6181,Two Paths,271,,514,1095
+HDU,6176,Function Counting,11,,26,40
+HDU,6175,Cube Summation,17,,22,34
+HDU,6177,Jacana Number,8,,10,50
+HDU,6174,Brother and Sister,9,,9,17
+HDU,6173,Boring Game,6,,6,25
+HDU,6172,Array Challenge,155,,246,450
+HDU,6171,Admiral,112,,215,544
+HDU,6170,Two strings,362,,653,1660
+HDU,6169,Senior PanⅡ,101,,263,851
+HDU,6168,Numbers,348,,501,952
+HDU,6167,Missile Interception,48,,73,260
+HDU,6166,Senior Pan,238,,450,1121
+HDU,6163,CSGO,17,,20,127
+HDU,6161,Big binary tree,114,,209,601
+HDU,6165,FFF at Valentine,313,,507,1061
+HDU,6162,Ch’s gift,239,,498,1358
+HDU,6164,Dying Light,75,,123,514
+HDU,6159,Graph Of Zhuper,10,,14,29
+HDU,6158,The Designer,134,,258,1301
+HDU,6160,Convolution Layer,7,,10,62
+HDU,6157,The Karting,26,,30,96
+HDU,6155,Subsequence Count,121,,269,704
+HDU,6154,CaoHaha's staff,324,,469,815
+HDU,6156,Palindrome Function,278,,548,990
+HDU,6153,A Secret,442,,884,2396
+HDU,6152,Friend-Graph,416,,808,1610
+HDU,6151,Party,15,,20,48
+HDU,6150,Vertex Cover,174,,268,685
+HDU,6149,Valley Numer II,89,,148,433
+HDU,6148,Valley Numer,231,,365,702
+HDU,6147,Pokémon GO II,53,,121,314
+HDU,6146,Pokémon GO,188,,246,437
+HDU,6144,Arithmetic of Bomb,141,,181,275
+HDU,6143,Killer Names,344,,651,1309
+HDU,6142,Jedi Council,18,,26,48
+HDU,6140,Hybrid Crystals,335,,488,746
+HDU,6139,Galaxy at War,38,,84,239
+HDU,6141,I am your Father!,78,,153,448
+HDU,6136,Death Podracing,99,,181,463
+HDU,6138,Fleet of the Eternal Throne ,183,,363,775
+HDU,6137,Engineering of the Clones,8,,11,27
+HDU,6135,Casual Podracing,16,,28,65
+HDU,6134,Battlestation Operational,200,,337,601
+HDU,6132,Mystery,6,,6,12
+HDU,6133,Army Formations,99,,226,914
+HDU,6130,Kolakoski,355,,523,911
+HDU,6131,Loop nest,8,,14,17
+HDU,6145,Arithmetic of Bomb II,8,,12,48
+HDU,6129,Just do it,456,,779,1336
+HDU,6128,Inverse of sum,109,,244,704
+HDU,6127,Hard challenge,374,,672,1575
+HDU,6126,Give out candies,62,,135,408
+HDU,6124,Euler theorem,341,,534,666
+HDU,6125,Free from square,130,,223,542
+HDU,6123,Destroy the cube,9,,22,39
+HDU,6121,Build a tree,284,,522,1261
+HDU,6120,All Kill,13,,25,55
+HDU,6118,度度熊的交易计划,247,,442,1197
+HDU,6122,Color the chessboard,77,,107,197
+HDU,6119,小小粉丝度度熊,333,,581,1768
+HDU,6116,路径计数,18,,31,149
+HDU,6115,Factory,106,,176,491
+HDU,6114,Chess,280,,365,603
+HDU,6113,度度熊的01世界,458,,612,1582
+HDU,6112,今夕何夕,462,,684,1884
+HDU,6111,迷宫出逃,20,,39,114
+HDU,6109,数据分割,251,,457,1653
+HDU,6108,小C的倍数问题,397,,463,752
+HDU,6106,Classes,318,,487,756
+HDU,6104,Influence,17,,28,54
+HDU,6110,路径交,57,,129,507
+HDU,6107,Typesetting,83,,169,358
+HDU,6105,Gameia,368,,622,1414
+HDU,6103,Kirinriki,467,,856,2105
+HDU,6102,GCDispower,93,,159,293
+HDU,6101,Gumballs&Dungeons,8,,10,31
+HDU,6100,WrongStatement,3,,3,11
+HDU,6117,打怪兽2,8,,9,28

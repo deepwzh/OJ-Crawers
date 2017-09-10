@@ -1,0 +1,4903 @@
+OJ,Problem Number,Problem Title,AC Users,Try Users,AC Submission,All Submission
+UVA,100,The 3n + 1 problem,82495,,199876,740841
+UVA,101,The Blocks Problem,13814,,21473,95641
+UVA,102,Ecological Bin Packing,24265,,37550,95234
+UVA,103,Stacking Boxes,6434,,10570,42048
+UVA,104,Arbitrage,4142,,7132,29865
+UVA,105,The Skyline Problem,8870,,13246,53651
+UVA,106,Fermat vs. Pythagoras,4262,,9440,28080
+UVA,107,The Cat in the Hat,5701,,10463,49818
+UVA,108,Maximum Sum,15792,,25146,58199
+UVA,109,SCUD Busters,2153,,3794,12449
+UVA,110,Meta-Loopless Sorts,1957,,3363,11137
+UVA,111,History Grading,9080,,13401,30351
+UVA,112,Tree Summing,5646,,9909,36027
+UVA,113,Power of Cryptography,17656,,24026,59100
+UVA,114,Simulation Wizardry,1747,,2632,8277
+UVA,115,Climbing Trees,1664,,2368,6989
+UVA,116,Unidirectional TSP,6734,,11801,52523
+UVA,117,The Postal Worker Rings Once,3138,,4216,8672
+UVA,118,Mutant Flatworld Explorers,6120,,7398,18875
+UVA,119,Greedy Gift Givers,7236,,9045,33119
+UVA,120,Stacks of Flapjacks,8784,,14117,34034
+UVA,121,Pipe Fitters,2619,,3170,7531
+UVA,122,Trees on the level,3902,,6973,26938
+UVA,123,Searching Quickly,3097,,4346,12784
+UVA,124,Following Orders,3135,,4346,11389
+UVA,125,Numbering Paths,1967,,2641,9681
+UVA,126,The Errant Physicist,1145,,1339,4305
+UVA,127,"""Accordian"" Patience",3059,,5536,14808
+UVA,128,Software CRC,3555,,7986,18770
+UVA,129,Krypton Factor,1790,,2949,7844
+UVA,130,Roman Roulette,2971,,3705,8783
+UVA,131,The Psychic Poker Player,1518,,1953,3824
+UVA,132,Bumpy Objects,882,,1638,3766
+UVA,133,The Dole Queue,5368,,8264,17330
+UVA,134,Loglan-A Logical Language,829,,1018,3541
+UVA,135,No Rectangles,549,,790,2951
+UVA,136,Ugly Numbers,18794,,26725,84474
+UVA,137,Polygons,617,,899,4456
+UVA,138,Street Numbers,6840,,8960,19952
+UVA,139,Telephone Tangles,725,,1493,9422
+UVA,140,Bandwidth,2595,,4583,10478
+UVA,141,The Spot Game,2048,,3114,7359
+UVA,142,Mouse Clicks,1041,,1460,6688
+UVA,143,Orchard Trees,1035,,2343,19336
+UVA,144,Student Grants,2355,,3090,6695
+UVA,145,Gondwanaland Telecom,1818,,2205,9181
+UVA,146,ID Codes,11834,,15456,27750
+UVA,147,Dollars,7675,,13271,50133
+UVA,148,Anagram checker,1040,,1713,4941
+UVA,149,Forests,281,,520,1188
+UVA,150,Double Time,472,,743,2442
+UVA,151,Power Crisis,9503,,12533,20866
+UVA,152,Tree's a Crowd,2779,,4290,10931
+UVA,153,Permalex,1696,,2125,7483
+UVA,154,Recycling,2755,,3232,6127
+UVA,155,All Squares,2662,,3392,6852
+UVA,156,Ananagrams,7500,,11627,19461
+UVA,157,Route Finding,502,,622,2014
+UVA,158,Calendar,372,,455,2946
+UVA,159,Word Crosses,1021,,1257,5225
+UVA,160,Factors and Factorials,9445,,12260,39188
+UVA,161,Traffic Lights,2350,,3029,8256
+UVA,162,Beggar My Neighbour,1085,,1464,4480
+UVA,163,City Directions,192,,257,1700
+UVA,164,String Computer,1985,,3817,12339
+UVA,165,Stamps,998,,1469,3801
+UVA,166,Making Change,2287,,3660,9611
+UVA,167,The Sultan's Successors,6354,,9189,18502
+UVA,168,Theseus and the Minotaur,1185,,2633,8177
+UVA,169,Xenosemantics,205,,411,2058
+UVA,170,Clock Patience,2076,,2667,6057
+UVA,171,Car Trialling,376,,459,3377
+UVA,172,Calculator Language,517,,663,2481
+UVA,173,Network Wars,265,,479,2940
+UVA,174,Strategy,404,,474,1241
+UVA,175,Keywords,244,,373,2258
+UVA,176,City Navigation,241,,299,946
+UVA,177,Paper Folding,688,,1076,2916
+UVA,178,Shuffling Patience,333,,448,1162
+UVA,179,Code Breaking,457,,586,2241
+UVA,180,Eeny Meeny,276,,573,2584
+UVA,181,Hearts,461,,544,1130
+UVA,182,Bonus Bonds,340,,378,883
+UVA,183,Bit Maps,1123,,1383,5488
+UVA,184,Laser Lines,1064,,1918,4357
+UVA,185,Roman Numerals,670,,914,2144
+UVA,186,Trip Routing,995,,1273,4075
+UVA,187,Transaction Processing,971,,1156,3249
+UVA,188,Perfect Hash,1388,,2227,4524
+UVA,189,Pascal Program Lengths,185,,237,1031
+UVA,190,Circle Through Three Points,4110,,5363,15721
+UVA,191,Intersection,3705,,5789,25832
+UVA,192,Synchronous Design,283,,334,1059
+UVA,193,Graph Coloring,2921,,4739,17745
+UVA,194,Triangle,242,,413,2590
+UVA,195,Anagram,6143,,9472,37216
+UVA,196,Spreadsheet,1294,,2385,10385
+UVA,197,Cube,146,,263,1455
+UVA,198,Peter's Calculator,376,,544,2776
+UVA,199,Partial differential equations,154,,200,896
+UVA,200,Rare Order,5302,,7824,23649
+UVA,201,Squares,2361,,4026,11132
+UVA,202,Repeating Decimals,3056,,5899,20887
+UVA,203,Running Lights Visibility Calculator,32,,71,1441
+UVA,204,Robot Crash,26,,56,1047
+UVA,205,Getting There,43,,72,987
+UVA,206,Meals on Wheels Routing System,108,,143,964
+UVA,207,PGA Tour Prize Money,176,,482,2644
+UVA,208,Firetruck,1605,,2876,12499
+UVA,209,Triangular Vertices,652,,1118,3386
+UVA,210,Concurrency Simulator,426,,1066,4790
+UVA,211,The Domino Effect,472,,793,2120
+UVA,212,Use of Hospital Facilities,108,,175,865
+UVA,213,Message Decoding,1596,,3073,8138
+UVA,214,Code Generation,136,,233,1004
+UVA,215,Spreadsheet Calculator,367,,485,1761
+UVA,216,Getting in Line,3363,,5392,12832
+UVA,217,Radio Direction Finder,29,,33,136
+UVA,218,Moth Eradication,1501,,3749,8908
+UVA,219,Department of Redundancy Department,29,,33,207
+UVA,220,Othello,817,,1551,5518
+UVA,221,Urban Elevations,546,,1117,4611
+UVA,222,Budget Travel,853,,1253,3859
+UVA,223,Classifying Lots in a Subdivision,35,,54,332
+UVA,224,Kissin' Cousins,16,,18,62
+UVA,225,Golygons,253,,742,2748
+UVA,226,MIDI Preprocessing,99,,201,532
+UVA,227,Puzzle,2774,,5962,28890
+UVA,228,Resource Allocation,12,,15,63
+UVA,229,Scanner,112,,207,967
+UVA,230,Borrowers,1029,,1670,4709
+UVA,231,Testing the CATCHER,4997,,7096,26714
+UVA,232,Crossword Answers,2244,,4243,13468
+UVA,233,Package Pricing,38,,56,590
+UVA,234,Switching Channels,173,,257,450
+UVA,235,Typesetting,20,,37,278
+UVA,236,VTAS - Vessel Traffic Advisory Service,2,,3,217
+UVA,237,Monitoring Wheelchair Patients,53,,78,368
+UVA,238,Jill's Bike,100,,141,904
+UVA,239,Tempus et mobilius. Time and motion,197,,263,799
+UVA,240,Variable Radix Huffman Encoding,177,,310,1220
+UVA,241,Sail Race,12,,24,166
+UVA,242,Stamps and Envelope Size,548,,1063,3830
+UVA,243,Theseus and the Minotaur (II),55,,89,892
+UVA,244,Train Time,43,,62,386
+UVA,245,Uncompress,1060,,1896,5379
+UVA,246,10-20-30,591,,1549,3769
+UVA,247,Calling Circles,2596,,4875,10204
+UVA,248,Cutting Corners,49,,73,704
+UVA,249,Bang the Drum Slowly,34,,53,268
+UVA,250,Pattern Matching Prelims,224,,348,1322
+UVA,251,Nondeterministic Trellis Automata,51,,101,820
+UVA,252,Trucking,5,,5,85
+UVA,253,Cube painting,3436,,5646,14068
+UVA,254,Towers of Hanoi,819,,1295,6347
+UVA,255,Correct Move,1130,,1650,4333
+UVA,256,Quirksome Squares,7991,,9980,17613
+UVA,257,Palinwords,495,,902,3690
+UVA,258,Mirror Maze,180,,376,1902
+UVA,259,Software Allocation,1667,,2614,5637
+UVA,260,Il Gioco dell'X,3296,,4833,10396
+UVA,261,The Window Property,172,,364,1089
+UVA,262,Transferable Voting,50,,96,1543
+UVA,263,Number Chains,2671,,4803,12326
+UVA,264,Count on Cantor,8690,,11141,22318
+UVA,265,Dining Diplomats,63,,125,1114
+UVA,266,Stamping Out Stamps,46,,132,696
+UVA,267,Of(f) Course!,86,,394,1336
+UVA,268,Double Trouble,310,,483,1412
+UVA,269,Counting Patterns,93,,208,871
+UVA,270,Lining Up,1422,,2910,15947
+UVA,271,Simply Syntax,2553,,3672,8782
+UVA,272,TEX Quotes,32069,,44800,97236
+UVA,273,Jack Straws,741,,1151,5657
+UVA,274,Cat and Mouse,470,,720,3954
+UVA,275,Expanding Fractions,1608,,2334,8503
+UVA,276,Egyptian Multiplication,399,,779,2580
+UVA,277,Cabinets,122,,142,1164
+UVA,278,Chess,3985,,4807,8249
+UVA,279,Spin,34,,69,166
+UVA,280,Vertex,3918,,5975,16508
+UVA,281,Rubik's Cube,27,,57,239
+UVA,282,Rename,84,,175,781
+UVA,283,Compress,90,,209,1318
+UVA,284,Logic,60,,114,351
+UVA,285,Crosswords,51,,190,594
+UVA,286,Dead Or Not -- That Is The Question,86,,178,578
+UVA,287,Text Comparsion,9,,42,128
+UVA,288,Arithmetic Operations With Large Integers,210,,393,1673
+UVA,289,A Very Nasty Text Formatter,49,,81,239
+UVA,290,Palindroms <---> smordnilaP,743,,1082,3530
+UVA,291,The House Of Santa Claus,5238,,6894,10733
+UVA,292,Presentation Error,26,,39,676
+UVA,293,Bits,46,,119,594
+UVA,294,Divisors,8183,,12339,25825
+UVA,295,Fatman,131,,211,787
+UVA,296,Safebreaker,913,,1340,2958
+UVA,297,Quadtrees,3207,,5439,12146
+UVA,298,Race Tracks,379,,586,1958
+UVA,299,Train Swapping,19944,,26534,46710
+UVA,300,Maya Calendar,2555,,3441,9929
+UVA,301,Transportation,1556,,2451,7235
+UVA,302,John's trip,960,,2405,10024
+UVA,303,Pipe,353,,507,1597
+UVA,304,Department,33,,60,797
+UVA,305,Joseph,5603,,8247,16800
+UVA,306,Cipher,1253,,2110,9910
+UVA,307,Sticks,811,,2553,17617
+UVA,308,Tin Cutter,351,,552,1623
+UVA,309,FORCAL,227,,316,759
+UVA,310,L--system,227,,527,2980
+UVA,311,Packets,2361,,3202,9266
+UVA,312,Crosswords (II),309,,570,2864
+UVA,313,Intervals,476,,675,2115
+UVA,314,Robot,1222,,1897,6655
+UVA,315,Network,5145,,9860,23594
+UVA,316,Stars,105,,139,1122
+UVA,317,Hexagon,143,,228,738
+UVA,318,Domino Effect,1148,,2238,7761
+UVA,319,Pendulum,136,,174,721
+UVA,320,Border,1564,,1891,4350
+UVA,321,The New Villa,984,,1693,4731
+UVA,322,Ships,52,,95,638
+UVA,323,Jury Compromise,186,,419,2775
+UVA,324,Factorial Frequencies,6287,,8508,15015
+UVA,325,Identifying Legal Pascal Real Constants,1528,,2231,6717
+UVA,326,Extrapolation Using a Difference Table,1515,,1846,2934
+UVA,327,Evaluating Simple C Expressions,1233,,2179,6172
+UVA,328,The Finite State Text Processing Machine,196,,252,868
+UVA,329,PostScript Emulation,37,,152,905
+UVA,330,Inventory Maintenance,151,,246,2339
+UVA,331,Mapping the Swaps,1527,,2079,3610
+UVA,332,Rational Numbers from Repeating Fractions,1593,,2730,11592
+UVA,333,Recognizing Good ISBNs,1612,,2923,18385
+UVA,334,Identifying Concurrent Events,555,,698,2987
+UVA,335,Processing MX Records,278,,481,1620
+UVA,336,A Node Too Far,6113,,9915,33836
+UVA,337,Interpreting Control Sequences,1335,,1933,3215
+UVA,338,Long Multiplication,456,,714,6279
+UVA,339,SameGame Simulation,417,,653,2157
+UVA,340,Master-Mind Hints,4997,,8237,16848
+UVA,341,Non-Stop Travel,2191,,3217,6379
+UVA,342,HTML Syntax Checking,97,,218,1827
+UVA,343,What Base Is This?,3076,,4460,13910
+UVA,344,Roman Digititis,6453,,7754,12695
+UVA,345,It's Ir-Resist-Able!,398,,531,1883
+UVA,346,Getting Chorded,475,,864,1932
+UVA,347,Run,1157,,1547,5245
+UVA,348,Optimal Array Multiplication Sequence,3738,,6026,14297
+UVA,349,Transferable Voting (II),428,,543,1358
+UVA,350,Pseudo-Random Numbers,6831,,9293,16823
+UVA,351,"""Cheapest"" Scores",17,,49,130
+UVA,352,The Seasonal War,6730,,8887,15328
+UVA,353,Pesky Palindromes,2874,,3981,8645
+UVA,354,Crazy Calculator,29,,69,392
+UVA,355,The Bases Are Loaded,3012,,4062,16179
+UVA,356,Square Pegs And Round Holes,1917,,2788,9360
+UVA,357,Let Me Count The Ways,9126,,14308,42788
+UVA,358,Don't Have A Cow,276,,1323,3407
+UVA,359,Sex Assignments And Breeding Experiments,63,,184,1082
+UVA,360,Don't Get Hives From This One!,16,,63,102
+UVA,361,Cops and Robbers,312,,542,6514
+UVA,362,"18,000 Seconds Remaining",1188,,1827,7715
+UVA,363,Approximate Matches,21,,43,84
+UVA,364,Constitutional Computing,7,,24,236
+UVA,365,Welfare Reform,83,,137,991
+UVA,366,Cutting Up,206,,280,714
+UVA,367,Halting Factor Replacement Systems,65,,117,626
+UVA,368,Indexing Web Pages,13,,17,121
+UVA,369,Combinations,11266,,15530,34612
+UVA,370,Bingo,87,,147,837
+UVA,371,Ackermann Functions,6807,,11821,48601
+UVA,372,WhatFix Notation,62,,102,186
+UVA,373,Romulan Spelling,147,,482,1483
+UVA,374,Big Mod,12775,,17943,39346
+UVA,375,Inscribed Circles and Isosceles Triangles,1017,,1815,6008
+UVA,376,More Triangles ... THE AMBIGUOUS CASE,117,,190,1337
+UVA,377,Cowculations,1475,,1712,2861
+UVA,378,Intersecting Lines,3453,,5283,12888
+UVA,379,Hi-Q,704,,815,1250
+UVA,380,Call Forwarding,775,,961,1811
+UVA,381,Making the Grade,618,,715,1293
+UVA,382,Perfection,13386,,17182,48873
+UVA,383,Shipping Routes,2440,,3113,7833
+UVA,384,Slurpys,1509,,2169,4604
+UVA,385,DNA Translation,336,,528,1554
+UVA,386,Perfect Cubes,5220,,6975,13896
+UVA,387,A Puzzling Problem,410,,788,2700
+UVA,388,Galactic Import,596,,713,1219
+UVA,389,Basically Speaking,4067,,5699,19336
+UVA,390,Letter Sequence Analysis,186,,248,951
+UVA,391,Mark-up,800,,1273,4163
+UVA,392,Polynomial Showdown,4129,,5470,17963
+UVA,393,The Doors,531,,648,1508
+UVA,394,Mapmaker,2363,,2986,5187
+UVA,395,Board Silly,308,,343,1152
+UVA,396,Top Dog,40,,97,533
+UVA,397,Equation Elation,869,,1289,2564
+UVA,398,18-Wheeler Caravans (aka Semigroups),114,,134,960
+UVA,399,Another Puzzling Problem,211,,309,1011
+UVA,400,Unix ls,4479,,8857,22312
+UVA,401,Palindromes,13514,,20977,77480
+UVA,402,M*A*S*H,1335,,2185,11419
+UVA,403,Postscript,458,,532,2731
+UVA,404,Radar Scopes,121,,148,1149
+UVA,405,Message Routing,330,,378,1043
+UVA,406,Prime Cuts,7776,,11460,43134
+UVA,407,Gears on a Board,194,,237,1399
+UVA,408,Uniform Generator,4870,,6634,18889
+UVA,409,"Excuses, Excuses!",3930,,5500,17027
+UVA,410,Station Balance,1533,,2383,10037
+UVA,411,Centipede Collisions,212,,231,738
+UVA,412,Pi,5810,,8496,22056
+UVA,413,Up and Down Sequences,1550,,1823,3890
+UVA,414,Machined Surfaces,8025,,10390,24203
+UVA,415,Sunrise,245,,499,1076
+UVA,416,LED Test,1180,,1421,3725
+UVA,417,Word Index,5453,,7421,10993
+UVA,418,Molecules,506,,907,1643
+UVA,419,Matching Meetings,172,,204,788
+UVA,420,"Supercomputer Selection, The Sequel",121,,138,272
+UVA,421,Polygonal Puzzle,100,,119,473
+UVA,422,Word-Search Wonder,2061,,2477,4743
+UVA,423,MPI Maelstrom,2786,,3692,7167
+UVA,424,Integer Inquiry,12192,,16281,37860
+UVA,425,Enigmatic Encryption,262,,459,1479
+UVA,426,Fifth Bank of Swamp County,213,,269,1677
+UVA,427,FlatLand Piano Movers,431,,579,1344
+UVA,428,Swamp County Roofs,319,,368,814
+UVA,429,Word Transformation,3008,,4283,15251
+UVA,430,Swamp County Supervisors,195,,352,1303
+UVA,431,Trial of the Millennium,181,,346,1848
+UVA,432,Modern Art,256,,421,1021
+UVA,433,Bank (Not Quite O.C.R.),454,,613,1718
+UVA,434,Matty's Blocks,844,,1141,2831
+UVA,435,Block Voting,1408,,2060,4034
+UVA,436,Arbitrage (II),1473,,2111,4812
+UVA,437,The Tower of Babylon,3298,,5810,10105
+UVA,438,The Circumference of the Circle,6640,,8376,12474
+UVA,439,Knight Moves,8354,,14325,24416
+UVA,440,Eeny Meeny Moo,4765,,6455,9359
+UVA,441,Lotto,7514,,10763,24680
+UVA,442,Matrix Chain Multiplication,4086,,6686,10646
+UVA,443,Humble Numbers,5081,,6851,15906
+UVA,444,Encoder and Decoder,5056,,6752,21597
+UVA,445,Marvelous Mazes,10070,,14602,34540
+UVA,446,"Kibbles ""n"" Bits ""n"" Bits ""n"" Bits",5269,,6622,13153
+UVA,447,Population Explosion,549,,683,3135
+UVA,448,OOPS!,1060,,2063,4263
+UVA,449,Majoring in Scales,215,,510,1832
+UVA,450,Little Black Book,1635,,3371,10661
+UVA,451,Poker Solitaire Evaluator,298,,432,1922
+UVA,452,Project Scheduling,1037,,1470,4608
+UVA,453,Intersecting Circles,321,,588,7538
+UVA,454,Anagrams,1565,,2016,11120
+UVA,455,Periodic Strings,5896,,11166,47866
+UVA,456,Robotic Stacker,69,,127,258
+UVA,457,Linear Cellular Automata,2882,,3955,10791
+UVA,458,The Decoder,26262,,36724,76662
+UVA,459,Graph Connectivity,5747,,8787,32699
+UVA,460,Overlapping Rectangles,1700,,2148,7776
+UVA,461,The Reservation Maker,3,,3,74
+UVA,462,Bridge Hand Evaluator,1621,,2161,6348
+UVA,463,Polynomial Factorization,16,,23,474
+UVA,464,Sentence/Phrase Generator,350,,561,1767
+UVA,465,Overflow,3755,,5989,29948
+UVA,466,"Mirror, Mirror",1451,,1789,3223
+UVA,467,Synching Signals,674,,1242,2845
+UVA,468,Key to Success,804,,996,4568
+UVA,469,Wetlands of Florida,3451,,5086,18537
+UVA,470,Nasty Virus,3,,3,131
+UVA,471,Magic Numbers,1469,,2270,7584
+UVA,472,Simultaneous Equations,17,,25,374
+UVA,473,Raucous Rockers,521,,1064,3930
+UVA,474,Heads / Tails Probability,2176,,3521,9218
+UVA,475,Wild Thing,105,,230,1114
+UVA,476,Points in Figures: Rectangles,7234,,10440,25473
+UVA,477,Points in Figures: Rectangles and Circles,5927,,7952,13312
+UVA,478,"Points in Figures: Rectangles, Circles, Triangles",3730,,5319,12281
+UVA,479,Irrigation Flow Rates,10,,15,108
+UVA,480,Tempus Fugit,11,,30,150
+UVA,481,What Goes Up,4308,,7037,26632
+UVA,482,Permutation Arrays,4983,,7169,29887
+UVA,483,Word Scramble,14268,,20863,47866
+UVA,484,The Department of Redundancy Department,7865,,11320,25698
+UVA,485,Pascal's Triangle of Death,2428,,3659,12030
+UVA,486,English-Number Translator,1926,,2757,7248
+UVA,487,Boggle Blitz,542,,1448,3898
+UVA,488,Triangle Wave,14883,,22367,94275
+UVA,489,Hangman Judge,7094,,11593,38436
+UVA,490,Rotating Sentences,9636,,14208,47254
+UVA,491,Tile Topology,179,,223,826
+UVA,492,Pig-Latin,6572,,10297,40908
+UVA,493,Rational Spiral,498,,893,2391
+UVA,494,Kindergarten Counting Game,22639,,30156,76745
+UVA,495,Fibonacci Freeze,9572,,16395,61231
+UVA,496,Simply Subsets,3628,,5129,10395
+UVA,497,Strategic Defense Initiative,3530,,5520,23481
+UVA,498,Polly the Polynomial,2854,,4415,10921
+UVA,499,"What's The Frequency, Kenneth?",9454,,11428,19590
+UVA,500,Table,182,,279,2512
+UVA,501,Black Box,1257,,2930,11918
+UVA,502,DEL command,166,,218,1925
+UVA,503,Parallelepiped walk,116,,147,841
+UVA,504,Random number,40,,56,867
+UVA,505,Moscow time,289,,337,1712
+UVA,506,System Dependencies,235,,528,2321
+UVA,507,Jill Rides Again,4234,,6720,23366
+UVA,508,Morse Mismatches,266,,667,2212
+UVA,509,RAID!,217,,447,1159
+UVA,510,Optimal Routing,0,,0,86
+UVA,511,Do You Know the Way to San Jose?,120,,175,312
+UVA,512,Spreadsheet Tracking,717,,1616,5238
+UVA,513,Window Frames,10,,26,99
+UVA,514,Rails,7707,,13789,35781
+UVA,515,King,539,,1070,4435
+UVA,516,Prime Land,2653,,3603,8545
+UVA,517,Word,559,,789,3015
+UVA,518,Time,318,,406,1426
+UVA,519,Puzzle (II),355,,596,2444
+UVA,520,Append,344,,520,1632
+UVA,521,Gossiping,354,,405,1080
+UVA,522,Schedule Problem,8,,15,220
+UVA,523,Minimum Transport Cost,643,,1240,6207
+UVA,524,Prime Ring Problem,5957,,10889,35078
+UVA,525,Milk Bottle Data,22,,33,280
+UVA,526,String Distance and Transform Process,1543,,2620,9874
+UVA,527,The partition of a cake,147,,228,2047
+UVA,528,The Problem of Train Setout,2,,2,118
+UVA,529,Addition Chains,580,,1122,4297
+UVA,530,Binomial Showdown,7464,,9535,37692
+UVA,531,Compromise,3486,,5538,18524
+UVA,532,Dungeon Master,5105,,7937,20332
+UVA,533,Equation Solver,392,,535,1818
+UVA,534,Frogger,3932,,6092,14993
+UVA,535,Globetrotter,898,,1193,3907
+UVA,536,Tree Recovery,4507,,7102,10993
+UVA,537,Artificial Intelligence?,4338,,5785,16100
+UVA,538,Balancing Bank Accounts,782,,1113,2617
+UVA,539,The Settlers of Catan,2857,,3795,6416
+UVA,540,Team Queue,3438,,7142,20771
+UVA,541,Error Correction,9741,,12541,21943
+UVA,542,France '98,1438,,1830,2872
+UVA,543,Goldbach's Conjecture,11912,,19009,45358
+UVA,544,Heavy Cargo,3629,,5228,10359
+UVA,545,Heads,725,,1017,6242
+UVA,546,Image Recognizer,59,,75,371
+UVA,547,DDF,711,,1169,3203
+UVA,548,Tree,2055,,4753,12014
+UVA,549,Evaluating an Equations Board,57,,84,429
+UVA,550,Multiplying by Rotation,1267,,1870,3677
+UVA,551,Nesting a Bunch of Brackets,961,,1656,5179
+UVA,552,Filling the Gaps,232,,330,1054
+UVA,553,Simply proportion,150,,191,406
+UVA,554,Caesar Cypher,490,,635,4396
+UVA,555,Bridge Hands,2120,,2825,6670
+UVA,556,Amazing,1290,,1525,3380
+UVA,557,Burger,696,,1142,3300
+UVA,558,Wormholes,5679,,8939,17669
+UVA,559,Squares (II),210,,283,919
+UVA,560,Magic,174,,317,1706
+UVA,561,Jackpot,289,,373,956
+UVA,562,Dividing coins,7421,,12999,38658
+UVA,563,Crimewave,983,,1959,6294
+UVA,564,Gaston,58,,76,395
+UVA,565,Pizza Anyone?,696,,1346,3503
+UVA,566,Adam's Genes,148,,286,3230
+UVA,567,Risk,4645,,7146,16768
+UVA,568,Just the Facts,6876,,9071,16816
+UVA,569,Horse Shoe Scoring,57,,104,1019
+UVA,570,Stats,236,,311,628
+UVA,571,Jugs,2008,,3031,6727
+UVA,572,Oil Deposits,10813,,16966,27634
+UVA,573,The Snail,10734,,13039,30435
+UVA,574,Sum It Up,4329,,6151,13884
+UVA,575,Skew Binary,12768,,15627,22088
+UVA,576,Haiku Review,3462,,4089,6860
+UVA,577,WIMP,128,,154,741
+UVA,578,Polygon Puzzler,100,,174,549
+UVA,579,Clock Hands,14476,,19321,44607
+UVA,580,Critical Mass,2031,,3293,5729
+UVA,581,Word Search,63,,115,1078
+UVA,582,Randomly Wired Neural Nets,10,,24,122
+UVA,583,Prime Factors,7490,,14058,49189
+UVA,584,Bowling,1354,,1905,4161
+UVA,585,Triangles,981,,1388,5080
+UVA,586,Instant Complexity,566,,710,2047
+UVA,587,There's treasure everywhere!,2338,,2882,9350
+UVA,588,Video Surveillance,554,,680,1694
+UVA,589,Pushing Boxes,455,,965,8274
+UVA,590,Always on the run,1297,,1794,3925
+UVA,591,Box of Bricks,18449,,24062,72555
+UVA,592,Island of Logic,485,,671,2006
+UVA,593,MBone,208,,242,598
+UVA,594,"One Little, Two Little, Three Little Endians",4173,,5845,9336
+UVA,595,A Major Problem,99,,136,736
+UVA,596,The Incredible Hull,139,,251,610
+UVA,597,"Last Name First, Please",8,,13,234
+UVA,598,Bundling Newspapers,918,,1885,7963
+UVA,599,The Forrest for the Trees,1875,,2940,5885
+UVA,600,A Duckpin Tournament,97,,234,1416
+UVA,601,The PATH,900,,1413,4702
+UVA,602,What Day Is It?,1125,,2523,9571
+UVA,603,Parking Lot,432,,817,3389
+UVA,604,The Boggle Game,527,,1228,4086
+UVA,605,The Rotating Disk,30,,57,631
+UVA,606,Keeps Going and Going and ...,109,,117,709
+UVA,607,Scheduling Lectures,926,,1535,6180
+UVA,608,Counterfeit Dollar,1864,,2599,7442
+UVA,609,Metal Cutting,130,,269,1469
+UVA,610,Street Directions,1241,,2148,5061
+UVA,611,Parallel Deadlock,53,,65,454
+UVA,612,DNA Sorting,5143,,8496,36438
+UVA,613,Numbers That Count,419,,620,2626
+UVA,614,Mapping the Route,620,,731,2093
+UVA,615,Is It A Tree?,2301,,3551,17986
+UVA,616,"Coconuts, Revisited",1541,,2630,9801
+UVA,617,Nonstop Travel,869,,1039,2205
+UVA,618,Doing Windows,269,,307,1141
+UVA,619,Numerically Speaking,1343,,2135,4286
+UVA,620,Cellular Structure,1487,,1973,3667
+UVA,621,Secret Research,8173,,10340,22539
+UVA,622,Grammar Evaluation,459,,589,2826
+UVA,623,500!,7905,,12726,43495
+UVA,624,CD,7104,,12217,27163
+UVA,625,Compression,223,,293,1464
+UVA,626,Ecosystem,1026,,1372,3307
+UVA,627,The Net,1600,,2093,4752
+UVA,628,Passwords,2429,,3329,5495
+UVA,629,Test,135,,287,539
+UVA,630,Anagrams (II),1298,,1647,6632
+UVA,631,Microzoft Calendar,75,,102,585
+UVA,632,Compression (II),516,,675,2669
+UVA,633,A Chess Knight,433,,529,2754
+UVA,634,Polygon,1415,,2103,3972
+UVA,635,Clock solitaire,190,,256,456
+UVA,636,Squares (III),1933,,2273,4160
+UVA,637,Booklet Printing,2685,,3306,7466
+UVA,638,Finding Rectangles,611,,989,2703
+UVA,639,Don't Get Rooked,3125,,4397,7321
+UVA,640,Self Numbers,4996,,7092,13647
+UVA,641,Do the Untwist,1111,,1470,2295
+UVA,642,Word Amalgamation,2898,,3701,6861
+UVA,643,Bulk Mailing,83,,118,614
+UVA,644,Immediate Decodability,3668,,5466,11781
+UVA,645,File Mapping,217,,280,1099
+UVA,646,The Gourmet Club,28,,70,449
+UVA,647,Chutes and Ladders,671,,798,1380
+UVA,648,Stamps (II),139,,174,552
+UVA,649,You Who?,20,,30,182
+UVA,650,Bowl,57,,86,786
+UVA,651,Deck,732,,908,1695
+UVA,652,Eight,464,,1182,6314
+UVA,653,Gizilch,219,,337,1103
+UVA,654,Ratio,522,,659,2263
+UVA,655,Scrabble,45,,92,766
+UVA,656,Optimal Programs,336,,479,1953
+UVA,657,The die is cast,2387,,3892,13905
+UVA,658,"It's not a Bug, it's a Feature!",672,,1706,5566
+UVA,659,Reflections,216,,261,705
+UVA,660,Going in circles on Alpha Centauri,132,,168,555
+UVA,661,Blowing Fuses,5028,,6001,16604
+UVA,662,Fast Food,714,,1316,4203
+UVA,663,Sorting Slides,512,,789,3924
+UVA,664,Single-Player Games,125,,158,590
+UVA,665,False coin,1009,,1386,5067
+UVA,666,Rating,29,,34,359
+UVA,667,Fence,81,,108,586
+UVA,668,Parliament,597,,769,2795
+UVA,669,Defragment,187,,307,1208
+UVA,670,The dog task,917,,2351,6942
+UVA,671,Spell checker,564,,920,3808
+UVA,672,Gangsters,363,,573,2350
+UVA,673,Parentheses Balance,14204,,27782,93986
+UVA,674,Coin Change,11132,,18969,38276
+UVA,675,Convex Hull of the Polygon,114,,232,1941
+UVA,676,Horse Step Maze,138,,173,1436
+UVA,677,"All Walks of length ""n"" from the first node",1060,,1454,3899
+UVA,678,Schedule of Taiwan Baseball League,56,,80,260
+UVA,679,Dropping Balls,3746,,7175,16434
+UVA,680,Movement of Reading Head,163,,203,561
+UVA,681,Convex Hull Finding,1989,,3946,15897
+UVA,682,Whoever-pick-the-last-one-lose,129,,214,658
+UVA,683,Character Decoding,49,,71,311
+UVA,684,Integral Determinant,339,,697,3675
+UVA,685,Least Path Cost,209,,270,830
+UVA,686,Goldbach's Conjecture (II),8973,,12683,23145
+UVA,687,Lattice Practices,47,,66,369
+UVA,688,Mobile Phone Coverage,721,,1033,2889
+UVA,689,Napoleon's Grumble,123,,162,1275
+UVA,690,Pipeline Scheduling,108,,468,1420
+UVA,691,Triangle Partition,20,,33,1536
+UVA,692,BUT We Need a Diagram,83,,109,463
+UVA,693,Digital Racing Circuit,11,,34,420
+UVA,694,The Collatz Sequence,10432,,14322,35557
+UVA,695,Placing the Ops,143,,401,1137
+UVA,696,How Many Knights,3009,,4179,11069
+UVA,697,Jack and Jill,212,,364,2940
+UVA,698,Index,142,,266,2339
+UVA,699,The Falling Leaves,2519,,4685,10853
+UVA,700,Date Bugs,1388,,1656,5317
+UVA,701,The Archeologists' Dilemma,2220,,6412,20585
+UVA,702,The Vindictive Coach,543,,663,1696
+UVA,703,Triple Ties: The Organizer's Nightmare,796,,1046,2347
+UVA,704,Colour Hash,884,,1988,4336
+UVA,705,Slash Maze,1645,,3236,7453
+UVA,706,LC-Display,7950,,12977,52064
+UVA,707,Robbery,407,,683,2300
+UVA,708,Dreisam Equations,167,,230,1614
+UVA,709,Formatting Text,266,,381,2011
+UVA,710,The Game,474,,642,2779
+UVA,711,Dividing up,929,,1594,9595
+UVA,712,S-Trees,2080,,3094,5735
+UVA,713,Adding Reversed Numbers,6804,,8577,27905
+UVA,714,Copying Books,2513,,5528,21106
+UVA,715,Substitution Cipher,136,,168,1476
+UVA,716,Commedia dell' arte,187,,387,795
+UVA,717,Calculating Expressions on Turing Machine,5,,16,64
+UVA,718,Skyscraper Floors,431,,955,3843
+UVA,719,Glass Beads,1112,,2318,8120
+UVA,720,Hares and Foxes,22,,44,772
+UVA,721,Invitation Cards,407,,858,3287
+UVA,722,Lakes,659,,937,2657
+UVA,723,Comment Removal,35,,54,516
+UVA,724,Reverse,0,,0,810
+UVA,725,Division,4921,,8519,28374
+UVA,726,Decode,299,,585,4035
+UVA,727,Equation,2768,,4524,17469
+UVA,728,Scatter Point Plot,43,,61,731
+UVA,729,The Hamming Distance Problem,4489,,7596,18633
+UVA,730,Morse Code Generation,28,,45,731
+UVA,731,Numerical Summation of a Series,82,,243,971
+UVA,732,Anagrams by Stack,1202,,1797,5156
+UVA,733,Follow the Folding Dot,63,,110,580
+UVA,734,The Programmer's Hex,147,,262,760
+UVA,735,Dart-a-Mania,1029,,1542,2930
+UVA,736,Lost in Space,208,,347,1593
+UVA,737,Gleaming the Cubes,1164,,1620,3433
+UVA,738,A Logical Problem,107,,137,523
+UVA,739,Soundex Indexing,2657,,3491,9896
+UVA,740,Baudot Data Communication Code,2082,,2523,4427
+UVA,741,Burrows Wheeler Decoder,643,,794,2271
+UVA,742,Domino Game,86,,119,911
+UVA,743,The MTM Machine,587,,821,1850
+UVA,744,Triangular Museum,46,,68,631
+UVA,745,Numeric Puzzles Again!,273,,357,812
+UVA,746,Polygon Visibility,47,,70,556
+UVA,747,Grid Soccer,50,,66,751
+UVA,748,Exponentiation,3499,,4500,8108
+UVA,749,Machine Repair Simulation,21,,27,320
+UVA,750,8 Queens Chess Problem,4078,,6226,26169
+UVA,751,Triangle War,179,,382,1932
+UVA,752,Unscrambling Images,127,,252,1354
+UVA,753,A Plug for UNIX,1021,,2150,7583
+UVA,754,Treasure Hunt,154,,184,900
+UVA,755,487--3279,3001,,5549,27068
+UVA,756,Biorhythms,1038,,1779,5578
+UVA,757,Gone Fishing,530,,848,4214
+UVA,758,The Same Game,284,,520,1953
+UVA,759,The Return of the Roman Empire,509,,849,3617
+UVA,760,DNA Sequencing,1088,,1684,7011
+UVA,761,Transform those strings,3,,3,134
+UVA,762,We Ship Cheap,2648,,4297,15733
+UVA,763,Fibinary Numbers,1376,,2051,9097
+UVA,764,Pentominos,50,,87,818
+UVA,765,References,120,,182,1146
+UVA,766,Sum of powers,136,,210,968
+UVA,767,Game,74,,102,898
+UVA,768,Crossword,4,,4,70
+UVA,769,Magic of David Copperfield,70,,103,246
+UVA,770,Puncher,5,,6,44
+UVA,771,Flying Stars,6,,6,45
+UVA,772,Divide et unita,5,,11,60
+UVA,773,The JustaPox Language,5,,6,56
+UVA,774,Driving in City Squares,4,,5,67
+UVA,775,Hamiltonian Cycle,429,,724,1590
+UVA,776,Monkeys in a Regular Forest,967,,1435,5281
+UVA,777,Codebreakers,32,,73,503
+UVA,778,Recording a tape,12,,16,102
+UVA,779,Wily Hacker's Problem,4,,4,43
+UVA,780,Sentence Generator,4,,9,46
+UVA,781,Optimisation,8,,8,134
+UVA,782,Contour Painting,634,,1061,5789
+UVA,783,Trains,110,,282,1046
+UVA,784,Maze Exploration,3621,,5874,13831
+UVA,785,Grid Colouring,1784,,2847,8291
+UVA,786,Working with Relations,16,,22,221
+UVA,787,Maximum Sub-sequence Product,1762,,2340,7748
+UVA,788,One Day Tours,1,,1,35
+UVA,789,Indexing,114,,233,793
+UVA,790,Head Judge Headache,261,,350,2482
+UVA,791,Term Reductions,6,,14,151
+UVA,792,Program Modules,10,,12,67
+UVA,793,Network Connections,5044,,8777,30316
+UVA,794,Straightest Paths,30,,44,226
+UVA,795,Sandorf's Cipher,275,,395,1103
+UVA,796,Critical Links,2984,,5322,16418
+UVA,797,Two Way Traffic,29,,37,88
+UVA,798,Tile Puzzle,42,,55,133
+UVA,799,Safari Holiday,113,,257,852
+UVA,800,Crystal Clear,20,,28,302
+UVA,801,Flight Planning,68,,95,493
+UVA,802,Lead or Gold,111,,181,1299
+UVA,803,Page Selection by Keyword Matching,38,,166,531
+UVA,804,Petri Net Simulation,206,,443,1362
+UVA,805,Polygon Intersections,14,,21,201
+UVA,806,Spatial Structures,271,,562,2120
+UVA,807,Towers of Powers,56,,64,371
+UVA,808,Bee Breeding,988,,1670,4109
+UVA,809,Bullet Hole,44,,53,1051
+UVA,810,A Dicey Problem,391,,957,2449
+UVA,811,The Fortified Forest,479,,813,2362
+UVA,812,Trade on Verweggistan,828,,1803,7788
+UVA,813,Robot,38,,49,509
+UVA,814,The Letter Carrier's Rounds,365,,731,2616
+UVA,815,Flooded!,1203,,2500,7862
+UVA,816,Abbott's Revenge,864,,2488,8143
+UVA,817,According to Bartjens,240,,459,1711
+UVA,818,Cutting Chains,352,,844,1724
+UVA,819,Gifts Large and Small,77,,129,933
+UVA,820,Internet Bandwidth,4689,,9555,27421
+UVA,821,Page Hopping,4324,,6113,10968
+UVA,822,Queue and A,188,,306,856
+UVA,823,Stopper Stumper,74,,99,445
+UVA,824,Coast Tracker,569,,706,1477
+UVA,825,Walking on the Safe Side,2309,,3388,11860
+UVA,826,Symbolic Numerical System,69,,83,847
+UVA,827,Buddy Memory Allocator,54,,69,477
+UVA,828,Deciphering Messages,165,,200,783
+UVA,829,Almost Balanced Trees,25,,83,611
+UVA,830,Shark,214,,310,1032
+UVA,831,Document Validator,66,,138,512
+UVA,832,Financial Risk,109,,135,691
+UVA,833,Water Falls,911,,1090,2765
+UVA,834,Continued Fractions,5531,,7158,11138
+UVA,835,Square of Primes,167,,336,1442
+UVA,836,Largest Submatrix,3079,,4052,11990
+UVA,837,Light and Transparencies,1175,,1637,4537
+UVA,838,Worm World,174,,384,2544
+UVA,839,Not so Mobile,2389,,4660,13334
+UVA,840,Deadlock Detection,137,,161,706
+UVA,841,Snake,60,,132,1205
+UVA,842,Crossword Puzzles,53,,93,344
+UVA,843,Crypt Kicker,1505,,3411,17196
+UVA,844,Pousse,152,,223,588
+UVA,845,Gas Station Numbers,315,,430,1733
+UVA,846,Steps,5597,,7940,16735
+UVA,847,A Multiplication Game,5394,,7053,13797
+UVA,848,Fmt,383,,688,3744
+UVA,849,Radar Tracking,25,,41,807
+UVA,850,Crypt Kicker II,2053,,3329,16910
+UVA,851,Maze,145,,530,2207
+UVA,852,Deciding victory in Go,921,,1108,2020
+UVA,853,DVD Subtitles,72,,110,528
+UVA,854,Worse Code,32,,52,322
+UVA,855,Lunch in Grid City,1761,,2508,6543
+UVA,856,The Vigenère Cipher,257,,357,829
+UVA,857,Quantiser,213,,323,780
+UVA,858,Berry Picking,345,,472,1112
+UVA,859,Chinese Checkers,148,,196,767
+UVA,860,Entropy Text Analyzer,452,,695,2738
+UVA,861,Little Bishops,2099,,4057,12557
+UVA,862,Origami,31,,39,236
+UVA,863,Process Scheduling,4,,12,475
+UVA,864,Scheme Pretty-Printing,36,,40,113
+UVA,865,Substitution Cypher,994,,1303,4458
+UVA,866,Intersecting Line Segments,705,,1113,2502
+UVA,867,Storing Images in a Sequence,1,,1,63
+UVA,868,Numerical Maze,324,,444,1696
+UVA,869,Airline Comparison,811,,1031,2448
+UVA,870,Intersecting Rectangles,140,,172,597
+UVA,871,Counting Cells in a Blob,1991,,2577,7380
+UVA,872,Ordering,1533,,2038,4925
+UVA,873,Loan (II),74,,98,302
+UVA,874,2D Representations,87,,149,536
+UVA,875,Monopoly,1,,1,52
+UVA,876,Balanced Expressions,3,,4,67
+UVA,877,Offset Polygons,71,,85,301
+UVA,878,Rotating Tetris Pieces,53,,132,509
+UVA,879,Circuit Nets,158,,267,1003
+UVA,880,Cantor Fractions,1596,,2582,8121
+UVA,881,"Points, Polygons and Containers",90,,133,505
+UVA,882,The Mailbox Manufacturers Problem,543,,846,1136
+UVA,883,Overlapping Rectangles,80,,105,323
+UVA,884,Factorial Factors,2365,,5111,11521
+UVA,885,Telephone Directory Alphabetization,19,,28,418
+UVA,886,Named Extension Dialing,114,,148,514
+UVA,887,Revolutionary Calendar,28,,59,296
+UVA,888,Donkey,23,,60,369
+UVA,889,Islands,25,,49,157
+UVA,890,Maze (II),67,,93,326
+UVA,891,Syntrax,39,,53,192
+UVA,892,Finding words,624,,808,2248
+UVA,893,Y3K Problem,1366,,1700,3271
+UVA,894,Juggling Trams,14,,20,81
+UVA,895,Word Problem,1848,,2392,4108
+UVA,896,Board Game,8,,13,134
+UVA,897,Anagrammatic Primes,1124,,1576,3397
+UVA,898,Hole Cutter,59,,107,362
+UVA,899,Colour Circles,119,,181,400
+UVA,900,Brick Wall Patterns,7795,,10930,17115
+UVA,901,From Databases to XML,4,,8,588
+UVA,902,Password Search,2478,,4779,18664
+UVA,903,Spiral of Numbers,260,,385,998
+UVA,904,Overlapping Air Traffic Control Zones,121,,196,399
+UVA,905,Tacos Panchita,51,,59,127
+UVA,906,Rational Neighbor,328,,520,1588
+UVA,907,Winterim Backpacking Trip,794,,1139,2832
+UVA,908,Re-connecting Computer Sites,2273,,3310,8708
+UVA,909,The BitPack Data Compression Problem,66,,112,766
+UVA,910,TV game,606,,741,1521
+UVA,911,Multinomial Coefficients,335,,555,1128
+UVA,912,Live From Mars,142,,174,805
+UVA,913,Joana and the Odd Numbers,7405,,9611,21466
+UVA,914,Jumping Champion,1570,,2336,6314
+UVA,915,Stack of Cylinders,65,,72,246
+UVA,916,Dividing Land,5,,8,293
+UVA,917,Euro 2004,24,,36,172
+UVA,918,ASCII Mandelbrot,128,,165,588
+UVA,919,Cutting Polyominoes,16,,17,42
+UVA,920,Sunny Mountains,1651,,6153,7470
+UVA,921,A Word Puzzle in the Sunny Mountains,63,,155,859
+UVA,922,Rectangle by the Ocean,77,,114,263
+UVA,923,One Against Many,26,,53,192
+UVA,924,Spreading The News,2695,,3689,6814
+UVA,925,"No more prerequisites, please!",257,,492,724
+UVA,926,Walking Around Wisely,658,,907,3072
+UVA,927,Integer Sequences from Addition of Terms,1409,,1626,2538
+UVA,928,Eternal Truths,553,,817,2254
+UVA,929,Number Maze,2595,,4831,16393
+UVA,930,Polynomial Roots,77,,163,342
+UVA,931,The Probable n-Ascendants,5,,26,127
+UVA,932,Checking the N-Queens Problem,39,,72,375
+UVA,933,Water Flow,52,,120,264
+UVA,934,Overlapping Areas,17,,23,141
+UVA,935,Smart Strategy,4,,12,151
+UVA,936,Mars for Sale,12,,29,159
+UVA,937,Kriss Kross Puzzle,9,,15,94
+UVA,938,Gilix,22,,40,118
+UVA,939,Genes,308,,423,1061
+UVA,940,Autobiographical Numbers,14,,54,143
+UVA,941,Permutations,1498,,2414,7537
+UVA,942,Cyclic Numbers,51,,107,324
+UVA,943,Number Format Translator,11,,17,68
+UVA,944,Happy Numbers,805,,1474,4099
+UVA,945,Loading a Cargo Ship,88,,120,306
+UVA,946,A Pile of Boxes,135,,164,280
+UVA,947,Master Mind Helper,186,,260,359
+UVA,948,Fibonaccimal Base,2091,,2741,4668
+UVA,949,Getaway,137,,226,693
+UVA,950,Tweedle Numbers,25,,40,127
+UVA,951,The Pieces of the Puzzle,10,,13,100
+UVA,952,Uno game,23,,29,79
+UVA,953,The Incredible Pile Machine,47,,81,115
+UVA,954,Tetravex solver,25,,45,120
+UVA,955,Interpreting Old Maps,19,,25,99
+UVA,956,The Minimum Slot Machine,28,,38,193
+UVA,957,Popes,1132,,1611,4242
+UVA,958,A Homer's Holiday,17,,30,95
+UVA,959,Car Rallying,31,,64,180
+UVA,960,Gaussian Primes,213,,327,628
+UVA,961,Ambiguous or Incomplete Inductive Definitions,4,,8,21
+UVA,962,Taxicab Numbers,444,,795,2014
+UVA,963,Spelling Corrector,16,,21,414
+UVA,964,Custom Language,24,,82,501
+UVA,965,Police Road Blocks,5,,6,84
+UVA,966,Lost Inheritances,6,,6,80
+UVA,967,Circular,932,,1991,4629
+UVA,968,Constellations,4,,4,60
+UVA,969,AlienAlgebra,32,,52,122
+UVA,970,Particles,89,,194,727
+UVA,971,Towers,12,,19,114
+UVA,972,Horizon Line,240,,336,1044
+UVA,973,The Guessing Game,24,,56,138
+UVA,974,Kaprekar Numbers,1128,,1521,3737
+UVA,975,Gutenberg Clumsy Helper,17,,30,72
+UVA,976,Bridge Building,202,,304,645
+UVA,977,Old West Rumours,11,,33,99
+UVA,978,Lemmings Battle!,1495,,2006,4914
+UVA,979,The Abominable Triangleman,55,,85,224
+UVA,980,X-Express,33,,35,170
+UVA,981,Systematic Cyclic Redundancy Check Codes,22,,28,101
+UVA,982,Cube,41,,52,159
+UVA,983,Localized Summing for Blurring,588,,891,1691
+UVA,984,Finding Haplotypes,14,,22,119
+UVA,985,Round and Round Maze,309,,922,1518
+UVA,986,How Many?,350,,491,721
+UVA,987,Maternity,21,,35,262
+UVA,988,"Many Paths, One Destination",974,,1220,3075
+UVA,989,Su Doku,990,,1784,5002
+UVA,990,Diving for Gold,1911,,2761,8099
+UVA,991,Safe Salutations,1985,,2641,6426
+UVA,992,Customer Service Cost Evaluation,19,,26,71
+UVA,993,Product of digits,3230,,4377,8244
+UVA,994,POP,3,,3,57
+UVA,995,Super Divisible Numbers,106,,155,293
+UVA,996,Find the Sequence,40,,44,187
+UVA,997,Show the Sequence,150,,193,447
+UVA,998,Dendogram,6,,9,128
+UVA,999,Book signatures,64,,196,529
+UVA,10000,Longest Paths,4558,,7312,30794
+UVA,10001,Garden of Eden,1009,,1793,5342
+UVA,10002,Center of Masses,1470,,2923,10482
+UVA,10003,Cutting Sticks,9243,,16522,35674
+UVA,10004,Bicoloring,14679,,26277,55853
+UVA,10005,Packing polygons,1170,,1746,9599
+UVA,10006,Carmichael Numbers,7312,,13016,35149
+UVA,10007,Count the Trees,2271,,3186,7444
+UVA,10008,What's Cryptanalysis?,13290,,17977,31566
+UVA,10009,All Roads Lead Where?,2882,,4074,12358
+UVA,10010,Where's Waldorf?,7012,,10847,37691
+UVA,10011,Where Can You Hide?,221,,416,4005
+UVA,10012,How Big Is It?,1525,,2756,9603
+UVA,10013,Super long sums,5982,,12969,46954
+UVA,10014,Simple calculations,2598,,3598,11320
+UVA,10015,Joseph's Cousin,1601,,2403,8391
+UVA,10016,Flip-Flop the Squarelotron,851,,1172,2550
+UVA,10017,The Never Ending Towers of Hanoi,830,,1303,5481
+UVA,10018,Reverse and Add,19499,,35438,84830
+UVA,10019,Funny Encryption Method,9349,,11516,16223
+UVA,10020,Minimal coverage,2569,,5034,21295
+UVA,10021,Cube in the labirint,299,,360,1567
+UVA,10022,Delta-wave,563,,675,2301
+UVA,10023,Square root,1422,,2918,28343
+UVA,10024,Curling up the cube,333,,457,1950
+UVA,10025,The ? 1 ? 2 ? ... ? n = k problem,2993,,4164,15443
+UVA,10026,Shoemaker's Problem,5386,,8938,28373
+UVA,10027,Language Cardinality,247,,325,2406
+UVA,10028,Demerit Points,223,,351,1375
+UVA,10029,Edit Step Ladders,1158,,2528,13042
+UVA,10030,Computer Dialogue,134,,237,891
+UVA,10031,Saskatchewan,57,,77,1175
+UVA,10032,Tug of War,1196,,3428,30569
+UVA,10033,Interpreter,3867,,7331,32123
+UVA,10034,Freckles,7269,,12079,37943
+UVA,10035,Primary Arithmetic,20127,,28522,100574
+UVA,10036,Divisibility,2898,,4714,12846
+UVA,10037,Bridge,2501,,4303,20387
+UVA,10038,Jolly Jumpers,24962,,40993,154324
+UVA,10039,Railroads,579,,1137,4754
+UVA,10040,Ouroboros Snake,361,,1171,3137
+UVA,10041,Vito's Family,13767,,22447,55071
+UVA,10042,Smith Numbers,3493,,5618,16575
+UVA,10043,Chainsaw Massacre,452,,1416,5127
+UVA,10044,Erdos Numbers,1914,,4283,25611
+UVA,10045,Echo,186,,507,2114
+UVA,10046,Fold-up Patterns,20,,26,123
+UVA,10047,The Monocycle,1728,,3343,8139
+UVA,10048,Audiophobia,4724,,7610,16691
+UVA,10049,Self-describing Sequence,2474,,3497,6614
+UVA,10050,Hartals,11858,,15741,26723
+UVA,10051,Tower of Cubes,1743,,2605,7457
+UVA,10052,Inviting Politicians,73,,190,2325
+UVA,10053,Envelopes,150,,224,1154
+UVA,10054,The Necklace,2574,,5896,25348
+UVA,10055,Hashmat the Brave Warrior,47778,,74160,261869
+UVA,10056,What is the Probability ?,2516,,3505,8590
+UVA,10057,A mid-summer night's dream.,1778,,3004,9245
+UVA,10058,Jimmi's Riddles,593,,731,2144
+UVA,10059,The Hazard of CSE Department!,5,,7,403
+UVA,10060,A hole to catch a man,750,,972,3044
+UVA,10061,How many zero's and how many digits ?,1540,,2530,8786
+UVA,10062,Tell me the frequencies!,6651,,9700,48943
+UVA,10063,Knuth's Permutation,1389,,2203,5207
+UVA,10064,Traveling in another Dimension,57,,74,468
+UVA,10065,Useless Tile Packers,1508,,2440,7310
+UVA,10066,The Twin Towers,6708,,9792,20948
+UVA,10067,Playing with Wheels,3955,,6387,15725
+UVA,10068,The Treasure Hunt,139,,217,1467
+UVA,10069,Distinct Subsequences,2449,,4299,15246
+UVA,10070,Leap Year or Not Leap Year and ...,5307,,7386,49967
+UVA,10071,Back to High School Physics,43144,,61789,125403
+UVA,10072,Bob Laptop Woolmer and Eddie Desktop Barlow,289,,446,1427
+UVA,10073,Constrained Exchange Sort,97,,326,1004
+UVA,10074,Take the Land,3692,,6120,12173
+UVA,10075,Airlines,836,,1285,3324
+UVA,10076,The Bumpy Robot,160,,255,1015
+UVA,10077,The Stern-Brocot Number System,3938,,5825,10706
+UVA,10078,The Art Gallery,2054,,3088,6484
+UVA,10079,Pizza Cutting,14197,,18056,40838
+UVA,10080,Gopher II,2437,,5481,13769
+UVA,10081,Tight Words,1645,,2107,3925
+UVA,10082,WERTYU,19826,,27425,68210
+UVA,10083,Division,745,,984,5796
+UVA,10084,Hotter Colder,355,,598,1699
+UVA,10085,The most distant state,591,,950,2040
+UVA,10086,Test the Rods,525,,810,1965
+UVA,10087,The Tajmahal of ++Y2k,122,,160,550
+UVA,10088,Trees on My Island,1189,,2027,5719
+UVA,10089,Repackaging,460,,986,3574
+UVA,10090,Marbles,1701,,3109,14360
+UVA,10091,The Valentine's Day,210,,280,1223
+UVA,10092,The Problem with the Problem Setter,1400,,2800,7198
+UVA,10093,An Easy Problem!,2078,,2957,14246
+UVA,10094,Place the Guards,431,,646,2125
+UVA,10095,Saving the Planet,100,,191,999
+UVA,10096,The Richest Man of the Universe,36,,59,2227
+UVA,10097,The Color Game,498,,694,1338
+UVA,10098,Generating Fast,6365,,9787,21346
+UVA,10099,The Tourist Guide,5175,,8422,27472
+UVA,10100,Longest Match,2333,,3564,17461
+UVA,10101,Bangla Numbers,2667,,3738,22057
+UVA,10102,The path in the colored field,2761,,3748,9463
+UVA,10103,Karpovich blocks,57,,108,843
+UVA,10104,Euclid Problem,4969,,7558,16991
+UVA,10105,Polynomial Coefficients,3193,,4813,7779
+UVA,10106,Product,9646,,14367,38413
+UVA,10107,What is the Median?,12407,,17391,34431
+UVA,10108,The Mosquito Killer Mosquitos,53,,84,758
+UVA,10109,Solving Systems of Linear Equations,183,,697,3480
+UVA,10110,"Light, more light",14006,,20772,61465
+UVA,10111,Find the Winning Move,516,,733,2017
+UVA,10112,Myacm Triangles,1639,,2172,3786
+UVA,10113,Exchange Rates,832,,1014,1967
+UVA,10114,Loansome Car Buyer,3154,,3646,9231
+UVA,10115,Automatic Editing,2626,,3570,7976
+UVA,10116,Robot Motion,2906,,3555,6826
+UVA,10117,Nice Milk,213,,367,1448
+UVA,10118,Free Candies,729,,1369,2567
+UVA,10119,"Farewell, my friend",42,,69,1070
+UVA,10120,Gift?!,690,,938,3098
+UVA,10121,Legendary Pokemon,55,,84,245
+UVA,10122,Mysterious Mountain,144,,286,1236
+UVA,10123,No Tipping,375,,637,1974
+UVA,10124,Subway,179,,214,582
+UVA,10125,Sumsets,2813,,6070,24949
+UVA,10126,Zipf's Law,678,,1093,5099
+UVA,10127,Ones,9044,,12393,23383
+UVA,10128,Queue,1705,,2998,6058
+UVA,10129,Play on Words,2323,,5089,16852
+UVA,10130,SuperSale,7413,,12013,23264
+UVA,10131,Is Bigger Smarter?,6711,,10900,26950
+UVA,10132,File Fragmentation,2026,,3237,11115
+UVA,10133,Audubon's Stormy Arctic Trip,100,,114,416
+UVA,10134,AutoFish,324,,407,1489
+UVA,10135,Herding Frosh,138,,311,3752
+UVA,10136,Chocolate Chip Cookies,454,,839,3431
+UVA,10137,The Trip,7794,,12469,62632
+UVA,10138,CDVII,824,,1387,6606
+UVA,10139,Factovisors,3168,,5868,28885
+UVA,10140,Prime Distance,2481,,4616,15985
+UVA,10141,Request for Proposal,4104,,5228,17661
+UVA,10142,Australian Voting,3331,,10874,46135
+UVA,10143,Loan,28,,58,232
+UVA,10144,Expression,265,,309,820
+UVA,10145,Lock Manager,220,,314,915
+UVA,10146,Dictionary,373,,671,2149
+UVA,10147,Highways,1998,,3695,13533
+UVA,10148,Advertisement,412,,873,2784
+UVA,10149,Yahtzee,686,,1391,4203
+UVA,10150,Doublets,1584,,3530,16856
+UVA,10151,Spaghetti,31,,43,342
+UVA,10152,ShellSort,3830,,10013,27171
+UVA,10153,New Horizons,43,,65,550
+UVA,10154,Weights and Measures,1929,,4388,18985
+UVA,10155,Green Eggs and Ham,36,,45,259
+UVA,10156,"Sala-ma-Sond, A Nice Little Pond",178,,246,1185
+UVA,10157,Expressions,735,,1373,4409
+UVA,10158,War,1679,,3876,12956
+UVA,10159,Star,168,,229,1149
+UVA,10160,Servicing Stations,687,,1822,10291
+UVA,10161,Ant on a Chessboard,7089,,9389,15832
+UVA,10162,Last Digit,1904,,2412,6235
+UVA,10163,Storage Keepers,484,,888,2354
+UVA,10164,Number Game,531,,821,3000
+UVA,10165,Stone Game,1813,,2339,3766
+UVA,10166,Travel,218,,326,1297
+UVA,10167,Birthday Cake,1990,,3488,9491
+UVA,10168,Summation of Four Primes,4160,,14062,32322
+UVA,10169,Urn-ball Probabilities!,404,,642,1788
+UVA,10170,The Hotel with Infinite Rooms,4178,,5766,10475
+UVA,10171,Meeting Prof. Miguel...,1955,,2589,8516
+UVA,10172,The Lonesome Cargo Distributor,913,,1137,1639
+UVA,10173,Smallest Bounding Rectangle,468,,1166,4914
+UVA,10174,Couple-Bachelor-Spinster Numbers.,630,,875,3102
+UVA,10175,Sphere,238,,298,851
+UVA,10176,Ocean Deep! - Make it shallow!!,2418,,3444,9465
+UVA,10177,(2/3/4)-D Sqr/Rects/Cubes/Boxes?,1735,,2265,4155
+UVA,10178,Count the Faces.,884,,1209,3631
+UVA,10179,Irreducable Basic Fractions,3363,,4996,10180
+UVA,10180,Rope Crisis in Ropeland!,694,,1459,8656
+UVA,10181,15-Puzzle Problem,1014,,3766,15872
+UVA,10182,Bee Maja,2530,,3466,5826
+UVA,10183,How Many Fibs?,4214,,5966,19645
+UVA,10184,Equidistance,119,,176,397
+UVA,10185,Phylogenetic Trees Inherited,138,,190,459
+UVA,10186,Euro Cup 2000,164,,204,383
+UVA,10187,From Dusk Till Dawn,776,,2150,9369
+UVA,10188,Automated Judge Script,2629,,4042,15631
+UVA,10189,Minesweeper,19195,,28021,117083
+UVA,10190,"Divide, But Not Quite Conquer!",3484,,4596,21393
+UVA,10191,Longest Nap,3126,,4209,15247
+UVA,10192,Vacation,6225,,9119,23178
+UVA,10193,All You Need Is Love,4171,,4998,9506
+UVA,10194,Football (aka Soccer),3185,,5084,24514
+UVA,10195,The Knights Of The Round Table,5361,,6806,20171
+UVA,10196,Check The Check,3931,,6259,23276
+UVA,10197,Learning Portuguese,731,,952,4699
+UVA,10198,Counting,3306,,5047,11862
+UVA,10199,Tourist Guide,2658,,4233,14803
+UVA,10200,Prime Time,2415,,4380,28448
+UVA,10201,Adventures in Moving - Part IV,1095,,1822,7982
+UVA,10202,Pairsumonious Numbers,1019,,1483,3756
+UVA,10203,Snow Clearing,542,,648,2817
+UVA,10204,Adventures in Moving - Part V,72,,86,473
+UVA,10205,Stack 'em Up,2919,,4160,14035
+UVA,10206,Stars,93,,121,344
+UVA,10207,The Unreal Tournament,198,,311,2682
+UVA,10208,Liar or Not Liar that is the...,156,,255,964
+UVA,10209,Is This Integration ?,4341,,6450,11666
+UVA,10210,Romeo and Juliet !,854,,1091,1981
+UVA,10211,Divisibility Testing! Wow!,134,,201,641
+UVA,10212,The Last Non-zero Digit.,1463,,2525,11416
+UVA,10213,How Many Pieces of Land ?,1722,,2886,9565
+UVA,10214,Trees in a Wood.,330,,619,1504
+UVA,10215,The Largest/Smallest Box ...,942,,1480,11076
+UVA,10216,The Optimal Coffee Shop!!,100,,120,816
+UVA,10217,A Dinner with Schwarzenegger!!!,383,,536,1391
+UVA,10218,Let's Dance !!!,335,,428,751
+UVA,10219,Find the ways !,3160,,3940,9588
+UVA,10220,I Love Big Numbers !,5984,,7384,11487
+UVA,10221,Satellites,3100,,4017,11828
+UVA,10222,Decode the Mad man,8706,,10651,20303
+UVA,10223,How many nodes ?,2405,,2778,5115
+UVA,10224,Return of the Jedi,60,,87,611
+UVA,10225,Discrete Logging,265,,465,892
+UVA,10226,Hardwood Species,5334,,9645,29291
+UVA,10227,Forests,1255,,1603,4688
+UVA,10228,A Star not a Tree?,257,,399,1477
+UVA,10229,Modular Fibonacci,3170,,4446,12611
+UVA,10230,Savage Garden,238,,348,1052
+UVA,10231,Matrix World,106,,219,711
+UVA,10232,Bit-wise Sequence,350,,472,779
+UVA,10233,Dermuba Triangle,960,,1238,2671
+UVA,10234,Frequent Substrings,269,,490,2934
+UVA,10235,Simply Emirp,8060,,11293,37439
+UVA,10236,The Fibonacci Primes,375,,843,3470
+UVA,10237,Bishops,322,,556,1425
+UVA,10238,Throw the Dice,342,,555,1903
+UVA,10239,The Book-shelver's Problem,279,,436,1424
+UVA,10240,The n-Dimensional Cities,92,,127,461
+UVA,10241,Semi-triangular and also Square,59,,69,219
+UVA,10242,Fourth Point !!,2977,,3940,9628
+UVA,10243,Fire! Fire!! Fire!!!,903,,1297,4074
+UVA,10244,First Love !!!,171,,277,698
+UVA,10245,The Closest Pair Problem,3345,,9634,41497
+UVA,10246,Asterix and Obelix,732,,1155,4871
+UVA,10247,Complete Tree Labeling,577,,989,2641
+UVA,10248,The Integer All-time Champ,235,,808,2901
+UVA,10249,The Grand Dinner,1722,,3324,9145
+UVA,10250,The Other Two Trees,1138,,1704,3581
+UVA,10251,Min-Max Cake,196,,315,833
+UVA,10252,Common Permutation,7502,,11389,39189
+UVA,10253,Series-Parallel Networks,262,,465,843
+UVA,10254,The Priest Mathematician,1053,,2023,4617
+UVA,10255,The knight's Tour,131,,346,965
+UVA,10256,The Great Divide,363,,950,3228
+UVA,10257,Dick and Jane,675,,960,2601
+UVA,10258,Contest Scoreboard,4661,,7910,31500
+UVA,10259,Hippity Hopscotch,734,,1160,3338
+UVA,10260,Soundex,7422,,8828,16929
+UVA,10261,Ferry Loading,1339,,2661,12195
+UVA,10262,Suffidromes,154,,214,1006
+UVA,10263,Railway,1182,,1558,3298
+UVA,10264,The Most Potent Corner,1388,,1808,2572
+UVA,10265,Toroidal Chess Queens' Problem,111,,168,687
+UVA,10266,Surveying,72,,126,762
+UVA,10267,Graphical Editor,3167,,5349,34505
+UVA,10268,498-bis,1376,,2319,9893
+UVA,10269,Adventure of Super Mario,683,,1298,3083
+UVA,10270,Bigger Square Please...,215,,365,1138
+UVA,10271,Chopsticks,1669,,3159,8552
+UVA,10272,DDR King,79,,100,527
+UVA,10273,Eat or Not to Eat?,372,,649,2503
+UVA,10274,Fans and Gems,138,,332,1363
+UVA,10275,Guess the Number!,234,,379,1173
+UVA,10276,Hanoi Tower Troubles Again!,3229,,4232,5785
+UVA,10277,Boastin' Red Socks,378,,589,2119
+UVA,10278,Fire Station,1303,,2527,11960
+UVA,10279,Mine Sweeper,1958,,2364,8779
+UVA,10280,Old Wine Into New Bottles,283,,545,1808
+UVA,10281,Average Speed,3038,,3582,7845
+UVA,10282,Babelfish,5545,,10367,22836
+UVA,10283,The Kissing Circles,1070,,1618,3139
+UVA,10284,Chessboard in FEN,1227,,1640,3410
+UVA,10285,Longest Run on a Snowboard,3750,,5971,10018
+UVA,10286,Trouble with a Pentagon,3141,,4495,7108
+UVA,10287,Gifts in a Hexagonal Box,814,,1156,1926
+UVA,10288,Coupons,537,,980,1878
+UVA,10289,A Square and Equilateral Triangles,89,,137,1207
+UVA,10290,{Sum+=i++} to Reach N,318,,790,8410
+UVA,10291,Cut the Legs,192,,230,625
+UVA,10292,The Gossiping System,131,,153,357
+UVA,10293,Word Length and Frequency,1506,,1761,4519
+UVA,10294,Arif in Dhaka (First Love Part 2),364,,772,1367
+UVA,10295,Hay Points,4086,,5142,8027
+UVA,10296,Jogging Trails,643,,1081,2909
+UVA,10297,Beavergnaw,2450,,2855,4202
+UVA,10298,Power Strings,4020,,6669,17252
+UVA,10299,Relatives,2822,,4994,15495
+UVA,10300,Ecological Premium,23385,,28214,42102
+UVA,10301,Rings and Glue,1490,,2064,8300
+UVA,10302,Summation of Polynomials,8387,,10393,22814
+UVA,10303,How Many Trees?,1866,,2529,6178
+UVA,10304,Optimal Binary Search Tree,1507,,2955,6230
+UVA,10305,Ordering Tasks,9456,,16251,34042
+UVA,10306,e-Coins,2172,,3179,5732
+UVA,10307,Killing Aliens in Borg Maze,972,,1548,3766
+UVA,10308,Roads in the North,894,,2030,5437
+UVA,10309,Turn the Lights Off,1073,,1570,2597
+UVA,10310,Dog and Gopher,3836,,5297,18528
+UVA,10311,Goldbach and Euler,1968,,4832,21617
+UVA,10312,Expression Bracketing,820,,1079,1960
+UVA,10313,Pay the Price,1363,,2321,8448
+UVA,10314,Three Pigs,28,,113,4223
+UVA,10315,Poker Hands,2389,,3573,14884
+UVA,10316,Airline Hub,415,,618,2687
+UVA,10317,Equating Equations,176,,357,2536
+UVA,10318,Security Panel,697,,1504,3592
+UVA,10319,Manhattan,545,,826,2565
+UVA,10320,Cow Trouble! Help Please!!,267,,378,1117
+UVA,10321,Polygon Intersection,227,,361,1789
+UVA,10322,The Four in One Stadium,70,,140,573
+UVA,10323,Factorial! You Must be Kidding!!!,6882,,9169,35138
+UVA,10324,Zeros and Ones,6785,,10394,33118
+UVA,10325,The Lottery,897,,1588,4398
+UVA,10326,The Polynomial Equation,713,,992,2735
+UVA,10327,Flip Sort,11852,,17435,40619
+UVA,10328,Coin Toss,532,,814,1950
+UVA,10329,Combinatorial Expression,271,,386,1399
+UVA,10330,Power Transmission,2035,,3881,10212
+UVA,10331,The Flyover Construction,223,,353,1486
+UVA,10332,The Absent Minded Professor,89,,150,713
+UVA,10333,The Tower of ASCII,373,,512,986
+UVA,10334,Ray Through Glasses,4298,,5364,10012
+UVA,10335,Ray Inside a Polygon,70,,180,1250
+UVA,10336,Rank the Languages,4230,,5506,9289
+UVA,10337,Flight Planner,1841,,2318,4571
+UVA,10338,Mischievous Children,4313,,5675,12767
+UVA,10339,Watching Watches,416,,662,2189
+UVA,10340,All in All,14088,,22209,66703
+UVA,10341,Solve It,5458,,11254,37151
+UVA,10342,Always Late,460,,734,3654
+UVA,10343,Base64 Decoding,260,,400,1928
+UVA,10344,23 out of 5,3660,,6208,17305
+UVA,10345,Cricket/Football Goes Down,132,,238,645
+UVA,10346,Peter's Smokes,14156,,17774,40760
+UVA,10347,Medians,3888,,5317,16569
+UVA,10348,Submarines,278,,373,1039
+UVA,10349,Antenna Placement,823,,1246,2833
+UVA,10350,Liftless EME,603,,865,1489
+UVA,10351,Cutting Diamonds,345,,398,826
+UVA,10352,Count the eWords,208,,332,1738
+UVA,10353,Circles in Hexagon :-),124,,199,544
+UVA,10354,Avoiding Your Boss,723,,1080,4715
+UVA,10355,Superman,198,,262,984
+UVA,10356,Rough Roads,835,,1340,3598
+UVA,10357,Playball !!!,341,,386,691
+UVA,10358,Matrix,100,,173,938
+UVA,10359,Tiling,1660,,2059,3647
+UVA,10360,Rat Attack,2598,,4343,12116
+UVA,10361,Automatic Poetry,4804,,6342,12897
+UVA,10362,Trains,120,,222,1290
+UVA,10363,Tic Tac Toe,2290,,2803,10154
+UVA,10364,Square,1472,,2773,10999
+UVA,10365,Blocks,1760,,2258,3945
+UVA,10366,Faucet Flow,262,,396,1516
+UVA,10367,Equations,234,,280,1146
+UVA,10368,Euclid's Game,1179,,1462,4099
+UVA,10369,Arctic Network,3386,,5724,13601
+UVA,10370,Above Average,16311,,20852,38666
+UVA,10371,Time Zones,749,,997,3031
+UVA,10372,Leaps Tall Buildings (in a single bound),187,,247,515
+UVA,10373,The Brick Stops Here,189,,342,1137
+UVA,10374,Election,1188,,1569,5685
+UVA,10375,Choose and divide,1534,,2699,6012
+UVA,10376,Snakes,113,,137,592
+UVA,10377,Maze Traversal,1932,,2455,6639
+UVA,10378,Complex Numbers,264,,476,2836
+UVA,10379,Pit Stop Strategy,98,,121,349
+UVA,10380,Shogi Tournament,124,,240,1191
+UVA,10381,The Rock,155,,344,910
+UVA,10382,Watering Grass,1270,,2927,16171
+UVA,10383,Queen vs Rook,21,,27,190
+UVA,10384,The Wall Pushers,185,,400,1424
+UVA,10385,Duathlon,441,,758,2627
+UVA,10386,Circles in Triangle,263,,397,777
+UVA,10387,Billiard,1149,,1471,2164
+UVA,10388,Snap,147,,169,641
+UVA,10389,Subway,564,,1134,3923
+UVA,10390,Bean Counting,262,,285,968
+UVA,10391,Compound Words,2059,,4608,11694
+UVA,10392,Factoring Large Numbers,2416,,3827,7921
+UVA,10393,The One-Handed Typist,902,,1228,3796
+UVA,10394,Twin Primes,5387,,9065,23088
+UVA,10395,Titans in Danger,80,,110,390
+UVA,10396,Vampire Numbers,375,,514,1506
+UVA,10397,Connect the Campus,2927,,5507,15949
+UVA,10398,The Golden Pentagon,167,,234,826
+UVA,10399,Optimus Prime,120,,182,402
+UVA,10400,Game Show Math,1833,,3095,9929
+UVA,10401,Injured Queen Problem,995,,1463,3455
+UVA,10402,Triangle Covering,54,,84,584
+UVA,10403,Escape from Tut's Tomb,72,,129,565
+UVA,10404,Bachet's Game,2511,,4212,7308
+UVA,10405,Longest Common Subsequence,10541,,16569,44992
+UVA,10406,Cutting tabletops,422,,512,1239
+UVA,10407,Simple division,2227,,2942,8194
+UVA,10408,Farey sequences,1663,,2261,3719
+UVA,10409,Die Game,4420,,5724,10056
+UVA,10410,Tree Reconstruction,645,,1261,3678
+UVA,10411,Another Game of Tetris,73,,127,627
+UVA,10412,Big Big Trees,174,,233,1345
+UVA,10413,Crazy Savages,236,,509,1606
+UVA,10414,Denki Blocks,40,,47,304
+UVA,10415,Eb Alto Saxophone Player,1417,,1966,4142
+UVA,10416,Folding My T-Shirt,273,,412,1072
+UVA,10417,Gift Exchanging,223,,358,1006
+UVA,10418,Hyper Toy Soldiers,132,,292,966
+UVA,10419,Sum-up the Primes,500,,921,3606
+UVA,10420,List of Conquests,9471,,12766,23470
+UVA,10421,Critical Wave,298,,453,1435
+UVA,10422,Knights in FEN,1826,,3909,8000
+UVA,10423,Peter Takes a Tramway,257,,301,755
+UVA,10424,Love Calculator,8396,,10620,29705
+UVA,10425,Mobile Destroyer,253,,305,1460
+UVA,10426,Knights' Nightmare,235,,360,1218
+UVA,10427,Naughty Sleepy Boys,1723,,2225,4221
+UVA,10428,The Roots,329,,677,1926
+UVA,10429,Mohr's Circle,60,,88,265
+UVA,10430,Dear GOD,222,,267,823
+UVA,10431,Normal Distribution,91,,114,583
+UVA,10432,Polygon Inside A Circle,5932,,7771,18791
+UVA,10433,Automorphic Numbers,594,,989,4802
+UVA,10434,Working With Specific Gravity,112,,149,277
+UVA,10435,Compare Directories,29,,45,411
+UVA,10436,Cheapest way,310,,407,1529
+UVA,10437,Playing With Fraction,103,,145,1127
+UVA,10438,Meta Editor,69,,91,721
+UVA,10439,Temple of Dune,316,,409,937
+UVA,10440,Ferry Loading II,1194,,1880,4251
+UVA,10441,Catenyms,340,,547,2708
+UVA,10442,Basic,206,,236,1176
+UVA,10443,"Rock, Scissors, Paper",1764,,2462,4959
+UVA,10444,Multi-peg Towers of Hanoi,278,,359,770
+UVA,10445,Make Polygon,272,,378,2181
+UVA,10446,The Marriage Interview :-),1171,,1588,4839
+UVA,10447,Sum-up the Primes (II),92,,186,1573
+UVA,10448,Unique World,130,,199,849
+UVA,10449,Traffic,876,,1386,8640
+UVA,10450,World Cup Noise,4376,,5592,13147
+UVA,10451,Ancient Village Sports,2069,,2842,4542
+UVA,10452,Marcus,2277,,3158,6467
+UVA,10453,Make Palindrome,1441,,2725,7258
+UVA,10454,Trexpression,203,,289,1069
+UVA,10455,Gray Code,71,,80,310
+UVA,10456,Intelligent Cats,98,,121,655
+UVA,10457,Magic Car,223,,414,1980
+UVA,10458,Cricket Ranking,104,,199,935
+UVA,10459,The Tree Root,731,,1106,4821
+UVA,10460,Find the Permuted String,579,,734,1586
+UVA,10461,Difference,272,,403,1248
+UVA,10462,Is There A Second Way Left?,1218,,1966,6076
+UVA,10463,Aztec Knights,141,,257,1175
+UVA,10464,Big Big Real Numbers,646,,764,2046
+UVA,10465,Homer Simpson,3817,,6128,16551
+UVA,10466,How Far?,549,,934,3097
+UVA,10467,Parse Tree,76,,90,243
+UVA,10468,Rigid Circle Packing,166,,242,657
+UVA,10469,To Carry or not to Carry,11104,,14192,19499
+UVA,10470,Shifted Coefficient Number System,80,,93,330
+UVA,10471,Can't be too GREEDY,248,,301,432
+UVA,10472,Fastest Vs Cheapest,70,,97,367
+UVA,10473,Simple Base Conversion,5253,,7257,15157
+UVA,10474,Where is the Marble?,8883,,17475,43727
+UVA,10475,Help the Leaders,446,,676,2696
+UVA,10476,Spam or Not Spam,147,,195,623
+UVA,10477,The Hybrid Knight,260,,441,1385
+UVA,10478,The Falling Pillars,48,,73,443
+UVA,10479,The Hendrie Sequence,276,,413,1156
+UVA,10480,Sabotage,1334,,2574,6132
+UVA,10481,The Gift Wrappers of Hollywood,61,,202,352
+UVA,10482,The Candyman Can,836,,1714,4186
+UVA,10483,The Sum Equals the Product,378,,488,1258
+UVA,10484,Divisibility of Factors,929,,1349,4287
+UVA,10485,Painting with CSE,31,,36,190
+UVA,10486,Mountain Village,181,,253,411
+UVA,10487,Closest Sums,4786,,6753,16128
+UVA,10488,Swimming Gopher,237,,275,632
+UVA,10489,Boxes of Chocolates,1958,,2527,5119
+UVA,10490,Mr. Azad and his Son!!!!!,2237,,2771,6413
+UVA,10491,Cows and Cars,2817,,4173,6274
+UVA,10492,Optimal Mastermind Strategy,17,,38,342
+UVA,10493,"Cats, with or without Hats",928,,1208,2860
+UVA,10494,If We Were a Child Again,3609,,5019,16483
+UVA,10495,Conic Distance,304,,346,713
+UVA,10496,Collecting Beepers,2651,,3567,6002
+UVA,10497,Sweet Child Makes Trouble,1001,,1359,2950
+UVA,10498,Happiness,319,,1140,3034
+UVA,10499,The Land of Justice,6131,,8330,19932
+UVA,10500,Robot maps,815,,1002,3737
+UVA,10501,Simplified Shisen-Sho,76,,164,524
+UVA,10502,Counting Rectangles,1681,,2184,3628
+UVA,10503,The dominoes solitaire,1455,,1835,3301
+UVA,10504,Hidden squares,311,,377,1620
+UVA,10505,Montesco vs Capuleto,1020,,1462,5074
+UVA,10506,The Ouroboros problem,369,,542,924
+UVA,10507,Waking up brain,1829,,2237,5540
+UVA,10508,Word Morphing,1428,,2405,6153
+UVA,10509,R U Kidding Mr. Feynman?,1789,,2521,4209
+UVA,10510,Cactus,492,,1374,4506
+UVA,10511,Councilling,517,,1039,4856
+UVA,10512,A Day in Math-land,234,,461,3310
+UVA,10513,Bangladesh Sequences,87,,145,1204
+UVA,10514,River Crossing,253,,358,1023
+UVA,10515,Powers Et Al.,3140,,5377,17685
+UVA,10516,Another Counting Problem,268,,322,719
+UVA,10517,Wind of Change!,234,,357,950
+UVA,10518,How Many Calls?,1000,,1498,3698
+UVA,10519,!! Really Strange !!,1374,,1677,4521
+UVA,10520,Determine it,780,,1038,2047
+UVA,10521,Continuously Growing Fractions,94,,123,1057
+UVA,10522,Height to Area,860,,1035,2758
+UVA,10523,Very Easy !!!,3257,,4720,16620
+UVA,10524,Matrix Reloaded,141,,179,1268
+UVA,10525,New to Bangladesh?,465,,670,3894
+UVA,10526,Intellectual Property,129,,245,818
+UVA,10527,Persistent Numbers,723,,914,1874
+UVA,10528,Major Scales,899,,1304,2326
+UVA,10529,Dumb Bones,276,,433,681
+UVA,10530,Guessing Game,4448,,5799,15315
+UVA,10531,Maze Statistics,89,,178,648
+UVA,10532,Combination! Once Again,488,,676,2111
+UVA,10533,Digit Primes,3914,,6902,23066
+UVA,10534,Wavio Sequence,2680,,5510,14216
+UVA,10535,Shooter,319,,558,2530
+UVA,10536,Game of Euler,492,,847,1682
+UVA,10537,The Toll! Revisited,606,,1478,7768
+UVA,10538,Powerful Magic Squares,35,,99,390
+UVA,10539,Almost Prime Numbers,2579,,4531,12873
+UVA,10540,Flowers of a Beautiful Mind,238,,355,638
+UVA,10541,Stripe,838,,1138,2880
+UVA,10542,Hyper-drive,184,,252,814
+UVA,10543,Traveling Politician,585,,795,2452
+UVA,10544,Numbering the Paths,238,,290,939
+UVA,10545,Maximal Quadrilateral,230,,304,812
+UVA,10546,The Eagle's Nest,159,,210,697
+UVA,10547,Hidden Truth in Recurrence,276,,369,775
+UVA,10548,Find the Right Changes,177,,266,1117
+UVA,10549,Russian Dolls,297,,499,1904
+UVA,10550,Combination Lock,8940,,11098,20229
+UVA,10551,Basic Remains,1828,,2200,3851
+UVA,10552,Genealogical Research,162,,174,668
+UVA,10553,Treasure Map,259,,447,1106
+UVA,10554,Calories from Fat,618,,748,1132
+UVA,10555,Dead Fraction,478,,640,1731
+UVA,10556,Biometrics,234,,310,798
+UVA,10557,XYZZY,1724,,3009,12245
+UVA,10558,A Brief Gerrymander,205,,332,984
+UVA,10559,Blocks,503,,1152,3809
+UVA,10560,Minimum Weight,307,,389,954
+UVA,10561,Treblecross,312,,674,1730
+UVA,10562,Undraw the Trees,1095,,2136,6847
+UVA,10563,Least Squares,233,,320,1165
+UVA,10564,Paths through the Hourglass,710,,1313,4293
+UVA,10565,Matrix,84,,106,379
+UVA,10566,Crossed Ladders,1485,,2001,4119
+UVA,10567,Helping Fill Bates,1156,,1601,4010
+UVA,10568,n Group k,161,,199,825
+UVA,10569,Number Theory,200,,395,767
+UVA,10570,Meeting with Aliens,500,,897,2157
+UVA,10571,Products,164,,197,681
+UVA,10572,Black &amp; White,115,,345,804
+UVA,10573,Geometry Paradox,2035,,2493,5275
+UVA,10574,Counting Rectangles,435,,843,3029
+UVA,10575,Polylops,188,,425,799
+UVA,10576,Y2K Accounting Bug,1061,,1349,2236
+UVA,10577,Bounding box,557,,654,1145
+UVA,10578,The Game of 31,608,,862,1544
+UVA,10579,Fibonacci Numbers,4911,,6491,10837
+UVA,10580,Ransom Note,126,,265,930
+UVA,10581,Partitioning for fun and profit,227,,298,958
+UVA,10582,ASCII Labyrinth,271,,383,917
+UVA,10583,Ubiquitous Religions,4314,,7599,16250
+UVA,10584,Text Formalization,53,,60,412
+UVA,10585,Center of symmetry,721,,1105,2411
+UVA,10586,Polynomial Remains,637,,832,1761
+UVA,10587,Mayor's posters,352,,650,2201
+UVA,10588,Queuing at the doctors,122,,158,424
+UVA,10589,Area,2033,,3108,7588
+UVA,10590,Boxes of Chocolates Again,237,,421,1662
+UVA,10591,Happy Number,6200,,8216,17679
+UVA,10592,Freedom Fighter,248,,316,1201
+UVA,10593,Kites,371,,987,1995
+UVA,10594,Data Flow,903,,2219,8742
+UVA,10595,Knight on the Bee Board,141,,202,501
+UVA,10596,Morning Walk,849,,1561,10169
+UVA,10597,Right Words,118,,195,558
+UVA,10598,Find the Latitude,254,,305,547
+UVA,10599,Robots(II),366,,571,2050
+UVA,10600,ACM Contest and Blackout,2697,,4738,11654
+UVA,10601,Cubes,266,,509,869
+UVA,10602,Editor Nottoobad,1147,,1705,3648
+UVA,10603,Fill,1022,,2508,9373
+UVA,10604,Chemical Reaction,470,,943,3337
+UVA,10605,Mines For Diamonds,103,,229,878
+UVA,10606,Opening Doors,301,,551,2179
+UVA,10607,Siege,104,,158,1159
+UVA,10608,Friends,5056,,9395,24996
+UVA,10609,Fractal,258,,509,1357
+UVA,10610,Gopher and Hawks,941,,1353,3586
+UVA,10611,The Playboy Chimp,5013,,7856,19862
+UVA,10612,Paper Folding,71,,97,230
+UVA,10613,Mushroom Misery,97,,169,639
+UVA,10614,Dreadful Vectors,101,,129,625
+UVA,10615,Rooks,227,,452,2067
+UVA,10616,Divisible Group Sums,2208,,3313,9232
+UVA,10617,Again Palindrome,1352,,2069,4303
+UVA,10618,Tango Tango Insurrection,176,,297,998
+UVA,10619,Advanced Causal Measurements,176,,326,896
+UVA,10620,A Flea on a Chessboard,698,,1199,3000
+UVA,10621,Jack and Jill,143,,236,896
+UVA,10622,Perfect P-th Powers,2111,,3325,13765
+UVA,10623,Thinking Backward,157,,281,857
+UVA,10624,Super Number,521,,840,2311
+UVA,10625,GNU = GNU'sNotUnix,630,,1070,2778
+UVA,10626,Buying Coke,837,,1437,4850
+UVA,10627,Infinite Race,123,,245,1739
+UVA,10628,Quadrills,34,,46,129
+UVA,10629,Truckin',23,,79,410
+UVA,10630,Millennium Ceremony,15,,60,306
+UVA,10631,Normals,72,,208,898
+UVA,10632,Pyramid,88,,118,377
+UVA,10633,Rare Easy Problem,2848,,3584,9020
+UVA,10634,Say NO to Memorization,372,,538,1273
+UVA,10635,Prince and Princess,1952,,3752,10145
+UVA,10636,Stretching Geometry,18,,35,546
+UVA,10637,Coprimes,740,,1175,2475
+UVA,10638,The Trip II,70,,94,555
+UVA,10639,Square Puzzle,20,,28,143
+UVA,10640,Planes around the World,99,,140,357
+UVA,10641,Barisal Stadium,107,,198,554
+UVA,10642,Can You Solve It?,2132,,2820,4954
+UVA,10643,Facing Problem With Trees,220,,296,529
+UVA,10644,Floor Tiles,163,,227,908
+UVA,10645,Menu,203,,378,917
+UVA,10646,What is the Card?,1963,,2373,3796
+UVA,10647,Optimal House Placement,117,,174,561
+UVA,10648,Chocolate Box,281,,410,735
+UVA,10649,Danger Point,216,,265,850
+UVA,10650,Determinate Prime,1123,,1581,7166
+UVA,10651,Pebble Solitaire,2313,,3252,4570
+UVA,10652,Board Wrapping,595,,1205,2379
+UVA,10653,Bombs! NO they are Mines!!,3182,,4926,12455
+UVA,10654,The Uxuhul Voting System,162,,205,402
+UVA,10655,Contemplation! Algebra,561,,1203,6720
+UVA,10656,Maximum Sum (II),3424,,4691,13831
+UVA,10657,Prince Frog II,8,,26,201
+UVA,10658,ReArrange,196,,239,408
+UVA,10659,Fitting Text into Slides,269,,358,920
+UVA,10660,Citizen attention offices,984,,1268,1915
+UVA,10661,The Perspectographer,123,,178,847
+UVA,10662,The Wedding,806,,1043,1865
+UVA,10663,Non-Powerful Subsets,158,,403,1372
+UVA,10664,Luggage,3458,,4830,8474
+UVA,10665,Diatribe against Pigeonholes,164,,197,402
+UVA,10666,The Eurocup is Here!,477,,692,1239
+UVA,10667,Largest Block,1699,,2211,3431
+UVA,10668,Expanding Rods,525,,766,3442
+UVA,10669,Three powers,729,,930,1701
+UVA,10670,Work Reduction,1263,,1791,4444
+UVA,10671,Grid Speed,54,,89,326
+UVA,10672,Marbles on a tree,763,,1160,2115
+UVA,10673,Play with Floor and Ceil,2720,,4169,8738
+UVA,10674,Tangents,127,,331,1349
+UVA,10675,Revenge of Faucet Flow,44,,58,325
+UVA,10676,Grid Points,52,,69,345
+UVA,10677,Base Equality,633,,805,1122
+UVA,10678,The Grazing Cow,2751,,3391,4872
+UVA,10679,I Love Strings!!,2979,,6942,23219
+UVA,10680,LCM,1296,,2142,5385
+UVA,10681,Teobaldo's Trip,826,,1082,2903
+UVA,10682,Forr,159,,276,1373
+UVA,10683,The decadary watch,1731,,2294,4308
+UVA,10684,The jackpot,6951,,10773,21634
+UVA,10685,Nature,2058,,3057,7314
+UVA,10686,SQF Problems,335,,486,2153
+UVA,10687,Monitoring the Amazon,563,,850,1481
+UVA,10688,The Poor Giant,567,,919,1532
+UVA,10689,Yet another Number Sequence,1305,,2038,5367
+UVA,10690,Expression Again,427,,793,3144
+UVA,10691,Subway,76,,142,772
+UVA,10692,Huge Mods,315,,697,2676
+UVA,10693,Traffic Volume,1555,,1800,2486
+UVA,10694,Combinatorial Summation,204,,305,849
+UVA,10695,Find the Point,53,,145,631
+UVA,10696,f91,15731,,23571,44567
+UVA,10697,Firemen barracks,162,,231,1611
+UVA,10698,Football Sort,443,,597,2761
+UVA,10699,Count the factors,6040,,8682,13594
+UVA,10700,Camel trading,2801,,3914,9268
+UVA,10701,"Pre, in and post",2365,,3639,6309
+UVA,10702,Travelling Salesman,1241,,2444,4784
+UVA,10703,Free spots,2913,,3833,7172
+UVA,10704,Traffic!,135,,252,705
+UVA,10705,The Fun Number System,548,,798,1981
+UVA,10706,Number Sequence,1973,,3295,8889
+UVA,10707,2D-Nim,275,,401,1162
+UVA,10708,Cheetah,136,,188,743
+UVA,10709,Intersection is Not that Easy,268,,395,1564
+UVA,10710,Chinese Shuffle,354,,575,1358
+UVA,10711,Stitching,78,,111,208
+UVA,10712,Count the Numbers,161,,263,1303
+UVA,10713,Map,200,,246,1169
+UVA,10714,Ants,3028,,5133,10047
+UVA,10715,Cat,152,,340,1044
+UVA,10716,Evil Straw Warts Live,559,,903,2844
+UVA,10717,Mint,1179,,1729,4239
+UVA,10718,Bit Mask,1441,,2078,5149
+UVA,10719,Quotient Polynomial,1383,,2063,5102
+UVA,10720,Graph Construction,1246,,2102,7114
+UVA,10721,Bar Codes,2248,,3282,6130
+UVA,10722,Super Lucky Numbers,392,,623,2253
+UVA,10723,Cyborg Genes,536,,1033,2675
+UVA,10724,Road Construction,395,,668,2327
+UVA,10725,Triangular Square,153,,260,2797
+UVA,10726,Coco Monkey,158,,232,617
+UVA,10727,Practice,73,,132,277
+UVA,10728,Help!,232,,270,855
+UVA,10729,Treequivalence,111,,149,896
+UVA,10730,Antiarithmetic?,1126,,1680,3664
+UVA,10731,Test,895,,1217,2795
+UVA,10732,The Strange Research,174,,272,779
+UVA,10733,The Colored Cubes,512,,706,1265
+UVA,10734,Triangle Partitioning,262,,307,458
+UVA,10735,Euler Circuit,358,,719,2792
+UVA,10736,Series of PI,98,,187,345
+UVA,10737,The Difference Engine,42,,56,376
+UVA,10738,Riemann vs Mertens,1219,,2283,4235
+UVA,10739,String to Palindrome,2213,,3229,5027
+UVA,10740,Not the Best,333,,664,2001
+UVA,10741,Magic Cube,191,,261,797
+UVA,10742,The New Rule in Euphomia,746,,1056,1740
+UVA,10743,Blocks on Blocks,126,,165,401
+UVA,10744,The Optimal Super-Highway,204,,441,1553
+UVA,10745,Dominant Strings,417,,1609,4027
+UVA,10746,Crime Wave - The Sequel,795,,1429,4725
+UVA,10747,Maximum Subsequence,242,,413,2403
+UVA,10748,Knights Roaming,161,,374,1343
+UVA,10749,Automobile Travelling,49,,103,417
+UVA,10750,Beautiful Points,410,,1000,2398
+UVA,10751,Chessboard,534,,744,1310
+UVA,10752,Distant Jumping,55,,124,327
+UVA,10753,Exponential Function,26,,91,443
+UVA,10754,Fantastic Sequence,172,,317,1352
+UVA,10755,Garbage Heap,1186,,2110,6971
+UVA,10756,HardNumbers,26,,48,270
+UVA,10757,Interpreting SQL,20,,32,826
+UVA,10758,Journey,53,,81,204
+UVA,10759,Dice Throwing,1082,,1563,2536
+UVA,10760,Translation or rotation,81,,120,463
+UVA,10761,Broken Keyboard,310,,377,803
+UVA,10762,Treasure Castle,21,,35,165
+UVA,10763,Foreign Exchange,3478,,7126,15553
+UVA,10764,Signed-digit numbers,146,,193,372
+UVA,10765,Doves and bombs,956,,1790,4184
+UVA,10766,Organising the Organisation,186,,570,1887
+UVA,10767,Barcelona's trams,96,,142,280
+UVA,10768,Planarity,141,,199,547
+UVA,10769,Pillars,263,,391,923
+UVA,10770,Sokoban,43,,107,521
+UVA,10771,Barbarian tribes,564,,975,1822
+UVA,10772,Rose windows,134,,205,343
+UVA,10773,Back to Intermediate Math,4084,,5137,15854
+UVA,10774,Repeated Josephus,647,,879,1173
+UVA,10775,Mystical Matrix,104,,146,282
+UVA,10776,Determine The Combination,1064,,1470,3539
+UVA,10777,God! Save me,369,,552,1006
+UVA,10778,Mathemagicland,21,,55,351
+UVA,10779,Collectors Problem,667,,1167,2357
+UVA,10780,Again Prime? No Time.,1471,,2879,8930
+UVA,10781,Global Positioning System,3,,3,1328
+UVA,10782,Send More Money,132,,194,721
+UVA,10783,Odd Sum,23413,,32604,70184
+UVA,10784,Diagonal,4026,,5114,11977
+UVA,10785,The Mad Numerologist,1326,,1764,4307
+UVA,10786,Qualify for the Champions League,76,,88,162
+UVA,10787,Modular Equations,383,,531,883
+UVA,10788,Parenthesizing Palindromes,155,,198,626
+UVA,10789,Prime Frequency,4854,,6636,13434
+UVA,10790,How Many Points of Intersection?,2693,,3582,7145
+UVA,10791,Minimum Sum LCM,1786,,3645,13834
+UVA,10792,The Laurel-Hardy Story,492,,596,1003
+UVA,10793,The Orc Attack,792,,1178,2947
+UVA,10794,The Deadly Olympic Returns!!!,145,,206,664
+UVA,10795,A Different Task,586,,1121,2449
+UVA,10796,Right Hand Rule,49,,105,549
+UVA,10797,Peaceful Sharing,58,,139,367
+UVA,10798,Be wary of Roses,140,,307,1152
+UVA,10799,OOPS! They did it Again...,160,,226,522
+UVA,10800,Not That Kind of Graph,1535,,2021,8915
+UVA,10801,Lift Hopping,2507,,3925,8163
+UVA,10802,Lex Smallest Drive,257,,392,1680
+UVA,10803,Thunder Mountain,1608,,2666,6956
+UVA,10804,Gopher Strategy,446,,744,3090
+UVA,10805,Cockroach Escape Networks,282,,489,1539
+UVA,10806,"Dijkstra, Dijkstra.",1355,,2397,6773
+UVA,10807,Prim,240,,441,2684
+UVA,10808,Rational Resistors,75,,175,826
+UVA,10809,Great Circle,78,,104,493
+UVA,10810,Ultra-QuickSort,3076,,5883,16715
+UVA,10811,Up the Ante,113,,192,395
+UVA,10812,Beat the Spread!,14740,,18872,48849
+UVA,10813,Traditional BINGO,1143,,1368,2669
+UVA,10814,Simplifying Fractions,1641,,2069,4404
+UVA,10815,Andy's First Dictionary,7179,,13376,38678
+UVA,10816,Travel in Desert,740,,1537,6416
+UVA,10817,Headmaster's Headache,801,,1867,5395
+UVA,10818,Dora Trip,162,,245,965
+UVA,10819,Trouble of 13-Dots,1998,,3062,14091
+UVA,10820,Send a Table,1640,,3227,5607
+UVA,10821,Constructing BST,592,,921,2130
+UVA,10822,"Planet of the Rock, Paper and Scissors",196,,289,1123
+UVA,10823,Of Circles and Squares,375,,575,1708
+UVA,10824,Regular Polygon,142,,352,1038
+UVA,10825,Anagram and Multiplication,190,,309,552
+UVA,10826,Hot or Cold?,143,,200,661
+UVA,10827,Maximum sum on a torus,2203,,3681,8728
+UVA,10828,Back to Kernighan-Ritchie,181,,476,1855
+UVA,10829,L-Gap Substrings,99,,303,1075
+UVA,10830,A New Function,578,,1266,2358
+UVA,10831,Gerg's Cake,275,,420,1419
+UVA,10832,Yoyodyne,234,,267,651
+UVA,10833,Lunar Forest,51,,85,196
+UVA,10834,The Story of Two Coins,79,,115,404
+UVA,10835,Playing with Coins,141,,244,670
+UVA,10836,The Maximum Term,77,,148,443
+UVA,10837,A Research Problem,141,,313,931
+UVA,10838,The Pawn Chess,153,,285,609
+UVA,10839,The Curse of Barbosa,128,,174,382
+UVA,10840,Multi-stage Compressor,14,,29,292
+UVA,10841,Lift Hopping in the Real World,130,,173,441
+UVA,10842,Traffic Flow,1638,,2666,4680
+UVA,10843,Anne's game,561,,708,1361
+UVA,10844,Bloques,195,,371,1240
+UVA,10845,The crusades,3,,4,182
+UVA,10846,Reading time from a clock,28,,34,162
+UVA,10847,Basic Tautologies,66,,89,322
+UVA,10848,Make Palindrome Checker,216,,276,956
+UVA,10849,Move the bishop,1575,,2425,5428
+UVA,10850,The Gossipy Gossipers Gossip Gossips,232,,286,801
+UVA,10851,2D Hieroglyphs decoder,967,,1099,1581
+UVA,10852,Less Prime,2365,,3158,4471
+UVA,10853,Pablito nailed a nail,81,,127,892
+UVA,10854,Number of Paths,379,,494,1075
+UVA,10855,Rotated square,1928,,2401,4121
+UVA,10856,Recover Factorial,812,,1386,4202
+UVA,10857,Easter Eggs,30,,50,340
+UVA,10858,Unique Factorization,545,,772,1585
+UVA,10859,Placing Lampposts,469,,1010,2092
+UVA,10860,Many a Little makes a Mickle,285,,1184,2465
+UVA,10861,Security by Ambiguity,25,,33,112
+UVA,10862,Connect the Cable Wires,1255,,1717,3122
+UVA,10863,Shovelling Snow,64,,96,402
+UVA,10864,The Predator,67,,69,324
+UVA,10865,Brownie Points,811,,1012,1425
+UVA,10866,Magic Bitstrings,130,,241,534
+UVA,10867,Cutting a Polygon,103,,174,601
+UVA,10868,Bungee Jumping,271,,350,766
+UVA,10869,Brownie Points II,97,,152,340
+UVA,10870,Recurrences,824,,1736,2913
+UVA,10871,Primed Subsequence,866,,1387,2546
+UVA,10872,Triangles,260,,350,831
+UVA,10873,"Splat, Inc.",90,,107,278
+UVA,10874,Segments,464,,697,1395
+UVA,10875,Big Math,193,,249,1114
+UVA,10876,Factory Robot,105,,159,364
+UVA,10877,Diceoids,223,,331,625
+UVA,10878,Decode the tape,5073,,6960,15127
+UVA,10879,Code Refactoring,3053,,4139,7003
+UVA,10880,Colin and Ryan,1353,,1913,5978
+UVA,10881,Piotr's Ants,1260,,2675,8110
+UVA,10882,Koerner's Pub,295,,366,721
+UVA,10883,Supermean,421,,922,3585
+UVA,10884,Persephone,72,,100,188
+UVA,10885,Martin the Gardener,82,,99,210
+UVA,10886,Standard Deviation,132,,238,742
+UVA,10887,Concatenation of Languages,976,,2070,9923
+UVA,10888,Warehouse,341,,540,1437
+UVA,10889,The Lost Gift,216,,297,916
+UVA,10890,Maze,225,,533,1569
+UVA,10891,Game of Sum,2120,,4032,7054
+UVA,10892,LCM Cardinality,1945,,3161,6259
+UVA,10893,Creating Sudoku Puzzles,58,,242,1025
+UVA,10894,Save Hridoy,638,,974,2056
+UVA,10895,Matrix Transpose,1726,,2097,4753
+UVA,10896,Known Plaintext Attack,801,,935,2015
+UVA,10897,Travelling Distance,371,,415,658
+UVA,10898,Combo Deal,594,,843,1741
+UVA,10899,Billiard again,71,,92,291
+UVA,10900,So you want to be a 2n-aire?,541,,758,999
+UVA,10901,Ferry Loading III,1665,,2220,7748
+UVA,10902,Pick-up Sticks,792,,1469,3922
+UVA,10903,Rock-Paper-Scissors Tournament,1972,,2895,8750
+UVA,10904,Structural Equivalence,83,,163,473
+UVA,10905,Children's Game,3770,,7225,23915
+UVA,10906,Strange Integration,217,,263,552
+UVA,10907,Art Gallery,101,,146,722
+UVA,10908,Largest Square,1874,,2622,6351
+UVA,10909,Lucky Number,337,,885,2671
+UVA,10910,Marks Distribution,1882,,2715,5289
+UVA,10911,Forming Quiz Teams,2570,,4134,8415
+UVA,10912,Simple Minded Hashing,1211,,1841,4601
+UVA,10913,Walking on a Grid,815,,1192,3251
+UVA,10914,Abundance and Perfect Numbers,237,,474,1192
+UVA,10915,War on Weather,302,,413,741
+UVA,10916,Factstone Benchmark,1885,,2572,4047
+UVA,10917,Walk Through the Forest,840,,1728,4629
+UVA,10918,Tri Tiling,1805,,2297,3678
+UVA,10919,Prerequisites?,2020,,2728,3948
+UVA,10920,Spiral Tap,1775,,2313,4963
+UVA,10921,Find the Telephone,9687,,11598,18862
+UVA,10922,2 the 9s,5028,,6751,12821
+UVA,10923,Seven Seas,135,,194,1003
+UVA,10924,Prime Words,9020,,12316,30489
+UVA,10925,Krakovia,1958,,2470,6537
+UVA,10926,How Many Dependencies?,1892,,2836,7884
+UVA,10927,Bright Lights,659,,1094,4060
+UVA,10928,My Dear Neighbours,1676,,2222,4528
+UVA,10929,You can say 11,9365,,13191,38531
+UVA,10930,A-Sequence,1225,,1624,6974
+UVA,10931,Parity,8080,,10952,18177
+UVA,10932,Calculator,212,,325,1156
+UVA,10933,Volleyball,248,,307,1074
+UVA,10934,Dropping water balloons,588,,1209,2838
+UVA,10935,Throwing cards away I,6201,,10087,29471
+UVA,10936,Land surveyor's job,109,,134,540
+UVA,10937,Blackbeard the Pirate,421,,687,2277
+UVA,10938,Flea circus,832,,1326,3465
+UVA,10939,"Ants, Aphids and a Ladybug",69,,130,558
+UVA,10940,Throwing cards away II,2995,,4886,9604
+UVA,10941,Words adjustment,106,,205,745
+UVA,10942,Can of Beans,357,,435,937
+UVA,10943,How do you add?,4030,,6628,13336
+UVA,10944,Nuts for nuts..,600,,1109,3032
+UVA,10945,Mother bear,6735,,8699,17297
+UVA,10946,You want what filled?,2634,,3624,8876
+UVA,10947,"Bear with me, again..",631,,1105,2012
+UVA,10948,The primary problem,3010,,4241,9871
+UVA,10949,Kids in a Grid,153,,494,3410
+UVA,10950,Bad Code,344,,486,1783
+UVA,10951,Polynomial GCD,153,,246,702
+UVA,10952,Pattern Transformations,37,,75,276
+UVA,10953,Stochastic Digit Generator,177,,233,531
+UVA,10954,Add All,7426,,12246,30038
+UVA,10955,Playfair Cipher,14,,33,169
+UVA,10956,Prime Suspect,120,,359,855
+UVA,10957,So Doku Checker,511,,1319,2537
+UVA,10958,How Many Solutions?,336,,587,1688
+UVA,10959,"The Party, Part I",1995,,2871,6536
+UVA,10960,"The Party, Part II",70,,103,315
+UVA,10961,Chasing After Don Giovanni,117,,173,484
+UVA,10962,Don Giovanni's Last Dinner,125,,156,543
+UVA,10963,The Swallowing Ground,2915,,3854,12574
+UVA,10964,Strange Planet,391,,481,1012
+UVA,10965,Khepel's Problem,84,,119,467
+UVA,10966,3KP-BASH Project,13,,17,252
+UVA,10967,The Great Escape,140,,230,850
+UVA,10968,KuPellaKeS,166,,228,673
+UVA,10969,Sweet Dream,90,,242,785
+UVA,10970,Big Chocolate,12334,,17796,25667
+UVA,10971,Building Construction,8,,9,90
+UVA,10972,RevolC FaeLoN,155,,396,1259
+UVA,10973,Triangle Counting,399,,749,2319
+UVA,10974,The Ridiculous Game,8,,12,145
+UVA,10975,Dueue's Quiz,83,,285,1426
+UVA,10976,Fractions Again?!,3862,,6021,11806
+UVA,10977,Enchanted Forest,727,,1169,3568
+UVA,10978,Let's Play Magic!,976,,1271,2438
+UVA,10979,How Many Triangles?,125,,163,552
+UVA,10980,Lowest Price in Town,719,,1212,3712
+UVA,10981,String Morphing,143,,243,992
+UVA,10982,Troublemakers,316,,430,1165
+UVA,10983,"Buy one, get the rest free",396,,671,1830
+UVA,10984,Double NP-hard,137,,221,989
+UVA,10985,Rings'n'Ropes,248,,510,1007
+UVA,10986,Sending email,4903,,9426,23756
+UVA,10987,Antifloyd,306,,411,1278
+UVA,10988,From G to H and back,30,,46,352
+UVA,10989,"Bomb, Divide and Conquer",381,,717,2145
+UVA,10990,Another New Function,812,,1722,2764
+UVA,10991,Region,1463,,1906,2540
+UVA,10992,The Ghost of Programmers,515,,661,2682
+UVA,10993,Ignoring Digits,199,,331,904
+UVA,10994,Simple Addition,1520,,2294,8159
+UVA,10995,Educational Journey,125,,149,261
+UVA,10996,Go,83,,100,201
+UVA,10997,Medals,183,,225,576
+UVA,10998,Flipping Colors,279,,337,559
+UVA,10999,Crabbles,343,,657,1909
+UVA,11000,Bee,6175,,8416,19210
+UVA,11001,Necklace,1285,,1614,3568
+UVA,11002,Towards Zero,475,,1154,3581
+UVA,11003,Boxes,1421,,2239,6825
+UVA,11004,Changing Roadmap,266,,337,637
+UVA,11005,Cheapest Base,1577,,2063,5408
+UVA,11006,Wheel Good,74,,125,465
+UVA,11007,Mini Cube,58,,354,1042
+UVA,11008,Antimatter Ray Clearcutting,508,,932,3464
+UVA,11009,Geometry Once Again,47,,98,191
+UVA,11010,Tic-Tac-Tough,97,,192,652
+UVA,11011,Numerical Methods! A Satire,151,,269,709
+UVA,11012,Cosmic Cabbages,499,,785,1719
+UVA,11013,Get Straight,147,,265,762
+UVA,11014,Make a Crystal,139,,315,645
+UVA,11015,05-2 Rendezvous,1759,,2465,5923
+UVA,11016,Square Counting,76,,121,385
+UVA,11017,A Greener World,73,,118,576
+UVA,11018,Mars Buggy,75,,128,379
+UVA,11019,Matrix Matcher,455,,1700,5669
+UVA,11020,Efficient Solutions,406,,985,2909
+UVA,11021,Tribles,505,,1236,2358
+UVA,11022,String Factoring,650,,948,1573
+UVA,11023,Multisets and Sequences,34,,87,409
+UVA,11024,Circular Lock,209,,247,553
+UVA,11025,Mr. And Mrs. Hamilton,51,,81,307
+UVA,11026,A Grouping Problem,564,,944,1834
+UVA,11027,Palindromic Permutation,349,,552,1440
+UVA,11028,Sum of Product,320,,370,653
+UVA,11029,Leading and Trailing,807,,1303,3375
+UVA,11030,Predator II,135,,185,371
+UVA,11031,Looking for a Subset,142,,236,1112
+UVA,11032,Function Overloading,310,,614,2340
+UVA,11033,Help my Brother,68,,110,738
+UVA,11034,Ferry Loading IV,2187,,2746,5393
+UVA,11035,Card Hands,228,,493,1825
+UVA,11036,Eventually Periodic Sequence,230,,434,950
+UVA,11037,Point of View in Flatland,48,,71,249
+UVA,11038,How Many O's?,900,,1670,2839
+UVA,11039,Building designing,2157,,3962,7727
+UVA,11040,Add bricks in the wall,1612,,2224,3812
+UVA,11041,Quarter-Finals with Brazil!? No!!!,33,,108,471
+UVA,11042,"Complex, difficult and complicated",621,,791,1405
+UVA,11043,Fast and Easy Data Compressor,91,,125,396
+UVA,11044,Searching for Nessy,11532,,13812,19333
+UVA,11045,My T-shirt suits me,1872,,3340,6134
+UVA,11046,Numbers and operations,37,,162,446
+UVA,11047,The Scrooge Co Problem,340,,463,1735
+UVA,11048,Automatic Correction of Misspellings,517,,774,2160
+UVA,11049,Basic wall maze,728,,905,1620
+UVA,11050,Construct the wall maze,43,,65,243
+UVA,11051,Dihedral groups,213,,310,793
+UVA,11052,Economic phone calls,149,,207,540
+UVA,11053,Flavius Josephus Reloaded,554,,1031,1714
+UVA,11054,Wine trading in Gergovia,2328,,3995,7128
+UVA,11055,Homogeneous squares,390,,709,1356
+UVA,11056,Formula 1,990,,1251,3743
+UVA,11057,Exact Sum,6595,,9859,29011
+UVA,11058,Encoding,396,,468,1172
+UVA,11059,Maximum Product,4318,,7212,30830
+UVA,11060,Beverages,2612,,3794,11000
+UVA,11061,Playing War,90,,194,324
+UVA,11062,Andy's Second Dictionary,1450,,1957,4245
+UVA,11063,B2-Sequence,2116,,2942,12791
+UVA,11064,Number Theory,1138,,1854,3672
+UVA,11065,A Gentlemen's Agreement,208,,366,920
+UVA,11066,Aragorn,66,,89,304
+UVA,11067,Little Red Riding Hood,887,,1211,2651
+UVA,11068,An Easy Task,1271,,1657,2967
+UVA,11069,A Graph Problem,2438,,3255,4438
+UVA,11070,The Good Old Times,319,,428,794
+UVA,11071,Permutation Representation,92,,184,412
+UVA,11072,Points,290,,678,2469
+UVA,11073,Euler's Totient Function,117,,268,817
+UVA,11074,Draw Grid,1212,,1610,2837
+UVA,11075,Collage,37,,63,232
+UVA,11076,Add Again,861,,1914,5008
+UVA,11077,Find the Permutations,468,,758,1482
+UVA,11078,Open Credit System,2296,,3995,7828
+UVA,11079,What's the Time?,39,,59,643
+UVA,11080,Place the Guards,2142,,2854,7796
+UVA,11081,Strings,441,,742,2187
+UVA,11082,Matrix Decompressing,430,,1029,2690
+UVA,11083,Zeroes Revisited,220,,285,638
+UVA,11084,Anagram Division,303,,614,2235
+UVA,11085,Back to the 8-Queens,2206,,2963,5220
+UVA,11086,Composite Prime,720,,1500,3262
+UVA,11087,Divisibility Testing,330,,751,2417
+UVA,11088,End up with More Teams,592,,877,2046
+UVA,11089,Fi-binary Number,932,,1096,1729
+UVA,11090,Going in Cycle!!,558,,1799,6466
+UVA,11091,How many Knight Placing?,147,,196,365
+UVA,11092,IIUC HexWorld,188,,231,541
+UVA,11093,Just Finish it up,1055,,1926,4451
+UVA,11094,Continents,2589,,3279,11368
+UVA,11095,Tabriz City,144,,240,843
+UVA,11096,Nails,581,,990,3750
+UVA,11097,Poor My Problem! :-(,100,,149,708
+UVA,11098,Battle II,73,,95,532
+UVA,11099,Next Same-Factored,332,,711,3525
+UVA,11100,"The Trip, 2007",1361,,2528,7055
+UVA,11101,Mall Mania,838,,1225,3968
+UVA,11102,Moonshine,50,,118,573
+UVA,11103,WFF 'N PROOF,437,,536,1098
+UVA,11104,Cousins,125,,170,429
+UVA,11105,Semi-prime H-numbers,823,,1288,2471
+UVA,11106,Rectilinear Polygon,190,,252,717
+UVA,11107,Life Forms,544,,1553,6076
+UVA,11108,Tautology,519,,674,1367
+UVA,11109,Rinse,70,,95,249
+UVA,11110,Equidivisions,1518,,2041,6719
+UVA,11111,Generalized Matrioshkas,1685,,2659,7799
+UVA,11112,Babylonian Roulette,229,,266,495
+UVA,11113,Continuous Fractions,115,,173,1080
+UVA,11114,Polygon Encoder,57,,94,548
+UVA,11115,Uncle Jack,1157,,1420,2893
+UVA,11116,Babel Towers,109,,146,483
+UVA,11117,Little Quilt,125,,143,387
+UVA,11118,"Prisoners, Boxes and Pieces of Paper",98,,126,348
+UVA,11119,Chemical Attraction,63,,107,336
+UVA,11120,Very Funny Mr. Feynman,76,,124,279
+UVA,11121,Base -2,2044,,2975,5079
+UVA,11122,Tri Tri,255,,347,1845
+UVA,11123,Counting Trapizoid,101,,166,676
+UVA,11124,Troubles for Modern Days Problemsetters,91,,164,483
+UVA,11125,Arrange Some Marbles,315,,485,1266
+UVA,11126,Relaxed Golf,79,,176,463
+UVA,11127,Triple-Free Binary Strings,334,,627,1098
+UVA,11128,Faulty Computer,71,,163,471
+UVA,11129,An antiarithmetic permutation,548,,1399,2438
+UVA,11130,Billiard bounces,843,,1063,1592
+UVA,11131,Close Relatives,150,,190,366
+UVA,11132,Dice from pennies,255,,298,663
+UVA,11133,Eigensequence,417,,508,702
+UVA,11134,Fabled Rooks,630,,1778,4762
+UVA,11135,Gopher that walks and swims,30,,47,103
+UVA,11136,Hoax or what,2037,,3220,8039
+UVA,11137,Ingenuous Cubrency,4041,,5896,8328
+UVA,11138,Nuts and Bolts,1012,,1587,2857
+UVA,11139,Counting Quadrilaterals,42,,51,106
+UVA,11140,Little Ali's Little Brother!,277,,339,1083
+UVA,11141,Sugar Cubes,35,,44,207
+UVA,11142,MineSweeper II,26,,32,365
+UVA,11143,Subtitles,10,,11,64
+UVA,11144,S.O.S.,59,,99,551
+UVA,11145,AvreniM,14,,18,112
+UVA,11146,Insurrection,49,,79,351
+UVA,11147,KuPellaKeS BST,201,,284,652
+UVA,11148,Moliu Fractions,304,,367,994
+UVA,11149,Power of Matrix,434,,1106,4250
+UVA,11150,Cola,8970,,11911,24756
+UVA,11151,Longest Palindrome,3096,,5146,16357
+UVA,11152,Colourful Flowers,3559,,5039,11926
+UVA,11153,Museums,137,,222,840
+UVA,11154,An Octal World,15,,21,202
+UVA,11155,Be Efficient,372,,603,1295
+UVA,11156,Continuous Drawing,69,,108,420
+UVA,11157,Dynamic Frog,1333,,2145,4149
+UVA,11158,Elegant Permuted Sum,348,,413,989
+UVA,11159,Factors and Multiples,946,,1416,4811
+UVA,11160,Going Together,164,,298,691
+UVA,11161,Help My Brother (II),581,,711,1308
+UVA,11162,Independent Attacking Zones,154,,281,480
+UVA,11163,Jaguar King,102,,242,704
+UVA,11164,Kingdom Division,209,,257,713
+UVA,11165,Galactic Travel,113,,177,524
+UVA,11166,Power Signs,132,,165,509
+UVA,11167,Monkeys in the Emei Mountain,303,,506,2826
+UVA,11168,Airport,304,,836,2503
+UVA,11169,Deal or No Deal,50,,91,143
+UVA,11170,Cos(NA),256,,311,618
+UVA,11171,SMS,80,,142,869
+UVA,11172,Relational Operator,33560,,48135,84129
+UVA,11173,Grey Codes,1566,,2683,3563
+UVA,11174,Stand in a Line,302,,725,1615
+UVA,11175,From D to E and Back,149,,270,517
+UVA,11176,Winning Streak,376,,631,1201
+UVA,11177,Fighting Against a Polygonal Monster,95,,281,1082
+UVA,11178,Morley's Theorem,490,,1324,1863
+UVA,11179,Bit Stream,54,,194,657
+UVA,11180,Base i-1,260,,395,553
+UVA,11181,Probability|Given,696,,1494,2571
+UVA,11182,Zeroes III,134,,179,697
+UVA,11183,Teen Girl Squad,394,,1255,3711
+UVA,11184,Joyful Ride,172,,248,361
+UVA,11185,Ternary,7473,,9192,21537
+UVA,11186,Circum Triangle,238,,559,1296
+UVA,11187,Water Crisis,70,,142,563
+UVA,11188,A Strange Opera House,5,,5,13
+UVA,11189,A Simple Pendulum,55,,81,348
+UVA,11190,Series of Powers,96,,159,502
+UVA,11191,Square,199,,352,1169
+UVA,11192,Group Reverse,6380,,7869,13941
+UVA,11193,Infinix,40,,54,200
+UVA,11194,Stone Grid,39,,128,336
+UVA,11195,Another n-Queen Problem,961,,1963,5410
+UVA,11196,Birthday Cake,76,,138,543
+UVA,11197,Counting RNA sequences,28,,55,151
+UVA,11198,Dancing Digits,363,,569,1234
+UVA,11199,Equations in Disguise,23,,63,373
+UVA,11200,Sapitaur's labyrinth,259,,396,769
+UVA,11201,The problem of the crazy linguist,289,,406,1188
+UVA,11202,The least possible effort,430,,469,921
+UVA,11203,Can you decide it for ME?,876,,1007,2511
+UVA,11204,Musical instruments,702,,868,1197
+UVA,11205,The broken pedometer,1016,,1752,5651
+UVA,11206,"Coloring the map, but not anyhow",94,,154,333
+UVA,11207,The easiest way,1150,,1623,3625
+UVA,11208,Airplane Scheduling,12,,30,228
+UVA,11209,Be Together Again and Forever,61,,107,468
+UVA,11210,Chinese Mahjong,446,,950,2207
+UVA,11211,Digital Logic,21,,45,212
+UVA,11212,Editing a Book,478,,1422,3425
+UVA,11213,Flipull,5,,10,427
+UVA,11214,Guarding the Chessboard,188,,642,1836
+UVA,11215,How Many Numbers?,87,,157,456
+UVA,11216,Irrigation,10,,15,408
+UVA,11217,Jewel Magnetizer,12,,19,154
+UVA,11218,KTV,1157,,1928,3710
+UVA,11219,How old are you?,5027,,6428,20531
+UVA,11220,Decoding the message.,1557,,1936,4651
+UVA,11221,Magic square palindromes.,2182,,2843,6616
+UVA,11222,Only I did it!,1289,,1639,3976
+UVA,11223,O: dah dah dah!,1716,,2395,8763
+UVA,11224,Let's swim!,110,,169,909
+UVA,11225,Tarot scores.,540,,680,1362
+UVA,11226,Reaching the fix-point.,571,,904,1990
+UVA,11227,The silver bullet.,705,,987,2168
+UVA,11228,Transportation system.,1780,,2464,5112
+UVA,11229,Improved tic-tac-toe.,87,,142,232
+UVA,11230,Annoying painting tool,458,,601,876
+UVA,11231,Black and white painting,1633,,1930,2760
+UVA,11232,Cylinder,299,,382,820
+UVA,11233,Deli Deli,2498,,2995,5001
+UVA,11234,Expressions,1003,,1620,3119
+UVA,11235,Frequent values,2745,,5472,15457
+UVA,11236,Grocery store,961,,1372,2561
+UVA,11237,Halloween treats,382,,593,1419
+UVA,11238,Innoumerous bowling games,122,,157,210
+UVA,11239,Open Source,1346,,1965,4375
+UVA,11240,Antimonotonicity,476,,767,1516
+UVA,11241,Humidex,409,,478,858
+UVA,11242,Tour de France,2009,,2293,3874
+UVA,11243,Texas Trip,153,,276,844
+UVA,11244,Counting Stars,2776,,3591,5752
+UVA,11245,Anti-Arithmetic-Sequence ,113,,161,308
+UVA,11246,K-Multiple Free set ,521,,721,1034
+UVA,11247,Income Tax ,721,,1049,4385
+UVA,11248,Frequency Hopping,187,,874,3391
+UVA,11249,Game,138,,203,671
+UVA,11250,Working with Small Numbers,70,,87,276
+UVA,11251,Fractions,36,,37,152
+UVA,11252,Take Me Home (To the Place I Belong),58,,80,322
+UVA,11253,Fractal,90,,115,213
+UVA,11254,Consecutive Integers,1067,,1522,4254
+UVA,11255,Necklace,146,,328,685
+UVA,11256,Repetitive Multiple,122,,166,562
+UVA,11257,New Marketing Plan,55,,126,566
+UVA,11258,String Partition,1049,,1799,3477
+UVA,11259,Coin Changing Again,202,,315,1017
+UVA,11260,Odd Root Sum,183,,1183,2215
+UVA,11261,Bishops,136,,220,644
+UVA,11262,Weird Fence,376,,552,1375
+UVA,11263,Nested Rectangles,32,,113,458
+UVA,11264,Coin Collector,1544,,2035,4776
+UVA,11265,The Sultan's Problem,319,,563,1338
+UVA,11266,Equations,91,,146,462
+UVA,11267,The Hire-a-Coder Business Model,152,,222,573
+UVA,11268,Reliable Network,69,,97,369
+UVA,11269,Setting Problems,395,,533,1380
+UVA,11270,Tiling Dominoes,381,,835,2055
+UVA,11271,Lattice of Resistors,2,,3,144
+UVA,11272,Summing the Lengths of the Longest Increasing Subsequence of Permutations,2,,5,83
+UVA,11273,Warping N Dimensional Space,27,,38,65
+UVA,11274,Infinite Resistor Network,12,,13,25
+UVA,11275,3D Triangles,110,,305,755
+UVA,11276,Magical Seven,22,,34,95
+UVA,11277,Cyclic Polygons,93,,164,643
+UVA,11278,One-Handed Typist,1072,,1277,2888
+UVA,11279,Keyboard Comparison,111,,135,276
+UVA,11280,Flying to Fredericton,606,,968,4222
+UVA,11281,Triangular Pegs in Round Holes,212,,244,792
+UVA,11282,Mixing Invitations,459,,605,1015
+UVA,11283,Playing Boggle,559,,803,2004
+UVA,11284,Shopping Trip,532,,822,3398
+UVA,11285,Exchange Rates,216,,286,782
+UVA,11286,Conformity,2696,,3702,6781
+UVA,11287,Pseudoprime Numbers,1027,,1331,2669
+UVA,11288,Carpool,88,,113,405
+UVA,11289,Friend or Foe?,50,,94,323
+UVA,11290,Gangs,72,,85,180
+UVA,11291,Smeech,361,,450,1024
+UVA,11292,Dragon of Loowater,5811,,9926,22592
+UVA,11293,Tournament,53,,70,253
+UVA,11294,Wedding,291,,658,2415
+UVA,11295,Anti Monotonicity Revisited,23,,31,123
+UVA,11296,Counting Solutions to an Integral Equation,924,,1243,2286
+UVA,11297,Census,443,,758,5049
+UVA,11298,Dissecting a Hexagon,240,,295,720
+UVA,11299,Separating Rods,24,,42,231
+UVA,11300,Spreading the Wealth,1443,,3162,7127
+UVA,11301,Great Wall of China,217,,316,700
+UVA,11302,Hexadecimal Digits of an Integral,21,,50,114
+UVA,11303,Permutations,46,,71,298
+UVA,11304,Difussing Nuclear Bombs on Planet X,1,,1,34
+UVA,11305,Chess on Planet X,8,,10,42
+UVA,11306,Optimal Marriage on Planet X,3,,3,192
+UVA,11307,Alternative Arborescence,436,,795,2372
+UVA,11308,Bankrupt Baker,982,,1366,3321
+UVA,11309,Counting Chaos,1061,,1300,2719
+UVA,11310,Delivery Debacle,1189,,1433,2743
+UVA,11311,Exclusively Edible,559,,883,1751
+UVA,11312,Flipping Frustration,106,,268,1271
+UVA,11313,Gourmet Games,1296,,1590,2415
+UVA,11314,Hardly Hard,268,,396,711
+UVA,11315,Attacker,14,,27,230
+UVA,11316,Prime Frog,44,,108,313
+UVA,11317,GCD+LCM,134,,267,661
+UVA,11318,Marble Game,42,,71,196
+UVA,11319,Stupid Sequence,231,,467,1824
+UVA,11320,Hidden Triangles,41,,59,166
+UVA,11321,Sort! Sort!! and Sort!!!,2181,,3590,13860
+UVA,11322,Romeo and Juliet,30,,39,184
+UVA,11323,Satisfying Constraints,70,,112,454
+UVA,11324,The Largest Clique,675,,1758,4582
+UVA,11325,This Means War!,35,,38,239
+UVA,11326,Laser Pointer,384,,640,1279
+UVA,11327,Enumerating Rational Numbers,711,,1060,1971
+UVA,11328,Drawing Straws at the Office,44,,66,170
+UVA,11329,Curious Fleas,131,,4290,4602
+UVA,11330,Andy's Shoes,322,,563,1436
+UVA,11331,The Joys of Farming,289,,533,1737
+UVA,11332,Summing Digits,14898,,20292,34139
+UVA,11333,Alphametics,30,,53,303
+UVA,11334,Antenna in the Cinoc Mountains,19,,40,397
+UVA,11335,Discrete Pursuit,174,,268,609
+UVA,11336,DRM,81,,101,307
+UVA,11337,Greatest Hits!,38,,59,260
+UVA,11338,Minefield,275,,445,1189
+UVA,11339,Sonnet Rhyme Verifier,73,,101,342
+UVA,11340,Newspaper,6364,,9948,36390
+UVA,11341,Term Strategy,536,,796,2879
+UVA,11342,Three-square,1599,,2372,7609
+UVA,11343,Isolated Segments,744,,1340,2598
+UVA,11344,The Huge One,1297,,1783,3829
+UVA,11345,Rectangles,610,,845,2500
+UVA,11346,Probability,412,,668,1361
+UVA,11347,Multifactorials,473,,708,1332
+UVA,11348,Exhibition,503,,683,1993
+UVA,11349,Symmetric Matrix,2222,,3389,12928
+UVA,11350,Stern-Brocot Tree,928,,1483,2725
+UVA,11351,Last Man Standing,691,,1056,1743
+UVA,11352,Crazy King,1232,,1650,3890
+UVA,11353,A Different Kind of Sorting,546,,877,1604
+UVA,11354,Bond,406,,1232,4206
+UVA,11355,Cool Points,128,,161,735
+UVA,11356,Dates,777,,1080,2391
+UVA,11357,Ensuring Truth,250,,309,587
+UVA,11358,Faster Processing Feasibility,95,,150,389
+UVA,11359,"Guards, Imbecile Guards",87,,114,388
+UVA,11360,Have Fun with Matrices,1520,,1928,4688
+UVA,11361,Investigating Div-Sum Property,409,,1090,2458
+UVA,11362,Phone List,2415,,3870,10470
+UVA,11363,Cuckoo Hashing,94,,131,532
+UVA,11364,Parking,8519,,10193,13475
+UVA,11365,Copying DNA,41,,107,261
+UVA,11366,Circle of Debt,25,,40,78
+UVA,11367,Full Tank?,814,,1682,4287
+UVA,11368,Nested Dolls,412,,606,2283
+UVA,11369,Shopaholic,3179,,4310,8068
+UVA,11370,Moogle,134,,178,315
+UVA,11371,Number Theory for Newbies,1810,,2233,7383
+UVA,11372,Arranging a Contest,76,,94,523
+UVA,11373,Happy Birthday,75,,104,335
+UVA,11374,Airport Express,456,,1364,6017
+UVA,11375,Matches,441,,759,2078
+UVA,11376,Tilt!,33,,89,342
+UVA,11377,Airport Setup,605,,910,3307
+UVA,11378,Bey Battle,334,,602,1778
+UVA,11379,Chichi's Home Work,65,,91,156
+UVA,11380,Down Went The Titanic,509,,1063,2373
+UVA,11381,Elegant Strings,111,,187,567
+UVA,11382,Fear of The Dark,43,,81,254
+UVA,11383,Golden Tiger Claw,297,,933,2083
+UVA,11384,Help is needed for Dexter,1559,,3237,4523
+UVA,11385,Da Vinci Code,1732,,2322,7931
+UVA,11386,Triples,332,,720,3192
+UVA,11387,The 3-Regular Graph,635,,822,1571
+UVA,11388,GCD LCM,5017,,7804,13584
+UVA,11389,The Bus Driver Problem,3422,,4979,10095
+UVA,11390,The Sultan's Feast,63,,110,443
+UVA,11391,Blobs in the Board,380,,601,1785
+UVA,11392,Binary*3 Type Multiple,199,,333,861
+UVA,11393,Tri-Isomorphism,182,,199,349
+UVA,11394,Digit Blocks,121,,183,506
+UVA,11395,Sigma Function,299,,434,722
+UVA,11396,Claw Decomposition,1703,,2493,4719
+UVA,11397,Reconstructing Binary Forests,4,,4,80
+UVA,11398,The Base-1 Number System,712,,864,1867
+UVA,11399,"What be thy Name, O Dear Tree?",38,,45,114
+UVA,11400,Lighting System Design,522,,1397,3070
+UVA,11401,Triangle Counting,2382,,4629,11370
+UVA,11402,"Ahoy, Pirates!",1150,,2265,8751
+UVA,11403,Binary Multiplication,148,,311,1927
+UVA,11404,Palindromic Subsequence,556,,1264,4459
+UVA,11405,Can U Win?,263,,380,1056
+UVA,11406,Best Trap,31,,41,208
+UVA,11407,Squares,1635,,2309,4557
+UVA,11408,Count DePrimes,1034,,1956,4251
+UVA,11409,Ball Passing,28,,31,138
+UVA,11410,LAEncoding,108,,128,326
+UVA,11411,MiniMice,121,,224,530
+UVA,11412,Dig the Holes,282,,379,579
+UVA,11413,Fill the Containers,2009,,3113,6940
+UVA,11414,Dream,345,,503,1324
+UVA,11415,Count the Factorials,426,,770,1531
+UVA,11416,Excel Evaluation,22,,42,266
+UVA,11417,GCD,7541,,10662,15246
+UVA,11418,Clever Naming Patterns,663,,872,1732
+UVA,11419,SAM I AM,677,,1700,4524
+UVA,11420,Chest of Drawers,1129,,1664,4393
+UVA,11421,Arranging Cards,83,,151,401
+UVA,11422,Escaping from Fractal Bacterium,73,,93,176
+UVA,11423,Cache Simulator,136,,264,826
+UVA,11424,GCD - Extreme (I),591,,1011,2129
+UVA,11425,Collecting Luggage EXTREME!!!,5,,7,512
+UVA,11426,GCD - Extreme (II),862,,2391,3883
+UVA,11427,Expect the Expected,264,,626,1135
+UVA,11428,Cubes,2997,,4052,9362
+UVA,11429,Randomness,46,,71,246
+UVA,11430,ETS Problem setting,92,,115,159
+UVA,11431,Partitioning a Number,51,,77,266
+UVA,11432,Busy Programmer,258,,375,1025
+UVA,11433,The Dicey Dice,48,,109,211
+UVA,11434,Careless Postman Problem,14,,32,158
+UVA,11435,Network EXTREME!!!,20,,42,181
+UVA,11436,Cubes - EXTREME!!!,259,,660,1897
+UVA,11437,Triangle Fun,936,,1517,2611
+UVA,11438,Integer Transmission EXTREME,23,,48,134
+UVA,11439,Maximizing the ICPC,149,,337,1286
+UVA,11440,Help Tomisu,203,,416,679
+UVA,11441,Encoding/Decoding,41,,91,273
+UVA,11442,Linear Diophantine Tidbits,27,,33,139
+UVA,11443,Tree in a Grid,21,,39,164
+UVA,11444,Sum,96,,148,541
+UVA,11445,Water Tanks EXTREME,3,,4,110
+UVA,11446,Where is the 'back' button?,21,,47,494
+UVA,11447,Reservoir logs,287,,393,726
+UVA,11448,Who said crisis?,1252,,1582,3736
+UVA,11449,Go Alonso go!,14,,29,113
+UVA,11450,Wedding shopping,3571,,5139,9599
+UVA,11451,Water restrictions,103,,131,415
+UVA,11452,Dancing the Cheeky-Cheeky,504,,654,1232
+UVA,11453,Traveling fishmonger,4,,5,42
+UVA,11454,Very well informed domino player,4,,4,15
+UVA,11455,Behold my quadrangle,4641,,5880,14579
+UVA,11456,Trainsorting,2142,,2935,8931
+UVA,11457,Classified,40,,81,302
+UVA,11458,Hot Spot,36,,63,222
+UVA,11459,Snakes and Ladders,1450,,2066,7184
+UVA,11460,Balance,30,,46,187
+UVA,11461,Square Numbers,9244,,12528,25087
+UVA,11462,Age Sort,10329,,18149,51898
+UVA,11463,Commandos,2220,,3250,5312
+UVA,11464,Even Parity,997,,2226,4353
+UVA,11465,Count the Polygons,104,,166,465
+UVA,11466,Largest Prime Divisor,2094,,3631,15308
+UVA,11467,Pythagorean Triangles,39,,59,192
+UVA,11468,Substring,268,,1150,3667
+UVA,11469,Treasure Hunt,7,,13,99
+UVA,11470,Square Sums,2352,,2855,5104
+UVA,11471,Arrange the Tiles,159,,231,435
+UVA,11472,Beautiful Numbers,597,,793,1293
+UVA,11473,Campus Roads,234,,295,757
+UVA,11474,Dying Tree,293,,379,893
+UVA,11475,Extend to Palindrome,2098,,3969,11157
+UVA,11476,Factorizing Larget Integers,205,,823,3361
+UVA,11477,Game of Rectangles,16,,41,105
+UVA,11478,Halum,213,,935,2639
+UVA,11479,Is this the easiest problem?,7830,,10306,39213
+UVA,11480,Jimmy's Balls,867,,1397,3034
+UVA,11481,Arrange the Numbers,264,,558,1557
+UVA,11482,Building a Triangular Museum,360,,469,1033
+UVA,11483,Code Creator,1011,,1240,2581
+UVA,11484,Document Object Model,113,,153,363
+UVA,11485,Extreme Discrete Summation,130,,222,382
+UVA,11486,Finding Paths in Grid,187,,297,636
+UVA,11487,Gathering Food,357,,461,1360
+UVA,11488,Hyper Prefix Sets,605,,1554,2421
+UVA,11489,Integer Game,1238,,2084,4527
+UVA,11490,Just Another Problem,161,,353,1139
+UVA,11491,Erasing and Winning,725,,1582,5039
+UVA,11492,Babel,991,,1779,5798
+UVA,11493,The Club Ballroom,181,,456,938
+UVA,11494,Queen,3627,,4710,8883
+UVA,11495,Bubbles and Buckets,1502,,2390,4672
+UVA,11496,Musical Loop,1426,,1798,2450
+UVA,11497,Set,46,,200,440
+UVA,11498,Division of Nlogonia,13903,,16672,26061
+UVA,11499,Longest Increasing Sequence,158,,369,821
+UVA,11500,Vampires,500,,1096,2092
+UVA,11501,Laurel Creek,70,,86,240
+UVA,11502,Rocket Stages,86,,135,623
+UVA,11503,Virtual Friends,3744,,6528,15446
+UVA,11504,Dominos,2763,,4510,15745
+UVA,11505,Logo,840,,1317,3630
+UVA,11506,Angry Programmer,1140,,1983,5797
+UVA,11507,Bender B. Rodríguez Problem,2043,,2468,4251
+UVA,11508,Life on Mars?,359,,556,986
+UVA,11509,Touring Robot,135,,173,447
+UVA,11510,Erdös Unit Fractions,92,,156,325
+UVA,11511,Frieze Patterns,134,,218,499
+UVA,11512,GATTACA,1532,,3051,6825
+UVA,11513,9 Puzzle,529,,1239,2976
+UVA,11514,Batman,272,,389,1165
+UVA,11515,Cranes,382,,465,1078
+UVA,11516,WiFi,937,,1737,4652
+UVA,11517,Exact Change,2146,,3260,9244
+UVA,11518,Dominos 2,2238,,3352,8870
+UVA,11519,Logo 2,232,,310,971
+UVA,11520,Fill the Square,1843,,3015,4665
+UVA,11521,Compressor,21,,52,375
+UVA,11522,Pyramid Number,137,,186,314
+UVA,11523,Recycling,208,,275,820
+UVA,11524,InCircle,352,,763,1013
+UVA,11525,Permutation,649,,1486,2651
+UVA,11526,H(n),1861,,3688,10592
+UVA,11527,Morning Walk,8,,12,189
+UVA,11528,Switch Grid,55,,74,232
+UVA,11529,Strange Tax Calculation,94,,232,509
+UVA,11530,SMS Typing,6700,,8610,17825
+UVA,11531,Solve the Broken Maze,33,,50,401
+UVA,11532,Simple Adjacency Maximization,509,,649,1568
+UVA,11533,Special Number,91,,162,719
+UVA,11534,Say Goodbye to Tic-Tac-Toe,241,,377,923
+UVA,11535,Set of Marbles,190,,260,476
+UVA,11536,Smallest Sub-Array,802,,1500,3679
+UVA,11537,Secret Problemsetters' Union,47,,68,470
+UVA,11538,Chess Queen,1233,,2782,4820
+UVA,11539,Another Word Game,152,,272,891
+UVA,11540,Sultan's Chandelier,43,,59,260
+UVA,11541,Decoding,3864,,4761,8050
+UVA,11542,Square,298,,727,1951
+UVA,11543,Two Points And Curious MumboJumbo,26,,49,93
+UVA,11544,Recruiter's Problem,66,,115,747
+UVA,11545,Avoiding Jungle in the Dark,252,,341,1002
+UVA,11546,Olympic Swimming,65,,133,307
+UVA,11547,Automatic Answer,14885,,18853,27365
+UVA,11548,Blackboard Bonanza,334,,506,1237
+UVA,11549,Calculator Conundrum,1325,,2972,7286
+UVA,11550,Demanding Dilemma,714,,856,2266
+UVA,11551,Experienced Endeavour,167,,296,457
+UVA,11552,Fewest Flops,502,,1137,2935
+UVA,11553,Grid Game,1180,,1531,2748
+UVA,11554,Hapless Hedonism,693,,845,1435
+UVA,11555,Aspen Avenue,144,,239,657
+UVA,11556,Best Compression Ever,536,,697,1249
+UVA,11557,Code Theft,58,,98,431
+UVA,11558,Dinner,31,,59,221
+UVA,11559,Event Planning,8336,,10301,25699
+UVA,11560,Fixing the Bugs,55,,117,521
+UVA,11561,Getting Gold,960,,1245,2022
+UVA,11562,Hard Evidence,42,,88,679
+UVA,11563,Introspective Caching,116,,186,647
+UVA,11564,Just A Few More Triangles!,24,,38,175
+UVA,11565,Simple Equations,2178,,3181,8573
+UVA,11566,Let's Yum Cha!,406,,588,2121
+UVA,11567,Moliu Number Generator,918,,1207,3461
+UVA,11568,Pincer Attack!!,38,,66,304
+UVA,11569,Lovely Hint,280,,364,774
+UVA,11570,Sudoku without numbers?,38,,57,110
+UVA,11571,Simple Equations - Extreme!!,79,,180,1484
+UVA,11572,Unique Snowflakes,2182,,4430,12127
+UVA,11573,Ocean Currents,314,,540,1647
+UVA,11574,Colliding Traffic,130,,264,866
+UVA,11575,Zerg Rush!!!,28,,37,227
+UVA,11576,Scrolling Sign,740,,973,1694
+UVA,11577,Letter Frequency,3086,,4340,8256
+UVA,11578,Situp Benches,92,,156,552
+UVA,11579,Triangle Trouble,648,,1243,3286
+UVA,11580,Finding the Transmitter,4,,6,123
+UVA,11581,Grid Successors,1299,,1560,1994
+UVA,11582,Colossal Fibonacci Numbers!,539,,1853,5696
+UVA,11583,Alien DNA,186,,314,603
+UVA,11584,Partitioning by Palindromes,1160,,3299,5629
+UVA,11585,Nurikabe,87,,181,700
+UVA,11586,Train Tracks,2523,,3279,7904
+UVA,11587,Brick Game,109,,158,839
+UVA,11588,Image Coding,1745,,2109,3605
+UVA,11589,Save the President,25,,50,116
+UVA,11590,Prefix Lookup,146,,217,842
+UVA,11591,Bulb Inside a Grid,67,,97,245
+UVA,11592,Bulb inside a Grid (II),39,,80,145
+UVA,11593,Fractions,53,,78,153
+UVA,11594,All Pairs Maximum Flow,122,,282,769
+UVA,11595,Crossing Streets EXTREME,21,,30,208
+UVA,11596,Convex Orthogonal Polygon,75,,121,783
+UVA,11597,Spanning Subtree,1811,,2322,3087
+UVA,11598,Optimal Segments,69,,119,508
+UVA,11599,Triangle and Polynomial,43,,54,195
+UVA,11600,Masud Rana,169,,292,626
+UVA,11601,Avoiding Overlaps,308,,592,1398
+UVA,11602,SMS for Blind,52,,118,629
+UVA,11603,Its all about the Bandwidth,96,,145,239
+UVA,11604,General Sultan,133,,238,910
+UVA,11605,Lights inside a 3d Grid,143,,339,516
+UVA,11606,Atoms,36,,44,198
+UVA,11607,Cutting Cakes,16,,52,112
+UVA,11608,No Problem,3028,,3813,9810
+UVA,11609,Teams,974,,1838,3566
+UVA,11610,Reverse Prime,324,,631,1428
+UVA,11611,Colored Tiles,69,,116,278
+UVA,11612,Sultan and Khairun Shundori,62,,91,443
+UVA,11613,Acme Corporation,135,,360,956
+UVA,11614,Etruscan Warriors Never Play Chess,3455,,4474,10112
+UVA,11615,Family Tree,370,,555,735
+UVA,11616,Roman Numerals,1301,,1725,3044
+UVA,11617,An Odd Love,149,,250,840
+UVA,11618,The Amazing Triangle Counting Machine,54,,96,184
+UVA,11619,SPAM! (or not),33,,65,290
+UVA,11620,City of Egocentrics,86,,150,199
+UVA,11621,Small Factors,907,,1365,2355
+UVA,11622,Le Compte est Bon,8,,10,20
+UVA,11623,Tic Tac Toe,117,,248,1214
+UVA,11624,Fire!,1823,,5602,23073
+UVA,11625,Nice Prefixes,37,,58,151
+UVA,11626,Convex Hull,584,,1153,4938
+UVA,11627,Slalom,255,,731,3374
+UVA,11628,Another lottery,513,,841,1269
+UVA,11629,Ballot evaluation,1131,,1539,4332
+UVA,11630,Cyclic antimonotonic permutations,126,,247,362
+UVA,11631,Dark roads,3778,,6165,13728
+UVA,11632,Elias gamma coding,91,,133,183
+UVA,11633,Food portion sizes,108,,171,377
+UVA,11634,Generate random numbers,814,,1184,1806
+UVA,11635,Hotel booking,544,,925,3484
+UVA,11636,Hello World!,8395,,12360,28071
+UVA,11637,Garbage Remembering Exam,67,,156,528
+UVA,11638,Temperature Monitoring,115,,174,459
+UVA,11639,Guard the Land,750,,1147,2484
+UVA,11640,Mayor Election,8,,15,113
+UVA,11641,Looking for a New Place,32,,45,160
+UVA,11642,Bangladesh Premier League,21,,36,369
+UVA,11643,Knight Tour,120,,299,1391
+UVA,11644,Pyragrid,27,,39,162
+UVA,11645,Bits,287,,617,2153
+UVA,11646,Athletics Track,879,,1405,2157
+UVA,11647,Judgment Day,20,,25,244
+UVA,11648,Divide The Land,323,,501,804
+UVA,11649,Home! Sweet Home!,34,,66,235
+UVA,11650,Mirror Clock,2869,,3814,10344
+UVA,11651,Krypton Number System,109,,232,588
+UVA,11652,Power Faster,31,,45,190
+UVA,11653,Stick Makes Gold,45,,68,457
+UVA,11654,Arithmetic Subsequence,239,,432,971
+UVA,11655,Waterland,216,,344,1289
+UVA,11656,Message in the Enemy Territory,41,,60,226
+UVA,11657,Rational Billiard,53,,103,657
+UVA,11658,Best Coalitions,464,,684,2237
+UVA,11659,Informants,287,,509,1183
+UVA,11660,Look-and-Say sequences,310,,536,1427
+UVA,11661,Burger Time?,3353,,4560,9766
+UVA,11662,Triangular Grid,21,,44,191
+UVA,11663,GrayInc,86,,118,199
+UVA,11664,Langton's Ant,131,,213,758
+UVA,11665,Chinese Ink,100,,200,727
+UVA,11666,Logarithms,493,,898,2043
+UVA,11667,Income Tax Hazard II,90,,220,606
+UVA,11668,How Many Teams,53,,93,363
+UVA,11669,Non Decreasing Prime Sequence,81,,162,641
+UVA,11670,Physics Experiment,100,,187,674
+UVA,11671,Sign of Matrix,45,,76,251
+UVA,11672,Dynamic Summation,34,,102,612
+UVA,11673,Enemy at the Gateway,67,,182,537
+UVA,11674,In-Ellipse,8,,8,103
+UVA,11675,Happy Friends,111,,213,569
+UVA,11676,Deadly Attack,53,,103,469
+UVA,11677,Alarm Clock,5271,,6512,12398
+UVA,11678,Cards' Exchange,933,,1319,2407
+UVA,11679,Sub-prime,2101,,2584,3944
+UVA,11680,Dragster,182,,313,593
+UVA,11681,Tower for Cellular Telephony,101,,236,809
+UVA,11682,Shift Register,38,,251,1022
+UVA,11683,Laser Sculpture,1376,,2043,3597
+UVA,11684,MC part deux,26,,34,90
+UVA,11685,Moveable maze,33,,88,342
+UVA,11686,Pick up sticks,1311,,2511,6571
+UVA,11687,Digits,1899,,2485,5027
+UVA,11688,Rotate to root,91,,147,462
+UVA,11689,Soda Surpler,5292,,6485,9682
+UVA,11690,Money Matters,1147,,1755,3394
+UVA,11691,Allergy Test,187,,333,1039
+UVA,11692,Rain Fall,201,,302,610
+UVA,11693,Speedy Escape,215,,355,1220
+UVA,11694,Gokigen Naname,60,,109,431
+UVA,11695,Flight Planning,305,,500,1221
+UVA,11696,Beacons,92,,229,961
+UVA,11697,Playfair Cipher,399,,557,1050
+UVA,11698,Code Permutations,59,,109,279
+UVA,11699,Rooks,172,,297,866
+UVA,11700,Pipes,93,,126,288
+UVA,11701,Cantor,325,,468,1046
+UVA,11702,Meltdown,57,,71,114
+UVA,11703,sqrt log sin,1616,,2756,5294
+UVA,11704,Caper pizza,128,,202,707
+UVA,11705,Grasshopper,112,,144,408
+UVA,11706,Party Night,41,,81,229
+UVA,11707,Pachinko,37,,52,216
+UVA,11708,Lexicographical ranking,82,,117,224
+UVA,11709,Trust groups,1244,,2001,3829
+UVA,11710,Expensive subway,1283,,1918,4131
+UVA,11711,Turing,81,,124,229
+UVA,11712,Gnirut,52,,67,138
+UVA,11713,Abstract Names,3816,,4823,8484
+UVA,11714,Blind Sorting,694,,1023,2306
+UVA,11715,Car,4357,,5156,9194
+UVA,11716,Digital Fortress,3725,,4905,10297
+UVA,11717,Energy Saving Microcontroller,311,,415,907
+UVA,11718,Fantasy of a Summation,535,,730,1622
+UVA,11719,Gridland Airports,112,,317,541
+UVA,11720,How Many Ways,56,,106,200
+UVA,11721,Instant View of Big Bang,276,,675,2547
+UVA,11722,Joining with Friend,189,,467,1312
+UVA,1522,Lights (extreme),6,,10,15
+UVA,11723,Numbering Roads,4207,,5246,10631
+UVA,11724,Evaluate the Expression,92,,125,358
+UVA,11725,Colorful Board,107,,172,517
+UVA,11726,Crime Scene,41,,120,810
+UVA,11727,Cost Cutting,20952,,27579,57219
+UVA,11728,Alternate Task,1512,,2325,3984
+UVA,11729,Commando War,2815,,5911,10981
+UVA,11730,Number Transformation,851,,1348,4009
+UVA,11731,Ex-circles,116,,195,314
+UVA,11732,"""strcmp()"" Anyone?",393,,1337,5899
+UVA,11733,Airports,1580,,2746,7332
+UVA,11734,Big Number of Teams will Solve This,2776,,3553,8539
+UVA,11735,Corner the Queens,53,,98,247
+UVA,11736,Debugging RAM,244,,364,1165
+UVA,11737,Extreme Primitive Society,78,,114,294
+UVA,11738,Few Teams will Solve this,4,,4,159
+UVA,11739,Giving Candies,46,,58,164
+UVA,11740,How Dark Can it Be?,4,,4,41
+UVA,11741,Ignore the Blocks,47,,65,146
+UVA,11742,Social Constraints,1206,,1487,2665
+UVA,11743,Credit Check,3373,,4241,6112
+UVA,11744,Parallel Carry Adder,356,,453,910
+UVA,11745,Slitherlin,78,,136,222
+UVA,11746,Finding the Transmitter Again,15,,22,305
+UVA,11747,Heavy Cycle Edges,2235,,3010,5602
+UVA,11748,Rigging Elections,215,,374,654
+UVA,11749,Poor Trade Advisor,476,,881,2742
+UVA,11750,Red-Blue Tree,16,,28,240
+UVA,11751,Installing Diagnostic Software,110,,182,396
+UVA,11752,The Super Powers,648,,1789,4787
+UVA,11753,Creating Palindrome,292,,445,1777
+UVA,11754,Code Feat,185,,804,3207
+UVA,11755,Table Tennis,81,,179,1214
+UVA,11756,Bounded by Lines,23,,39,496
+UVA,11757,Winger Trial,142,,239,724
+UVA,11758,Left Right,23,,34,57
+UVA,11759,IBM Fencing,80,,179,669
+UVA,11760,"Brother Arif, Please feed us!",698,,917,2170
+UVA,11761,Super Heronian Triangle,82,,192,959
+UVA,11762,Race to 1,419,,1121,2726
+UVA,11763,Hats Off,4,,4,137
+UVA,11764,Jumping Mario,11966,,15284,24057
+UVA,11765,Component Placement,137,,251,684
+UVA,11766,Racing Car Computer,112,,218,687
+UVA,11767,World of Knots,3,,3,166
+UVA,11768,Lattice Point or Not,141,,376,1837
+UVA,11769,All Souls Night,99,,201,558
+UVA,11770,Lighting Away,1169,,1906,4713
+UVA,11771,Dhaka Bots,1,,1,353
+UVA,11772,A Bee Love Story,7,,8,130
+UVA,11773,King's Wish,121,,325,2386
+UVA,11774,Doom's Day,454,,769,1660
+UVA,11775,Unique Story,51,,91,353
+UVA,11776,Oh Your Royal Greediness!,319,,596,1438
+UVA,11777,Automate the Grades,5315,,6831,15320
+UVA,11778,Graph Coloring in HSL,34,,89,178
+UVA,11779,Lost File,75,,143,470
+UVA,11780,Miles 2 Km,487,,808,1220
+UVA,11781,Books,6,,8,58
+UVA,11782,Optimal Cut,209,,394,1028
+UVA,11783,Nails,232,,519,1144
+UVA,11784,Escape,69,,100,352
+UVA,11785,Hypercube,57,,117,613
+UVA,11786,Global Raining at Bididibus,330,,474,706
+UVA,11787,Numeral Hieroglyphs,662,,873,1934
+UVA,11788,The League Will Be Decided Tomorrow!,37,,66,330
+UVA,11789,Texas Hold'em Poker Solitaire,27,,40,207
+UVA,11790,Murcia's Skyline,2000,,2629,5379
+UVA,11791,Looking for a Good Plot,12,,44,179
+UVA,11792,Krochanska is Here!,351,,533,1162
+UVA,11793,Electoral Districts,20,,30,127
+UVA,11794,Dazzling Puzzle,6,,7,104
+UVA,11795,Mega Man's Mission,457,,1081,2480
+UVA,11796,Dog Distance,223,,654,1451
+UVA,11797,Drutojan Express,280,,449,801
+UVA,11798,Colorful Board 2,81,,192,575
+UVA,11799,Horror Dash,13629,,17402,26358
+UVA,11800,Determine the Shape,590,,1328,4511
+UVA,11801,A Problemsetter Blind with Emotion,38,,109,325
+UVA,11802,All Your Bases Belong to Us,86,,221,434
+UVA,11803,The Great Merger,43,,90,282
+UVA,11804,Argentina,1252,,1716,3746
+UVA,11805,Bafana Bafana,7684,,9814,18800
+UVA,11806,Cheerleaders,567,,1633,3829
+UVA,11807,Dumb Eucelics' Pyramid Walk,4,,8,41
+UVA,11808,Ensuring Victory,34,,57,312
+UVA,11809,Floating-Point Numbers,495,,1188,3159
+UVA,11810,"Gentle ping, to the old King",6,,6,157
+UVA,11811,"Hello, Mafia",6,,7,32
+UVA,11812,Innovative Procession Management,34,,41,174
+UVA,11813,Shopping,304,,550,1473
+UVA,11814,Stack Machine,40,,63,155
+UVA,11815,Ideas,31,,38,156
+UVA,11816,HST,129,,232,1113
+UVA,11817,Tunnelling the Earth,456,,712,1048
+UVA,11818,Game --- Mouse and Cheese,128,,245,501
+UVA,11819,Bisectors,23,,41,123
+UVA,11820,Warp Speed,42,,90,322
+UVA,11821,High-Precision Number,555,,776,1691
+UVA,11822,Configurations,10,,17,72
+UVA,11823,Two Longest Paths,75,,125,254
+UVA,11824,A Minimum Land Price,1590,,2061,3323
+UVA,11825,Hackers' Crackdown,520,,1205,2588
+UVA,11826,Shuffle,12,,17,78
+UVA,11827,Maximum GCD,3241,,5346,11652
+UVA,11828,Palindrome Again,82,,134,639
+UVA,11829,L's in a Circle,57,,115,189
+UVA,11830,Contract Revision,1614,,2083,2934
+UVA,11831,Sticker Collector Robot,2374,,2930,5243
+UVA,11832,Account Book,415,,683,1506
+UVA,11833,Route Change,346,,495,876
+UVA,11834,Elevator,751,,1221,3028
+UVA,11835,Formula 1,480,,616,893
+UVA,11836,Star War,71,,145,466
+UVA,11837,Musical Plagiarism,181,,327,981
+UVA,11838,Come and Go,2127,,3229,4831
+UVA,11839,Optical Reader,1318,,1747,2535
+UVA,11840,Tic-tac-toe,102,,167,517
+UVA,11841,Y-game,136,,216,428
+UVA,11842,Flatland,20,,50,223
+UVA,11843,Guessing Game,150,,220,571
+UVA,11844,The Melding Plague,81,,126,413
+UVA,11845,Preferential Romance,35,,47,216
+UVA,11846,Finding Seats Again,51,,88,336
+UVA,11847,Cut the Silver Bar,765,,1027,1567
+UVA,11848,Cargo Trains,66,,139,512
+UVA,11849,CD,4002,,6722,14736
+UVA,11850,Alaska,2316,,2871,8477
+UVA,11851,Celebrity Split,93,,153,589
+UVA,11852,Knight's Trip,92,,131,450
+UVA,11853,Paintball,192,,472,1318
+UVA,11854,Egypt,9396,,12379,27446
+UVA,11855,Buzzwords,152,,250,1047
+UVA,11856,Ferry Loading V,51,,86,397
+UVA,11857,Driving Range,1048,,1756,3402
+UVA,11858,Frosh Week,957,,1597,5386
+UVA,11859,Division Game,185,,347,552
+UVA,11860,Document Analyzer,260,,426,962
+UVA,11861,Explosion,27,,40,150
+UVA,11862,Airbus vs Boeing,5,,5,36
+UVA,11863,Prime Game,112,,168,431
+UVA,11864,Probability Calculation,17,,20,63
+UVA,11865,Stream My Contest,170,,559,1523
+UVA,11866,Triangle,85,,201,453
+UVA,11867,Politeness,32,,44,340
+UVA,11868,Game of Blocks,21,,59,143
+UVA,11869,SOAP Response,62,,93,204
+UVA,11870,Antonyms,90,,156,329
+UVA,11871,New Land,85,,200,482
+UVA,11872,Where to Run,45,,72,141
+UVA,11873,Gift Packing,33,,55,101
+UVA,11874,Travel Company,80,,148,341
+UVA,11875,Brick Game,7369,,8874,12904
+UVA,11876,N + NOD (N),1259,,2320,4514
+UVA,11888,Abnormal 89's,854,,1439,3352
+UVA,11889,Benefit,1266,,3043,10470
+UVA,11890,Calculus Simplified,104,,203,546
+UVA,11891,Deep in Jungles,26,,38,161
+UVA,11892,ENimEN,327,,825,1500
+UVA,11893,Fabulous DAGy,61,,166,732
+UVA,11894,Genius MJ,188,,299,589
+UVA,11895,Honorary Tickets,35,,91,241
+UVA,11896,Inglorious Gangs,18,,45,292
+UVA,11897,Jingling Dominoes,35,,139,614
+UVA,11898,Killer Problem,217,,534,1322
+UVA,11877,The Coco-Cola Store,5598,,7301,11169
+UVA,11878,Homework Checker,2274,,3085,5850
+UVA,11879,Multiple of 17,3854,,4999,8008
+UVA,11880,Ball in a Rectangle,110,,321,857
+UVA,11881,Internal Rate of Return,352,,822,1916
+UVA,11882,Biggest Number,153,,542,2068
+UVA,11883,Repairing a Road,82,,216,491
+UVA,11884,A Shooting Game,56,,135,252
+UVA,11885,Number of Battlefields,54,,115,211
+UVA,11886,Infinite Dictionaries,7,,10,55
+UVA,11887,Tetrahedrons and Spheres,8,,17,54
+UVA,11899,Writing the Whole pi,11,,25,120
+UVA,11900,Boiled Eggs,3346,,4234,8762
+UVA,11901,Ellipse Hazard,11,,15,47
+UVA,11902,Dominator,1461,,2053,6029
+UVA,11903,e-Friends,92,,160,423
+UVA,11904,One Unit Machine,105,,176,346
+UVA,11905,Map Coloring,14,,17,163
+UVA,11906,Knight in a War Grid,1088,,1474,4117
+UVA,11907,Collision of Bacteria,49,,87,395
+UVA,11908,Skyscraper,205,,343,911
+UVA,11909,Soya Milk,1501,,2095,6365
+UVA,11910,Closest Fractions,54,,77,658
+UVA,11911,Farther or Closer,46,,69,194
+UVA,11912,Chutes and Ladders,13,,19,184
+UVA,11913,Tape Recording,45,,69,294
+UVA,11914,An Amazing Race,11,,24,242
+UVA,11915,Recurrence,20,,23,47
+UVA,11916,Emoogle Grid,144,,488,1621
+UVA,11917,Do Your Own Homework,2014,,2665,4635
+UVA,11918,Traveler of Gridland,57,,124,450
+UVA,11919,Hybrid Salientia,74,,139,432
+UVA,11920,"0 s, 1 s and ? Marks",176,,334,1209
+UVA,11921,Save the Princess,27,,63,302
+UVA,11922,Permutation Transformer,295,,1115,1932
+UVA,11923,Roundabout,66,,93,219
+UVA,11924,Unlock the Winning Pot,18,,20,119
+UVA,11925,Generating Permutations,188,,445,1112
+UVA,11926,Multitasking,1458,,2145,7649
+UVA,11927,Games Are Important,97,,151,320
+UVA,11928,The Busy Dog,56,,110,321
+UVA,11929,Ambiguous Forests,4,,9,62
+UVA,11930,Rectangles,69,,162,519
+UVA,11931,Maze Escape,67,,125,236
+UVA,11932,Net Profit,59,,104,322
+UVA,11933,Splitting Numbers,2407,,3106,4361
+UVA,11934,Magic Formula,3475,,4255,5449
+UVA,11935,Through the Desert,937,,1322,2541
+UVA,11936,The Lazy Lumberjacks,4855,,5977,9246
+UVA,11937,Balanced ScoreCard,8,,31,50
+UVA,11938,Hammock in the Forest,6,,11,57
+UVA,11939,Landing Navigation,2,,2,14
+UVA,11940,Face the Maze,49,,67,164
+UVA,11941,Creating a Quadtree,52,,75,177
+UVA,11942,Lumberjack Sequencing,7651,,9638,18583
+UVA,11943,The heart flu,26,,51,155
+UVA,11944,$ 10 to Win?,58,,144,663
+UVA,11945,Financial Management,885,,1185,3167
+UVA,11946,Code Number,1910,,2663,8232
+UVA,11947,Cancer or Scorpio,1194,,1566,3932
+UVA,11948,Reading a Quadtree,48,,94,257
+UVA,11949,Calculating IRR,36,,53,142
+UVA,11950,Neverland,19,,38,126
+UVA,11951,Area,918,,1211,2929
+UVA,11952,Arithmetic,190,,256,1009
+UVA,11953,Battleships,2412,,3254,6648
+UVA,11954,Binary Calculator,49,,74,235
+UVA,11955,Binomial Theorem,773,,1126,2063
+UVA,11956,Brainfuck,1093,,1802,3923
+UVA,11957,Checkers,536,,734,1746
+UVA,11958,Coming Home,1090,,1419,3592
+UVA,11959,Dice,466,,763,2464
+UVA,11960,Divisor Game,576,,1019,2347
+UVA,11961,DNA,252,,420,1059
+UVA,11962,DNA II,294,,407,592
+UVA,11963,Emigration,14,,14,58
+UVA,11964,Equation,37,,115,225
+UVA,11965,Extra Spaces,1115,,1661,4546
+UVA,11966,Galactic Bonding,503,,813,1666
+UVA,11967,Hic-Hac-Hoe,69,,108,251
+UVA,11968,In The Airport,313,,513,1385
+UVA,11969,LAMApbo,10,,31,162
+UVA,11970,Lucky Numbers,1016,,1732,3358
+UVA,11971,Polygon,170,,342,667
+UVA,11972,Round Trip,39,,71,120
+UVA,11973,Sierpinski Carpet,25,,45,178
+UVA,11974,Switch The Lights,397,,806,1535
+UVA,11975,Tele-loto,129,,187,497
+UVA,11976,Time Deposit,29,,44,75
+UVA,11977,Story of Tomisu Ghost,131,,360,544
+UVA,11978,Fukushima Nuclear Blast,39,,118,378
+UVA,11979,Hamming Base,172,,314,547
+UVA,11980,Mad Scientist,35,,47,173
+UVA,11981,Corrupted Friendship,116,,217,582
+UVA,11982,Fantasy Cricket,60,,111,177
+UVA,11983,Weird Advertisement,131,,560,1651
+UVA,11984,A Change in Thermal Unit,7052,,9866,19188
+UVA,11985,Prime Independence,57,,125,515
+UVA,11986,Save from Radiation,440,,789,1971
+UVA,11987,Almost Union-Find,735,,1999,5613
+UVA,11988,Broken Keyboard (a.k.a. Beiju Text),4688,,9943,26897
+UVA,11989,Cake Cutting,20,,39,150
+UVA,11990,``Dynamic'' Inversion,194,,725,2833
+UVA,11991,Easy Problem from Rujia Liu?,3574,,7084,16824
+UVA,11992,Fast Matrix Operations,429,,1637,4866
+UVA,11993,Girls' Celebration,16,,26,94
+UVA,11994,Happy Painting!,51,,151,356
+UVA,11995,I Can Guess the Data Structure!,4474,,8013,25972
+UVA,11996,Jewel Magic,116,,508,1510
+UVA,11997,K Smallest Sums,821,,2098,4941
+UVA,11998,Rujia Liu loves Wario Land!,8,,28,202
+UVA,11999,Unlock,45,,88,415
+UVA,12000,K-Transformed Permutations,73,,107,230
+UVA,12001,UVa Panel Discussion,178,,344,831
+UVA,12002,Happy Birthday,141,,289,1560
+UVA,12003,Array Transformer,211,,789,3112
+UVA,12004,Bubble Sort,898,,1252,2456
+UVA,12005,Find Solutions,214,,483,2116
+UVA,12006,Paint Brush,5,,5,221
+UVA,12007,Crossboard Coloring,10,,10,102
+UVA,12008,Emotional Bishop,56,,83,494
+UVA,12009,Avaricious Maryanna,100,,362,1051
+UVA,12010,Boring Homework,81,,209,402
+UVA,12011,Complete the Set,53,,111,422
+UVA,12012,Detection of Extraterrestrial,96,,293,715
+UVA,12013,Entertainment,49,,151,447
+UVA,12014,Fudan Extracurricular Lives,18,,39,112
+UVA,12015,Google is Feeling Lucky,6473,,8329,12912
+UVA,12016,Herbicide,32,,86,458
+UVA,12017,Imitation,57,,119,424
+UVA,12018,Juice Extractor,144,,504,1616
+UVA,12019,Doom's Day Algorithm,1926,,2507,3683
+UVA,12020,The Election Day,3,,3,90
+UVA,12021,Universal Elections,2,,2,129
+UVA,12022,Ordering T-shirts,314,,424,570
+UVA,12023,Escher and Tessellations,4,,9,42
+UVA,12024,Hats,943,,1312,1750
+UVA,12025,Wrong Keys,6,,17,134
+UVA,12026,Radars,23,,60,145
+UVA,12027,Very Big Perfect Squares,338,,440,816
+UVA,12028,A Gift from the Setter,345,,1084,2065
+UVA,12029,Flying Spaceships,28,,58,350
+UVA,12030,Help the Winners,213,,393,930
+UVA,12031,Summation of Four Squares,23,,57,432
+UVA,12032,The Monkey and the Oiled Bamboo,2083,,3416,10229
+UVA,12033,Game of CS,60,,103,256
+UVA,12034,Race,465,,1204,2158
+UVA,12035,War Map,40,,93,723
+UVA,12036,Stable Grid,788,,1246,1925
+UVA,12037,Musical Chair,36,,60,246
+UVA,12038,Batting Practice,13,,15,158
+UVA,12039,Goldbach's Cardinality,76,,199,456
+UVA,12040,Again Lucky Numbers,80,,130,399
+UVA,12041,BFS (Binary Fibonacci String),145,,256,826
+UVA,12042,Colorful Eggs,72,,374,517
+UVA,12043,Divisors,749,,1316,2546
+UVA,12044,Extreme Divisors,15,,19,464
+UVA,12045,Fun with Strings,97,,178,729
+UVA,12046,Great Numbers,107,,151,204
+UVA,12047,Highest Paid Toll,651,,1002,2802
+UVA,12048,Inhabitants,70,,137,379
+UVA,12049,Just Prune The List,1400,,2226,5050
+UVA,12050,Palindrome Numbers,237,,447,1120
+UVA,12051,Mazes in Higher Dimensions,22,,39,91
+UVA,12052,Cyber cafe,31,,39,72
+UVA,12053,Unbreakable Floor,4,,4,42
+UVA,12054,Find the Project,12,,16,35
+UVA,12055,Strange Research,31,,49,182
+UVA,12056,Circle Strafing,10,,12,90
+UVA,12057,Prefix Codes,37,,70,183
+UVA,12058,Highway Monitor,21,,40,122
+UVA,12059,Volume Measurement,3,,3,10
+UVA,12060,All Integer Average,794,,990,1971
+UVA,12061,Overlaying Maps,24,,35,86
+UVA,12062,Reverse Assignment,38,,69,195
+UVA,12063,Zeros and Ones,394,,702,1673
+UVA,12064,Count the Points Inside,38,,68,201
+UVA,12065,Permutation Primes,44,,120,294
+UVA,12066,The Fairy Tale of ICPC,15,,19,70
+UVA,12067,Guinea Rats,8,,8,37
+UVA,12068,Harmonic Mean,930,,1225,2519
+UVA,12069,Robots inside the Labyrinth,43,,64,269
+UVA,12070,Invite Your Friends,66,,107,394
+UVA,12071,Understanding Recursion,122,,185,438
+UVA,12072,Matrissor,26,,46,121
+UVA,12073,Altitude Triangle,45,,67,99
+UVA,12074,The Ultimate Bamboo Eater,41,,67,237
+UVA,12075,Counting Triangles,109,,240,856
+UVA,12076,Unequalled Consumption,7,,9,23
+UVA,12077,Declaration of Content,16,,28,59
+UVA,12078,Laserbox,36,,42,58
+UVA,12079,Bowlstack,22,,29,83
+UVA,12080,Pesky Heroes,14,,24,44
+UVA,12081,Reduced ID Numbers,77,,126,173
+UVA,12082,Tantrix,15,,20,24
+UVA,12083,Guardian of Decency,316,,577,1216
+UVA,12084,Up the Stairs,30,,51,94
+UVA,12085,Mobile Casanova,609,,918,2096
+UVA,12086,Potentiometers,2021,,3714,9127
+UVA,12087,Collecting Marbles,32,,51,112
+UVA,12088,Expression,33,,50,179
+UVA,12089,The Luncheon,44,,84,234
+UVA,12090,Counting Zeroes,104,,225,634
+UVA,12091,Multiplication,35,,69,112
+UVA,12092,Paint the Roads,63,,102,133
+UVA,12093,Protecting Zonk,57,,125,344
+UVA,12094,Battle of the Triangle,19,,41,71
+UVA,12095,Sudoku,15,,40,70
+UVA,12096,The SetStack Computer,768,,1821,3385
+UVA,12097,Pie,568,,933,1685
+UVA,12098,Ticket to Ride,9,,13,29
+UVA,12099,The Bookcase,89,,215,371
+UVA,12100,Printer Queue,1413,,2512,3741
+UVA,12101,Prime Path,418,,559,713
+UVA,12102,Lineland's Airport,8,,9,15
+UVA,12103,Leonardo's Notebook,144,,186,421
+UVA,12104,A Rod in a Path,5,,7,25
+UVA,12105,Bigger is Better,133,,326,1078
+UVA,12106,Collapse!!,4,,6,84
+UVA,12107,Digit Puzzle,64,,158,376
+UVA,12108,Extraordinarily Tired Students,363,,918,2141
+UVA,12109,Fairies' Defence,21,,37,107
+UVA,12110,Gargoyle,13,,21,42
+UVA,12111,Hidden Music Score,10,,17,40
+UVA,12112,Iceman,26,,36,108
+UVA,12113,Overlapping Squares,87,,174,358
+UVA,12114,Bachelor Arithmetic,1088,,1389,3479
+UVA,12115,Nested Squares,137,,202,316
+UVA,12116,The Dumb Grocer,33,,54,194
+UVA,12117,ACM Puzzles,103,,154,222
+UVA,12118,Inspector's Dilemma,203,,527,1571
+UVA,12119,The Bells are Ringing,73,,128,435
+UVA,12120,Photographic Tour,57,,92,289
+UVA,12121,You are around me ...,32,,45,146
+UVA,12122,Infinite Matrix,8,,9,12
+UVA,12123,Magnetic Train Tracks,68,,135,397
+UVA,12124,Assemble,442,,691,1605
+UVA,12125,March of the Penguins,320,,490,907
+UVA,12126,Containers,55,,88,304
+UVA,12127,Youth Hostel Dorm,12,,12,31
+UVA,12128,Escape from Enemy Territory,49,,73,207
+UVA,12129,Flight Safety,6,,8,13
+UVA,12130,Summits,69,,102,228
+UVA,12131,Obfuscation,68,,106,333
+UVA,12132,Tower Parking,97,,120,180
+UVA,12133,Walk,11,,15,37
+UVA,12134,Find the Format String,91,,214,642
+UVA,12135,Switch Bulbs,239,,426,858
+UVA,12136,Schedule of a Married Man,1186,,1583,3577
+UVA,12137,Puzzles of Triangles,68,,154,287
+UVA,12138,Chemical Plant,15,,20,90
+UVA,12139,Clicking Checkboxes,39,,73,112
+UVA,12140,Magic Rings,24,,61,183
+UVA,12141,Line Chart,34,,50,184
+UVA,12142,Mobile Tower,6,,8,13
+UVA,12143,Stopping Doom's Day,61,,91,140
+UVA,12144,Almost Shortest Path,374,,621,1289
+UVA,12145,Bases,24,,36,143
+UVA,12146,Candy,207,,386,606
+UVA,12147,DNA Sequences,129,,236,610
+UVA,12148,Electricity,333,,445,685
+UVA,12149,Feynman,5848,,8098,10337
+UVA,12150,Pole Position,621,,743,1449
+UVA,12151,Higgs Boson,15,,16,123
+UVA,12152,Traveling Shoemaker Problem,19,,21,111
+UVA,12153,Bora Bora,44,,61,167
+UVA,12154,Shrinking Polygons,63,,121,208
+UVA,12155,ASCII Diamondi,143,,220,317
+UVA,12156,Match Maker,14,,21,70
+UVA,12157,Tariff Plan,3786,,4511,7556
+UVA,12158,Irreducible Fractions,15,,19,46
+UVA,12159,Gun Fight,126,,178,498
+UVA,12160,Unlock the Lock,1027,,1541,2135
+UVA,12161,Ironman Race in Treeland,50,,101,305
+UVA,12162,Shooting the Monster,4,,5,36
+UVA,12163,Addition-Subtraction Game,40,,79,252
+UVA,12164,The Great Game,3,,9,85
+UVA,12165,Triangle Hazard,63,,151,191
+UVA,12166,Equilibrium Mobile,290,,764,1938
+UVA,12167,Proving Equivalences,234,,385,967
+UVA,12168,Cat vs. Dog,264,,480,1034
+UVA,12169,Disgruntled Judge,301,,979,1686
+UVA,12170,Easy Climb,74,,182,498
+UVA,12171,Sculpture,150,,330,803
+UVA,12172,Matchsticks,146,,213,477
+UVA,12173,White Water Rafting,53,,61,127
+UVA,12174,Shuffle,196,,511,1206
+UVA,12175,Videopoker,13,,18,39
+UVA,12176,Bring Your Own Horse,120,,178,597
+UVA,12177,First Knight,19,,40,105
+UVA,12178,Postal Charges,49,,84,230
+UVA,12179,Randomly-priced Tickets,82,,118,223
+UVA,12180,The Game,13,,19,27
+UVA,12181,The Merchant Guild,13,,20,28
+UVA,12182,Toll Road,83,,136,507
+UVA,12183,Top Secret,40,,113,209
+UVA,12184,Transcribed Books,180,,303,1309
+UVA,12185,Wizards,32,,48,385
+UVA,12186,Another Crisis,495,,1158,1780
+UVA,12187,Brothers,416,,612,974
+UVA,12188,Code Lock,45,,106,251
+UVA,12189,Dinner Hall,114,,155,247
+UVA,12190,Electric Bill,353,,475,1170
+UVA,12191,File Recover,74,,112,266
+UVA,12192,Grapevine,792,,1365,3693
+UVA,12193,Hooligan,46,,66,127
+UVA,12194,Isosceles Triangles,149,,247,630
+UVA,12195,Jingle Composing,1219,,1721,2334
+UVA,12196,Klingon Levels,81,,119,191
+UVA,12197,Trick or Treat,138,,250,647
+UVA,12198,Working at the Restaurant,104,,148,362
+UVA,12199,Lights,22,,30,63
+UVA,12200,Darts,58,,112,150
+UVA,12201,Genetics,8,,8,13
+UVA,12202,Haunted Graveyard,103,,190,991
+UVA,12203,Slalom,26,,29,95
+UVA,12204,Routing,10,,18,29
+UVA,12205,Happy Telephones,418,,602,1248
+UVA,12206,Stammering Aliens,207,,534,1324
+UVA,12207,That is Your Queue,630,,1048,3523
+UVA,12208,How Many Ones Needed?,306,,535,1184
+UVA,12209,Foot Notes,82,,117,257
+UVA,12210,A Match Making Problem,1588,,2286,3307
+UVA,12211,Games of Block,36,,62,152
+UVA,12212,Password Remembering,33,,59,144
+UVA,12213,Camera in the Museum,18,,34,89
+UVA,12214,Traffic Jam,16,,19,56
+UVA,12215,Rectangle of Permutation,10,,14,34
+UVA,12216,How Many bases?,104,,240,439
+UVA,12217,Integer Game,8,,8,75
+UVA,12218,An Industrial Spy,131,,176,319
+UVA,12219,Common Subexpression Elimination,139,,369,878
+UVA,12220,Divisible Subsequences,118,,189,390
+UVA,12221,Fractal,19,,20,31
+UVA,12222,Mountain Road,58,,115,222
+UVA,12223,Moving to Nuremberg,80,,172,398
+UVA,12224,Room Assignments,11,,16,35
+UVA,12225,Settlers of Catan,45,,56,89
+UVA,12226,Simple Polygon,60,,84,216
+UVA,12227,Wormholes,26,,47,253
+UVA,12228,Assembling Services,3,,3,10
+UVA,12229,Box Relations,23,,35,40
+UVA,12230,Crossing Rivers,233,,525,983
+UVA,12231,Download Manager,48,,79,165
+UVA,12232,Exclusive-OR,98,,249,740
+UVA,12233,Final Combat,12,,15,25
+UVA,12234,Gift Hunting,16,,21,92
+UVA,12235,Help Bubu,75,,196,418
+UVA,12236,In a Crazy City,5,,5,36
+UVA,12237,Jiajia's Robot,5,,5,16
+UVA,12238,Ants Colony,419,,759,1763
+UVA,12239,Bingo!,737,,1109,1772
+UVA,12240,Cocircular Points,124,,212,585
+UVA,12241,Digits Count,202,,347,694
+UVA,12242,Electric Needs,16,,22,34
+UVA,12243,Flowers Flourish from France,1691,,2223,3965
+UVA,12244,Growing Strings,71,,127,402
+UVA,12245,Hyperactive Girl,79,,112,233
+UVA,12246,Ingenious Metro,42,,45,77
+UVA,12247,Jollo,1266,,1604,3770
+UVA,12248,Kids' Wishes,95,,157,493
+UVA,12249,Overlapping Scenes,155,,204,412
+UVA,12250,Language Detection,8265,,10305,22063
+UVA,12251,Scientific Experiment,36,,50,102
+UVA,12252,ABCD Tiles,25,,41,147
+UVA,12253,Simple Encryption,30,,44,74
+UVA,12254,Electricity Connection,14,,17,73
+UVA,12255,Underwater Snipers,71,,111,349
+UVA,12256,Making Quadrilaterals,195,,273,395
+UVA,12257,The Queue,65,,126,211
+UVA,12258,Air Pollution Problem,4,,4,33
+UVA,12259,Fair Division,110,,262,609
+UVA,12260,Free Goodies,123,,405,872
+UVA,12261,High Score,105,,239,670
+UVA,12262,Hill Driving,32,,59,192
+UVA,12263,Rankings,83,,195,382
+UVA,12264,Risk,77,,205,425
+UVA,12265,Selling Land,119,,290,629
+UVA,12266,Stock Prices,78,,177,406
+UVA,12267,Telephone Network,14,,26,42
+UVA,12268,Wormly,38,,90,307
+UVA,12269,Lawn mower,447,,764,1364
+UVA,12270,Periodic points,8,,13,34
+UVA,12271,Comparing answers,79,,202,421
+UVA,12272,Fake scoreboard,36,,63,256
+UVA,12273,Palindromic DNA,28,,47,117
+UVA,12274,Jumping monkey,85,,172,450
+UVA,12275,Sensor network,41,,63,219
+UVA,12276,Assembly line,57,,103,253
+UVA,12277,Locks and keys,19,,26,156
+UVA,12278,3-sided dice,42,,58,280
+UVA,12279,Emoogle Balance,5880,,7053,10436
+UVA,12280,A Digital Satire of Digital Age,256,,370,869
+UVA,12281,Hyper Box,212,,326,626
+UVA,12282,OmniGravity,72,,124,310
+UVA,12283,Halloween Costumes,113,,197,559
+UVA,12284,Digital Matrix,40,,81,439
+UVA,12285,Knockout Tournaments,43,,77,761
+UVA,12286,Optimal Store,26,,53,334
+UVA,12287,Network Flow,4,,10,108
+UVA,12288,Hyper Knights,12,,13,173
+UVA,1000,Airport Configuration,88,,106,1182
+UVA,1001,Say Cheese,278,,560,1443
+UVA,1002,Crossword Puzzle,21,,41,560
+UVA,1003,Can't Cut Down the Forest for the Trees,15,,24,202
+UVA,1004,The Geoduck GUI,11,,13,193
+UVA,1005,A Major Problem,33,,42,271
+UVA,1006,Fixed Partition Memory Management,97,,167,437
+UVA,1007,Professor Monotonic's Networks,55,,91,432
+UVA,1008,A Vexing Problem,43,,117,488
+UVA,1009,Balloons in a Box,189,,381,1695
+UVA,1010,Undecodable Codes,43,,114,627
+UVA,1011,Crossing the Desert,50,,111,335
+UVA,1012,Ferries,39,,81,529
+UVA,1013,Island Hopping,145,,228,879
+UVA,1014,Toil for Oil,9,,12,40
+UVA,1015,Partitions,42,,77,456
+UVA,1016,Silly Sort,235,,436,920
+UVA,1017,"Merrily, We Roll Along!",12,,16,86
+UVA,1018,Building Bridges,71,,98,569
+UVA,1019,Light Bulbs,52,,84,265
+UVA,1020,Riding the Bus,22,,40,205
+UVA,1021,Eurodiffusion,42,,68,183
+UVA,1022,Covering Whole Holes,26,,106,541
+UVA,1023,Combining Images,40,,69,443
+UVA,1024,A Linking Loader,20,,31,185
+UVA,1025,A Spy in the Metro,552,,1753,3784
+UVA,1026,The Solar System,81,,203,570
+UVA,1027,Toll,107,,142,454
+UVA,1028,Carl the Ant,20,,50,296
+UVA,1029,Heliport,27,,45,224
+UVA,1030,Image Is Everything,318,,475,912
+UVA,1031,Insecure in Prague,39,,71,396
+UVA,1032,Intersecting Dates,68,,99,532
+UVA,1033,Merging Maps,23,,30,439
+UVA,1034,Navigation,9,,11,139
+UVA,1035,Tree-Lined Streets,63,,96,381
+UVA,1036,Suspense!,22,,34,106
+UVA,1037,Air Traffic Control,9,,12,197
+UVA,1038,Eyeball Benders,17,,19,61
+UVA,1039,Simplified GSM Network,116,,208,355
+UVA,1040,The Traveling Judges Problem,102,,151,297
+UVA,1041,cNteSahruPfefrlefe,43,,59,262
+UVA,1042,Lots of Sunlight,65,,143,540
+UVA,1043,Crossing Streets,54,,73,128
+UVA,1044,Tiling the Plane,27,,44,98
+UVA,1045,The Great Wall Game,140,,209,467
+UVA,1046,Workshops,82,,130,398
+UVA,1047,Zones,521,,721,2014
+UVA,1048,Low Cost Air Travel,110,,193,1016
+UVA,1049,Remember the A La Mode!,114,,190,733
+UVA,1050,Ars Longa,27,,36,142
+UVA,1051,Bipartite Numbers,73,,103,628
+UVA,1052,Bit Compressor,98,,169,578
+UVA,1053,Building a Clock,16,,30,297
+UVA,1054,Pilgrimage,52,,77,303
+UVA,1055,Pockets,20,,26,279
+UVA,1056,Degrees of Separation,863,,1362,3044
+UVA,1057,Routing,81,,115,569
+UVA,1058,Grand Prix,56,,94,366
+UVA,1059,Jacquard Circuits,58,,75,359
+UVA,1060,Collecting Luggage,37,,63,357
+UVA,1061,Consanguine Calculations,380,,494,1512
+UVA,1062,Containers,1386,,1795,3129
+UVA,1063,Marble Game,72,,106,482
+UVA,1064,Network,140,,217,647
+UVA,1065,Raising the Roof,12,,22,140
+UVA,1066,Problem: Water Tanks,35,,69,292
+UVA,1067,Tunnels,45,,80,328
+UVA,1068,Air Conditioning Machinery,62,,101,350
+UVA,1069,Always an integer,202,,403,1520
+UVA,1070,Conveyor Belt,13,,30,364
+UVA,1071,The Hare and the Hounds,16,,26,143
+UVA,1072,Huffman Codes,40,,66,195
+UVA,1073,Glenbow Museum,223,,398,738
+UVA,1074,Net Loss,44,,65,150
+UVA,1075,Painter,30,,57,261
+UVA,1076,Password Suspects,94,,189,567
+UVA,1077,The Sky is the Limit,65,,122,366
+UVA,1078,Steam Roller,114,,200,636
+UVA,1079,A Careful Approach,238,,450,1330
+UVA,1080,My Bad,86,,131,295
+UVA,1081,The Return of Carl,31,,38,622
+UVA,1082,Conduit Packing,47,,66,232
+UVA,1083,Fare and Balanced,58,,119,359
+UVA,1084,Deer-Proof Fence,99,,182,395
+UVA,1085,House of Cards,43,,67,212
+UVA,1086,The Ministers' Major Mess,104,,194,425
+UVA,1087,Struts and Springs,25,,41,188
+UVA,1088,Subway Timing,33,,47,124
+UVA,1089,Suffix-Replacement Grammars,71,,138,521
+UVA,1090,APL Lives!,14,,56,226
+UVA,1091,Barcodes,123,,265,1141
+UVA,1092,Tracking Bio-bots,145,,259,1054
+UVA,1093,Castles,102,,167,400
+UVA,1094,Channel,19,,33,105
+UVA,1095,Contour Mapping,29,,36,140
+UVA,1096,The Islands,190,,305,753
+UVA,1097,Rain,12,,20,96
+UVA,1098,Robots on Ice,200,,573,2042
+UVA,1099,Sharing Chocolate,496,,1167,3809
+UVA,1100,Paperweight,38,,54,335
+UVA,1101,To Add or to Multiply,62,,87,471
+UVA,1102,Affine Mess,26,,34,82
+UVA,1103,Ancient Messages,938,,1750,4507
+UVA,1104,Chips Challenge,24,,38,87
+UVA,1105,Coffee Central,115,,216,674
+UVA,1106,Machine Works,41,,67,192
+UVA,1107,Magic Sticks,30,,48,210
+UVA,1108,Mining Your Own Business,220,,527,1708
+UVA,1109,Mummy Madness,33,,55,254
+UVA,1110,Pyramids,119,,240,836
+UVA,1111,Trash Removal,449,,812,2058
+UVA,1112,Mice and Maze,1730,,2424,6635
+UVA,1113,Multiple Morse Matches,92,,156,476
+UVA,1114,Maya Calendar,30,,38,154
+UVA,1115,Water Shortage,119,,217,744
+UVA,1116,Puzzle,11,,19,56
+UVA,1117,Reliable Programs,5,,5,66
+UVA,1118,Binary Stirling Numbers,52,,95,218
+UVA,1119,Project File Dependencies,133,,168,842
+UVA,1120,No Change,114,,178,647
+UVA,1121,Subsequence,1187,,1975,4700
+UVA,1122,Left Labyrinths,17,,17,89
+UVA,1123,Crazy Search,43,,62,316
+UVA,1124,Celebrity jeopardy,9261,,11470,19148
+UVA,1125,Sherlock Holmes,19,,40,181
+UVA,1126,Payment System,6,,6,29
+UVA,1127,Word Puzzles,17,,32,145
+UVA,1128,Water Treatment Plants,19,,22,37
+UVA,1129,Stargates,9,,18,99
+UVA,1130,Men at work,35,,92,221
+UVA,1131,Square dance,16,,40,101
+UVA,1132,Football,7,,8,39
+UVA,1133,Rent your airplane and make money,45,,72,306
+UVA,1134,Who's next?,6,,9,49
+UVA,1135,Computer,5,,6,35
+UVA,1136,Help R2-D2!,22,,29,286
+UVA,1137,Phony primes,38,,65,357
+UVA,1138,Roof,14,,15,227
+UVA,1139,Stormy Versailles,7,,14,58
+UVA,1140,Charles Fr&eacute;d&eacute;ric Gros,1,,1,13
+UVA,1141,Count wireless Links,13,,25,111
+UVA,1142,Fighting the Heat,50,,67,284
+UVA,1143,Fighting the Heat II,6,,6,16
+UVA,1144,Find the Walls,4,,6,24
+UVA,1145,War,8,,8,60
+UVA,1146,Now or later,188,,372,772
+UVA,1147,Crime,54,,75,233
+UVA,1148,The mysterious X network,533,,852,2224
+UVA,1149,Bin Packing,430,,1064,3028
+UVA,1150,On Storing Clothes,24,,26,100
+UVA,1151,Buy or Build,251,,844,2452
+UVA,1152,4 Values whose Sum is 0,659,,2066,6915
+UVA,1153,Keep the Customer Satisfied,196,,471,1320
+UVA,1154,UFO Cubes in Roswell,5,,6,28
+UVA,1155,Black Box,5,,18,52
+UVA,1156,Pixel Shuffle,58,,154,387
+UVA,1157,Consecutive ones,27,,37,103
+UVA,1158,CubesSquared,124,,214,375
+UVA,1159,BlindFold,2,,2,31
+UVA,1160,X-Plosives,860,,1495,3322
+UVA,1161,Objective: Berlin,48,,75,238
+UVA,1162,Transcript,20,,31,144
+UVA,1163,The Right Tip,19,,48,198
+UVA,1164,Booby Traps,25,,40,161
+UVA,1165,Fire Lane,10,,17,83
+UVA,1166,Gap,10,,15,70
+UVA,1167,BEATBIT,14,,17,59
+UVA,1168,Prester John,12,,22,74
+UVA,1169,Robotruck,285,,512,1255
+UVA,1170,Jumping Hero,28,,42,103
+UVA,1171,Board Games,39,,70,177
+UVA,1172,The Bridges of Kolsberg,415,,629,1587
+UVA,1173,The Finest Chef,38,,56,128
+UVA,1174,IP-TV,907,,1440,3144
+UVA,1175,Ladies' Choice,127,,232,494
+UVA,1176,A Benevolent Josephus,57,,87,211
+UVA,1177,A General Recurrence Relation,50,,95,260
+UVA,1178,The Juice Shop,21,,26,76
+UVA,1179,Minimal Cover of Prime Implicants,6,,6,48
+UVA,1180,Perfect Numbers,591,,1014,4030
+UVA,1181,Rubik's Cube,11,,15,63
+UVA,1182,Sequence Alignment,41,,70,233
+UVA,1183,Turn All the Lights Off,4,,4,37
+UVA,1184,Air Raid,181,,266,479
+UVA,1185,Big Number,1127,,1634,3356
+UVA,1186,Chat Rooms,54,,76,268
+UVA,1187,Diamonds,17,,25,102
+UVA,1188,Enigmatic Travel,28,,36,48
+UVA,1189,Find The Multiple,157,,277,443
+UVA,1190,Get Them All,5,,5,22
+UVA,1191,Hermes' Colony,4,,5,22
+UVA,1192,Searching Sequence Database in Molecular Biology,20,,32,127
+UVA,1193,Radar Installation,310,,504,1467
+UVA,1194,Machine Schedule,271,,507,794
+UVA,1195,Calling Extraterrestrial Intelligence Again,161,,320,584
+UVA,1196,Tiling Up Blocks,533,,756,1988
+UVA,1197,The Suspects,1001,,1417,2425
+UVA,1198,The Geodetic Set Problem,127,,189,334
+UVA,1199,Elevator Stopping Plan,22,,36,149
+UVA,1200,A DP Problem,319,,488,1581
+UVA,1201,Taxi Cab Scheme,227,,373,741
+UVA,1202,Finding Nemo,126,,269,915
+UVA,1203,Argus,2248,,2987,4294
+UVA,1204,Fun Game,62,,135,375
+UVA,1205,Color a Tree,86,,146,505
+UVA,1206,Boundary Points,134,,199,590
+UVA,1207,AGTC,608,,867,1823
+UVA,1208,Oreon,671,,883,1435
+UVA,1209,Wordfish,350,,423,833
+UVA,1210,Sum of Consecutive Prime Numbers,1416,,2072,2969
+UVA,1211,Atomic Car Race,189,,241,465
+UVA,1212,Duopoly,53,,116,316
+UVA,1213,Sum of Different Primes,1342,,2147,3509
+UVA,1214,Manhattan Wiring,46,,83,141
+UVA,1215,String Cutting,171,,234,376
+UVA,1216,The Bug Sensor Problem,311,,532,1204
+UVA,1217,Route Planning,50,,91,332
+UVA,1218,Perfect Service,247,,818,1715
+UVA,1219,Team Arrangement,78,,93,163
+UVA,1220,Party at Hali-Bula,484,,1204,3055
+UVA,1221,Against Mammoths,56,,104,290
+UVA,1222,Bribing FIPA,73,,113,332
+UVA,1223,Editor,417,,667,1333
+UVA,1224,Tile Code,150,,188,310
+UVA,1225,Digit Counting,7073,,11292,23328
+UVA,1226,Numerical surprises,711,,898,1275
+UVA,1227,The longest constant gene,47,,118,711
+UVA,1228,Integer Transmission,59,,111,279
+UVA,1229,Sub-dictionary,197,,290,1336
+UVA,1230,MODEX,1791,,2399,3299
+UVA,1231,ACORN,379,,620,1289
+UVA,1232,SKYLINE,351,,674,1783
+UVA,1233,USHER,119,,197,471
+UVA,1234,RACING,549,,888,1676
+UVA,1235,Anti Brute Force Lock,853,,1328,2307
+UVA,1236,Disjoint Paths,25,,39,151
+UVA,1237,Expert Enough?,2371,,3001,7242
+UVA,1238,Free Parentheses,226,,358,844
+UVA,1239,Greatest K-Palindrome Substring,172,,265,521
+UVA,1240,ICPC Team Strategy,230,,357,867
+UVA,1241,Jollybee Tournament,486,,639,847
+UVA,1242,Necklace,119,,194,412
+UVA,1243,Polynomial-time Reductions,49,,64,164
+UVA,1244,Palindromic paths,120,,164,507
+UVA,1245,Pile it down,29,,56,130
+UVA,1246,Find Terrorists,465,,695,1631
+UVA,1247,Interstar Transport,292,,374,591
+UVA,1248,Inventory,49,,103,299
+UVA,1249,Euclid,170,,217,590
+UVA,1250,Robot Challenge,64,,87,172
+UVA,1251,Repeated Substitution with Sed,93,,137,205
+UVA,1252,Twenty Questions,345,,854,1303
+UVA,1253,Infected Land,62,,137,218
+UVA,1254,Top 10,146,,318,792
+UVA,1255,Airplane Parking,41,,65,232
+UVA,1256,Rating Hazard,16,,20,60
+UVA,1257,Your Ways,15,,32,69
+UVA,1258,Nowhere Money,142,,229,637
+UVA,1259,Highway Patrol,16,,19,56
+UVA,1260,Sales,2200,,2747,3334
+UVA,1261,String Popping,449,,710,1381
+UVA,1262,Password,633,,1060,2607
+UVA,1263,Mines,191,,492,1254
+UVA,1264,Binary Search Tree,104,,187,307
+UVA,1265,Tour Belt,97,,188,402
+UVA,1266,Magic Square,283,,400,1174
+UVA,1267,Network,278,,488,1057
+UVA,1268,Clues,19,,52,119
+UVA,12289,One-Two-Three,9443,,12503,22078
+UVA,12290,Counting Game,612,,1105,2043
+UVA,12291,Polyomino Composer,247,,549,1761
+UVA,12292,Polyomino Decomposer,45,,94,273
+UVA,12293,Box Game,971,,1840,3216
+UVA,12294,RPG battles,96,,252,725
+UVA,12295,Optimal Symmetric Paths,148,,387,1017
+UVA,12296,Pieces and Discs,65,,221,688
+UVA,12297,Super Poker,29,,73,136
+UVA,12298,Super Poker II,83,,459,1606
+UVA,12299,RMQ with Shifts,507,,1431,3403
+UVA,1269,In-circles Again,40,,73,110
+UVA,12300,Smallest Regular Polygon,229,,353,591
+UVA,12301,An Angular Puzzle,116,,203,266
+UVA,12302,Nine-Point Circle,117,,169,241
+UVA,12303,Composite Transformations,45,,76,216
+UVA,12304,2D Geometry 110 in 1!,129,,579,1680
+UVA,12305,Polishing a Extruded Polygon,13,,18,161
+UVA,12306,My SketchUp,17,,25,114
+UVA,12307,Smallest Enclosing Rectangle,93,,256,824
+UVA,12308,Smallest Enclosing Box,10,,10,306
+UVA,12309,A Strange Opera House II,3,,5,30
+UVA,12310,Point Location,5,,7,145
+UVA,12311,All-Pair Farthest Points,33,,58,680
+UVA,12312,Bounding Volume Hierarchy,20,,65,151
+UVA,12313,A Tiny Raytracer,12,,45,115
+UVA,12314,The Cleaning Robot,11,,14,196
+UVA,12315,The Starflyer Agents,18,,23,185
+UVA,12316,Sewing Buttons with Grandma,114,,184,509
+UVA,12317,Document Compression,144,,265,652
+UVA,12318,Digital Roulette,263,,498,1484
+UVA,12319,Edgetown's Traffic Jams,276,,429,775
+UVA,12320,Flight Control,33,,76,207
+UVA,12321,Gas Stations,430,,792,1848
+UVA,12322,Handgun Shooting Sport,115,,204,446
+UVA,12323,Inspecting Radars,79,,125,262
+UVA,12324,Philip J. Fry Problem,413,,680,1442
+UVA,12325,Zombie's Treasure Chest,264,,843,3430
+UVA,12326,Yummy Triangular Pizza,38,,48,65
+UVA,12327,Xavier is Learning to Count,20,,43,193
+UVA,12328,Winmine.exe,8,,11,19
+UVA,12329,Very Boring Homework,8,,10,32
+UVA,12330,Universal Question Answering System,12,,22,47
+UVA,12331,Triangles and Quadrangle,19,,25,79
+UVA,12332,Share the Cakes,12,,16,88
+UVA,12333,Revenge of Fibonacci,232,,595,1413
+UVA,12334,Quelling Blade,7,,11,17
+UVA,12335,Lexicographic Order,288,,610,1333
+UVA,12336,Knights in the Zombie Land,48,,107,399
+UVA,12337,Bob's Beautiful Balls,231,,409,770
+UVA,12338,Anti-Rhyme Pairs,197,,691,1885
+UVA,12339,Help Hermione,35,,117,268
+UVA,12340,Integer Grouping,5,,8,63
+UVA,12341,Next to Never,22,,28,222
+UVA,12342,Tax Calculator,1829,,2507,7305
+UVA,12343,Strange Simulation,85,,177,506
+UVA,12344,Jewel Transportation,8,,20,160
+UVA,12345,Dynamic len(set(a[L:R])),157,,679,1987
+UVA,12346,Water Gate Management,286,,449,844
+UVA,12347,Binary Search Tree,1008,,1798,3169
+UVA,12348,Fun Coloring,135,,203,931
+UVA,12349,Twin Apparent Primes!!,128,,340,596
+UVA,12350,Queen Game,38,,69,256
+UVA,12351,Spelling Suggestion,7,,7,106
+UVA,12352,Coalescing Continents,57,,87,169
+UVA,12353,Fence Making,51,,81,220
+UVA,12354,Paths in a Tree,57,,93,406
+UVA,12355,Consecutive Sums,106,,391,823
+UVA,12356,Army Buddies,2031,,3036,9285
+UVA,12357,Ball Stacking,166,,304,644
+UVA,12358,Candy's Candy,71,,113,281
+UVA,12359,Diccionário Portuñol,92,,147,308
+UVA,12360,Elecrical Pollution,33,,48,156
+UVA,12361,File Retrieval,61,,122,316
+UVA,12362,Garden Fence,36,,61,108
+UVA,12363,Hedge Mazes,221,,367,881
+UVA,12364,In Braille,443,,605,1146
+UVA,12365,Jupiter Atacks!,208,,344,752
+UVA,12366,King's Poker,421,,609,1246
+UVA,12367,Binary Matrix,70,,136,399
+UVA,12368,Candles,125,,243,615
+UVA,12369,Cards,84,,217,387
+UVA,12370,Game of Connect,19,,41,192
+UVA,12371,Guards,43,,73,198
+UVA,12372,Packing for Holiday,9412,,12108,20916
+UVA,12373,Pair of Touching Circles,66,,112,481
+UVA,12374,Treasure Hunt,24,,39,119
+UVA,12375,Truchet Tiling,49,,80,184
+UVA,12376,"As Long as I Learn, I Live",954,,1591,3344
+UVA,12377,Number Coding,76,,245,1022
+UVA,12378,Ball Blasting Game,68,,295,852
+UVA,12379,Central Post Office,103,,247,540
+UVA,12380,Glimmr in Distress,43,,136,319
+UVA,12381,Our Fair Contest!,18,,24,138
+UVA,12382,Grid of Lamps,128,,299,1050
+UVA,12383,The Game,34,,61,90
+UVA,12384,Span,99,,448,1051
+UVA,12385,Interesting Sequences,121,,476,805
+UVA,12386,Smallest Polygon,36,,80,384
+UVA,12387,Alphabet Soup,33,,52,117
+UVA,12388,Coin Collecting,10,,27,151
+UVA,12389,Cybercrime Donut Investigation,39,,62,640
+UVA,12390,Distributing Ballot Boxes,326,,608,1632
+UVA,12391,"Game, Set and Match",125,,188,375
+UVA,12392,Guess the Numbers,220,,349,805
+UVA,12393,Non-negative Partial Sums,172,,369,1064
+UVA,12394,Peer Review,313,,485,1552
+UVA,12395,Regular Convex Polygon,113,,215,924
+UVA,12396,Remoteland,159,,397,1118
+UVA,1270,Paint the Map,2,,2,36
+UVA,1271,Bangle,2,,2,9
+UVA,1272,Circle Network,6,,8,20
+UVA,1273,Weiqi,2,,2,26
+UVA,1274,Color Ropes,2,,2,3
+UVA,1275,The Revolution of the Ants,3,,3,9
+UVA,1276,Game Fan,3,,3,6
+UVA,1277,How Many Days Are There,5,,20,38
+UVA,1278,Princess and Hero,2,,2,31
+UVA,12397,Roman Numerals,482,,611,982
+UVA,12398,NumPuzz I,529,,644,1359
+UVA,12399,NumPuzz II,48,,63,119
+UVA,12400,"3, 2, 1, 0",67,,172,454
+UVA,12401,Metal Powers,27,,30,71
+UVA,12402,Parallel Missions,22,,40,298
+UVA,12403,Save Setu,7690,,9666,14538
+UVA,12404,Trapezium Drawing,115,,231,963
+UVA,12405,Scarecrow,2811,,4007,7450
+UVA,12406,Help Dexter,525,,922,2107
+UVA,12407,Speed Zones,50,,108,460
+UVA,12408,Multi Round Matches,22,,27,61
+UVA,12409,Kisu Pari Na - 1,92,,210,558
+UVA,12410,Disable the Wand,66,,123,378
+UVA,12411,A Dangerous Maze (II),42,,67,211
+UVA,12412,A Typical Homework (a.k.a Shi Xiong Bang Bang Mang),322,,792,3576
+UVA,12413,Big Decimal Calculator,10,,41,211
+UVA,12414,Calculating Yuan Fen,278,,554,930
+UVA,12415,Digit Patterns,12,,25,79
+UVA,12416,Excessive Space Remover,675,,1111,2337
+UVA,12417,Formula Editor,6,,6,22
+UVA,12418,Game of 999,12,,18,111
+UVA,12419,Heap Manager,16,,24,139
+UVA,12420,Item-Based Recommendation,30,,50,78
+UVA,12421,(Jiandan) Mua (I) - Lexical Analyzer,23,,31,98
+UVA,12422,(Kengdie) Mua (II) - Expression Evaluator,3,,5,16
+UVA,12423,(Last) Mua(III) - Full Interpreter,4,,9,14
+UVA,12424,Answering Queries on a Tree,97,,253,728
+UVA,12425,Best Friend,125,,260,1144
+UVA,12426,Counting Triangles,52,,112,422
+UVA,12427,Donkey of the Sultan,54,,189,467
+UVA,12428,Enemy at the Gates,216,,410,1178
+UVA,12429,Finding Magic Triplets,55,,100,205
+UVA,12430,Grand Wedding,69,,163,532
+UVA,12431,Happy 10/9 Day,102,,240,1002
+UVA,12432,Inked Carpets,24,,36,116
+UVA,12433,Rent a Car,60,,141,448
+UVA,12434,Infinite Stable Integer,5,,5,10
+UVA,12435,Consistent Verdicts,203,,624,1732
+UVA,12436,Rip Van Winkle's Code,165,,459,1574
+UVA,12437,Kisu Pari Na 2,110,,308,574
+UVA,12438,Farey Polygon,36,,109,279
+UVA,12439,February 29,1011,,1575,4243
+UVA,12440,Save the Trees,100,,237,725
+UVA,12441,Superb Sequence,44,,71,560
+UVA,12442,Forwarding Emails,1528,,2482,8398
+UVA,12443,Quad,44,,99,194
+UVA,12444,Bits and Pieces,339,,608,1298
+UVA,12445,Happy 12,54,,148,657
+UVA,12446,How Many... in 3D!,112,,315,667
+UVA,12447,Pieces and Bits,120,,349,736
+UVA,12448,Casino Advantage,85,,201,423
+UVA,12449,Night Market,23,,31,81
+UVA,12450,SpaceRecon Tournament,83,,189,422
+UVA,12451,Let's call SPaDe a SPaDe,72,,170,328
+UVA,12452,Plants vs. Zombies HD SP,98,,245,505
+UVA,12453,Simulating Billiard Ball,21,,34,273
+UVA,12454,Plan B for next SWERC,38,,82,227
+UVA,12455,Bars,2052,,2780,4085
+UVA,12456,Mirror codes,108,,156,308
+UVA,12457,Tennis contest,196,,366,478
+UVA,12458,"Oh, my trees!",68,,148,527
+UVA,12459,Bees' ancestors,2242,,2899,4986
+UVA,12460,Careful teacher,157,,220,400
+UVA,1279,Asteroid Rangers,51,,102,301
+UVA,1280,Curvy Little Bottles,192,,381,1213
+UVA,1281,Bus Tour,93,,134,610
+UVA,1282,Fibonacci Words,145,,282,891
+UVA,1283,Infiltration,80,,150,495
+UVA,1284,Keys,23,,28,153
+UVA,1285,Minimum Cost Flow,24,,37,240
+UVA,1286,Room Service,11,,22,36
+UVA,1287,A Safe Bet,33,,58,214
+UVA,1288,Shortest Flight Path,13,,56,3642
+UVA,1289,Stacking Plates,98,,157,581
+UVA,1290,Takeover Wars,65,,107,516
+UVA,12461,Airplane,1275,,1977,2941
+UVA,12462,Rectangle,96,,203,430
+UVA,12463,Little Nephew,762,,1215,1470
+UVA,12464,"Professor Lazy, Ph.D.",317,,549,831
+UVA,12465,The Turanga Leela Problem,222,,541,948
+UVA,12466,Ancestors,56,,134,321
+UVA,12467,Secret Word,427,,905,2151
+UVA,12468,Zapping,6136,,8081,14821
+UVA,12469,Stones,259,,474,660
+UVA,12470,Tribonacci,470,,876,1271
+UVA,12471,Association of Strings,38,,93,388
+UVA,12472,Binary Substring,59,,136,555
+UVA,12473,Common Palindrome,109,,249,560
+UVA,12474,Draw and Score,54,,131,280
+UVA,12475,Elliptic Athletics Track,62,,142,459
+UVA,12476,Fun with Binary Tree,17,,26,93
+UVA,12477,Good Measures of Dispersion,42,,130,406
+UVA,12478,Hardest Problem Ever (Easy),2692,,3489,5831
+UVA,12479,Interesting Route,20,,30,123
+UVA,12480,Just Some Permutations,9,,44,82
+UVA,12481,K-Neutral Rectangles,31,,80,290
+UVA,12482,Short Story Competition,487,,785,1552
+UVA,12483,Toboggan of Marbles,163,,313,745
+UVA,12484,Cards,222,,429,1259
+UVA,12485,Perfect Choir,460,,762,1187
+UVA,12486,Space Elevator,117,,262,729
+UVA,12487,Midnight Cowboy,162,,289,714
+UVA,12488,Start Grid,727,,1111,1559
+UVA,12489,Combating cancer,125,,348,832
+UVA,12490,Integral,53,,82,175
+UVA,12491,Words,109,,154,268
+UVA,12492,Rubik Cycle,95,,182,241
+UVA,12493,Stars,309,,744,1282
+UVA,12494,Distinct Substring,83,,241,609
+UVA,12495,'C' for Count,56,,92,227
+UVA,12496,Fisherman's Dilemma,59,,123,203
+UVA,12497,Chatgaiya Postman Problem,36,,77,198
+UVA,12498,Ant's Shopping Mall,275,,388,530
+UVA,12499,I am Dumb 3,80,,109,257
+UVA,12500,Balance the Blocks,7,,40,126
+UVA,12501,Bulky process of bulk reduction,92,,194,682
+UVA,12502,Three Families,3366,,4752,10813
+UVA,12503,Robot Instructions,3804,,4966,7505
+UVA,12504,Updating a Dictionary,713,,1376,3104
+UVA,12505,Searching in sqrt(n),91,,208,386
+UVA,12506,Shortest Names,380,,858,1589
+UVA,12507,Kingdoms,138,,390,1007
+UVA,12508,Triangles in the Grid,43,,77,117
+UVA,12509,Tin Cutter II,24,,43,100
+UVA,12510,Collecting Coins,59,,138,548
+UVA,12511,Virus,183,,540,1211
+UVA,12512,Cross-Shaped Tests,14,,19,52
+UVA,12513,Safe Places,5,,6,29
+UVA,12514,Cookie,33,,78,329
+UVA,12515,Movie Police,267,,420,1005
+UVA,12516,Cinema-cola,232,,474,1564
+UVA,12517,Digit Sum,342,,648,1906
+UVA,12518,LCD Extravaganza,74,,114,238
+UVA,12519,The Farnsworth Parabox,130,,263,508
+UVA,12520,Square Garden,66,,148,468
+UVA,12521,Teamface,38,,60,131
+UVA,12522,The Imperial Problem,86,,170,244
+UVA,12523,Lazy Professor,78,,189,710
+UVA,12524,Arranging Heaps,148,,314,1023
+UVA,12525,Boxes and Stones,75,,130,226
+UVA,12526,Cellphone Typing,445,,905,1642
+UVA,12527,Different Digits,2044,,2889,3880
+UVA,12528,Environment Protection,131,,382,1227
+UVA,12529,Fix the Pond,165,,336,715
+UVA,12530,Game of Tiles,92,,182,583
+UVA,12531,Hours and Minutes,1799,,2615,3455
+UVA,12532,Interval Product,1846,,3328,7755
+UVA,12533,Joining Couples,106,,210,871
+UVA,12534,Binary Matrix 2,34,,122,494
+UVA,12535,Probability Through Experiments,67,,224,899
+UVA,12536,Optimal Spaceway,22,,41,80
+UVA,12537,Radiation,141,,557,1277
+UVA,12538,Version Controlled IDE,156,,688,1564
+UVA,12539,Ultimate Device,23,,59,176
+UVA,12540,Warp Speed II,36,,88,291
+UVA,12541,Birthdates,1722,,2332,3315
+UVA,12542,Prime Substring,663,,1110,1962
+UVA,12543,Longest Word,1019,,1563,4239
+UVA,12544,Beehives,187,,482,1445
+UVA,12545,Bits Equalizer,749,,1510,4034
+UVA,12546,LCM Pair Sum,119,,242,631
+UVA,12547,RNA Secondary Structure,47,,91,339
+UVA,12548,Old School Days,14,,27,92
+UVA,12549,Sentry Robots,183,,396,851
+UVA,12550,How do spiders walk on water?,115,,238,1271
+UVA,12551,Shares,50,,80,261
+UVA,12552,The Moon of Valencia,15,,36,164
+UVA,12553,Countdown,89,,191,531
+UVA,12554,"A Special ""Happy Birthday"" Song!!!",3055,,3722,6542
+UVA,12555,Baby Me,826,,1154,3204
+UVA,12556,"""Center"" of perimeter midpoints",57,,132,247
+UVA,12557,Detecting Code Snippets,26,,35,149
+UVA,12558,Egyptian Fractions (HARD version),137,,544,2074
+UVA,12559,Finding Black Circles,38,,80,276
+UVA,12560,Good Friends,20,,26,72
+UVA,12561,Hadamard Gate,19,,20,44
+UVA,12562,In an effort to Change History,11,,12,29
+UVA,12563,Jin Ge Jin Qu hao,495,,1788,4989
+UVA,12564,King of Fighters explained,65,,82,159
+UVA,12565,Lovely Magical Curves,4,,5,29
+UVA,12566,"Melody ""Creation""",17,,21,37
+UVA,12567,"Never7, Ever17 and Water",20,,41,175
+UVA,12568,Optimizing Key Signatur,15,,18,36
+UVA,12569,Planning mobile robot on Tree (EASY Version),120,,282,493
+UVA,12570,Qualle? Quale?,10,,10,30
+UVA,12571,Brother & Sisters!,295,,674,1676
+UVA,12572,RMQ Overkill,90,,167,279
+UVA,12573,Sohel Sir's Assignment,116,,255,1006
+UVA,12574,VOID,105,,231,415
+UVA,12575,Sin Cos Problem,221,,389,1443
+UVA,12576,Simply Loopy,58,,103,195
+UVA,12577,Hajj-e-Akbar,8723,,11469,18367
+UVA,12578,10:6:2,3781,,5249,14316
+UVA,12579,To Infinity and Beyond,31,,61,293
+UVA,12580,Yell Classico,109,,181,313
+UVA,12581,Divisibility,27,,60,219
+UVA,12582,Wedding of Sultan,857,,1218,1734
+UVA,12583,Memory Overflow,1004,,1480,3031
+UVA,12584,Laptop Chargers,39,,96,369
+UVA,12585,Poker End Games,120,,281,680
+UVA,12586,Overlapping Characters,170,,330,836
+UVA,12587,Reduce the Maintenance Cost,62,,207,651
+UVA,12588,Team Mathematics Olympiad,37,,99,500
+UVA,12589,Learning Vector,173,,424,1441
+UVA,12590,Guards II,23,,40,376
+UVA,12591,Beauty of Regular Polyhedron,6,,9,40
+UVA,1291,Dance Dance Revolution,125,,216,462
+UVA,1292,Strategic game,142,,307,566
+UVA,1293,Symbolic Derivation,9,,10,20
+UVA,1294,Mini-Spreadsheet,0,,0,59
+UVA,1295,Houses Divided,4,,5,75
+UVA,1296,Hotline,6,,6,22
+UVA,1297,The Minimum Number of Rooks,6,,8,20
+UVA,1298,Triathlon,53,,78,197
+UVA,1299,Frontier,11,,15,35
+UVA,1300,Parallel Expectations,8,,15,61
+UVA,1301,Fishnet,36,,37,50
+UVA,1302,Gnome Tetravex,4,,6,101
+UVA,1303,Wall,52,,88,204
+UVA,1304,Art Gallery,49,,86,176
+UVA,1305,Chocolate,10,,21,95
+UVA,1306,The K-League,64,,121,257
+UVA,1307,Equals are Equals,4,,9,13
+UVA,1308,Viva Confetti,62,,146,254
+UVA,1309,Sudoku,35,,52,108
+UVA,1310,One-way traffic,50,,92,201
+UVA,1311,Servers,3,,3,20
+UVA,1312,Cricket Field,138,,334,872
+UVA,1313,Ghost Busters,5,,6,45
+UVA,1314,Hidden Password,159,,307,995
+UVA,1315,Crazy tea party,199,,331,488
+UVA,1316,Supermarket,62,,118,337
+UVA,1317,Concert Hall Scheduling,60,,95,167
+UVA,1318,Monster Trap,36,,75,136
+UVA,1319,Maximum,64,,105,146
+UVA,1320,Bundling,6,,11,23
+UVA,1321,Dice contest,5,,6,26
+UVA,1322,Minimizing Maximizer,34,,60,159
+UVA,1323,Vivian's Problem,15,,28,43
+UVA,1324,Bring Them There,47,,103,344
+UVA,1325,Hypertransmission,74,,114,305
+UVA,1326,Jurassic Remains,198,,398,904
+UVA,1327,King's Quest,27,,36,94
+UVA,1328,Period,272,,547,1078
+UVA,1329,Corporative Network,407,,799,1967
+UVA,1330,City Game,267,,492,994
+UVA,1331,Minimax Triangulation,146,,516,1283
+UVA,1332,Kid's Problem,8,,9,29
+UVA,1333,Model Rocket Height,30,,31,32
+UVA,1334,Art of War,8,,13,23
+UVA,1335,Beijing Guards,233,,473,1350
+UVA,1336,Fixing the Great Wall,120,,375,1431
+UVA,1337,Inherit the Spheres,9,,14,27
+UVA,1338,Crossing Prisms,5,,5,15
+UVA,1339,Ancient Cipher,1624,,3497,6743
+UVA,1340,Find the Border,32,,88,172
+UVA,1341,Different Digits,33,,49,158
+UVA,1342,That Nice Euler Circuit,131,,233,508
+UVA,1343,The Rotation Game,160,,522,1547
+UVA,1344,Tian Ji -- The Horse Racing,190,,337,974
+UVA,1345,Jamie's Contact Groups,61,,99,240
+UVA,1346,Songs,186,,353,675
+UVA,1347,Tour,489,,1521,2448
+UVA,1348,Tomato Automata,17,,28,290
+UVA,1349,Optimal Bus Route Design,124,,285,470
+UVA,1350,Pinary,134,,248,347
+UVA,1351,String Compression,92,,172,237
+UVA,1352,Colored Cubes,200,,281,416
+UVA,1353,Organize Your Train,4,,6,16
+UVA,1354,Mobile Computing,201,,691,1477
+UVA,1355,Bingo,4,,6,24
+UVA,1356,Bridge,67,,115,190
+UVA,1357,Cells,46,,79,310
+UVA,1358,Generator,41,,54,86
+UVA,1359,Hills,12,,26,87
+UVA,1360,Model Rocket Height,8,,8,16
+UVA,1361,Cactus,34,,78,265
+UVA,1362,Exploring Pyramids,164,,265,459
+UVA,1363,Joseph's Problem,127,,293,899
+UVA,1364,Knights of the Round Table,156,,274,594
+UVA,1365,Wild West,28,,53,113
+UVA,1366,Martian Mining,162,,292,423
+UVA,1367,Nuclear Plants,16,,24,38
+UVA,1368,DNA Consensus String,1573,,3360,6633
+UVA,1369,Travel,20,,28,38
+UVA,1370,Roommate,17,,59,274
+UVA,1371,Period,43,,85,174
+UVA,1372,Log Jumping,29,,41,56
+UVA,1373,How I Wonder What You Are!,20,,28,33
+UVA,1374,Power Calculus,251,,896,1372
+UVA,1375,The Best Name for Your Baby,27,,48,77
+UVA,1376,Animal Run,76,,153,455
+UVA,1377,Ruler,56,,117,301
+UVA,1378,A Funny Stone Game,66,,131,313
+UVA,1379,Pitcher Rotation,44,,105,278
+UVA,1380,A Scheduling Problem,38,,64,177
+UVA,1381,Balancing the Scale,53,,88,118
+UVA,1382,Distant Galaxy,211,,480,970
+UVA,1383,Harmony Forever,26,,103,199
+UVA,1384,Interesting Yang Hui Triangle,32,,55,95
+UVA,1385,Billing Tables,17,,31,58
+UVA,1386,Cellular Automaton,88,,209,429
+UVA,1387,Driving Directions,4,,4,15
+UVA,1388,Graveyard,644,,931,1332
+UVA,1389,Hard Life,23,,39,104
+UVA,1390,Interconnect,35,,90,157
+UVA,1391,Astronauts,121,,234,574
+UVA,1392,DNA Regions,59,,88,180
+UVA,1393,Highways,117,,250,450
+UVA,1394,And Then There Was One,395,,652,1027
+UVA,1395,Slim Span,446,,1364,2659
+UVA,1396,Most Distant Point from the Sea,73,,103,150
+UVA,1397,The Teacher's Side of Math,21,,33,54
+UVA,1398,Meteor,234,,430,1005
+UVA,1399,Puzzle,41,,66,162
+UVA,1400,"""Ray, Pass me the dishes!""",270,,675,2029
+UVA,1401,Remember the Word,370,,899,2505
+UVA,1402,Robotic Sort,76,,120,517
+UVA,1403,Tough Water Level,4,,6,28
+UVA,1404,Prime k-tuple,56,,194,406
+UVA,1405,The Ultimate Password,5,,5,26
+UVA,1406,A Sequence of Numbers,45,,89,277
+UVA,1407,Caves,104,,207,433
+UVA,1408,Flight Control,13,,14,59
+UVA,1409,Go to Class,3,,6,33
+UVA,1410,Expensive Drink,7,,17,49
+UVA,1411,Ants,147,,366,903
+UVA,1412,Fund Management,82,,189,540
+UVA,1413,Game,10,,10,22
+UVA,1414,Hanoi Towers,45,,78,133
+UVA,1415,Gauss Prime,61,,108,291
+UVA,1416,Warfare And Logistics,112,,233,690
+UVA,1417,Traffic Jam,21,,28,57
+UVA,1418,WonderTeam,89,,137,179
+UVA,1421,Archery,47,,145,381
+UVA,1422,Processor,129,,265,651
+UVA,1423,Guess,177,,337,522
+UVA,1424,Salesmen,196,,323,570
+UVA,1425,Metal,26,,46,74
+UVA,1426,Discrete Square Roots,47,,74,146
+UVA,1427,Parade,67,,131,281
+UVA,1428,Ping pong,466,,893,2317
+UVA,1429,Timer,8,,8,21
+UVA,1430,Binary Integer,6,,14,27
+UVA,1431,Cryptography Reloaded,20,,26,67
+UVA,1432,Fire-Control System,49,,91,344
+UVA,1433,Aerodynamics,14,,20,54
+UVA,1434,YAPTCHA,80,,194,286
+UVA,1435,Business Cards,21,,32,93
+UVA,1436,Counting heaps,56,,119,347
+UVA,1437,String painter,93,,141,288
+UVA,1438,Asteroids,32,,37,77
+UVA,1439,Exclusive Access 2,47,,59,103
+UVA,1440,Inspection,31,,66,272
+UVA,1441,Accountant notes,7,,19,53
+UVA,1442,Cav,151,,312,455
+UVA,1443,Garlands,37,,65,133
+UVA,1444,Knowledge for the masses,15,,29,68
+UVA,1445,Cubist Artwork,134,,288,368
+UVA,1446,Origami Through-Hole,4,,5,6
+UVA,1447,Malfatti Circles,39,,68,90
+UVA,1448,Hobby on Rails,4,,8,9
+UVA,1449,Dominating Patterns,356,,866,1816
+UVA,1450,Airport,92,,225,601
+UVA,1451,Average,191,,504,1495
+UVA,1452,Jump,134,,285,427
+UVA,1453,Squares,94,,209,366
+UVA,1454,Sizeof,3,,3,3
+UVA,1455,Kingdom,97,,175,452
+UVA,1456,Cellular Network,132,,203,263
+UVA,1457,Decrypt Messages,11,,19,28
+UVA,1458,Exciting Time,6,,11,69
+UVA,1459,Flowers Placement,23,,58,119
+UVA,1460,Game Simulator,2,,2,9
+UVA,1461,Sudoku Extension,13,,21,37
+UVA,1462,Fuzzy Google Suggest,43,,203,356
+UVA,1463,Largest Empty Circle on a Segment,14,,27,38
+UVA,1464,Traffic Real Time Query System,18,,26,295
+UVA,1465,Searchlights,6,,13,32
+UVA,1466,String Phone,23,,40,162
+UVA,1467,Installations,54,,89,144
+UVA,1468,Restaurant,50,,76,138
+UVA,1469,Ardenia,32,,49,139
+UVA,1470,Casting Spells,27,,50,175
+UVA,1471,Defense Lines,242,,824,1943
+UVA,1472,Hanging Hats,4,,5,6
+UVA,1473,Dome of Circus,62,,117,263
+UVA,1474,Evacuation Plan,60,,143,413
+UVA,1475,Jungle Outpost,54,,151,308
+UVA,1476,Error Curves,120,,401,892
+UVA,1477,Snooker Referee,4,,7,17
+UVA,1478,Delta Wave,38,,83,165
+UVA,1479,Graph and Queries,127,,411,1244
+UVA,1480,Jewel,12,,21,106
+UVA,1481,Genome Evolution,72,,121,168
+UVA,1482,Playing With Stones,206,,317,522
+UVA,1483,Intersection of Two Prisms,7,,9,10
+UVA,1484,Alice and Bob's Trip,43,,98,161
+UVA,1485,Permutation Counting,48,,76,115
+UVA,1486,Transportation,48,,83,160
+UVA,1487,Volume,29,,37,128
+UVA,1488,Shade of Hallelujah Mountain,10,,12,19
+UVA,1489,Math teacher's homework,19,,20,48
+UVA,1490,Let the light guide us,7,,15,20
+UVA,1491,Compress the String,9,,11,31
+UVA,1492,Adding New Machine,33,,63,199
+UVA,1493,Draw a Mess,41,,113,477
+UVA,1494,Qin Shi Huang's National Road System,154,,268,573
+UVA,1495,Three Kingdom Chess,6,,8,22
+UVA,1496,Peach Blossom Spring,19,,41,75
+UVA,1497,A Letter to Programmers,6,,11,15
+UVA,1498,Activation,16,,26,54
+UVA,1499,Gem And Prince,8,,17,27
+UVA,1500,Alice and Bob,42,,73,174
+UVA,1501,Construct the Great Wall,12,,16,25
+UVA,1502,GRE Words,21,,62,272
+UVA,1503,Ji-Tu Problem,5,,5,26
+UVA,1504,Genghis Khan the Conqueror,41,,119,271
+UVA,1505,Flood-it!,24,,91,248
+UVA,1506,Running relay,12,,20,89
+UVA,1507,Shadow,2,,2,5
+UVA,1508,Equipment,92,,138,278
+UVA,1509,Leet,95,,164,348
+UVA,1510,Neon Sign,90,,129,175
+UVA,1511,Soju,52,,127,206
+UVA,1512,ASCII Expression,5,,5,8
+UVA,1513,Movie collection,262,,522,1328
+UVA,1514,Piece it together,67,,146,397
+UVA,1515,Pool construction,107,,276,571
+UVA,1516,Smoking gun,30,,45,144
+UVA,1517,Tracking RFIDs,24,,41,106
+UVA,1518,Train delays,15,,28,104
+UVA,1519,Dictionary Size,37,,56,169
+UVA,1520,Flights,11,,19,60
+UVA,1521,GCD Guessing Game,49,,87,168
+UVA,1419,Ugly Windows,105,,179,529
+UVA,1420,Priest John's Busiest Day,70,,167,443
+UVA,12592,Slogan Learning of Princess,1699,,2354,3077
+UVA,12593,Next Generation Macaw,63,,185,392
+UVA,12594,Naming Babies,30,,86,242
+UVA,12595,Galactic Transmission,42,,148,404
+UVA,12596,Recursive Texting,75,,167,427
+UVA,12597,Macaw Baby Learns Computer,44,,88,187
+UVA,12598,Starting School,105,,237,588
+UVA,12599,Black and White,118,,229,542
+UVA,12600,Counting Necklaces,27,,47,148
+UVA,12601,Toll Management II,14,,20,114
+UVA,12602,Nice Licence Plates,2118,,2759,4322
+UVA,12603,Bouncing Bowling Ball,50,,74,278
+UVA,12604,Caesar Cipher,105,,185,444
+UVA,12605,Ripple Effect,101,,140,214
+UVA,12606,Evaluating Logic Expressions,29,,32,54
+UVA,12607,Amazing Maze,52,,117,289
+UVA,12608,Garbage Collection,282,,420,916
+UVA,12609,Sequential Thinking,33,,55,105
+UVA,12610,Attractive Grid,38,,76,331
+UVA,12611,Beautiful Flag,1679,,2169,3265
+UVA,12612,Cube Killer,52,,107,291
+UVA,12613,Distinct Substring 2,41,,97,311
+UVA,12614,Earn For Future,1159,,1635,2853
+UVA,12615,Fantastic Network,10,,16,72
+UVA,12616,Gymman vs Fila,62,,170,539
+UVA,12617,How Lader,40,,75,280
+UVA,12618,I Puzzle You,22,,74,210
+UVA,12619,Just Make A Wish,130,,295,1232
+UVA,1523,Helicopter,74,,99,197
+UVA,1524,Hot or Cold?,40,,55,101
+UVA,1525,Falling Leaves,51,,62,106
+UVA,1526,Edge Detection,19,,28,47
+UVA,1527,Instruens Fabulam,12,,21,30
+UVA,1528,Reserve Bookshelf,8,,8,22
+UVA,1529,Clock,42,,53,135
+UVA,1530,Floating Point Numbers,34,,54,151
+UVA,1531,Problem Bee,23,,35,210
+UVA,1532,A Well-Formed Problem,4,,4,32
+UVA,1533,Moving Pegs,86,,156,281
+UVA,1534,Taekwondo,41,,56,143
+UVA,1535,Lost Lists,3,,4,34
+UVA,1536,Coins,7,,19,110
+UVA,1537,Picnic Planning,28,,38,147
+UVA,1538,Poly-polygonal Numbers,10,,16,34
+UVA,1539,Rational Approximation,8,,10,44
+UVA,1540,Checker's Check,6,,6,16
+UVA,1541,To Bet or Not To Bet,28,,47,82
+UVA,1542,BSP Trees,9,,9,24
+UVA,1543,Telescope,64,,124,172
+UVA,1544,Simple Arithmetics,23,,81,210
+UVA,1545,The Bulk,6,,11,16
+UVA,1546,Complete the sequence!,31,,45,62
+UVA,1547,Direct Visibility,5,,6,9
+UVA,1548,The Game of Master-Mind,20,,31,51
+UVA,1549,Lattice Point,37,,45,84
+UVA,1550,Coin Exchange,9,,9,28
+UVA,1551,Cog-Wheels,4,,5,66
+UVA,1552,Interactive Permutation Guessing,0,,0,38
+UVA,1553,Buffer Manager,11,,15,27
+UVA,1554,Binary Search,46,,69,149
+UVA,1555,Garland,94,,149,277
+UVA,1556,Disk Tree,91,,120,471
+UVA,1557,Calendar Game,50,,69,106
+UVA,1558,Number Game,47,,74,250
+UVA,1559,Nim,51,,66,115
+UVA,1560,Extended Lights Out,43,,66,86
+UVA,1561,Cycle Game,23,,46,59
+UVA,1562,Balanced Chemical Equations,7,,10,36
+UVA,1563,SETI,18,,25,28
+UVA,1564,Widget Factory,28,,54,117
+UVA,1565,Stake Your Claim,6,,13,15
+UVA,1566,John,56,,75,127
+UVA,1567,A simple stone game,15,,17,32
+UVA,12620,Fibonacci Sum,369,,583,1141
+UVA,12621,On a Diet,207,,300,510
+UVA,12622,Fast Fouriest Transform,16,,27,169
+UVA,12623,Choosing Presents,21,,28,110
+UVA,12624,Moon Silhouettes,7,,17,47
+UVA,12625,Shortest Gas Paths,43,,110,436
+UVA,12626,I ❤ Pizza,2173,,2641,4389
+UVA,1568,Domino Puzzle,10,,13,33
+UVA,1569,Multiple,31,,55,142
+UVA,12627,Erratic Expansion,395,,954,1777
+UVA,12628,Two Triangles in 3D,8,,11,57
+UVA,12629,Rectangle XOR Game,32,,63,117
+UVA,12630,Equilateral Triangle in a Triangle Grid,153,,302,787
+UVA,12631,Chocolate and Money,33,,97,210
+UVA,12632,Sum of Totatives,24,,39,109
+UVA,12633,Super Rooks on Chessboard,64,,209,575
+UVA,12634,Pairing Boys and Girls,40,,101,228
+UVA,12635,Bisection Method,48,,96,252
+UVA,12636,Disguised Giveaway,61,,156,1030
+UVA,1570,Accelerator,0,,0,39
+UVA,1571,How I Mathematician Wonder What You Are!,26,,35,48
+UVA,1572,Self-Assembly,266,,593,1418
+UVA,1573,"Hey, Better Bettor",22,,43,78
+UVA,1574,Surely You Congest,54,,77,235
+UVA,1575,Factors,99,,158,388
+UVA,1576,Harvard,13,,48,67
+UVA,1577,Low Power,140,,313,691
+UVA,1578,Map Tiles,5,,5,50
+UVA,1579,Matryoshka,105,,162,279
+UVA,1580,Pirate Chest,38,,62,119
+UVA,1581,Pollution Solution,50,,79,214
+UVA,1582,Up a Tree,8,,36,45
+UVA,12646,Zero or One,3265,,4642,7104
+UVA,12647,Balloon,79,,149,425
+UVA,12648,Boss,200,,316,727
+UVA,12649,Folding Machine,125,,222,324
+UVA,12650,Dangerous Dive,1090,,1488,3063
+UVA,12651,Triangles,231,,517,998
+UVA,12652,Lines of Containers,139,,236,505
+UVA,12653,Buses,128,,227,497
+UVA,12654,Patches,189,,325,502
+UVA,12655,Trucks,114,,271,625
+UVA,12637,30 Minutes or Less,97,,175,366
+UVA,12638,Gödel's Dream,76,,126,167
+UVA,12639,Hexagonal Puzzle,88,,167,374
+UVA,12640,Largest Sum Game,585,,844,1535
+UVA,12641,Reodrnreig Lteetrs in Wrods,190,,272,795
+UVA,12642,Shuffling Cards,111,,159,426
+UVA,12643,Tennis Rounds,556,,758,1238
+UVA,12644,Vocabulary,166,,265,535
+UVA,12645,Water Supply,118,,186,465
+UVA,12656,Almost Palindrome,80,,204,403
+UVA,12657,Boxes in a Line,566,,1748,6000
+UVA,12658,Character Recognition?,308,,624,958
+UVA,12659,Damaging Your Spreadsheet (Spreadsheet Tracking II),7,,10,59
+UVA,12660,Ears Cutting,26,,58,316
+UVA,12661,Funny Car Racing,160,,610,1554
+UVA,12662,Good Teacher,434,,690,1315
+UVA,12663,"High bridge, low bridge",100,,319,734
+UVA,12664,Interesting Calculator,72,,237,591
+UVA,12665,Joking with Fermat's Last Theorem,164,,403,668
+UVA,12666,Killer Puzzle,4,,9,28
+UVA,12667,Last Blood,484,,757,1260
+UVA,12668,Attacking rooks,224,,389,998
+UVA,12669,Blogger language,46,,82,435
+UVA,12670,Counting ones,346,,604,1007
+UVA,12671,Disjoint water supply,130,,209,431
+UVA,12672,Eleven,100,,186,433
+UVA,12673,Football,533,,793,1825
+UVA,12674,Go up the ultras,113,,172,727
+UVA,12675,Hide and seek,46,,84,285
+UVA,12676,Inverting Huffman,70,,102,277
+UVA,12677,Join two kingdoms,108,,222,727
+UVA,12678,Mixing Colours,23,,40,172
+UVA,12679,It Can Be Arranged,60,,91,195
+UVA,12680,Shopping Malls,67,,121,434
+UVA,12681,Decoding the Hallway,49,,79,151
+UVA,12682,Joe is learning to speak,41,,79,212
+UVA,12683,Odd and Even Zeroes,76,,138,226
+UVA,12684,VivoParc,142,,275,1180
+UVA,12685,Binary Tree,68,,115,264
+UVA,12686,Trending Topic,77,,133,315
+UVA,12687,Cleaning the Hallway,6,,8,55
+UVA,12688,Spanning trees in a secure lock pattern,74,,170,275
+UVA,12689,Teaching Hazard,32,,50,88
+UVA,12690,Counting Lattice Squares,76,,122,315
+UVA,12691,Seven Segment Display,41,,56,193
+UVA,12692,Airport Sort,63,,105,158
+UVA,12693,Boxes,39,,79,154
+UVA,12694,Meeting Room Arrangement,371,,522,744
+UVA,12695,Traveling Fool,17,,25,54
+UVA,12696,Cabin Baggage,1471,,1827,3813
+UVA,12697,Minimal Subarray Length,159,,335,887
+UVA,12698,Safari Park,8,,14,71
+UVA,12699,See Emily Play,91,,187,335
+UVA,12700,Banglawash,1751,,2448,8674
+UVA,12701,The Twin Head Dragon,57,,110,269
+UVA,12702,Dilation,110,,194,273
+UVA,12703,Little Rakin,246,,366,668
+UVA,12704,Little Masters,1727,,2090,2807
+UVA,12705,Breaking Board,303,,409,606
+UVA,12706,Zero-Knowledge Protocol,62,,105,296
+UVA,12707,Block Meh,60,,101,315
+UVA,12708,GCD The Largest,980,,1552,2365
+UVA,12709,Falling Ants,772,,1257,2407
+UVA,12710,Game of MJ,57,,112,453
+UVA,12711,Game of Throne,19,,37,168
+UVA,12712,Pattern Locker,355,,640,1485
+UVA,12713,Pearl Chains,25,,85,196
+UVA,12714,Two Points Revisited,161,,423,899
+UVA,12715,Watching the Kangaroo,110,,282,833
+UVA,12716,GCD XOR,381,,1159,1927
+UVA,12717,Fiasco,81,,218,525
+UVA,12718,Dromicpalin Substrings,374,,750,1150
+UVA,12719,Fill the Cuboid,25,,47,283
+UVA,1583,Digit Generator,1851,,4182,8019
+UVA,1584,Circular Sequence,1695,,3741,5779
+UVA,1585,Score,5909,,10757,19505
+UVA,1586,Molar mass,3329,,6307,11635
+UVA,1587,Box,1053,,2497,8450
+UVA,1588,Kickdown,863,,2094,6052
+UVA,1589,Xiangqi,530,,1423,7346
+UVA,1590,IP Networks,480,,1057,3074
+UVA,1591,Data Mining,172,,356,729
+UVA,1592,Database,486,,1466,4111
+UVA,1593,Alignment of Code,619,,1529,3985
+UVA,1594,Ducci Sequence,773,,2017,3476
+UVA,1595,Symmetry,648,,1607,3693
+UVA,1596,Bug Hunt,201,,417,914
+UVA,1597,Searching the Web,169,,431,1816
+UVA,1598,Exchange,102,,169,569
+UVA,1599,Ideal Path,267,,903,4121
+UVA,1600,Patrol Robot,429,,1198,3075
+UVA,1601,The Morning after Halloween,208,,938,2016
+UVA,1602,Lattice Animals,111,,302,481
+UVA,1603,Square Destroyer,78,,182,381
+UVA,1604,Cubic Eight-Puzzle,50,,118,211
+UVA,1605,Building for UN,323,,823,1496
+UVA,1606,Amphiphilic Carbon Molecules,139,,372,655
+UVA,1607,Gates,86,,200,493
+UVA,1608,Non-boring sequences,165,,611,1878
+UVA,1609,Foul Play,83,,148,297
+UVA,1610,Party Games,256,,695,2375
+UVA,1611,Crane,149,,350,669
+UVA,1612,Guess,135,,352,1186
+UVA,1613,K-Graph Oddity,86,,190,570
+UVA,1614,Hell on the Markets,155,,424,995
+UVA,1615,Highway,124,,343,717
+UVA,1616,Caravan Robbers,71,,193,681
+UVA,1617,Laptop,81,,169,365
+UVA,1618,Weak Key,78,,182,381
+UVA,1619,Feel Good,119,,334,1518
+UVA,1620,Lazy Susan,61,,153,262
+UVA,1621,Jumping Around,25,,39,426
+UVA,1622,Robot,38,,82,309
+UVA,1623,Enter The Dragon,74,,165,373
+UVA,1624,Knots,25,,30,73
+UVA,1625,Color Length,249,,884,1736
+UVA,1626,Brackets sequence,292,,1198,4314
+UVA,1627,Team them up!,103,,226,686
+UVA,1628,Pizza Delivery,39,,65,133
+UVA,1629,Cake slicing,172,,586,1189
+UVA,1630,Folding,96,,312,509
+UVA,1631,Locker,89,,215,384
+UVA,1632,Alibaba,129,,416,939
+UVA,1633,Dyslexic Gollum,50,,113,273
+UVA,1634,The Picnic,18,,20,28
+UVA,1635,Irrelevant Elements,187,,617,2260
+UVA,1636,Headshot,355,,784,1460
+UVA,1637,Double Patience,121,,342,491
+UVA,1638,Pole Arrangement,171,,399,541
+UVA,1639,Candy,125,,405,1019
+UVA,1640,The Counting Problem,128,,274,512
+UVA,1641,ASCII Area,198,,378,656
+UVA,1642,Magical GCD,133,,335,847
+UVA,1643,Angle and Squares,81,,149,285
+UVA,1644,Prime Gap,680,,1244,1782
+UVA,1645,Count,153,,286,365
+UVA,1646,Edge Case,102,,188,275
+UVA,1647,Computer Transformation,142,,228,382
+UVA,1648,Business Center,89,,138,325
+UVA,1649,Binomial coefficients,66,,147,323
+UVA,1650,Number String,46,,89,165
+UVA,1651,Binary Operation,6,,10,24
+UVA,1652,Fibonacci System,9,,9,22
+UVA,1653,Yet Another Multiple Problem,31,,73,149
+UVA,1654,Pairs of integers,31,,36,127
+UVA,1655,Exam,13,,19,45
+UVA,1656,Exponential Towers,17,,25,29
+UVA,1657,Game,6,,8,13
+UVA,1658,Admiral,161,,491,1117
+UVA,1659,Help Little Laura,46,,95,228
+UVA,1660,Cable TV Network,99,,253,426
+UVA,1661,Equation,34,,42,184
+UVA,1662,Brackets Removal ,22,,25,57
+UVA,1663,Purifying Machine,55,,165,458
+UVA,1664,Conquer a New Region,78,,190,447
+UVA,1665,Islands,80,,206,514
+UVA,1666,Walk,22,,27,48
+UVA,1667,Network Mess,24,,44,110
+UVA,1668,Let's Go Green,34,,57,78
+UVA,1669,Holiday's Accommodatio,35,,61,102
+UVA,1670,Kingdom Roadmap,18,,23,246
+UVA,1671,History of Languages,18,,21,37
+UVA,1672,Disjoint Regular Expressions,8,,31,66
+UVA,1673,str2int,18,,35,168
+UVA,1674,Lightning Energy Report,58,,117,238
+UVA,1675,Kingdom Reunion,3,,7,23
+UVA,1676,GRE Words Revenge,22,,54,112
+UVA,1677,Cycling,4,,4,20
+UVA,1678,Huzita Axiom 6,5,,9,23
+UVA,1679,Easy Geometry,6,,7,42
+UVA,1680,Journey,3,,3,9
+UVA,1681,Dictionary,3,,3,21
+UVA,1682,Exclusive Access,3,,3,9
+UVA,1683,In case of failure,26,,59,270
+UVA,1684,Escape Plan,9,,11,35
+UVA,1685,Enjoyable Commutation,7,,13,22
+UVA,1686,Tiling,10,,11,15
+UVA,1687,Slicing Tree,7,,12,21
+UVA,1688,Roof,2,,6,13
+UVA,1689,International Event,3,,4,7
+UVA,1690,Find a Minor,2,,2,14
+UVA,1691,Hip To Be Square,6,,10,43
+UVA,1692,Labyrinth of the Minotaur,8,,9,26
+UVA,1693,XAR,3,,3,5
+UVA,1694,History course,4,,6,17
+UVA,1695,Escape,7,,11,34
+UVA,1696,Traveling Spiders,3,,4,142
+UVA,12720,Algorithm of Phil,186,,640,1821
+UVA,12721,Cheap B-Subsequence,72,,242,393
+UVA,12722,Cryptography of the Floating Key,44,,136,325
+UVA,12723,"Dudu, the Possum",55,,237,373
+UVA,12724,Hnelpig Arnde,107,,331,786
+UVA,12725,Fat and Orial,309,,707,1519
+UVA,12726,One Friend at a Time,67,,157,437
+UVA,12727,The Sightseeing Tour,44,,79,281
+UVA,12728,Super Circumference,17,,30,112
+UVA,12729,Squares Game,85,,291,535
+UVA,12730,Skyrk's Bar,53,,137,210
+UVA,12731,Mysterious Space Station,0,,0,3
+UVA,12732,Guess the Fake Coin,12,,39,328
+UVA,12733,Guess the Fake Coin II,4,,5,34
+UVA,12734,Guess the String,0,,0,40
+UVA,12735,Guess the Missing Number,10,,16,177
+UVA,12736,Guess the Convex Polygon,0,,0,1
+UVA,12737,"Team star, Team moon",4,,4,15
+UVA,12738,Explore the Dune,0,,0,6
+UVA,12739,Xmas Gift,1,,1,40
+UVA,12740,Stone Age,0,,0,6
+UVA,12741,Weights of Toys,3,,4,12
+UVA,12742,Mining in Starcraft,11,,16,36
+UVA,12743,Search For Patterns,22,,54,107
+UVA,12744,Just Some Permutations - 2,20,,70,95
+UVA,12745,Wishmaster,45,,91,204
+UVA,12746,Reconstructing the Grid,8,,22,41
+UVA,12747,Back to Edit Distance,90,,145,322
+UVA,12748,Wifi Access,322,,432,737
+UVA,12749,John's Tree,82,,116,435
+UVA,12750,Keep Rafa at Chelsea,561,,774,1202
+UVA,12751,An Interesting Game,896,,1141,1584
+UVA,12752,Barbarian Horde,10,,20,94
+UVA,12753,Countree Song,25,,56,90
+UVA,12754,Display Problem,77,,116,399
+UVA,12755,Easy Puzzle,52,,89,269
+UVA,12756,Flat Triangle,7,,8,37
+UVA,12757,Gotham’s Rail Track,3,,5,55
+UVA,12758,Help Gollum,10,,25,40
+UVA,12759,Increasingly Strict Sequence,11,,20,71
+UVA,12760,Arcurve's Big Project,13,,17,45
+UVA,12761,Blue Chips,28,,66,374
+UVA,12762,Counting P-Hulls,14,,17,47
+UVA,12763,Dicey Dice,24,,40,66
+UVA,12764,Exercising Emoticons,57,,93,156
+UVA,12765,Factorial Products,204,,367,1080
+UVA,12766,Grinding Grid,19,,30,55
+UVA,12767,Harvesting Crops,11,,16,38
+UVA,12768,Inspired Procrastination,22,,43,169
+UVA,12769,Kool Konstructions,64,,92,166
+UVA,12770,Palinagram,182,,332,639
+UVA,12771,Meeting Point of Circles,11,,18,36
+UVA,12772,Dynamic accessible Pairs,3,,5,24
+UVA,12773,Gauss Reborn,5,,13,16
+UVA,12774,Game of Throne Season 2,19,,27,87
+UVA,12775,Gift Dilemma,41,,75,182
+UVA,12776,Query for Divisor-free Numbers,29,,39,92
+UVA,12777,Palindromic Sums,10,,19,31
+UVA,12778,Minimum Sum,46,,71,208
+UVA,12779,The Largest Circle,46,,67,288
+UVA,12780,Kiano The Clause!,14,,22,58
+UVA,1697,Baggage,12,,14,74
+UVA,1698,Buffed Buffet,5,,8,44
+UVA,1699,Crane Balancing,22,,30,166
+UVA,1700,Game Strategy,27,,42,263
+UVA,1701,Maze Reduction,8,,9,26
+UVA,1702,Messenger,8,,11,34
+UVA,1703,Metal Processing Plant,8,,9,39
+UVA,1704,Pachinko,6,,11,22
+UVA,1705,Sensor Network,13,,16,253
+UVA,1706,Skiing,5,,6,31
+UVA,1707,Surveillance,35,,69,177
+UVA,1708,Wire Crossing,7,,10,55
+UVA,12781,Alternation Formulae,9,,10,37
+UVA,12782,Magic Squares,11,,16,133
+UVA,12783,Weak Links,202,,353,692
+UVA,12784,Don't Care,63,,91,198
+UVA,12785,Emacs Plugin,92,,117,471
+UVA,12786,Friendship Networks,160,,263,822
+UVA,12787,Looking-Glass House,71,,154,604
+UVA,12788,Smooth Factor,142,,225,355
+UVA,12789,Space Invaders,58,,85,319
+UVA,12790,"The ""Win-stay and Lose-shift"" Strategy",64,,101,304
+UVA,12791,Lap,652,,1069,1489
+UVA,12792,Shuffled Deck,234,,424,639
+UVA,12793,Confederation,112,,166,308
+UVA,12794,Miss Worm,93,,193,413
+UVA,12795,Ecology,50,,104,538
+UVA,12796,Teletransport,121,,162,278
+UVA,12797,Letters,185,,271,637
+UVA,12798,Handball,1007,,1518,2209
+UVA,12799,RSA,181,,337,1271
+UVA,12800,Cut,69,,171,551
+UVA,12801,Grandpa Pepe's Pizza,173,,276,929
+UVA,12802,Gift From the Gods,752,,1097,2328
+UVA,12803,Arithmetic Expressions,97,,186,632
+UVA,12804,The Necronomicon of Computing,55,,89,244
+UVA,12805,Raiders of the Lost Sign,102,,185,279
+UVA,12806,Grand Tichu!,21,,50,100
+UVA,12807,GPS,19,,51,108
+UVA,12808,Banning Balconing,304,,519,776
+UVA,12809,Binary Search Tree,41,,50,104
+UVA,12810,Sumthing,51,,106,126
+UVA,12811,The Turtle's Journey,53,,115,275
+UVA,12812,The Largest Diamond-Shaped Kite,36,,132,211
+UVA,12813,Mocking the Precision,32,,49,207
+UVA,12814,Greedy's Pizza,30,,60,296
+UVA,12815,Taking the Stairs,36,,71,97
+UVA,12816,Isosceles Triangles,48,,82,133
+UVA,12817,Sleight of Hand,31,,102,126
+UVA,12818,Arc and Point,36,,65,297
+UVA,12819,Block Toy,23,,42,60
+UVA,12820,Cool Word,455,,725,1155
+UVA,12821,Double Shortest Paths,62,,153,407
+UVA,12822,Extraordinarily large LED,141,,216,274
+UVA,12823,Four coloring of a map,14,,22,37
+UVA,12824,Giving directions to the tree,3,,3,6
+UVA,12825,Happy Robot,45,,86,150
+UVA,12826,Incomplete Chessboard,154,,311,587
+UVA,12827,Just another pachinko-like machine,3,,4,49
+UVA,12828,Kick the ball!,43,,89,114
+UVA,12829,Just another pachinko-like machine (II),6,,12,53
+UVA,12830,A Football Stadium,38,,71,125
+UVA,12831,Bob the Builder,33,,82,297
+UVA,12832,Chicken Lover,83,,152,354
+UVA,12833,Daily Potato,29,,102,178
+UVA,12834,Extreme Terror,211,,370,778
+UVA,12835,Fitting Pipes Again,8,,10,30
+UVA,12836,Gain Battle Power,35,,61,151
+UVA,12837,Hasmot Ali Professor,25,,50,155
+UVA,12838,Identity Redemption,5,,7,34
+UVA,12839,Judge in Queue,46,,70,120
+UVA,12840,The Archery Puzzle,125,,188,375
+UVA,12841,In Puzzleland (III),62,,83,139
+UVA,12842,The Courier Problem,48,,66,118
+UVA,12843,Disputed Claims,39,,62,144
+UVA,12844,Outwitting the Weighing Machine,160,,222,337
+UVA,12845,The Jolly Friar's Puzzle,23,,27,44
+UVA,12846,A Daisy Puzzle Game,33,,42,108
+UVA,12847,Who Will Get the Nomination?,13,,22,43
+UVA,12848,In Puzzleland (IV),65,,82,107
+UVA,12849,Mother's Jam Puzzle,41,,85,195
+UVA,12850,Skating Puzzle,52,,100,336
+UVA,12851,The Tinker's Puzzle,118,,147,199
+UVA,12852,The Miser's Puzzle,72,,155,203
+UVA,12853,The Pony Cart Problem,71,,109,141
+UVA,12854,Automated Checking Machine,1161,,1410,2743
+UVA,12855,Black and white stones,143,,288,665
+UVA,12856,Counting substhreengs,182,,308,749
+UVA,12857,Dividing the names,35,,59,152
+UVA,12858,Even distribution,79,,116,211
+UVA,12859,Fence the vegetables,26,,43,67
+UVA,12860,Galaxy collision,104,,180,492
+UVA,12861,Help cupid,194,,319,648
+UVA,12862,Intrepid climber,141,,213,429
+UVA,12863,Journey through the kingdom,31,,48,216
+UVA,12864,Knights of the Round Table,27,,48,92
+UVA,12865,Volume Control,37,,93,247
+UVA,12866,Combination,48,,153,279
+UVA,12867,Mesh Cutter,0,,0,4
+UVA,12868,Location,3,,4,78
+UVA,12869,Zeroes,168,,332,605
+UVA,12870,Fishing,71,,161,299
+UVA,12871,Landmine Cleaner,28,,52,112
+UVA,12872,Hidden Plus Signs,27,,44,101
+UVA,12873,The Programmers,117,,229,380
+UVA,12874,Blanket,49,,96,291
+UVA,12875,Concert Tour,90,,153,197
+UVA,12876,City,65,,135,236
+UVA,12877,GREAT + SWERC = PORTO,62,,178,378
+UVA,12878,Flowery Trails,145,,302,695
+UVA,12879,Golf Bot,123,,331,895
+UVA,12880,Book Club,92,,132,385
+UVA,12881,Ricochet Robots,69,,196,372
+UVA,12882,City Park,30,,49,191
+UVA,12883,Playing with Geometry,18,,25,45
+UVA,12884,Money Transfers,17,,17,56
+UVA,12885,The Safe Secret,27,,62,116
+UVA,12886,The Big Painting,82,,243,593
+UVA,12887,The Soldier's Dilemma,63,,113,200
+UVA,12888,Count LCM,46,,113,237
+UVA,12889,Happy Birthday Tutu,55,,115,282
+UVA,12890,Easy Peasy,95,,206,296
+UVA,12891,Risk of Trading,21,,37,162
+UVA,12892,Light Combat Aircraft,63,,125,152
+UVA,12893,Count It,380,,563,765
+UVA,12894,Perfect Flag,424,,586,845
+UVA,12895,Armstrong Number,1289,,1728,2707
+UVA,12896,Mobile SMS,921,,1297,1997
+UVA,12897,Decoding Baby Boos,479,,895,2769
+UVA,12898,And Or,216,,567,1782
+UVA,12899,A game for kids,31,,81,167
+UVA,12900,Flood in Gridland,10,,17,59
+UVA,12901,Refraction,64,,196,370
+UVA,12902,Reverse Polish Notation,32,,55,229
+UVA,12903,Just Some Permutations,10,,19,21
+UVA,12904,Load Balancing,102,,217,518
+UVA,12905,Volume of Revolution,38,,56,107
+UVA,12906,Maximum Score,61,,166,470
+UVA,12907,Toby the adventurer,25,,40,92
+UVA,12908,The book thief,400,,884,1923
+UVA,12909,Numeric Center,64,,115,170
+UVA,12910,Snakes and Ladders,13,,18,58
+UVA,12911,Subset sum,106,,200,545
+UVA,12912,Josephus lottery,21,,35,162
+UVA,12913,Grounded,11,,18,27
+UVA,12914,Sum of all permutations,19,,27,33
+UVA,12915,TripleCorn,9,,14,22
+UVA,1709,Amalgamated Artichokes,230,,487,1438
+UVA,1710,Asteroids,8,,17,46
+UVA,1711,Catering,34,,50,162
+UVA,1712,Cutting Cheese,55,,81,233
+UVA,1713,Evolution in Parallel,14,,27,104
+UVA,1714,Keyboarding,41,,72,201
+UVA,1715,Pipe Stream,2,,2,11
+UVA,1716,Qanat,11,,13,22
+UVA,1717,Ship Traffic,32,,47,133
+UVA,1718,Tile Cutting,26,,57,197
+UVA,1719,Tours,7,,9,24
+UVA,1720,Weather Report,23,,38,63
+UVA,1721,Window Manager,4,,4,30
+UVA,12916,Perfect Cyclic String,89,,121,217
+UVA,12917,Prop hunt!,398,,461,690
+UVA,12918,Lucky Thief,335,,514,713
+UVA,12919,Making some holes,40,,73,129
+UVA,12920,Patty's Gift,13,,21,116
+UVA,12921,Triple shot,35,,64,140
+UVA,12922,Crossing the river,20,,45,153
+UVA,12923,The Island,20,,20,42
+UVA,12924,Immortal Rabbits,23,,36,76
+UVA,12925,Race against the clock,5,,7,41
+UVA,12926,Trouble in Terrorist Town,14,,18,32
+UVA,12927,Points Cover,13,,16,53
+UVA,12928,Death Star,10,,11,35
+UVA,12929,Aerial Tramway,17,,24,49
+UVA,12930,Bigger or Smaller,142,,184,382
+UVA,12931,Common Area,19,,27,98
+UVA,12932,Defeat the Wrong Program,48,,88,147
+UVA,12933,Easy Graph Problem?,38,,52,108
+UVA,12934,Factorial Division,50,,81,169
+UVA,12935,Graph Guessing,4,,6,17
+UVA,12936,Hehe,46,,63,118
+UVA,12937,Internet of Lights and Switches,27,,69,134
+UVA,12938,Just Another Easy Problem,126,,154,315
+UVA,12939,Keep Fit!,13,,19,31
+UVA,12940,Next Palindromic Numbers,118,,168,558
+UVA,12941,A Subway for Boroughgraph,3,,6,110
+UVA,12942,Sub-expression Counting,97,,128,389
+UVA,12943,Designing an Electronic Device,45,,82,208
+UVA,12944,Earthquake Disaster,48,,81,193
+UVA,12945,Farmer Jane,69,,90,193
+UVA,12946,Peanoland contacting Gaussland,133,,181,246
+UVA,12947,Texting with Grandma,39,,52,204
+UVA,12948,Interstellar Travel,41,,57,198
+UVA,12949,Voting Duels,34,,43,179
+UVA,12950,Even Obsession,144,,198,475
+UVA,12951,Stock Market,152,,265,670
+UVA,12952,Tri-du,862,,1134,1626
+UVA,12953,Puzzle,101,,124,237
+UVA,12954,Spiral,118,,143,453
+UVA,12955,Factorial,348,,440,644
+UVA,12956,Curious Guardians,54,,79,163
+UVA,12957,Rectangle Park,98,,115,240
+UVA,12958,Ominobox,6,,13,209
+UVA,12959,Strategy Game,320,,388,648
+UVA,12960,Palindrome,113,,162,341
+UVA,12961,Lottery,62,,90,210
+UVA,12962,Average Reuse Distance,44,,57,106
+UVA,12963,Astragalus Nitidiflorus,24,,29,63
+UVA,12964,The Cup Turning Machine,6,,7,48
+UVA,12965,Angry Bids,52,,79,179
+UVA,12966,Bishop's walk,35,,39,59
+UVA,12967,Spray Graphs,113,,145,194
+UVA,12968,EuroBasket Champions,28,,32,89
+UVA,12969,Foes of Friends,9,,15,70
+UVA,12970,Alcoholic Pilots,81,,92,185
+UVA,12971,Bargaining,3,,3,10
+UVA,12972,Cuban Challenge,24,,46,75
+UVA,12973,Drinking Game,10,,69,98
+UVA,12974,Exquisite Strings,28,,60,138
+UVA,12975,File Transmission,11,,27,121
+UVA,12976,Greedy Artisan,25,,38,69
+UVA,12977,Heavy Luggage,3,,8,133
+UVA,12978,Incredulous Ed,21,,21,28
+UVA,12979,Jair vs Chadan,4,,14,20
+UVA,12980,Keypad Problem,5,,13,79
+UVA,1722,Family,2,,2,28
+UVA,1723,Intervals,2,,2,74
+UVA,1724,Solitaire,15,,35,71
+UVA,1725,Timetable,2,,2,20
+UVA,12981,Secret Master Plan,114,,165,258
+UVA,12982,Build Towers,3,,3,10
+UVA,12983,The Battle of Chibi,22,,72,164
+UVA,12984,Pick The Sticks,21,,73,212
+UVA,12985,Ba Gua Zhen,8,,18,45
+UVA,12986,The Battle of Guandu,12,,16,23
+UVA,12987,Ancient Go,28,,53,131
+UVA,12988,Sudoku,72,,97,206
+UVA,12989,Mahjong,4,,8,9
+UVA,12990,Walk Around The Campsite,2,,2,16
+UVA,12991,Game Rooms,12,,23,92
+UVA,12992,Huatuo's Medicine,453,,524,820
+UVA,12993,Morphing Bitmaps,13,,17,55
+UVA,12994,Palindromic Bases,21,,26,79
+UVA,12995,Farey Sequence,58,,94,171
+UVA,12996,Ultimate Mango Challenge,329,,498,797
+UVA,12997,Train Station,10,,14,19
+UVA,12998,Tree Weights,31,,67,326
+UVA,12999,Defense Plan,24,,39,119
+UVA,13000,VIP Treatment,26,,36,135
+UVA,13001,Jumping Frogs,16,,19,156
+UVA,13002,Just Some Permutation 5,7,,43,105
+UVA,13003,Toll Management (III),16,,18,73
+UVA,13004,At most twice,193,,249,595
+UVA,13005,Blood groups,62,,100,213
+UVA,13006,Cake cut,60,,106,274
+UVA,13007,D as in Daedalus,282,,369,758
+UVA,13008,Exposing corruption,100,,144,275
+UVA,13009,Fence the vegetables fail,57,,107,296
+UVA,13010,Galactic taxes,76,,135,442
+UVA,13011,Height map,76,,93,226
+UVA,13012,Identifying tea,1298,,1642,2579
+UVA,13013,Just a bit sorted,30,,75,114
+UVA,13014,Keep it energized,59,,82,258
+UVA,13015,Promotions,60,,110,418
+UVA,13016,Black Vienna,26,,34,72
+UVA,13017,Canvas Painting,93,,158,342
+UVA,13018,Dice Cup,247,,274,555
+UVA,13019,Wooden Signs,37,,51,103
+UVA,13020,Landscaping,17,,35,76
+UVA,13021,Game of Cards,36,,56,131
+UVA,13022,Sheldon Numbers,79,,100,224
+UVA,13023,Text Processor,5,,9,76
+UVA,13024,Saint John Festival,44,,67,208
+UVA,13025,Back to the Past,963,,1565,2854
+UVA,13026,Search the Khoj,332,,397,562
+UVA,13027,Moroccan Wooden Box,5,,5,14
+UVA,13028,XOR Subset,29,,32,80
+UVA,13029,Emoticons,57,,75,301
+UVA,13030,Brain Fry,13,,37,87
+UVA,13031,Geek Power Inc.,172,,210,380
+UVA,13032,Marbles in Jars,88,,111,206
+UVA,13033,Jumping Frogs II,9,,17,82
+UVA,1726,Automatic Cheater Detection,207,,291,641
+UVA,1727,Counting Weekend Days,373,,529,947
+UVA,1728,Toll Management IV,22,,63,258
+UVA,1729,Owllen,175,,274,527
+UVA,1730,Sum of MSLCM,128,,242,491
+UVA,1731,Unique Party,14,,20,54
+UVA,1732,Honey King,4,,4,56
+UVA,1733,Design New Capital,26,,66,178
+UVA,1734,Numbered Cards,36,,57,141
+UVA,1735,The Hypnotic Spirals,4,,7,54
+UVA,13034,Solve Everything :-),639,,784,1158
+UVA,13035,Another Combination Problem,124,,187,445
+UVA,13036,Birthday Gift to SJ - 2,28,,71,157
+UVA,13037,Chocolate,117,,195,309
+UVA,13038,Directed Forest,82,,129,255
+UVA,13039,Fibonacci Triangle,48,,56,174
+UVA,13040,Flyovers of Khakha,19,,23,91
+UVA,13041,Fraction and Sequence,7,,12,37
+UVA,13042,Ikroch,13,,29,87
+UVA,13043,Marbles,17,,41,104
+UVA,13044,Robot Hands,15,,23,64
+UVA,13045,Drawing Polygon,47,,57,95
+UVA,13046,Bus Collisions,44,,66,198
+UVA,13047,Arrows,139,,192,363
+UVA,13048,Burger Stand,169,,283,476
+UVA,13049,Combination Lock,218,,296,533
+UVA,13050,Discovering Paths,19,,35,150
+UVA,13051,Enchanted Forest,10,,22,45
+UVA,13052,Fisa Flood,67,,96,217
+UVA,13053,Gift Box,20,,29,60
+UVA,13054,Hippo Circus,108,,166,461
+UVA,13055,Inception,190,,259,352
+UVA,13056,Jerry's Game,67,,88,119
+UVA,13057,Prove Them All,32,,46,117
+UVA,13058,Baking Cakes with Grandma,23,,37,76
+UVA,13059,Tennis Championship,542,,739,1730
+UVA,13060,Euler Diagrams,5,,12,40
+UVA,13061,Going Shopping with Grandma (I),55,,73,93
+UVA,13062,Going Shopping with Grandma (II),28,,44,56
+UVA,13063,Trading Card Game,5,,5,17
+UVA,13064,Harvest Moon,6,,13,37
+UVA,13065,Accelleratii Incredibus,13,,21,76
+UVA,13066,Ant-Man's Sugar Journey,8,,22,90
+UVA,13067,Prime Kebab Menu,97,,189,337
+UVA,13068,The Weakest Link,30,,54,168
+UVA,13069,The calculator machine,72,,106,277
+UVA,13070,Palm trees in the snow,50,,60,117
+UVA,13071,Double decker,147,,196,369
+UVA,13072,Duckindromes,54,,85,134
+UVA,13073,The Count of the Rose,36,,47,55
+UVA,13074,Fixed-point theorem,38,,43,60
+UVA,13075,Ice-cream cones,55,,56,79
+UVA,13076,The traveller squirrel,16,,29,74
+UVA,13077,The merchant's riddle,12,,23,44
+UVA,13078,Feeding chicks,33,,44,65
+UVA,13079,On the beach!,40,,56,82
+UVA,13080,Piano keyboard,33,,38,58
+UVA,13081,XOR Sequence Revisited,91,,141,258
+UVA,13082,High School Assembly,186,,284,415
+UVA,13083,Yet another GCDSUM,47,,109,341
+UVA,13084,Cameras as Invigilators,5,,6,22
+UVA,13085,Forming Teams,47,,86,149
+UVA,13086,Pirates of the Mega Ocean,38,,57,105
+UVA,13087,Virus RNA,8,,23,40
+UVA,13088,Lexicographically Smallest FPIS,103,,162,291
+UVA,13089,Golden Coins,31,,50,90
+UVA,13090,Base of MJ,77,,106,162
+UVA,13091,No Ball,185,,270,517
+UVA,13092,Fold the String,19,,32,60
+UVA,13093,Acronyms,170,,200,311
+UVA,13094,Tobby Bones,20,,48,132
+UVA,13095,Tobby and Query,85,,136,349
+UVA,13096,Standard Deviation,100,,182,347
+UVA,13097,Tobby and the LED display,66,,86,186
+UVA,13098,Triangular Test II,53,,150,385
+UVA,13099,Tobby and the line game,35,,40,44
+UVA,13100,Painting the Wall,12,,15,55
+UVA,13101,Tobby on Tree,30,,52,124
+UVA,13102,Tobby Stones,13,,30,86
+UVA,13103,Tobby and Seven,41,,49,69
+UVA,13104,Tobby and Prime Sum,37,,50,89
+UVA,1736,Balanced Diet,7,,7,82
+UVA,1737,Branch Assignment,7,,8,43
+UVA,1738,Ceiling Function,52,,63,202
+UVA,1739,Clock Breaking,7,,7,13
+UVA,1740,Forever Young,15,,23,132
+UVA,1741,Longest Rivers,2,,2,13
+UVA,1742,Oil,7,,9,43
+UVA,1743,Polygonal Puzzle,4,,4,13
+UVA,1744,Road Times,3,,4,28
+UVA,1745,Spin Doctor,2,,7,14
+UVA,1746,String Theory,10,,11,57
+UVA,1747,Swap Space,22,,43,210
+UVA,1748,What Really Happened on Mars?,3,,3,19
+UVA,13105,Alliances in Hogwarts,26,,40,108
+UVA,13106,Vogons,47,,65,97
+UVA,13107,Royale With Cheese,146,,217,325
+UVA,13108,Juanma and the Drinking Fountains,121,,132,160
+UVA,13109,Elephants,580,,799,1646
+UVA,13110,Funny day in Playland,10,,14,48
+UVA,13111,The price is correct,29,,47,96
+UVA,13112,Are you ok?,30,,49,116
+UVA,13113,Presidential Election,58,,98,212
+UVA,13114,Josephus lottery II,26,,30,45
+UVA,13115,Sudoku,157,,216,364
+UVA,13116,Multistory Labyrinth,83,,119,194
+UVA,13117,"ACIS, A Contagious vIruS",172,,264,717
+UVA,13118,Binary Land,97,,214,439
+UVA,13119,Castaways,31,,108,284
+UVA,13120,Radiation Alert in Rabbitland,5,,9,132
+UVA,13121,Eclipsing Gianik Star,51,,83,362
+UVA,13122,Funny Cardiologist,66,,116,205
+UVA,13123,Christmas Lights,31,,55,195
+UVA,13124,socialhare,49,,76,271
+UVA,13125,Water troubles,27,,45,146
+UVA,13126,Wildcards,35,,91,292
+UVA,13127,Bank Robbery,153,,250,863
+UVA,13128,Tangamandapio,21,,34,117
+UVA,13129,Subsets,40,,64,126
+UVA,13130,Cacho,408,,527,664
+UVA,13131,Divisors,270,,470,1255
+UVA,13132,Laser Mirrors,79,,142,253
+UVA,13133,ConcatFibos,28,,33,58
+UVA,13134,"Generate, Sort and Search",50,,65,222
+UVA,13135,Homework,135,,198,245
+UVA,13136,Recurrences,33,,59,118
+UVA,13137,Progressions,29,,44,77
+UVA,13138,Kites,13,,16,67
+UVA,13139,Lucas Numbers,5,,12,68
+UVA,13140,"Squares, Lists and Digital Sums",102,,119,197
+UVA,13141,Growing Trees,103,,124,196
+UVA,13142,Destroy the Moon to Save the Earth,39,,45,89
+UVA,13143,Dijkstractions,2,,4,190
+UVA,13144,Go Boards,24,,24,50
+UVA,13145,Wuymul Wixcha,48,,50,77
+UVA,13146,Edid Tistance,61,,82,134
+UVA,13147,Travel Planning,25,,27,36
+UVA,13159,Within Arm's Reach,5,,6,20
+UVA,13160,Bribing Eve,23,,51,248
+UVA,13161,Candle Box,91,,105,202
+UVA,13162,Dinner Bet,12,,24,96
+UVA,13163,Passwords,7,,8,20
+UVA,13164,Performance Review,9,,12,45
+UVA,13165,Cairo Corridor,5,,10,38
+UVA,13166,Pascal's Hyper-Pyramids,9,,11,23
+UVA,13167,The White Rabbit Pocket Watch,4,,8,18
+UVA,13168,Risky Lottery,5,,7,15
+UVA,13169,Balls and Needles,24,,50,112
+UVA,13148,A Giveaway,427,,538,924
+UVA,13149,Game of XOR,20,,26,97
+UVA,13150,National Bomb Defusing Squad,66,,120,281
+UVA,13151,Rational Grading,53,,71,258
+UVA,13152,Balanced String,50,,93,256
+UVA,13153,Number of Connected Components,61,,99,324
+UVA,13154,Extreme XOR Sum,31,,56,185
+UVA,13155,Harmonic Matrix,5,,12,27
+UVA,13156,In the Kingdom of Hirak,9,,16,25
+UVA,13157,Prime Distance,22,,26,79
+UVA,13158,8-ball Rack,4,,8,41
+UVA,13170,Verbal arithmetic,8,,21,152
+UVA,13171,Pixel Art,74,,108,164
+UVA,13172,The music teacher,21,,38,74
+UVA,13173,Secret Santa,18,,25,54
+UVA,13174,The entertainment of machines,10,,20,45
+UVA,13175,Children to the top,18,,27,52
+UVA,13176,Chocolate with almonds,22,,32,35
+UVA,13177,Orchestral scores,35,,57,98
+UVA,13178,Is it multiple of 3?,130,,193,261
+UVA,13179,Smarter than hunger,13,,18,58
+UVA,13180,The countess’ pearls,56,,78,137
+UVA,13181,Sleeping in hostels,65,,88,146
+UVA,13182,Tobby's Ancestors,26,,68,328
+UVA,13183,Tobby and Array,32,,69,206
+UVA,13184,Counting Edges and Graphs,34,,85,146
+UVA,13185,DPA Numbers I,184,,243,296
+UVA,13186,Tobby and the quaseEquals strings,26,,47,250
+UVA,13187,Felipe and the Sequence,136,,255,357
+UVA,13188,Rectangular Sum,28,,49,116
+UVA,13189,Humbertov and the Triangular Spiral,34,,54,150
+UVA,13190,Rockabye Tobby,61,,80,153
+UVA,13191,Tobby Primes,27,,114,477
+UVA,13192,Tobby and the Skeletons,10,,15,68
+UVA,13193,Rotations,83,,132,168
+UVA,13194,DPA Numbers II,83,,143,325
+UVA,1749,Airport Construction,3,,4,15
+UVA,1750,Get a Clue!,4,,5,46
+UVA,1751,Mission Improbable,6,,7,16
+UVA,1752,Money for Nothing,4,,4,15
+UVA,1753,Need for Speed,21,,23,86
+UVA,1754,Posterize,6,,6,9
+UVA,1755,Replicate Replicate Rfplicbte,2,,3,9
+UVA,1756,Scenery,2,,8,21
+UVA,1757,Secret Chamber at Mount Rushmore,30,,34,71
+UVA,1758,Son of Pipe Stream,2,,2,7
+UVA,1759,Tarot Sham Boast,3,,3,5
+UVA,1760,Visual Python++,3,,7,14
+UVA,13195,Logical Equivalence,4,,4,16
+UVA,13196,Solve this Equation,41,,59,80
+UVA,13197,Cuberoot This,42,,67,223
+UVA,13198,Knight on Wide Board,3,,3,7
+UVA,13199,Circles in Ellipse,1,,1,3
+UVA,13200,Super Gifts,2,,6,25
+UVA,13201,Sparse Domino Tiling,3,,3,12
+UVA,13202,Firefighting Heroes,5,,5,20
+UVA,13203,Disk Madness,8,,8,8
+UVA,13204,Count these Permutations,16,,17,25
+UVA,13205,Antivirus,5,,13,37
+UVA,13206,Beautiful Triad,20,,22,35
+UVA,13207,AirCraft: Monster,15,,18,29
+UVA,13208,Drought In Nlogonia,29,,52,107
+UVA,13209,My Password is a Palindromic Prime Number,28,,31,39
+UVA,13210,Macarons in La Fête,4,,4,20
+UVA,13211,Geonosis,13,,17,26
+UVA,13212,How many inversions?,32,,42,57
+UVA,13213,Quidditch Match,10,,10,18
+UVA,13214,The Robot's Grid,24,,25,43
+UVA,13215,Polygonal Park,40,,43,55
+UVA,13216,Problem with a ridiculously long name but with a ridiculously short description,81,,102,179
+UVA,13217,Amazing Function,18,,18,27
+UVA,13218,Broken Calculator Keys,3,,4,17
+UVA,13219,Cats and Vets,2,,2,18
+UVA,13220,Delicious Binary Strings,1,,1,3
+UVA,13221,Elegant Pillars,10,,10,14
+UVA,13222,Faster Networks,3,,5,15
+UVA,13223,Graph Colorings,2,,2,13
+UVA,13224,Hobbit's Resistor Graphs,1,,1,4
+UVA,13225,Incredible Sums,1,,1,12
+UVA,13226,Just Pentagon Perimeter,2,,3,10
+UVA,13227,Katrina's Shadow,4,,4,14
+UVA,13228,Laser Avoidance,2,,3,25
+UVA,13229,Alice's Travels,2,,3,6
+UVA,13230,Brackets Everywhere,2,,2,3
+UVA,13231,Catch the Rats,2,,4,32
+UVA,13232,Do Pillars Again,1,,1,3
+UVA,13233,Easy Permutation Problem,2,,4,63
+UVA,13234,Fantastic Sorting Algorithm,2,,3,4
+UVA,13235,Graph Cut of Maximum XOR Weight,2,,3,13
+UVA,13236,Hedgehogs Communicate,2,,3,14
+UVA,13237,Intersecting Semi-Circles,2,,7,16
+UVA,13238,Just More Permutations,0,,0,5
+UVA,13239,Kid's Simple Puzzle Problem,1,,1,2
+UVA,13240,Looking at Divisors,1,,1,56
